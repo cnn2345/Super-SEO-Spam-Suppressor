@@ -26,8 +26,8 @@ jobs:
       run: ./scripts/update.sh
     - name: Commit and push
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "154800279+cnn2345@users.noreply.github.com"
+        git config --local user.name "cnn2345"
         git add -A
         if git commit -m "Import blocklists"; then
           git push
