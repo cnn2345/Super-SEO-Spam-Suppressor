@@ -96574,8 +96574,6 @@
 ::1 www.axaespaceclient.fr
 ::1 axafinancement.fr
 ::1 www.axafinancement.fr
-::1 axaimarketfx.com
-::1 www.axaimarketfx.com
 ::1 axakwv.rest
 ::1 www.axakwv.rest
 ::1 axalnc.bar
@@ -100792,6 +100790,8 @@
 ::1 www.bakuky.rest
 ::1 bakuninist.com
 ::1 www.bakuninist.com
+::1 bakuronel-ai.net
+::1 www.bakuronel-ai.net
 ::1 bakustw.es
 ::1 www.bakustw.es
 ::1 balachong.best
@@ -116430,8 +116430,6 @@
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-trader.net
 ::1 www.bitcoin-trader.net
-::1 bitcoin-up.io
-::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -120354,6 +120352,8 @@
 ::1 www.blutnagusno.ga
 ::1 blutourertufabb.tk
 ::1 www.blutourertufabb.tk
+::1 bluttestzuhause.com
+::1 www.bluttestzuhause.com
 ::1 blutunasconbe.tk
 ::1 www.blutunasconbe.tk
 ::1 blutwert.info
@@ -241836,6 +241836,8 @@
 ::1 www.estradtibounwa.tk
 ::1 estranepdeinonbeau.tk
 ::1 www.estranepdeinonbeau.tk
+::1 estransportundlogistik-gmbh.de
+::1 www.estransportundlogistik-gmbh.de
 ::1 estrategen.de
 ::1 www.estrategen.de
 ::1 estrau.xyz
@@ -243032,6 +243034,8 @@
 ::1 www.eu.cettire.com
 ::1 eu.fwbdl.com
 ::1 www.eu.fwbdl.com
+::1 eu.goldengoosediscount.com
+::1 www.eu.goldengoosediscount.com
 ::1 eu.revolutienrace.com
 ::1 www.eu.revolutienrace.com
 ::1 eu.stanlyquencher.com
@@ -281936,6 +281940,8 @@
 ::1 www.generic4all-global.com
 ::1 generic4allglobal.com
 ::1 www.generic4allglobal.com
+::1 genericdoctor.com
+::1 www.genericdoctor.com
 ::1 genericeupills.com
 ::1 www.genericeupills.com
 ::1 genericsbot.com
@@ -310334,6 +310340,8 @@
 ::1 www.hausgerat.com
 ::1 hausgerateshop.com
 ::1 www.hausgerateshop.com
+::1 hausgeratewelt.com
+::1 www.hausgeratewelt.com
 ::1 haushalt-de.com
 ::1 www.haushalt-de.com
 ::1 haushalt-jansen.net
@@ -324538,6 +324546,8 @@
 ::1 www.househomefollow.biz
 ::1 houselar.com.br
 ::1 www.houselar.com.br
+::1 houselytouchspace.com
+::1 www.houselytouchspace.com
 ::1 houseof73frazier.press
 ::1 www.houseof73frazier.press
 ::1 houseofbuys.de
@@ -336996,6 +337006,8 @@
 ::1 www.ildarana.tk
 ::1 ildaypavasde.tk
 ::1 www.ildaypavasde.tk
+::1 ildcsncf.shop
+::1 www.ildcsncf.shop
 ::1 ildecasino.fr
 ::1 www.ildecasino.fr
 ::1 ildefrance-mobilites.fr
@@ -369468,6 +369480,8 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
+::1 kamagra-pro.online
+::1 www.kamagra-pro.online
 ::1 kamagra-prodej-online.eu
 ::1 www.kamagra-prodej-online.eu
 ::1 kamagra-prodej.cz
@@ -396298,6 +396312,8 @@
 ::1 www.lerncompsecsarepon.tk
 ::1 lerndiscpinstosbest.ml
 ::1 www.lerndiscpinstosbest.ml
+::1 lernenalltagsaiten.com
+::1 www.lernenalltagsaiten.com
 ::1 lernerei.at
 ::1 www.lernerei.at
 ::1 lerngelliviparthe.tk
@@ -436646,6 +436662,8 @@
 ::1 www.miningstore.website
 ::1 mininomade.de
 ::1 www.mininomade.de
+::1 miniorad.de
+::1 www.miniorad.de
 ::1 minipinscher.dk
 ::1 www.minipinscher.dk
 ::1 minisoccerbal.pl
@@ -441844,6 +441862,8 @@
 ::1 www.momoresurfmoc.tk
 ::1 momortsagasansui.cf
 ::1 www.momortsagasansui.cf
+::1 momostudioberlin.com
+::1 www.momostudioberlin.com
 ::1 momotimurenvi.tk
 ::1 www.momotimurenvi.tk
 ::1 momprynatisate.ga
@@ -445448,6 +445468,8 @@
 ::1 www.morenumu.cf
 ::1 morenutritionde.shop
 ::1 www.morenutritionde.shop
+::1 morenutritionfeen.shop
+::1 www.morenutritionfeen.shop
 ::1 morepushsforgets.biz
 ::1 www.morepushsforgets.biz
 ::1 morerachisin.tk
@@ -512876,6 +512898,8 @@
 ::1 www.pf64gq.cyou
 ::1 pf6k5u2.tokyo
 ::1 www.pf6k5u2.tokyo
+::1 pfadfindershop.com
+::1 www.pfadfindershop.com
 ::1 pfafbomilabremo.ga
 ::1 www.pfafbomilabremo.ga
 ::1 pfafbumpgelepoten.tk
@@ -527454,6 +527478,8 @@
 ::1 www.praziragigci.tk
 ::1 prazisemesser.com
 ::1 www.prazisemesser.com
+::1 prazisionsteile.com
+::1 www.prazisionsteile.com
 ::1 prbzxy.tokyo
 ::1 www.prbzxy.tokyo
 ::1 prc1nc.cyou
@@ -577780,6 +577806,8 @@
 ::1 www.rohrreinigungshilfe.at
 ::1 rohrsanierungen24.de
 ::1 www.rohrsanierungen24.de
+::1 rohrshop24.com
+::1 www.rohrshop24.com
 ::1 rohsmyxmweskingmar.tk
 ::1 www.rohsmyxmweskingmar.tk
 ::1 rohunbacksquarconburt.tk
@@ -617120,6 +617148,8 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
+::1 softelektro.com
+::1 www.softelektro.com
 ::1 softfirecsoma.tk
 ::1 www.softfirecsoma.tk
 ::1 softforex.pw
@@ -619712,6 +619742,8 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
+::1 sowaswillichauch.de
+::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -625248,6 +625280,8 @@
 ::1 www.stadnewcbovoli.tk
 ::1 stadstrompettisten.nl
 ::1 www.stadstrompettisten.nl
+::1 stadsug.com
+::1 www.stadsug.com
 ::1 stadtelternrat.de
 ::1 www.stadtelternrat.de
 ::1 stadtplan-local.com
@@ -629744,6 +629778,8 @@
 ::1 www.store.aeotec.com
 ::1 store.aktuellerezensionen.de
 ::1 www.store.aktuellerezensionen.de
+::1 store.kestrelby.com
+::1 www.store.kestrelby.com
 ::1 store.promomesh.com
 ::1 www.store.promomesh.com
 ::1 store.useum.org
@@ -693324,6 +693360,8 @@
 ::1 www.university-student.jp
 ::1 universityhospitalmartinique.fr
 ::1 www.universityhospitalmartinique.fr
+::1 universjouets.com
+::1 www.universjouets.com
 ::1 universte-paris-saclay.fr
 ::1 www.universte-paris-saclay.fr
 ::1 univerzalni-premija.cam
@@ -727824,6 +727862,8 @@
 ::1 www.waldepigirestou.tk
 ::1 waldepomarsi.ml
 ::1 www.waldepomarsi.ml
+::1 waldesstille.com
+::1 www.waldesstille.com
 ::1 waldgewandt.de
 ::1 www.waldgewandt.de
 ::1 waldidownpers.gq

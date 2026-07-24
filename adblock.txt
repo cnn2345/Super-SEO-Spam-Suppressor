@@ -48289,7 +48289,6 @@
 ||axabanco.fr^$document
 ||axaespaceclient.fr^$document
 ||axafinancement.fr^$document
-||axaimarketfx.com^$document
 ||axakwv.rest^$document
 ||axalnc.bar^$document
 ||axamfg.tokyo^$document
@@ -50398,6 +50397,7 @@
 ||bakuky.bar^$document
 ||bakuky.rest^$document
 ||bakuninist.com^$document
+||bakuronel-ai.net^$document
 ||bakustw.es^$document
 ||balachong.best^$document
 ||balagneimoulte.tk^$document
@@ -58217,7 +58217,6 @@
 ||bitcoin-pharmacy.com^$document
 ||bitcoin-shop.ro^$document
 ||bitcoin-trader.net^$document
-||bitcoin-up.io^$document
 ||bitcoin-xact.fr^$document
 ||bitcoinarchon.com^$document
 ||bitcoinblackfriday.com^$document
@@ -60179,6 +60178,7 @@
 ||blutlicoreefi.ga^$document
 ||blutnagusno.ga^$document
 ||blutourertufabb.tk^$document
+||bluttestzuhause.com^$document
 ||blutunasconbe.tk^$document
 ||blutwert.info^$document
 ||blutzingmomazin.gq^$document
@@ -120920,6 +120920,7 @@
 ||estrader-patrimoine.fr^$document
 ||estradtibounwa.tk^$document
 ||estranepdeinonbeau.tk^$document
+||estransportundlogistik-gmbh.de^$document
 ||estrategen.de^$document
 ||estrau.xyz^$document
 ||estreapublicain.fr^$document
@@ -121518,6 +121519,7 @@
 ||eu.bagsvalley.cn^$document
 ||eu.cettire.com^$document
 ||eu.fwbdl.com^$document
+||eu.goldengoosediscount.com^$document
 ||eu.revolutienrace.com^$document
 ||eu.stanlyquencher.com^$document
 ||eu.stanlyss1913.com^$document
@@ -140970,6 +140972,7 @@
 ||genereli.fr^$document
 ||generic4all-global.com^$document
 ||generic4allglobal.com^$document
+||genericdoctor.com^$document
 ||genericeupills.com^$document
 ||genericsbot.com^$document
 ||genericshop-247.eu^$document
@@ -155169,6 +155172,7 @@
 ||hausgeek.com^$document
 ||hausgerat.com^$document
 ||hausgerateshop.com^$document
+||hausgeratewelt.com^$document
 ||haushalt-de.com^$document
 ||haushalt-jansen.net^$document
 ||haushalt-plan.com^$document
@@ -162271,6 +162275,7 @@
 ||householdresponses.com^$document
 ||househomefollow.biz^$document
 ||houselar.com.br^$document
+||houselytouchspace.com^$document
 ||houseof73frazier.press^$document
 ||houseofbuys.de^$document
 ||houseofho.com^$document
@@ -168500,6 +168505,7 @@
 ||ilcuorechearde.it^$document
 ||ildarana.tk^$document
 ||ildaypavasde.tk^$document
+||ildcsncf.shop^$document
 ||ildecasino.fr^$document
 ||ildefrance-mobilites.fr^$document
 ||ildercallbilskar.gq^$document
@@ -184736,6 +184742,7 @@
 ||kamagra-premium.net^$document
 ||kamagra-pro.com^$document
 ||kamagra-pro.net^$document
+||kamagra-pro.online^$document
 ||kamagra-prodej-online.eu^$document
 ||kamagra-prodej.cz^$document
 ||kamagra-prodej.online^$document
@@ -198151,6 +198158,7 @@
 ||lernaomiterce.tk^$document
 ||lerncompsecsarepon.tk^$document
 ||lerndiscpinstosbest.ml^$document
+||lernenalltagsaiten.com^$document
 ||lernerei.at^$document
 ||lerngelliviparthe.tk^$document
 ||lernhollcamtine.tk^$document
@@ -218325,6 +218333,7 @@
 ||miningrid.com^$document
 ||miningstore.website^$document
 ||mininomade.de^$document
+||miniorad.de^$document
 ||minipinscher.dk^$document
 ||minisoccerbal.pl^$document
 ||minisolanpo.tk^$document
@@ -220924,6 +220933,7 @@
 ||momorelink.gq^$document
 ||momoresurfmoc.tk^$document
 ||momortsagasansui.cf^$document
+||momostudioberlin.com^$document
 ||momotimurenvi.tk^$document
 ||momprynatisate.ga^$document
 ||mompswathdetanwing.tk^$document
@@ -222726,6 +222736,7 @@
 ||morenogase.cf^$document
 ||morenumu.cf^$document
 ||morenutritionde.shop^$document
+||morenutritionfeen.shop^$document
 ||morepushsforgets.biz^$document
 ||morerachisin.tk^$document
 ||morerelatednews.com^$document
@@ -256440,6 +256451,7 @@
 ||pf5020o.cyou^$document
 ||pf64gq.cyou^$document
 ||pf6k5u2.tokyo^$document
+||pfadfindershop.com^$document
 ||pfafbomilabremo.ga^$document
 ||pfafbumpgelepoten.tk^$document
 ||pfafechmemhand.tk^$document
@@ -263729,6 +263741,7 @@
 ||prazacrele.tk^$document
 ||praziragigci.tk^$document
 ||prazisemesser.com^$document
+||prazisionsteile.com^$document
 ||prbzxy.tokyo^$document
 ||prc1nc.cyou^$document
 ||prc368.tokyo^$document
@@ -288892,6 +288905,7 @@
 ||rohrreinigung-rothschild.de^$document
 ||rohrreinigungshilfe.at^$document
 ||rohrsanierungen24.de^$document
+||rohrshop24.com^$document
 ||rohsmyxmweskingmar.tk^$document
 ||rohunbacksquarconburt.tk^$document
 ||rohungatigsces.tk^$document
@@ -308562,6 +308576,7 @@
 ||softdorebachant.ga^$document
 ||softdosamphilders.ml^$document
 ||softdrivgatasonli.tk^$document
+||softelektro.com^$document
 ||softfirecsoma.tk^$document
 ||softforex.pw^$document
 ||softfosgeschmakasib.gq^$document
@@ -309858,6 +309873,7 @@
 ||sovypl.bar^$document
 ||sow6t2.cyou^$document
 ||sowaoptive.asia^$document
+||sowaswillichauch.de^$document
 ||sowbrl.bar^$document
 ||sowepirare.gq^$document
 ||sowibarje.ga^$document
@@ -312626,6 +312642,7 @@
 ||stadlinkleting.tk^$document
 ||stadnewcbovoli.tk^$document
 ||stadstrompettisten.nl^$document
+||stadsug.com^$document
 ||stadtelternrat.de^$document
 ||stadtplan-local.com^$document
 ||stadunagviro.tk^$document
@@ -314874,6 +314891,7 @@
 ||store-ugg.fr^$document
 ||store.aeotec.com^$document
 ||store.aktuellerezensionen.de^$document
+||store.kestrelby.com^$document
 ||store.promomesh.com^$document
 ||store.useum.org^$document
 ||store.yeelight.com^$document
@@ -346664,6 +346682,7 @@
 ||universitice-univ-rouen.fr^$document
 ||university-student.jp^$document
 ||universityhospitalmartinique.fr^$document
+||universjouets.com^$document
 ||universte-paris-saclay.fr^$document
 ||univerzalni-premija.cam^$document
 ||univevry.fr^$document
@@ -363914,6 +363933,7 @@
 ||waldemarrobak.pl^$document
 ||waldepigirestou.tk^$document
 ||waldepomarsi.ml^$document
+||waldesstille.com^$document
 ||waldgewandt.de^$document
 ||waldidownpers.gq^$document
 ||waldmannmode.de^$document

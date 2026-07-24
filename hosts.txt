@@ -96574,8 +96574,6 @@
 0.0.0.0 www.axaespaceclient.fr
 0.0.0.0 axafinancement.fr
 0.0.0.0 www.axafinancement.fr
-0.0.0.0 axaimarketfx.com
-0.0.0.0 www.axaimarketfx.com
 0.0.0.0 axakwv.rest
 0.0.0.0 www.axakwv.rest
 0.0.0.0 axalnc.bar
@@ -100792,6 +100790,8 @@
 0.0.0.0 www.bakuky.rest
 0.0.0.0 bakuninist.com
 0.0.0.0 www.bakuninist.com
+0.0.0.0 bakuronel-ai.net
+0.0.0.0 www.bakuronel-ai.net
 0.0.0.0 bakustw.es
 0.0.0.0 www.bakustw.es
 0.0.0.0 balachong.best
@@ -116430,8 +116430,6 @@
 0.0.0.0 www.bitcoin-shop.ro
 0.0.0.0 bitcoin-trader.net
 0.0.0.0 www.bitcoin-trader.net
-0.0.0.0 bitcoin-up.io
-0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -120354,6 +120352,8 @@
 0.0.0.0 www.blutnagusno.ga
 0.0.0.0 blutourertufabb.tk
 0.0.0.0 www.blutourertufabb.tk
+0.0.0.0 bluttestzuhause.com
+0.0.0.0 www.bluttestzuhause.com
 0.0.0.0 blutunasconbe.tk
 0.0.0.0 www.blutunasconbe.tk
 0.0.0.0 blutwert.info
@@ -241836,6 +241836,8 @@
 0.0.0.0 www.estradtibounwa.tk
 0.0.0.0 estranepdeinonbeau.tk
 0.0.0.0 www.estranepdeinonbeau.tk
+0.0.0.0 estransportundlogistik-gmbh.de
+0.0.0.0 www.estransportundlogistik-gmbh.de
 0.0.0.0 estrategen.de
 0.0.0.0 www.estrategen.de
 0.0.0.0 estrau.xyz
@@ -243032,6 +243034,8 @@
 0.0.0.0 www.eu.cettire.com
 0.0.0.0 eu.fwbdl.com
 0.0.0.0 www.eu.fwbdl.com
+0.0.0.0 eu.goldengoosediscount.com
+0.0.0.0 www.eu.goldengoosediscount.com
 0.0.0.0 eu.revolutienrace.com
 0.0.0.0 www.eu.revolutienrace.com
 0.0.0.0 eu.stanlyquencher.com
@@ -281936,6 +281940,8 @@
 0.0.0.0 www.generic4all-global.com
 0.0.0.0 generic4allglobal.com
 0.0.0.0 www.generic4allglobal.com
+0.0.0.0 genericdoctor.com
+0.0.0.0 www.genericdoctor.com
 0.0.0.0 genericeupills.com
 0.0.0.0 www.genericeupills.com
 0.0.0.0 genericsbot.com
@@ -310334,6 +310340,8 @@
 0.0.0.0 www.hausgerat.com
 0.0.0.0 hausgerateshop.com
 0.0.0.0 www.hausgerateshop.com
+0.0.0.0 hausgeratewelt.com
+0.0.0.0 www.hausgeratewelt.com
 0.0.0.0 haushalt-de.com
 0.0.0.0 www.haushalt-de.com
 0.0.0.0 haushalt-jansen.net
@@ -324538,6 +324546,8 @@
 0.0.0.0 www.househomefollow.biz
 0.0.0.0 houselar.com.br
 0.0.0.0 www.houselar.com.br
+0.0.0.0 houselytouchspace.com
+0.0.0.0 www.houselytouchspace.com
 0.0.0.0 houseof73frazier.press
 0.0.0.0 www.houseof73frazier.press
 0.0.0.0 houseofbuys.de
@@ -336996,6 +337006,8 @@
 0.0.0.0 www.ildarana.tk
 0.0.0.0 ildaypavasde.tk
 0.0.0.0 www.ildaypavasde.tk
+0.0.0.0 ildcsncf.shop
+0.0.0.0 www.ildcsncf.shop
 0.0.0.0 ildecasino.fr
 0.0.0.0 www.ildecasino.fr
 0.0.0.0 ildefrance-mobilites.fr
@@ -369468,6 +369480,8 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
+0.0.0.0 kamagra-pro.online
+0.0.0.0 www.kamagra-pro.online
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 www.kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
@@ -396298,6 +396312,8 @@
 0.0.0.0 www.lerncompsecsarepon.tk
 0.0.0.0 lerndiscpinstosbest.ml
 0.0.0.0 www.lerndiscpinstosbest.ml
+0.0.0.0 lernenalltagsaiten.com
+0.0.0.0 www.lernenalltagsaiten.com
 0.0.0.0 lernerei.at
 0.0.0.0 www.lernerei.at
 0.0.0.0 lerngelliviparthe.tk
@@ -436646,6 +436662,8 @@
 0.0.0.0 www.miningstore.website
 0.0.0.0 mininomade.de
 0.0.0.0 www.mininomade.de
+0.0.0.0 miniorad.de
+0.0.0.0 www.miniorad.de
 0.0.0.0 minipinscher.dk
 0.0.0.0 www.minipinscher.dk
 0.0.0.0 minisoccerbal.pl
@@ -441844,6 +441862,8 @@
 0.0.0.0 www.momoresurfmoc.tk
 0.0.0.0 momortsagasansui.cf
 0.0.0.0 www.momortsagasansui.cf
+0.0.0.0 momostudioberlin.com
+0.0.0.0 www.momostudioberlin.com
 0.0.0.0 momotimurenvi.tk
 0.0.0.0 www.momotimurenvi.tk
 0.0.0.0 momprynatisate.ga
@@ -445448,6 +445468,8 @@
 0.0.0.0 www.morenumu.cf
 0.0.0.0 morenutritionde.shop
 0.0.0.0 www.morenutritionde.shop
+0.0.0.0 morenutritionfeen.shop
+0.0.0.0 www.morenutritionfeen.shop
 0.0.0.0 morepushsforgets.biz
 0.0.0.0 www.morepushsforgets.biz
 0.0.0.0 morerachisin.tk
@@ -512876,6 +512898,8 @@
 0.0.0.0 www.pf64gq.cyou
 0.0.0.0 pf6k5u2.tokyo
 0.0.0.0 www.pf6k5u2.tokyo
+0.0.0.0 pfadfindershop.com
+0.0.0.0 www.pfadfindershop.com
 0.0.0.0 pfafbomilabremo.ga
 0.0.0.0 www.pfafbomilabremo.ga
 0.0.0.0 pfafbumpgelepoten.tk
@@ -527454,6 +527478,8 @@
 0.0.0.0 www.praziragigci.tk
 0.0.0.0 prazisemesser.com
 0.0.0.0 www.prazisemesser.com
+0.0.0.0 prazisionsteile.com
+0.0.0.0 www.prazisionsteile.com
 0.0.0.0 prbzxy.tokyo
 0.0.0.0 www.prbzxy.tokyo
 0.0.0.0 prc1nc.cyou
@@ -577780,6 +577806,8 @@
 0.0.0.0 www.rohrreinigungshilfe.at
 0.0.0.0 rohrsanierungen24.de
 0.0.0.0 www.rohrsanierungen24.de
+0.0.0.0 rohrshop24.com
+0.0.0.0 www.rohrshop24.com
 0.0.0.0 rohsmyxmweskingmar.tk
 0.0.0.0 www.rohsmyxmweskingmar.tk
 0.0.0.0 rohunbacksquarconburt.tk
@@ -617120,6 +617148,8 @@
 0.0.0.0 www.softdosamphilders.ml
 0.0.0.0 softdrivgatasonli.tk
 0.0.0.0 www.softdrivgatasonli.tk
+0.0.0.0 softelektro.com
+0.0.0.0 www.softelektro.com
 0.0.0.0 softfirecsoma.tk
 0.0.0.0 www.softfirecsoma.tk
 0.0.0.0 softforex.pw
@@ -619712,6 +619742,8 @@
 0.0.0.0 www.sow6t2.cyou
 0.0.0.0 sowaoptive.asia
 0.0.0.0 www.sowaoptive.asia
+0.0.0.0 sowaswillichauch.de
+0.0.0.0 www.sowaswillichauch.de
 0.0.0.0 sowbrl.bar
 0.0.0.0 www.sowbrl.bar
 0.0.0.0 sowepirare.gq
@@ -625248,6 +625280,8 @@
 0.0.0.0 www.stadnewcbovoli.tk
 0.0.0.0 stadstrompettisten.nl
 0.0.0.0 www.stadstrompettisten.nl
+0.0.0.0 stadsug.com
+0.0.0.0 www.stadsug.com
 0.0.0.0 stadtelternrat.de
 0.0.0.0 www.stadtelternrat.de
 0.0.0.0 stadtplan-local.com
@@ -629744,6 +629778,8 @@
 0.0.0.0 www.store.aeotec.com
 0.0.0.0 store.aktuellerezensionen.de
 0.0.0.0 www.store.aktuellerezensionen.de
+0.0.0.0 store.kestrelby.com
+0.0.0.0 www.store.kestrelby.com
 0.0.0.0 store.promomesh.com
 0.0.0.0 www.store.promomesh.com
 0.0.0.0 store.useum.org
@@ -693324,6 +693360,8 @@
 0.0.0.0 www.university-student.jp
 0.0.0.0 universityhospitalmartinique.fr
 0.0.0.0 www.universityhospitalmartinique.fr
+0.0.0.0 universjouets.com
+0.0.0.0 www.universjouets.com
 0.0.0.0 universte-paris-saclay.fr
 0.0.0.0 www.universte-paris-saclay.fr
 0.0.0.0 univerzalni-premija.cam
@@ -727824,6 +727862,8 @@
 0.0.0.0 www.waldepigirestou.tk
 0.0.0.0 waldepomarsi.ml
 0.0.0.0 www.waldepomarsi.ml
+0.0.0.0 waldesstille.com
+0.0.0.0 www.waldesstille.com
 0.0.0.0 waldgewandt.de
 0.0.0.0 www.waldgewandt.de
 0.0.0.0 waldidownpers.gq
