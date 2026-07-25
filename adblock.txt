@@ -31112,6 +31112,7 @@
 ||achasingresmo.gq^$document
 ||achasrimy.gq^$document
 ||achat-compte-boost.fr^$document
+||achat-eliorgroup.fr^$document
 ||achat-stromectol.fr^$document
 ||achat-supermarchesmatch.fr^$document
 ||achat-vehicule-acheteurlbc.fr^$document
@@ -39178,6 +39179,7 @@
 ||amnarrome.tk^$document
 ||amnazon.fr^$document
 ||amncestry.fr^$document
+||amndesgouv.fr^$document
 ||amnee.xyz^$document
 ||amnepematta.gq^$document
 ||amnesepartnicar.gq^$document
@@ -41031,6 +41033,7 @@
 ||antaderra.tk^$document
 ||antadinutpecal.gq^$document
 ||antafanlikisfe.ga^$document
+||antafrance.fr^$document
 ||antai-agence-nationaie.fr^$document
 ||antai-agence-national.fr^$document
 ||antai-agence-nationale.fr^$document
@@ -47421,6 +47424,7 @@
 ||authsimpots.fr^$document
 ||authsimpotsespaclientelles.fr^$document
 ||authsso-prime.fr^$document
+||authsuiviappro.fr^$document
 ||authtapostmaev.fr^$document
 ||authtelemc.fr^$document
 ||authvalidsecur.fr^$document
@@ -58219,6 +58223,7 @@
 ||bitcoin-pharmacy.com^$document
 ||bitcoin-shop.ro^$document
 ||bitcoin-trader.net^$document
+||bitcoin-up.io^$document
 ||bitcoin-xact.fr^$document
 ||bitcoinarchon.com^$document
 ||bitcoinblackfriday.com^$document
@@ -71635,6 +71640,7 @@
 ||casinovale.fr^$document
 ||casinovale1.fr^$document
 ||casinovalyss.fr^$document
+||casinovaonlinecasino.fr^$document
 ||casinovasy.fr^$document
 ||casinovave-online.fr^$document
 ||casinovegashero.fr^$document
@@ -109105,7 +109111,6 @@
 ||dvenez.bar^$document
 ||dventernipubta.ml^$document
 ||dvenziopersconfifth.ml^$document
-||dvepare.com^$document
 ||dverdabbhombspysnacoo.tk^$document
 ||dvere-zarubne.eu^$document
 ||dverestethesdu.gq^$document
@@ -120620,6 +120625,7 @@
 ||espacemycreditdunord.fr^$document
 ||espacemycreditmutuel.fr^$document
 ||espacenetflix.fr^$document
+||espacepaiementsecurise.fr^$document
 ||espacepart-impotsgouv.fr^$document
 ||espaceparticulieclient.fr^$document
 ||espaceparticulier-cmb.fr^$document
@@ -133138,7 +133144,6 @@
 ||fostaconsappmea.cf^$document
 ||fostercare.xyz^$document
 ||fosterits.eu^$document
-||fosterrefrigerator.de^$document
 ||fostra-si.ch^$document
 ||fosuldumpfrec.tk^$document
 ||fot0da.cyou^$document
@@ -133727,6 +133732,7 @@
 ||fr-dysondestockage.fr^$document
 ||fr-editions-dalloz.fr^$document
 ||fr-eiffagetp.fr^$document
+||fr-electro-prodestock.fr^$document
 ||fr-electrodepot.fr^$document
 ||fr-electrodepotfrance.fr^$document
 ||fr-electroindustrie.fr^$document
@@ -138764,7 +138770,6 @@
 ||galibarhede.cf^$document
 ||galidswordtingka.gq^$document
 ||galihorlipee.tk^$document
-||galileofx.com^$document
 ||galileuconcursos.com.br^$document
 ||galimustiendolria.gq^$document
 ||galisum.xyz^$document
@@ -159221,6 +159226,7 @@
 ||hiddendoor.co^$document
 ||hiddenhertz.com^$document
 ||hiddenjack-casino.fr^$document
+||hiddenjack-fr.fr^$document
 ||hiddenjack.fr^$document
 ||hiddenjackcasino.fr^$document
 ||hiddentavern.fr^$document
@@ -172973,6 +172979,7 @@
 ||instance-chronopost.fr^$document
 ||instanonniatermy.ml^$document
 ||instanoschanlibo.cf^$document
+||instant-cas1no.fr^$document
 ||instant-casino-fr.fr^$document
 ||instant-casino-officiel.fr^$document
 ||instant-casino1.fr^$document
@@ -184761,7 +184768,6 @@
 ||kamagra-premium.net^$document
 ||kamagra-pro.com^$document
 ||kamagra-pro.net^$document
-||kamagra-pro.online^$document
 ||kamagra-prodej-online.eu^$document
 ||kamagra-prodej.cz^$document
 ||kamagra-prodej.online^$document
@@ -197147,6 +197153,7 @@
 ||legiano-fr.fr^$document
 ||legiano-france.fr^$document
 ||legiano-officiel.fr^$document
+||legianocas1no.fr^$document
 ||legianocasino-enligne.fr^$document
 ||legianocasino-fr.fr^$document
 ||legianocasino-france.fr^$document
@@ -202891,8 +202898,11 @@
 ||lizardpoit.com^$document
 ||lizaro-casino-online.fr^$document
 ||lizaro-casinos.fr^$document
+||lizaro-offical.fr^$document
 ||lizaro-online-casino.fr^$document
+||lizaro-online-fr.fr^$document
 ||lizaros-fr.fr^$document
+||lizaros-online.fr^$document
 ||lizatymun.cf^$document
 ||lizearubarleu.ga^$document
 ||lizgcv.bar^$document
@@ -209945,6 +209955,7 @@
 ||mafiacasinoavis.fr^$document
 ||mafiacasinobonus365.fr^$document
 ||mafiacasinocodepromo.fr^$document
+||mafiacasinoenligne.fr^$document
 ||mafiacasinofr1.fr^$document
 ||mafiacasinologin777.fr^$document
 ||mafiacasinoo.fr^$document
@@ -217901,6 +217912,7 @@
 ||millioner-cassino.fr^$document
 ||millionerbonus.fr^$document
 ||millionercasino-fr.fr^$document
+||millionercasinoenligne.fr^$document
 ||millionercasinos.fr^$document
 ||millioners-casino.fr^$document
 ||millioners-casinos.fr^$document
@@ -217917,6 +217929,7 @@
 ||millionz-code.fr^$document
 ||millionz-enligne.fr^$document
 ||millionz-fra.fr^$document
+||millionz-francais.fr^$document
 ||millionz-france.fr^$document
 ||millionz-jeu.fr^$document
 ||millionz-online.fr^$document
@@ -242871,7 +242884,6 @@
 ||oikpe.bar^$document
 ||oiktzca.bar^$document
 ||oil-direkt.de^$document
-||oil-profits.com^$document
 ||oilav.xyz^$document
 ||oilchangeasheville.com^$document
 ||oilchangehendersonville.com^$document
@@ -265205,6 +265217,7 @@
 ||prime-dc.fr^$document
 ||prime-deals.fr^$document
 ||prime-debut.fr^$document
+||prime-deflagrations.fr^$document
 ||prime-delivery.fr^$document
 ||prime-demarrage.fr^$document
 ||prime-desactivation.fr^$document
@@ -343454,6 +343467,7 @@
 ||ubuntu.buildwebhost.com^$document
 ||ubuntuaa.com^$document
 ||ubuntubin.com^$document
+||ubuntuconnect.fr^$document
 ||ubuntugeeks.com^$document
 ||ubuntuplace.info^$document
 ||ubunturanders.dk^$document
@@ -359990,6 +360004,7 @@
 ||vivaharmoni.com^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
+||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
@@ -367879,6 +367894,7 @@
 ||whereswomanplayer.buzz^$document
 ||whereter.my.id^$document
 ||whereube.com^$document
+||whereverk.com^$document
 ||wherewasit.com^$document
 ||whesacosodop.gq^$document
 ||whetcagetico.tk^$document

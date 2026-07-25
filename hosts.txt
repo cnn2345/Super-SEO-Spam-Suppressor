@@ -62220,6 +62220,8 @@
 0.0.0.0 www.achasrimy.gq
 0.0.0.0 achat-compte-boost.fr
 0.0.0.0 www.achat-compte-boost.fr
+0.0.0.0 achat-eliorgroup.fr
+0.0.0.0 www.achat-eliorgroup.fr
 0.0.0.0 achat-stromectol.fr
 0.0.0.0 www.achat-stromectol.fr
 0.0.0.0 achat-supermarchesmatch.fr
@@ -78352,6 +78354,8 @@
 0.0.0.0 www.amnazon.fr
 0.0.0.0 amncestry.fr
 0.0.0.0 www.amncestry.fr
+0.0.0.0 amndesgouv.fr
+0.0.0.0 www.amndesgouv.fr
 0.0.0.0 amnee.xyz
 0.0.0.0 www.amnee.xyz
 0.0.0.0 amnepematta.gq
@@ -82058,6 +82062,8 @@
 0.0.0.0 www.antadinutpecal.gq
 0.0.0.0 antafanlikisfe.ga
 0.0.0.0 www.antafanlikisfe.ga
+0.0.0.0 antafrance.fr
+0.0.0.0 www.antafrance.fr
 0.0.0.0 antai-agence-nationaie.fr
 0.0.0.0 www.antai-agence-nationaie.fr
 0.0.0.0 antai-agence-national.fr
@@ -94838,6 +94844,8 @@
 0.0.0.0 www.authsimpotsespaclientelles.fr
 0.0.0.0 authsso-prime.fr
 0.0.0.0 www.authsso-prime.fr
+0.0.0.0 authsuiviappro.fr
+0.0.0.0 www.authsuiviappro.fr
 0.0.0.0 authtapostmaev.fr
 0.0.0.0 www.authtapostmaev.fr
 0.0.0.0 authtelemc.fr
@@ -116434,6 +116442,8 @@
 0.0.0.0 www.bitcoin-shop.ro
 0.0.0.0 bitcoin-trader.net
 0.0.0.0 www.bitcoin-trader.net
+0.0.0.0 bitcoin-up.io
+0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -143266,6 +143276,8 @@
 0.0.0.0 www.casinovale1.fr
 0.0.0.0 casinovalyss.fr
 0.0.0.0 www.casinovalyss.fr
+0.0.0.0 casinovaonlinecasino.fr
+0.0.0.0 www.casinovaonlinecasino.fr
 0.0.0.0 casinovasy.fr
 0.0.0.0 www.casinovasy.fr
 0.0.0.0 casinovave-online.fr
@@ -218206,8 +218218,6 @@
 0.0.0.0 www.dventernipubta.ml
 0.0.0.0 dvenziopersconfifth.ml
 0.0.0.0 www.dvenziopersconfifth.ml
-0.0.0.0 dvepare.com
-0.0.0.0 www.dvepare.com
 0.0.0.0 dverdabbhombspysnacoo.tk
 0.0.0.0 www.dverdabbhombspysnacoo.tk
 0.0.0.0 dvere-zarubne.eu
@@ -241236,6 +241246,8 @@
 0.0.0.0 www.espacemycreditmutuel.fr
 0.0.0.0 espacenetflix.fr
 0.0.0.0 www.espacenetflix.fr
+0.0.0.0 espacepaiementsecurise.fr
+0.0.0.0 www.espacepaiementsecurise.fr
 0.0.0.0 espacepart-impotsgouv.fr
 0.0.0.0 www.espacepart-impotsgouv.fr
 0.0.0.0 espaceparticulieclient.fr
@@ -266272,8 +266284,6 @@
 0.0.0.0 www.fostercare.xyz
 0.0.0.0 fosterits.eu
 0.0.0.0 www.fosterits.eu
-0.0.0.0 fosterrefrigerator.de
-0.0.0.0 www.fosterrefrigerator.de
 0.0.0.0 fostra-si.ch
 0.0.0.0 www.fostra-si.ch
 0.0.0.0 fosuldumpfrec.tk
@@ -267450,6 +267460,8 @@
 0.0.0.0 www.fr-editions-dalloz.fr
 0.0.0.0 fr-eiffagetp.fr
 0.0.0.0 www.fr-eiffagetp.fr
+0.0.0.0 fr-electro-prodestock.fr
+0.0.0.0 www.fr-electro-prodestock.fr
 0.0.0.0 fr-electrodepot.fr
 0.0.0.0 www.fr-electrodepot.fr
 0.0.0.0 fr-electrodepotfrance.fr
@@ -277524,8 +277536,6 @@
 0.0.0.0 www.galidswordtingka.gq
 0.0.0.0 galihorlipee.tk
 0.0.0.0 www.galihorlipee.tk
-0.0.0.0 galileofx.com
-0.0.0.0 www.galileofx.com
 0.0.0.0 galileuconcursos.com.br
 0.0.0.0 www.galileuconcursos.com.br
 0.0.0.0 galimustiendolria.gq
@@ -318438,6 +318448,8 @@
 0.0.0.0 www.hiddenhertz.com
 0.0.0.0 hiddenjack-casino.fr
 0.0.0.0 www.hiddenjack-casino.fr
+0.0.0.0 hiddenjack-fr.fr
+0.0.0.0 www.hiddenjack-fr.fr
 0.0.0.0 hiddenjack.fr
 0.0.0.0 www.hiddenjack.fr
 0.0.0.0 hiddenjackcasino.fr
@@ -345942,6 +345954,8 @@
 0.0.0.0 www.instanonniatermy.ml
 0.0.0.0 instanoschanlibo.cf
 0.0.0.0 www.instanoschanlibo.cf
+0.0.0.0 instant-cas1no.fr
+0.0.0.0 www.instant-cas1no.fr
 0.0.0.0 instant-casino-fr.fr
 0.0.0.0 www.instant-casino-fr.fr
 0.0.0.0 instant-casino-officiel.fr
@@ -369518,8 +369532,6 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
-0.0.0.0 kamagra-pro.online
-0.0.0.0 www.kamagra-pro.online
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 www.kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
@@ -394290,6 +394302,8 @@
 0.0.0.0 www.legiano-france.fr
 0.0.0.0 legiano-officiel.fr
 0.0.0.0 www.legiano-officiel.fr
+0.0.0.0 legianocas1no.fr
+0.0.0.0 www.legianocas1no.fr
 0.0.0.0 legianocasino-enligne.fr
 0.0.0.0 www.legianocasino-enligne.fr
 0.0.0.0 legianocasino-fr.fr
@@ -405778,10 +405792,16 @@
 0.0.0.0 www.lizaro-casino-online.fr
 0.0.0.0 lizaro-casinos.fr
 0.0.0.0 www.lizaro-casinos.fr
+0.0.0.0 lizaro-offical.fr
+0.0.0.0 www.lizaro-offical.fr
 0.0.0.0 lizaro-online-casino.fr
 0.0.0.0 www.lizaro-online-casino.fr
+0.0.0.0 lizaro-online-fr.fr
+0.0.0.0 www.lizaro-online-fr.fr
 0.0.0.0 lizaros-fr.fr
 0.0.0.0 www.lizaros-fr.fr
+0.0.0.0 lizaros-online.fr
+0.0.0.0 www.lizaros-online.fr
 0.0.0.0 lizatymun.cf
 0.0.0.0 www.lizatymun.cf
 0.0.0.0 lizearubarleu.ga
@@ -419886,6 +419906,8 @@
 0.0.0.0 www.mafiacasinobonus365.fr
 0.0.0.0 mafiacasinocodepromo.fr
 0.0.0.0 www.mafiacasinocodepromo.fr
+0.0.0.0 mafiacasinoenligne.fr
+0.0.0.0 www.mafiacasinoenligne.fr
 0.0.0.0 mafiacasinofr1.fr
 0.0.0.0 www.mafiacasinofr1.fr
 0.0.0.0 mafiacasinologin777.fr
@@ -435798,6 +435820,8 @@
 0.0.0.0 www.millionerbonus.fr
 0.0.0.0 millionercasino-fr.fr
 0.0.0.0 www.millionercasino-fr.fr
+0.0.0.0 millionercasinoenligne.fr
+0.0.0.0 www.millionercasinoenligne.fr
 0.0.0.0 millionercasinos.fr
 0.0.0.0 www.millionercasinos.fr
 0.0.0.0 millioners-casino.fr
@@ -435830,6 +435854,8 @@
 0.0.0.0 www.millionz-enligne.fr
 0.0.0.0 millionz-fra.fr
 0.0.0.0 www.millionz-fra.fr
+0.0.0.0 millionz-francais.fr
+0.0.0.0 www.millionz-francais.fr
 0.0.0.0 millionz-france.fr
 0.0.0.0 www.millionz-france.fr
 0.0.0.0 millionz-jeu.fr
@@ -485738,8 +485764,6 @@
 0.0.0.0 www.oiktzca.bar
 0.0.0.0 oil-direkt.de
 0.0.0.0 www.oil-direkt.de
-0.0.0.0 oil-profits.com
-0.0.0.0 www.oil-profits.com
 0.0.0.0 oilav.xyz
 0.0.0.0 www.oilav.xyz
 0.0.0.0 oilchangeasheville.com
@@ -530406,6 +530430,8 @@
 0.0.0.0 www.prime-deals.fr
 0.0.0.0 prime-debut.fr
 0.0.0.0 www.prime-debut.fr
+0.0.0.0 prime-deflagrations.fr
+0.0.0.0 www.prime-deflagrations.fr
 0.0.0.0 prime-delivery.fr
 0.0.0.0 www.prime-delivery.fr
 0.0.0.0 prime-demarrage.fr
@@ -686904,6 +686930,8 @@
 0.0.0.0 www.ubuntuaa.com
 0.0.0.0 ubuntubin.com
 0.0.0.0 www.ubuntubin.com
+0.0.0.0 ubuntuconnect.fr
+0.0.0.0 www.ubuntuconnect.fr
 0.0.0.0 ubuntugeeks.com
 0.0.0.0 www.ubuntugeeks.com
 0.0.0.0 ubuntuplace.info
@@ -719976,6 +720004,8 @@
 0.0.0.0 www.vivaia-schuhe.de
 0.0.0.0 vivaiaboutiques.fr
 0.0.0.0 www.vivaiaboutiques.fr
+0.0.0.0 vivaiacollection.com
+0.0.0.0 www.vivaiacollection.com
 0.0.0.0 vivaiaparis.fr
 0.0.0.0 www.vivaiaparis.fr
 0.0.0.0 vivaiaschaussures.fr
@@ -735754,6 +735784,8 @@
 0.0.0.0 www.whereter.my.id
 0.0.0.0 whereube.com
 0.0.0.0 www.whereube.com
+0.0.0.0 whereverk.com
+0.0.0.0 www.whereverk.com
 0.0.0.0 wherewasit.com
 0.0.0.0 www.wherewasit.com
 0.0.0.0 whesacosodop.gq
