@@ -30851,6 +30851,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.accountpartfront.biz/*
 *://*.accountpass-securedsg.fr/*
 *://*.accountpaypal.fr/*
+*://*.accounts-electrodepot.fr/*
 *://*.accounts-google.fr/*
 *://*.accounts-logins.fr/*
 *://*.accounts-payment.fr/*
@@ -32664,6 +32665,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.adolmigedari.cf/*
 *://*.adolscx.rest/*
 *://*.adoltsarasin.tk/*
+*://*.adomiassistance.fr/*
 *://*.adomonesra.tk/*
 *://*.adomusprow.tk/*
 *://*.adon.xyz/*
@@ -71056,6 +71058,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-duospin.fr/*
 *://*.casino-elysees-club.fr/*
 *://*.casino-en-ligne-argen-treel.fr/*
+*://*.casino-en-ligne-sans-verification.fr/*
 *://*.casino-enligne-argentreel.fr/*
 *://*.casino-enlignefiable.fr/*
 *://*.casino-estrella.fr/*
@@ -71400,6 +71403,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinolevant.fr/*
 *://*.casinolevant1.fr/*
 *://*.casinoliraspin.fr/*
+*://*.casinolizaroenligne.fr/*
 *://*.casinolo-casino.fr/*
 *://*.casinolo-enligne.fr/*
 *://*.casinolo-fr.fr/*
@@ -71602,6 +71606,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinosvegasplus.fr/*
 *://*.casinotalismania.fr/*
 *://*.casinotemple.fr/*
+*://*.casinotikitakaenligne.fr/*
 *://*.casinotogether-fr.fr/*
 *://*.casinotogether-official.fr/*
 *://*.casinotogetheronline.fr/*
@@ -73443,9 +73448,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.celsiuscasinoapp.fr/*
 *://*.celsiuscasinobonus.fr/*
 *://*.celsiuscasinofr.fr/*
+*://*.celsiuscasinofra.fr/*
+*://*.celsiuscasinofrance.fr/*
 *://*.celsiuscasinologin.fr/*
 *://*.celsiuscasinopromo.fr/*
 *://*.celsiusfr.fr/*
+*://*.celsiusfrancecasino.fr/*
+*://*.celsiusfrcasino.fr/*
 *://*.celtanghantaiconspawn.cf/*
 *://*.celtetemplanwhi.ga/*
 *://*.celthiasacra.tk/*
@@ -76917,6 +76926,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.chicboho.com/*
 *://*.chicchaussures.fr/*
 *://*.chicco.com.de/*
+*://*.chiccofrance.fr/*
 *://*.chicdiefrizabacun.cf/*
 *://*.chicensolde.fr/*
 *://*.chicesigsanea.tk/*
@@ -82912,6 +82922,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.coach-florian.com/*
 *://*.coach-ksa.com/*
 *://*.coach-outlet-2011.info/*
+*://*.coach-outlet.fr/*
 *://*.coachartbatisicu.cf/*
 *://*.coachattentions.biz/*
 *://*.coachefikindchas.tk/*
@@ -85698,6 +85709,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.confirmation-client-paypal.fr/*
 *://*.confirmation-credit-agri.fr/*
 *://*.confirmation-details-rdv-leboncoin.fr/*
+*://*.confirmation-devotre-rendez-vous-securise-leboncoin.fr/*
 *://*.confirmation-du-rendez-vous-securise-leboncoin.fr/*
 *://*.confirmation-free.fr/*
 *://*.confirmation-inc-paypal.fr/*
@@ -86897,6 +86909,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.contactclients.fr/*
 *://*.contactconseilclient.fr/*
 *://*.contactcostco-france.fr/*
+*://*.contactdiplogouv.fr/*
 *://*.contacte-service.fr/*
 *://*.contacte-sfr.fr/*
 *://*.contactedenred.fr/*
@@ -86904,6 +86917,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.contacteznous-leboncoin.fr/*
 *://*.contactform.dev/*
 *://*.contactfr.fr/*
+*://*.contactfree.fr/*
 *://*.contactgouv-info.fr/*
 *://*.contactinterpol.fr/*
 *://*.contactleboncoiinsystempayment.fr/*
@@ -114484,6 +114498,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.electro-redeker.de/*
 *://*.electrodeport.fr/*
 *://*.electrodepot-account.fr/*
+*://*.electrodepot-accounts.fr/*
 *://*.electrodepot-france.fr/*
 *://*.electrodepot-groupe.fr/*
 *://*.electrodepot-lille.fr/*
@@ -114508,6 +114523,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.electrons-transistorization-silkness.xyz/*
 *://*.electronw.com/*
 *://*.electrophoridae.site/*
+*://*.electroprodestock.fr/*
 *://*.electroshop24.de/*
 *://*.electroshopp.fr/*
 *://*.electrosound.eu/*
@@ -133674,6 +133690,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fr-ch-chinon.fr/*
 *://*.fr-charal.fr/*
 *://*.fr-chericasino.fr/*
+*://*.fr-chicken--road.fr/*
 *://*.fr-cimpa.fr/*
 *://*.fr-circet.fr/*
 *://*.fr-cisetp.fr/*
@@ -134482,6 +134499,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.frcasinozer.fr/*
 *://*.frccga.rest/*
 *://*.frcglgu.tokyo/*
+*://*.frchickenroad.fr/*
 *://*.frchronopost.fr/*
 *://*.frchs5v.tokyo/*
 *://*.frcomposants.com/*
@@ -148980,6 +148998,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.groupe-glsfrance.fr/*
 *://*.groupe-goursat.fr/*
 *://*.groupe-iliade.fr/*
+*://*.groupe-jean-floch.fr/*
 *://*.groupe-laposte.fr/*
 *://*.groupe-laredoute.fr/*
 *://*.groupe-lidl.fr/*
@@ -237533,6 +237552,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.noutbiowolfconsto.tk/*
 *://*.noutmolugeti.tk/*
 *://*.nouvalle-aquitaine.fr/*
+*://*.nouveau-casino-2026.fr/*
 *://*.nouveau-compte-prime.fr/*
 *://*.nouveau-prime.fr/*
 *://*.nouveau-service-bnpparibas.fr/*
@@ -252250,6 +252270,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.parisbas.fr/*
 *://*.pariscybertek.fr/*
 *://*.parisdisneyland.fr/*
+*://*.parisen.fr/*
 *://*.parisenventicket.fr/*
 *://*.pariseventicket.fr/*
 *://*.parisfcshop.fr/*
@@ -291404,6 +291425,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.runacasino-fr.fr/*
 *://*.runacasino-france.fr/*
 *://*.runacasinoenligne.fr/*
+*://*.runacasinofr.fr/*
+*://*.runacasinoligne.fr/*
 *://*.runacasinoonline.fr/*
 *://*.runahoeve.nl/*
 *://*.runaivete.com/*
@@ -300208,6 +300231,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.service-interpol.fr/*
 *://*.service-intrabancaire.fr/*
 *://*.service-klarna.fr/*
+*://*.service-la-macif.fr/*
 *://*.service-la-poste.fr/*
 *://*.service-laposte.fr/*
 *://*.service-lbc.fr/*
@@ -330592,6 +330616,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ticketaster.fr/*
 *://*.ticketconcerts.fr/*
 *://*.ticketcorner.fr/*
+*://*.ticketdrop.fr/*
 *://*.ticketery.fr/*
 *://*.ticketfaster.fr/*
 *://*.ticketfestival.fr/*
@@ -331210,6 +331235,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tikitaka7-casino.fr/*
 *://*.tikitakacasino-official.fr/*
 *://*.tikitakacasino1.fr/*
+*://*.tikitakacasinoenligne.fr/*
 *://*.tikitakacasinoonline.fr/*
 *://*.tikitakaslots.fr/*
 *://*.tikjvv.rest/*
@@ -337003,6 +337029,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trader-ai.cc/*
 *://*.trader-invest.com/*
 *://*.tradereasy.com/*
+*://*.traderepublic-support.fr/*
 *://*.traderesgreeniz.ml/*
 *://*.traderhouse.com/*
 *://*.traderminds.com/*
@@ -342466,6 +342493,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.u-rouen.fr/*
 *://*.u-upsud.fr/*
 *://*.u-watch.fr/*
+*://*.u003efree-mobile.fr/*
 *://*.u00x3.tokyo/*
 *://*.u01281z.shop/*
 *://*.u01rkj.shop/*
