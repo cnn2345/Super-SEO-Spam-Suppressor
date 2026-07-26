@@ -84408,6 +84408,8 @@
 0.0.0.0 www.apollocoatingsinc.com
 0.0.0.0 apollodentalcentre.xyz
 0.0.0.0 www.apollodentalcentre.xyz
+0.0.0.0 apollogrouptvs.com
+0.0.0.0 www.apollogrouptvs.com
 0.0.0.0 apollona.ee
 0.0.0.0 www.apollona.ee
 0.0.0.0 apolloniosoluzioni.it
@@ -110092,8 +110094,6 @@
 0.0.0.0 www.bestsaunakits.com
 0.0.0.0 bestscashardpuzzdown.cf
 0.0.0.0 www.bestscashardpuzzdown.cf
-0.0.0.0 bestselectionforyou.com
-0.0.0.0 www.bestselectionforyou.com
 0.0.0.0 bestseller-price.news
 0.0.0.0 www.bestseller-price.news
 0.0.0.0 bestseller-stock.cyou
@@ -250110,6 +250110,8 @@
 0.0.0.0 www.facturations-netfiix.fr
 0.0.0.0 facturations-netflix.fr
 0.0.0.0 www.facturations-netflix.fr
+0.0.0.0 facturations-prime.fr
+0.0.0.0 www.facturations-prime.fr
 0.0.0.0 facturationsupport.fr
 0.0.0.0 www.facturationsupport.fr
 0.0.0.0 facture-abonement.fr
@@ -251202,8 +251204,6 @@
 0.0.0.0 www.familiewelpenhaus.com
 0.0.0.0 famillechangeur.fr
 0.0.0.0 www.famillechangeur.fr
-0.0.0.0 familo.net
-0.0.0.0 www.familo.net
 0.0.0.0 familopepert.tk
 0.0.0.0 www.familopepert.tk
 0.0.0.0 family-drugs.net
@@ -258644,8 +258644,6 @@
 0.0.0.0 www.findrestisen.cf
 0.0.0.0 findsalacholpe.tk
 0.0.0.0 www.findsalacholpe.tk
-0.0.0.0 findsdemmarket.shop
-0.0.0.0 www.findsdemmarket.shop
 0.0.0.0 findsexy-lonelygirl.com
 0.0.0.0 www.findsexy-lonelygirl.com
 0.0.0.0 findsexy-lonelygirl2.com
@@ -277592,6 +277590,8 @@
 0.0.0.0 www.galidswordtingka.gq
 0.0.0.0 galihorlipee.tk
 0.0.0.0 www.galihorlipee.tk
+0.0.0.0 galileofx.com
+0.0.0.0 www.galileofx.com
 0.0.0.0 galileuconcursos.com.br
 0.0.0.0 www.galileuconcursos.com.br
 0.0.0.0 galimustiendolria.gq
@@ -292656,8 +292656,6 @@
 0.0.0.0 www.goodbrushshop.com
 0.0.0.0 goodensolarenergylimited.com
 0.0.0.0 www.goodensolarenergylimited.com
-0.0.0.0 goodersatzteileshop.com
-0.0.0.0 www.goodersatzteileshop.com
 0.0.0.0 goodfaimomelta.tk
 0.0.0.0 www.goodfaimomelta.tk
 0.0.0.0 goodgecolachi.ml
@@ -314808,6 +314806,8 @@
 0.0.0.0 www.heavmis.asia
 0.0.0.0 heavout.my.id
 0.0.0.0 www.heavout.my.id
+0.0.0.0 heavybetcasino.fr
+0.0.0.0 www.heavybetcasino.fr
 0.0.0.0 heavyfullsheplace.rest
 0.0.0.0 www.heavyfullsheplace.rest
 0.0.0.0 heavymanwordfinally.biz
@@ -357870,6 +357870,8 @@
 0.0.0.0 www.jehvrx.rest
 0.0.0.0 jehwt2t.cyou
 0.0.0.0 www.jehwt2t.cyou
+0.0.0.0 jeinn.com
+0.0.0.0 www.jeinn.com
 0.0.0.0 jeinsafexparea.ga
 0.0.0.0 www.jeinsafexparea.ga
 0.0.0.0 jeiubbm.bar
@@ -369604,6 +369606,8 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
+0.0.0.0 kamagra-pro.online
+0.0.0.0 www.kamagra-pro.online
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 www.kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
@@ -386500,6 +386504,8 @@
 0.0.0.0 www.lacosteoutlet.fr
 0.0.0.0 lacosteoutletfrance.fr
 0.0.0.0 www.lacosteoutletfrance.fr
+0.0.0.0 lacostes-france.fr
+0.0.0.0 www.lacostes-france.fr
 0.0.0.0 lacostes.de
 0.0.0.0 www.lacostes.de
 0.0.0.0 lacostes.fr
@@ -441042,8 +441048,6 @@
 0.0.0.0 www.modernswantrace.bar
 0.0.0.0 moderoosn.xyz
 0.0.0.0 www.moderoosn.xyz
-0.0.0.0 moderwear.shop
-0.0.0.0 www.moderwear.shop
 0.0.0.0 modeschulte.de
 0.0.0.0 www.modeschulte.de
 0.0.0.0 modestylebay.com
@@ -475014,6 +475018,8 @@
 0.0.0.0 www.notifications-chronopost.fr
 0.0.0.0 notifications-client.fr
 0.0.0.0 www.notifications-client.fr
+0.0.0.0 notifications-clients-prime.fr
+0.0.0.0 www.notifications-clients-prime.fr
 0.0.0.0 notifications-dgccrfgouv.fr
 0.0.0.0 www.notifications-dgccrfgouv.fr
 0.0.0.0 notifications-email.fr
@@ -485858,6 +485864,8 @@
 0.0.0.0 www.oiktzca.bar
 0.0.0.0 oil-direkt.de
 0.0.0.0 www.oil-direkt.de
+0.0.0.0 oil-profits.com
+0.0.0.0 www.oil-profits.com
 0.0.0.0 oilav.xyz
 0.0.0.0 www.oilav.xyz
 0.0.0.0 oilchangeasheville.com
@@ -599520,8 +599528,6 @@
 0.0.0.0 www.sepiyt.tokyo
 0.0.0.0 sepjacourca.tk
 0.0.0.0 www.sepjacourca.tk
-0.0.0.0 sepkicks.com
-0.0.0.0 www.sepkicks.com
 0.0.0.0 seplingvercachandthest.tk
 0.0.0.0 www.seplingvercachandthest.tk
 0.0.0.0 seplisfawntor.info
@@ -604820,8 +604826,6 @@
 0.0.0.0 www.shirtsandsweaters.eu
 0.0.0.0 shirtspolos.com
 0.0.0.0 www.shirtspolos.com
-0.0.0.0 shiseido-eu.com
-0.0.0.0 www.shiseido-eu.com
 0.0.0.0 shishire.club
 0.0.0.0 www.shishire.club
 0.0.0.0 shishqa.xyz
@@ -607924,6 +607928,10 @@
 0.0.0.0 www.simsinocasino-fr.fr
 0.0.0.0 simsinocasino1.fr
 0.0.0.0 www.simsinocasino1.fr
+0.0.0.0 simsinocasino2.fr
+0.0.0.0 www.simsinocasino2.fr
+0.0.0.0 simsinocasino7.fr
+0.0.0.0 www.simsinocasino7.fr
 0.0.0.0 simsinocasinoenligne.fr
 0.0.0.0 www.simsinocasinoenligne.fr
 0.0.0.0 simsinocasinofr.fr
@@ -676736,8 +676744,6 @@
 0.0.0.0 www.trekinasbo.tk
 0.0.0.0 treking.xyz
 0.0.0.0 www.treking.xyz
-0.0.0.0 trekkinggearwarehouse.com
-0.0.0.0 www.trekkinggearwarehouse.com
 0.0.0.0 trekkinginfonepal.com
 0.0.0.0 www.trekkinginfonepal.com
 0.0.0.0 treklicalivede.cf
@@ -742688,8 +742694,6 @@
 0.0.0.0 www.woofgear.de
 0.0.0.0 wooflyx.com
 0.0.0.0 www.wooflyx.com
-0.0.0.0 woofz.academy
-0.0.0.0 www.woofz.academy
 0.0.0.0 woogitopeck.online
 0.0.0.0 www.woogitopeck.online
 0.0.0.0 woogpz.tokyo
