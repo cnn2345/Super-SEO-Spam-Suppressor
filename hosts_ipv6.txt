@@ -72456,8 +72456,6 @@
 ::1 www.alglyciminschal.gq
 ::1 algmrgti.cyou
 ::1 www.algmrgti.cyou
-::1 algo-robot.co
-::1 www.algo-robot.co
 ::1 algojanspeslay.gq
 ::1 www.algojanspeslay.gq
 ::1 algone.fr
@@ -84408,8 +84406,6 @@
 ::1 www.apollocoatingsinc.com
 ::1 apollodentalcentre.xyz
 ::1 www.apollodentalcentre.xyz
-::1 apollogrouptvs.com
-::1 www.apollogrouptvs.com
 ::1 apollona.ee
 ::1 www.apollona.ee
 ::1 apolloniosoluzioni.it
@@ -173774,6 +173770,8 @@
 ::1 www.contact-dgfip.fr
 ::1 contact-eiffage.fr
 ::1 www.contact-eiffage.fr
+::1 contact-electrodepot.fr
+::1 www.contact-electrodepot.fr
 ::1 contact-espace.fr
 ::1 www.contact-espace.fr
 ::1 contact-everyone-orange-business.fr
@@ -218260,6 +218258,8 @@
 ::1 www.dventernipubta.ml
 ::1 dvenziopersconfifth.ml
 ::1 www.dvenziopersconfifth.ml
+::1 dvepare.com
+::1 www.dvepare.com
 ::1 dverdabbhombspysnacoo.tk
 ::1 www.dverdabbhombspysnacoo.tk
 ::1 dvere-zarubne.eu
@@ -277590,8 +277590,6 @@
 ::1 www.galidswordtingka.gq
 ::1 galihorlipee.tk
 ::1 www.galihorlipee.tk
-::1 galileofx.com
-::1 www.galileofx.com
 ::1 galileuconcursos.com.br
 ::1 www.galileuconcursos.com.br
 ::1 galimustiendolria.gq
@@ -282046,8 +282044,6 @@
 ::1 www.generic4all-global.com
 ::1 generic4allglobal.com
 ::1 www.generic4allglobal.com
-::1 genericdoctor.com
-::1 www.genericdoctor.com
 ::1 genericeupills.com
 ::1 www.genericeupills.com
 ::1 genericsbot.com
@@ -292656,6 +292652,8 @@
 ::1 www.goodbrushshop.com
 ::1 goodensolarenergylimited.com
 ::1 www.goodensolarenergylimited.com
+::1 goodersatzteileshop.com
+::1 www.goodersatzteileshop.com
 ::1 goodfaimomelta.tk
 ::1 www.goodfaimomelta.tk
 ::1 goodgecolachi.ml
@@ -391678,8 +391676,6 @@
 ::1 www.lbszftg.cn
 ::1 lbszka.rest
 ::1 www.lbszka.rest
-::1 lbtinc.com
-::1 www.lbtinc.com
 ::1 lbtx8c.cyou
 ::1 www.lbtx8c.cyou
 ::1 lbu7yb.xyz
@@ -485864,8 +485860,6 @@
 ::1 www.oiktzca.bar
 ::1 oil-direkt.de
 ::1 www.oil-direkt.de
-::1 oil-profits.com
-::1 www.oil-profits.com
 ::1 oilav.xyz
 ::1 www.oilav.xyz
 ::1 oilchangeasheville.com
@@ -515982,8 +515976,6 @@
 ::1 www.piccoliprestitiveloci.it
 ::1 piccomaeurope.fr
 ::1 www.piccomaeurope.fr
-::1 piccu.org
-::1 www.piccu.org
 ::1 piccysajulem.gq
 ::1 www.piccysajulem.gq
 ::1 picdaitecessparna.cf
@@ -588638,6 +588630,8 @@
 ::1 www.salomonfrancemagasin.fr
 ::1 salomonfranceoutlet.fr
 ::1 www.salomonfranceoutlet.fr
+::1 salomonfrancesoldes.fr
+::1 www.salomonfrancesoldes.fr
 ::1 salomonfrancestore.fr
 ::1 www.salomonfrancestore.fr
 ::1 salomonfrancestores.fr
@@ -601032,6 +601026,8 @@
 ::1 www.serviceclientbnpparis.fr
 ::1 serviceclientboursorama.fr
 ::1 www.serviceclientboursorama.fr
+::1 serviceclientbuylive.fr
+::1 www.serviceclientbuylive.fr
 ::1 serviceclientedf.fr
 ::1 www.serviceclientedf.fr
 ::1 serviceclientelpaypal.fr
@@ -615318,6 +615314,8 @@
 ::1 www.snappasse.fr
 ::1 snappeasinspanish.cf
 ::1 www.snappeasinspanish.cf
+::1 snappro.fr
+::1 www.snappro.fr
 ::1 snappydriver.fr
 ::1 www.snappydriver.fr
 ::1 snappydriverinstaller.fr
@@ -617338,8 +617336,6 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
-::1 softelektro.com
-::1 www.softelektro.com
 ::1 softfirecsoma.tk
 ::1 www.softfirecsoma.tk
 ::1 softforex.pw
@@ -619932,8 +619928,6 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
-::1 sowaswillichauch.de
-::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -632918,6 +632912,8 @@
 ::1 www.subventiongouv.fr
 ::1 subvertableuafft.buzz
 ::1 www.subvertableuafft.buzz
+::1 subwayreunion.re
+::1 www.subwayreunion.re
 ::1 subwedinepet.gq
 ::1 www.subwedinepet.gq
 ::1 subwingwormuva.tk
@@ -738830,6 +738826,8 @@
 ::1 www.winbeatz777.fr
 ::1 winbeatzcasino.fr
 ::1 www.winbeatzcasino.fr
+::1 winbeatzcasinos.fr
+::1 www.winbeatzcasinos.fr
 ::1 winbeatzs-fr.fr
 ::1 www.winbeatzs-fr.fr
 ::1 winbeatzs-france.fr
@@ -742694,6 +742692,8 @@
 ::1 www.woofgear.de
 ::1 wooflyx.com
 ::1 www.wooflyx.com
+::1 woofz.academy
+::1 www.woofz.academy
 ::1 woogitopeck.online
 ::1 www.woogitopeck.online
 ::1 woogpz.tokyo
@@ -768008,8 +768008,6 @@
 ::1 www.ying998.com
 ::1 ying999.com
 ::1 www.ying999.com
-::1 yinga-vital.de
-::1 www.yinga-vital.de
 ::1 yingfeidi.com
 ::1 www.yingfeidi.com
 ::1 yinghuawang.com
