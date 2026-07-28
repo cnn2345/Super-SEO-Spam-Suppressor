@@ -12910,6 +12910,8 @@
 0.0.0.0 www.1win.re
 0.0.0.0 1win.tf
 0.0.0.0 www.1win.tf
+0.0.0.0 1win.wf
+0.0.0.0 www.1win.wf
 0.0.0.0 1win.yt
 0.0.0.0 www.1win.yt
 0.0.0.0 1win1.fr
@@ -72456,6 +72458,8 @@
 0.0.0.0 www.alglyciminschal.gq
 0.0.0.0 algmrgti.cyou
 0.0.0.0 www.algmrgti.cyou
+0.0.0.0 algo-robot.co
+0.0.0.0 www.algo-robot.co
 0.0.0.0 algojanspeslay.gq
 0.0.0.0 www.algojanspeslay.gq
 0.0.0.0 algone.fr
@@ -73266,6 +73270,8 @@
 0.0.0.0 www.allocnie.fr
 0.0.0.0 allocoupon.fr
 0.0.0.0 www.allocoupon.fr
+0.0.0.0 allodo.de
+0.0.0.0 www.allodo.de
 0.0.0.0 allogarages.fr
 0.0.0.0 www.allogarages.fr
 0.0.0.0 alloicne.fr
@@ -91928,6 +91934,8 @@
 0.0.0.0 www.asurion.com
 0.0.0.0 asurondys.tk
 0.0.0.0 www.asurondys.tk
+0.0.0.0 asus-offrespromotionnelles.fr
+0.0.0.0 www.asus-offrespromotionnelles.fr
 0.0.0.0 asus2000.fr
 0.0.0.0 www.asus2000.fr
 0.0.0.0 asusafreledi.ga
@@ -114414,6 +114422,8 @@
 0.0.0.0 www.billionaire-spins-casino.fr
 0.0.0.0 billionairepascher.fr
 0.0.0.0 www.billionairepascher.fr
+0.0.0.0 billionairesp1n.fr
+0.0.0.0 www.billionairesp1n.fr
 0.0.0.0 billionairespin-casino.fr
 0.0.0.0 www.billionairespin-casino.fr
 0.0.0.0 billionairespin-france.fr
@@ -141490,6 +141500,8 @@
 0.0.0.0 www.cas-bex.ch
 0.0.0.0 cas-etu-bordeaux.fr
 0.0.0.0 www.cas-etu-bordeaux.fr
+0.0.0.0 cas1nozerzz.fr
+0.0.0.0 www.cas1nozerzz.fr
 0.0.0.0 cas67fa.work
 0.0.0.0 www.cas67fa.work
 0.0.0.0 casa-fantasia.de
@@ -142512,6 +142524,8 @@
 0.0.0.0 www.casinobetsio.fr
 0.0.0.0 casinobillionairespin.fr
 0.0.0.0 www.casinobillionairespin.fr
+0.0.0.0 casinobingo.fr
+0.0.0.0 www.casinobingo.fr
 0.0.0.0 casinobit.fr
 0.0.0.0 www.casinobit.fr
 0.0.0.0 casinoblitzfrance.fr
@@ -142720,6 +142734,8 @@
 0.0.0.0 www.casinogrand.fr
 0.0.0.0 casinograndevegas.fr
 0.0.0.0 www.casinograndevegas.fr
+0.0.0.0 casinogratuitsansdepot.fr
+0.0.0.0 www.casinogratuitsansdepot.fr
 0.0.0.0 casinogroup.fr
 0.0.0.0 www.casinogroup.fr
 0.0.0.0 casinogtbet-fr.fr
@@ -146854,6 +146870,8 @@
 0.0.0.0 www.celltraflitedti.ml
 0.0.0.0 cellu-clean.fr
 0.0.0.0 www.cellu-clean.fr
+0.0.0.0 cellulefraudecanorddefrance.fr
+0.0.0.0 www.cellulefraudecanorddefrance.fr
 0.0.0.0 cellwater.pt
 0.0.0.0 www.cellwater.pt
 0.0.0.0 cellwatersweekways.rest
@@ -200884,6 +200902,8 @@
 0.0.0.0 www.dgifp-remboursement.fr
 0.0.0.0 dgifp-reversement.fr
 0.0.0.0 www.dgifp-reversement.fr
+0.0.0.0 dgifp.fr
+0.0.0.0 www.dgifp.fr
 0.0.0.0 dgifpencaissement.fr
 0.0.0.0 www.dgifpencaissement.fr
 0.0.0.0 dgihuseoghaller.dk
@@ -211342,6 +211362,8 @@
 0.0.0.0 www.donavi.ru
 0.0.0.0 donbe-t.fr
 0.0.0.0 www.donbe-t.fr
+0.0.0.0 donbeets-fr.fr
+0.0.0.0 www.donbeets-fr.fr
 0.0.0.0 donbet-fr.fr
 0.0.0.0 www.donbet-fr.fr
 0.0.0.0 donbet-jeux.fr
@@ -240724,6 +240746,8 @@
 0.0.0.0 www.espace-facturation-mobile.fr
 0.0.0.0 espace-facturation-mobiles.fr
 0.0.0.0 www.espace-facturation-mobiles.fr
+0.0.0.0 espace-facturation-prime.fr
+0.0.0.0 www.espace-facturation-prime.fr
 0.0.0.0 espace-facturation.fr
 0.0.0.0 www.espace-facturation.fr
 0.0.0.0 espace-factures.fr
@@ -243092,8 +243116,6 @@
 0.0.0.0 www.eu-franprix.fr
 0.0.0.0 eu-impots.fr
 0.0.0.0 www.eu-impots.fr
-0.0.0.0 eu-meds.net
-0.0.0.0 www.eu-meds.net
 0.0.0.0 eu-meds.online
 0.0.0.0 www.eu-meds.online
 0.0.0.0 eu-meta.fr
@@ -251206,6 +251228,8 @@
 0.0.0.0 www.familiewelpenhaus.com
 0.0.0.0 famillechangeur.fr
 0.0.0.0 www.famillechangeur.fr
+0.0.0.0 familo.net
+0.0.0.0 www.familo.net
 0.0.0.0 familopepert.tk
 0.0.0.0 www.familopepert.tk
 0.0.0.0 family-drugs.net
@@ -266340,6 +266364,8 @@
 0.0.0.0 www.fostercare.xyz
 0.0.0.0 fosterits.eu
 0.0.0.0 www.fosterits.eu
+0.0.0.0 fosterrefrigerator.de
+0.0.0.0 www.fosterrefrigerator.de
 0.0.0.0 fostra-si.ch
 0.0.0.0 www.fostra-si.ch
 0.0.0.0 fosuldumpfrec.tk
@@ -277492,6 +277518,8 @@
 0.0.0.0 www.galanteriafutrzana.pl
 0.0.0.0 galasfiapromhis.tk
 0.0.0.0 www.galasfiapromhis.tk
+0.0.0.0 galaspin.fr
+0.0.0.0 www.galaspin.fr
 0.0.0.0 galathea.dk
 0.0.0.0 www.galathea.dk
 0.0.0.0 galaxe.info
@@ -277592,6 +277620,8 @@
 0.0.0.0 www.galidswordtingka.gq
 0.0.0.0 galihorlipee.tk
 0.0.0.0 www.galihorlipee.tk
+0.0.0.0 galileofx.com
+0.0.0.0 www.galileofx.com
 0.0.0.0 galileuconcursos.com.br
 0.0.0.0 www.galileuconcursos.com.br
 0.0.0.0 galimustiendolria.gq
@@ -282046,6 +282076,8 @@
 0.0.0.0 www.generic4all-global.com
 0.0.0.0 generic4allglobal.com
 0.0.0.0 www.generic4allglobal.com
+0.0.0.0 genericdoctor.com
+0.0.0.0 www.genericdoctor.com
 0.0.0.0 genericeupills.com
 0.0.0.0 www.genericeupills.com
 0.0.0.0 genericsbot.com
@@ -291794,6 +291826,8 @@
 0.0.0.0 www.golden-pandaa.fr
 0.0.0.0 golden-pandacasino.fr
 0.0.0.0 www.golden-pandacasino.fr
+0.0.0.0 golden-pandar.fr
+0.0.0.0 www.golden-pandar.fr
 0.0.0.0 golden-pandas.fr
 0.0.0.0 www.golden-pandas.fr
 0.0.0.0 golden-pass.fr
@@ -291810,6 +291844,8 @@
 0.0.0.0 www.golden-starcasino.fr
 0.0.0.0 golden-vans.fr
 0.0.0.0 www.golden-vans.fr
+0.0.0.0 golden-vegass.fr
+0.0.0.0 www.golden-vegass.fr
 0.0.0.0 golden-watch.shop
 0.0.0.0 www.golden-watch.shop
 0.0.0.0 goldenaddict.fr
@@ -317434,6 +317470,10 @@
 0.0.0.0 www.heygen.com
 0.0.0.0 heygwe.bar
 0.0.0.0 www.heygwe.bar
+0.0.0.0 heyho-casino.fr
+0.0.0.0 www.heyho-casino.fr
+0.0.0.0 heyho-connexion.fr
+0.0.0.0 www.heyho-connexion.fr
 0.0.0.0 heyhost.website
 0.0.0.0 www.heyhost.website
 0.0.0.0 heyhwn.tokyo
@@ -346616,6 +346656,8 @@
 0.0.0.0 www.interieur-gov.fr
 0.0.0.0 interieur-ofast-gov.fr
 0.0.0.0 www.interieur-ofast-gov.fr
+0.0.0.0 interieur-pn.fr
+0.0.0.0 www.interieur-pn.fr
 0.0.0.0 interieur-qouv.fr
 0.0.0.0 www.interieur-qouv.fr
 0.0.0.0 interieurgouv.fr
@@ -391678,6 +391720,8 @@
 0.0.0.0 www.lbszftg.cn
 0.0.0.0 lbszka.rest
 0.0.0.0 www.lbszka.rest
+0.0.0.0 lbtinc.com
+0.0.0.0 www.lbtinc.com
 0.0.0.0 lbtx8c.cyou
 0.0.0.0 www.lbtx8c.cyou
 0.0.0.0 lbu7yb.xyz
@@ -392920,6 +392964,8 @@
 0.0.0.0 www.leatherbagsale.com
 0.0.0.0 leatherjacketgear.com
 0.0.0.0 www.leatherjacketgear.com
+0.0.0.0 leatherman-france.fr
+0.0.0.0 www.leatherman-france.fr
 0.0.0.0 leathershire.co.uk
 0.0.0.0 www.leathershire.co.uk
 0.0.0.0 leatitempreve.tk
@@ -405746,6 +405792,8 @@
 0.0.0.0 www.livret-ftneo.fr
 0.0.0.0 livretdefense.fr
 0.0.0.0 www.livretdefense.fr
+0.0.0.0 livretdepargne.fr
+0.0.0.0 www.livretdepargne.fr
 0.0.0.0 livreteurope.fr
 0.0.0.0 www.livreteurope.fr
 0.0.0.0 livretscolaire.fr
@@ -408802,6 +408850,8 @@
 0.0.0.0 www.login-instagram.fr
 0.0.0.0 login-lbc.fr
 0.0.0.0 www.login-lbc.fr
+0.0.0.0 login-microsft365secure-auth.fr
+0.0.0.0 www.login-microsft365secure-auth.fr
 0.0.0.0 login-microsoft.fr
 0.0.0.0 www.login-microsoft.fr
 0.0.0.0 login-netfiix.fr
@@ -441046,6 +441096,8 @@
 0.0.0.0 www.modernswantrace.bar
 0.0.0.0 moderoosn.xyz
 0.0.0.0 www.moderoosn.xyz
+0.0.0.0 moderwear.shop
+0.0.0.0 www.moderwear.shop
 0.0.0.0 modeschulte.de
 0.0.0.0 www.modeschulte.de
 0.0.0.0 modestylebay.com
@@ -469116,6 +469168,8 @@
 0.0.0.0 www.nike-airmax.fr
 0.0.0.0 nike-airmaxpascher.fr
 0.0.0.0 www.nike-airmaxpascher.fr
+0.0.0.0 nike-airmaxs.fr
+0.0.0.0 www.nike-airmaxs.fr
 0.0.0.0 nike-blazer.fr
 0.0.0.0 www.nike-blazer.fr
 0.0.0.0 nike-blazerlow.fr
@@ -469632,6 +469686,8 @@
 0.0.0.0 www.nineca5ino.fr
 0.0.0.0 ninecas-ino.fr
 0.0.0.0 www.ninecas-ino.fr
+0.0.0.0 ninecas1no-play.fr
+0.0.0.0 www.ninecas1no-play.fr
 0.0.0.0 ninecasin0.fr
 0.0.0.0 www.ninecasin0.fr
 0.0.0.0 ninecasinno.fr
@@ -489674,6 +489730,8 @@
 0.0.0.0 www.onlinexxxcamsfree.xyz
 0.0.0.0 onlinexxxcamsslut.agency
 0.0.0.0 www.onlinexxxcamsslut.agency
+0.0.0.0 onlinezins.de
+0.0.0.0 www.onlinezins.de
 0.0.0.0 onlinotitohop.tk
 0.0.0.0 www.onlinotitohop.tk
 0.0.0.0 onlinquisynconsbor.ml
@@ -489828,6 +489886,8 @@
 0.0.0.0 www.onlyslotmakesquestion.biz
 0.0.0.0 onlysonsde.com
 0.0.0.0 www.onlysonsde.com
+0.0.0.0 onlysp1nss-fr.fr
+0.0.0.0 www.onlysp1nss-fr.fr
 0.0.0.0 onlyspiins.fr
 0.0.0.0 www.onlyspiins.fr
 0.0.0.0 onlyspin1-fr.fr
@@ -507660,6 +507720,8 @@
 0.0.0.0 www.paypalaccount-infos.fr
 0.0.0.0 paypalcontacts-aide.fr
 0.0.0.0 www.paypalcontacts-aide.fr
+0.0.0.0 paypalenligne.fr
+0.0.0.0 www.paypalenligne.fr
 0.0.0.0 paypall.fr
 0.0.0.0 www.paypall.fr
 0.0.0.0 paypalpaymentsecurity.fr
@@ -507814,6 +507876,8 @@
 0.0.0.0 www.paysabagnai.cf
 0.0.0.0 paysabcompcallconfnast.ga
 0.0.0.0 www.paysabcompcallconfnast.ga
+0.0.0.0 paysafecardenligne.fr
+0.0.0.0 www.paysafecardenligne.fr
 0.0.0.0 paysandu.info
 0.0.0.0 www.paysandu.info
 0.0.0.0 payscorifleb.gq
@@ -515978,6 +516042,8 @@
 0.0.0.0 www.piccoliprestitiveloci.it
 0.0.0.0 piccomaeurope.fr
 0.0.0.0 www.piccomaeurope.fr
+0.0.0.0 piccu.org
+0.0.0.0 www.piccu.org
 0.0.0.0 piccysajulem.gq
 0.0.0.0 www.piccysajulem.gq
 0.0.0.0 picdaitecessparna.cf
@@ -577516,6 +577582,8 @@
 0.0.0.0 www.rodenpdempclim.ga
 0.0.0.0 rodeoslot-fr.fr
 0.0.0.0 www.rodeoslot-fr.fr
+0.0.0.0 rodeoslot.fr
+0.0.0.0 www.rodeoslot.fr
 0.0.0.0 rodeoslotcasinos.fr
 0.0.0.0 www.rodeoslotcasinos.fr
 0.0.0.0 rodeoslotscasino.fr
@@ -599524,6 +599592,8 @@
 0.0.0.0 www.sepiyt.tokyo
 0.0.0.0 sepjacourca.tk
 0.0.0.0 www.sepjacourca.tk
+0.0.0.0 sepkicks.com
+0.0.0.0 www.sepkicks.com
 0.0.0.0 seplingvercachandthest.tk
 0.0.0.0 www.seplingvercachandthest.tk
 0.0.0.0 seplisfawntor.info
@@ -600516,6 +600586,8 @@
 0.0.0.0 www.service-expedition-mondialrl.fr
 0.0.0.0 service-facturation-disney.fr
 0.0.0.0 www.service-facturation-disney.fr
+0.0.0.0 service-facturation-prime.fr
+0.0.0.0 www.service-facturation-prime.fr
 0.0.0.0 service-factureorange.fr
 0.0.0.0 www.service-factureorange.fr
 0.0.0.0 service-fashion.eu
@@ -617338,6 +617410,8 @@
 0.0.0.0 www.softdosamphilders.ml
 0.0.0.0 softdrivgatasonli.tk
 0.0.0.0 www.softdrivgatasonli.tk
+0.0.0.0 softelektro.com
+0.0.0.0 www.softelektro.com
 0.0.0.0 softfirecsoma.tk
 0.0.0.0 www.softfirecsoma.tk
 0.0.0.0 softforex.pw
@@ -619930,6 +620004,8 @@
 0.0.0.0 www.sow6t2.cyou
 0.0.0.0 sowaoptive.asia
 0.0.0.0 www.sowaoptive.asia
+0.0.0.0 sowaswillichauch.de
+0.0.0.0 www.sowaswillichauch.de
 0.0.0.0 sowbrl.bar
 0.0.0.0 www.sowbrl.bar
 0.0.0.0 sowepirare.gq
@@ -635792,6 +635868,8 @@
 0.0.0.0 www.support-client-boursorama.fr
 0.0.0.0 support-client-chrono.fr
 0.0.0.0 www.support-client-chrono.fr
+0.0.0.0 support-client-colis.fr
+0.0.0.0 www.support-client-colis.fr
 0.0.0.0 support-client-compte.fr
 0.0.0.0 www.support-client-compte.fr
 0.0.0.0 support-client-generale.fr
@@ -708032,6 +708110,8 @@
 0.0.0.0 www.verif-credit-agricole.fr
 0.0.0.0 verif-databaseinterface.fr
 0.0.0.0 www.verif-databaseinterface.fr
+0.0.0.0 verif-dgfip-ca3.fr
+0.0.0.0 www.verif-dgfip-ca3.fr
 0.0.0.0 verif-discord.fr
 0.0.0.0 www.verif-discord.fr
 0.0.0.0 verif-disney-plus.fr
@@ -734658,6 +734738,8 @@
 0.0.0.0 www.westace-casino-888.fr
 0.0.0.0 westacecasinos.fr
 0.0.0.0 www.westacecasinos.fr
+0.0.0.0 westaces-fr.fr
+0.0.0.0 www.westaces-fr.fr
 0.0.0.0 westafricagateway.org
 0.0.0.0 www.westafricagateway.org
 0.0.0.0 westbeelegu.ml
