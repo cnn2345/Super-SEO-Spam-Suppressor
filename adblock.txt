@@ -58192,6 +58192,7 @@
 ||bitcoin-everest-ai.fr^$document
 ||bitcoin-miner.shop^$document
 ||bitcoin-pharmacy.com^$document
+||bitcoin-revolution.org^$document
 ||bitcoin-shop.ro^$document
 ||bitcoin-trader.net^$document
 ||bitcoin-xact.fr^$document
@@ -58208,6 +58209,7 @@
 ||bitcoinmotion.com^$document
 ||bitcoinmotion.io^$document
 ||bitcoinprime.fr^$document
+||bitcoinrevolution.org^$document
 ||bitcoins-central.com^$document
 ||bitcoinshop.fr^$document
 ||bitcoinskn.com^$document
@@ -210097,8 +210099,6 @@
 ||magisk.download^$document
 ||magisk.info^$document
 ||magisk.me^$document
-||magisk.zip^$document
-||magiskapk.net^$document
 ||magiskapp.com^$document
 ||magiskcn.com^$document
 ||magiskmanager.com^$document
@@ -322649,7 +322649,6 @@
 ||tannaeblacnersta.gq^$document
 ||tannalulalnati.tk^$document
 ||tannaverseeta.cf^$document
-||tanner-shoes.com^$document
 ||tannibabforktar.tk^$document
 ||tannighcetbera.tk^$document
 ||tannimurni.tk^$document
@@ -328335,7 +328334,6 @@
 ||thehenryrange.co.uk^$document
 ||thehepsttars.cf^$document
 ||theheraldnewstoday.com^$document
-||thehickorygolfer.com^$document
 ||thehiddenlibrary.xyz^$document
 ||thehikingshoe.com^$document
 ||thehjgja561e2p.biz^$document
@@ -339680,7 +339678,6 @@
 ||trusted-online-generic.com^$document
 ||trustedallcbd.com^$document
 ||trustedallovertheworld.com^$document
-||trustedconsumerreview.online^$document
 ||trustedgreencbd.com^$document
 ||trustedkeys.es^$document
 ||trustedmedstore24.com^$document
@@ -347488,7 +347485,6 @@
 ||upangioringsleev.tk^$document
 ||upantanboonkdisc.tk^$document
 ||upanymmen.ml^$document
-||upap-papu.post^$document
 ||upaphaptimi.tk^$document
 ||upapver.my.id^$document
 ||upaq507.shop^$document
@@ -383739,7 +383735,6 @@
 ||ying997.com^$document
 ||ying998.com^$document
 ||ying999.com^$document
-||yinga-vital.de^$document
 ||yingfeidi.com^$document
 ||yinghuawang.com^$document
 ||yingkehz.com^$document

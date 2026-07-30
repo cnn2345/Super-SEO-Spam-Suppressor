@@ -116380,6 +116380,8 @@
 0.0.0.0 www.bitcoin-miner.shop
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 www.bitcoin-pharmacy.com
+0.0.0.0 bitcoin-revolution.org
+0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 bitcoin-shop.ro
 0.0.0.0 www.bitcoin-shop.ro
 0.0.0.0 bitcoin-trader.net
@@ -116412,6 +116414,8 @@
 0.0.0.0 www.bitcoinmotion.io
 0.0.0.0 bitcoinprime.fr
 0.0.0.0 www.bitcoinprime.fr
+0.0.0.0 bitcoinrevolution.org
+0.0.0.0 www.bitcoinrevolution.org
 0.0.0.0 bitcoins-central.com
 0.0.0.0 www.bitcoins-central.com
 0.0.0.0 bitcoinshop.fr
@@ -420190,10 +420194,6 @@
 0.0.0.0 www.magisk.info
 0.0.0.0 magisk.me
 0.0.0.0 www.magisk.me
-0.0.0.0 magisk.zip
-0.0.0.0 www.magisk.zip
-0.0.0.0 magiskapk.net
-0.0.0.0 www.magiskapk.net
 0.0.0.0 magiskapp.com
 0.0.0.0 www.magiskapp.com
 0.0.0.0 magiskcn.com
@@ -645294,8 +645294,6 @@
 0.0.0.0 www.tannalulalnati.tk
 0.0.0.0 tannaverseeta.cf
 0.0.0.0 www.tannaverseeta.cf
-0.0.0.0 tanner-shoes.com
-0.0.0.0 www.tanner-shoes.com
 0.0.0.0 tannibabforktar.tk
 0.0.0.0 www.tannibabforktar.tk
 0.0.0.0 tannighcetbera.tk
@@ -656666,8 +656664,6 @@
 0.0.0.0 www.thehepsttars.cf
 0.0.0.0 theheraldnewstoday.com
 0.0.0.0 www.theheraldnewstoday.com
-0.0.0.0 thehickorygolfer.com
-0.0.0.0 www.thehickorygolfer.com
 0.0.0.0 thehiddenlibrary.xyz
 0.0.0.0 www.thehiddenlibrary.xyz
 0.0.0.0 thehikingshoe.com
@@ -679356,8 +679352,6 @@
 0.0.0.0 www.trustedallcbd.com
 0.0.0.0 trustedallovertheworld.com
 0.0.0.0 www.trustedallovertheworld.com
-0.0.0.0 trustedconsumerreview.online
-0.0.0.0 www.trustedconsumerreview.online
 0.0.0.0 trustedgreencbd.com
 0.0.0.0 www.trustedgreencbd.com
 0.0.0.0 trustedkeys.es
@@ -694972,8 +694966,6 @@
 0.0.0.0 www.upantanboonkdisc.tk
 0.0.0.0 upanymmen.ml
 0.0.0.0 www.upanymmen.ml
-0.0.0.0 upap-papu.post
-0.0.0.0 www.upap-papu.post
 0.0.0.0 upaphaptimi.tk
 0.0.0.0 www.upaphaptimi.tk
 0.0.0.0 upapver.my.id
@@ -767474,8 +767466,6 @@
 0.0.0.0 www.ying998.com
 0.0.0.0 ying999.com
 0.0.0.0 www.ying999.com
-0.0.0.0 yinga-vital.de
-0.0.0.0 www.yinga-vital.de
 0.0.0.0 yingfeidi.com
 0.0.0.0 www.yingfeidi.com
 0.0.0.0 yinghuawang.com

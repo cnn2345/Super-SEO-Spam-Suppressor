@@ -116380,6 +116380,8 @@
 ::1 www.bitcoin-miner.shop
 ::1 bitcoin-pharmacy.com
 ::1 www.bitcoin-pharmacy.com
+::1 bitcoin-revolution.org
+::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-trader.net
@@ -116412,6 +116414,8 @@
 ::1 www.bitcoinmotion.io
 ::1 bitcoinprime.fr
 ::1 www.bitcoinprime.fr
+::1 bitcoinrevolution.org
+::1 www.bitcoinrevolution.org
 ::1 bitcoins-central.com
 ::1 www.bitcoins-central.com
 ::1 bitcoinshop.fr
@@ -420190,10 +420194,6 @@
 ::1 www.magisk.info
 ::1 magisk.me
 ::1 www.magisk.me
-::1 magisk.zip
-::1 www.magisk.zip
-::1 magiskapk.net
-::1 www.magiskapk.net
 ::1 magiskapp.com
 ::1 www.magiskapp.com
 ::1 magiskcn.com
@@ -645294,8 +645294,6 @@
 ::1 www.tannalulalnati.tk
 ::1 tannaverseeta.cf
 ::1 www.tannaverseeta.cf
-::1 tanner-shoes.com
-::1 www.tanner-shoes.com
 ::1 tannibabforktar.tk
 ::1 www.tannibabforktar.tk
 ::1 tannighcetbera.tk
@@ -656666,8 +656664,6 @@
 ::1 www.thehepsttars.cf
 ::1 theheraldnewstoday.com
 ::1 www.theheraldnewstoday.com
-::1 thehickorygolfer.com
-::1 www.thehickorygolfer.com
 ::1 thehiddenlibrary.xyz
 ::1 www.thehiddenlibrary.xyz
 ::1 thehikingshoe.com
@@ -679356,8 +679352,6 @@
 ::1 www.trustedallcbd.com
 ::1 trustedallovertheworld.com
 ::1 www.trustedallovertheworld.com
-::1 trustedconsumerreview.online
-::1 www.trustedconsumerreview.online
 ::1 trustedgreencbd.com
 ::1 www.trustedgreencbd.com
 ::1 trustedkeys.es
@@ -694972,8 +694966,6 @@
 ::1 www.upantanboonkdisc.tk
 ::1 upanymmen.ml
 ::1 www.upanymmen.ml
-::1 upap-papu.post
-::1 www.upap-papu.post
 ::1 upaphaptimi.tk
 ::1 www.upaphaptimi.tk
 ::1 upapver.my.id
@@ -767474,8 +767466,6 @@
 ::1 www.ying998.com
 ::1 ying999.com
 ::1 www.ying999.com
-::1 yinga-vital.de
-::1 www.yinga-vital.de
 ::1 yingfeidi.com
 ::1 www.yingfeidi.com
 ::1 yinghuawang.com
