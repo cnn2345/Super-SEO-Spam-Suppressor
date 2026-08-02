@@ -59134,8 +59134,6 @@
 0.0.0.0 www.aatdp6v.work
 0.0.0.0 aategje.rest
 0.0.0.0 www.aategje.rest
-0.0.0.0 aatrailers.de
-0.0.0.0 www.aatrailers.de
 0.0.0.0 aautzk.bar
 0.0.0.0 www.aautzk.bar
 0.0.0.0 aautzk.rest
@@ -60068,8 +60066,6 @@
 0.0.0.0 www.abmareaplibeechpa.tk
 0.0.0.0 abmcn8s.shop
 0.0.0.0 www.abmcn8s.shop
-0.0.0.0 abmdistrib.com
-0.0.0.0 www.abmdistrib.com
 0.0.0.0 abmebadisma.ga
 0.0.0.0 www.abmebadisma.ga
 0.0.0.0 abmelinniponc.tk
@@ -60750,8 +60746,6 @@
 0.0.0.0 www.abuda.xyz
 0.0.0.0 abudgefeti.ml
 0.0.0.0 www.abudgefeti.ml
-0.0.0.0 abugarciaangelwelt.com
-0.0.0.0 www.abugarciaangelwelt.com
 0.0.0.0 abugoe.tokyo
 0.0.0.0 www.abugoe.tokyo
 0.0.0.0 abuking-casino.fr
@@ -62406,8 +62400,6 @@
 0.0.0.0 www.achhamgativa.tk
 0.0.0.0 achicsiocurri.tk
 0.0.0.0 www.achicsiocurri.tk
-0.0.0.0 achicwomen.com
-0.0.0.0 www.achicwomen.com
 0.0.0.0 achikanpurla.gq
 0.0.0.0 www.achikanpurla.gq
 0.0.0.0 achilles-sport.fr
@@ -64004,8 +63996,6 @@
 0.0.0.0 www.ad8vn1.cyou
 0.0.0.0 ad95x55.cyou
 0.0.0.0 www.ad95x55.cyou
-0.0.0.0 ada-handelssystem.com
-0.0.0.0 www.ada-handelssystem.com
 0.0.0.0 adabdecaftexp.ml
 0.0.0.0 www.adabdecaftexp.ml
 0.0.0.0 adabenundisting.gq
@@ -66310,8 +66300,6 @@
 0.0.0.0 www.aetcjt.tokyo
 0.0.0.0 aetfbe.tokyo
 0.0.0.0 www.aetfbe.tokyo
-0.0.0.0 aetherarkex.com
-0.0.0.0 www.aetherarkex.com
 0.0.0.0 aetiducri.com
 0.0.0.0 www.aetiducri.com
 0.0.0.0 aetos-deutschland.de
@@ -66640,8 +66628,6 @@
 0.0.0.0 www.affen-park.de
 0.0.0.0 affenzahn-schuhe.com
 0.0.0.0 www.affenzahn-schuhe.com
-0.0.0.0 affenzahne-de.shop
-0.0.0.0 www.affenzahne-de.shop
 0.0.0.0 afffto.blogspot.com
 0.0.0.0 www.afffto.blogspot.com
 0.0.0.0 affgmh.bar
@@ -69658,8 +69644,6 @@
 0.0.0.0 www.aijsid.tokyo
 0.0.0.0 aijuhvc.tokyo
 0.0.0.0 www.aijuhvc.tokyo
-0.0.0.0 aikellyservices.com
-0.0.0.0 www.aikellyservices.com
 0.0.0.0 aikf8v.tokyo
 0.0.0.0 www.aikf8v.tokyo
 0.0.0.0 aikido-maribor.si
@@ -74538,8 +74522,6 @@
 0.0.0.0 www.altesynhorn.tk
 0.0.0.0 altharmony.com
 0.0.0.0 www.altharmony.com
-0.0.0.0 althaus-kredit.com
-0.0.0.0 www.althaus-kredit.com
 0.0.0.0 altheagroupe.fr
 0.0.0.0 www.altheagroupe.fr
 0.0.0.0 althecanoca.ga
@@ -74862,8 +74844,6 @@
 0.0.0.0 www.alverogmbh.myshopify.com
 0.0.0.0 alvexo-data.com
 0.0.0.0 www.alvexo-data.com
-0.0.0.0 alvexo.io
-0.0.0.0 www.alvexo.io
 0.0.0.0 alveydupave.ga
 0.0.0.0 www.alveydupave.ga
 0.0.0.0 alvheg.bar
@@ -78602,8 +78582,6 @@
 0.0.0.0 www.amperland-brennholz.de
 0.0.0.0 ampermonshowte.tk
 0.0.0.0 www.ampermonshowte.tk
-0.0.0.0 ampersandonlines.com
-0.0.0.0 www.ampersandonlines.com
 0.0.0.0 amphesapectgran.ml
 0.0.0.0 www.amphesapectgran.ml
 0.0.0.0 amphioninternational.buzz
@@ -78682,8 +78660,6 @@
 0.0.0.0 www.amrcde.tokyo
 0.0.0.0 amredegutilas.gq
 0.0.0.0 www.amredegutilas.gq
-0.0.0.0 amremorques.com
-0.0.0.0 www.amremorques.com
 0.0.0.0 amrename.web.app
 0.0.0.0 www.amrename.web.app
 0.0.0.0 amrenmuwofor.ga
@@ -79114,8 +79090,6 @@
 0.0.0.0 www.amzn.pm
 0.0.0.0 amzn.tf
 0.0.0.0 www.amzn.tf
-0.0.0.0 amznreturnsale.com
-0.0.0.0 www.amznreturnsale.com
 0.0.0.0 amzoibj.tokyo
 0.0.0.0 www.amzoibj.tokyo
 0.0.0.0 amzon-contact.fr
@@ -79192,8 +79166,6 @@
 0.0.0.0 www.anabmetturnprowog.cf
 0.0.0.0 anabolic-steroids-online.com
 0.0.0.0 www.anabolic-steroids-online.com
-0.0.0.0 anabolikalegale.com
-0.0.0.0 www.anabolikalegale.com
 0.0.0.0 anabolikaonlinebestellen.com
 0.0.0.0 www.anabolikaonlinebestellen.com
 0.0.0.0 anabolikaonlinedeutschland.com
@@ -110088,8 +110060,6 @@
 0.0.0.0 www.bestsaunakits.com
 0.0.0.0 bestscashardpuzzdown.cf
 0.0.0.0 www.bestscashardpuzzdown.cf
-0.0.0.0 bestselectionforyou.com
-0.0.0.0 www.bestselectionforyou.com
 0.0.0.0 bestseller-price.news
 0.0.0.0 www.bestseller-price.news
 0.0.0.0 bestseller-stock.cyou
@@ -138706,8 +138676,6 @@
 0.0.0.0 www.canada2024-lnterac.fr
 0.0.0.0 canadabreakingnews.com
 0.0.0.0 www.canadabreakingnews.com
-0.0.0.0 canadadrugstore.com
-0.0.0.0 www.canadadrugstore.com
 0.0.0.0 canadagooseoutletfrance.fr
 0.0.0.0 www.canadagooseoutletfrance.fr
 0.0.0.0 canadagoosepaschere.fr
@@ -202730,8 +202698,6 @@
 0.0.0.0 www.diaruptpumy.cf
 0.0.0.0 diarynidestningdec.gq
 0.0.0.0 www.diarynidestningdec.gq
-0.0.0.0 diaryofafitmommy.com
-0.0.0.0 www.diaryofafitmommy.com
 0.0.0.0 diasafihorakou.gq
 0.0.0.0 www.diasafihorakou.gq
 0.0.0.0 diasallnpowadexlo.cf
@@ -243336,8 +243302,6 @@
 0.0.0.0 www.eu-franprix.fr
 0.0.0.0 eu-impots.fr
 0.0.0.0 www.eu-impots.fr
-0.0.0.0 eu-meds.net
-0.0.0.0 www.eu-meds.net
 0.0.0.0 eu-meds.online
 0.0.0.0 www.eu-meds.online
 0.0.0.0 eu-meta.fr
@@ -243348,8 +243312,6 @@
 0.0.0.0 www.eu-pharmacy-online.com
 0.0.0.0 eu-pharmacy.fr
 0.0.0.0 www.eu-pharmacy.fr
-0.0.0.0 eu-pillstore.com
-0.0.0.0 www.eu-pillstore.com
 0.0.0.0 eu-prime.fr
 0.0.0.0 www.eu-prime.fr
 0.0.0.0 eu-sezane.com
@@ -298126,8 +298088,6 @@
 0.0.0.0 www.groundiesschoenennederland.com
 0.0.0.0 groundiesshop.at
 0.0.0.0 www.groundiesshop.at
-0.0.0.0 groundiesukshoes.com
-0.0.0.0 www.groundiesukshoes.com
 0.0.0.0 groundisconaco.tk
 0.0.0.0 www.groundisconaco.tk
 0.0.0.0 groundly.best
@@ -358800,6 +358760,8 @@
 0.0.0.0 www.jetszv.rest
 0.0.0.0 jette-handel.de
 0.0.0.0 www.jette-handel.de
+0.0.0.0 jetterix.com
+0.0.0.0 www.jetterix.com
 0.0.0.0 jetton-casino.fr
 0.0.0.0 www.jetton-casino.fr
 0.0.0.0 jetton.fr
@@ -369918,6 +369880,8 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
+0.0.0.0 kamagra-pro.online
+0.0.0.0 www.kamagra-pro.online
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 www.kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
@@ -391980,6 +391944,8 @@
 0.0.0.0 www.lbszftg.cn
 0.0.0.0 lbszka.rest
 0.0.0.0 www.lbszka.rest
+0.0.0.0 lbtinc.com
+0.0.0.0 www.lbtinc.com
 0.0.0.0 lbtx8c.cyou
 0.0.0.0 www.lbtx8c.cyou
 0.0.0.0 lbu7yb.xyz
@@ -486246,8 +486212,6 @@
 0.0.0.0 www.oikpe.bar
 0.0.0.0 oiktzca.bar
 0.0.0.0 www.oiktzca.bar
-0.0.0.0 oil-profits.com
-0.0.0.0 www.oil-profits.com
 0.0.0.0 oilav.xyz
 0.0.0.0 www.oilav.xyz
 0.0.0.0 oilchangeasheville.com
@@ -516374,8 +516338,6 @@
 0.0.0.0 www.piccoliprestitiveloci.it
 0.0.0.0 piccomaeurope.fr
 0.0.0.0 www.piccomaeurope.fr
-0.0.0.0 piccu.org
-0.0.0.0 www.piccu.org
 0.0.0.0 piccysajulem.gq
 0.0.0.0 www.piccysajulem.gq
 0.0.0.0 picdaitecessparna.cf
@@ -589088,8 +589050,6 @@
 0.0.0.0 www.salomonosterreich.at
 0.0.0.0 salomonoutletgermany.de
 0.0.0.0 www.salomonoutletgermany.de
-0.0.0.0 salomonoutletireland.com
-0.0.0.0 www.salomonoutletireland.com
 0.0.0.0 salomonoutletstoresusa.com
 0.0.0.0 www.salomonoutletstoresusa.com
 0.0.0.0 salomonparis.fr
@@ -624406,6 +624366,8 @@
 0.0.0.0 www.spyderwrisemel.tk
 0.0.0.0 spydintravornemenradingnofurtangde.xyz
 0.0.0.0 www.spydintravornemenradingnofurtangde.xyz
+0.0.0.0 spydiscount24.com
+0.0.0.0 www.spydiscount24.com
 0.0.0.0 spygok.rest
 0.0.0.0 www.spygok.rest
 0.0.0.0 spyi5p.cyou
@@ -712372,8 +712334,6 @@
 0.0.0.0 www.viennaapartments.org
 0.0.0.0 viennaaustrohotel.com
 0.0.0.0 www.viennaaustrohotel.com
-0.0.0.0 viennameerschaum.com
-0.0.0.0 www.viennameerschaum.com
 0.0.0.0 viennamode.at
 0.0.0.0 www.viennamode.at
 0.0.0.0 viennamode.com
