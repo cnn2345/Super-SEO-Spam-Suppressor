@@ -80502,8 +80502,6 @@
 ::1 www.anhaenger-pfalzgrafenweiler.de
 ::1 anhaenger-von-thule.de
 ::1 www.anhaenger-von-thule.de
-::1 anhaengerhandel-leipzig.com
-::1 www.anhaengerhandel-leipzig.com
 ::1 anhaengerhandel-leipziig.de
 ::1 www.anhaengerhandel-leipziig.de
 ::1 anhaengerkauf24.com
@@ -80526,8 +80524,6 @@
 ::1 www.anhanger-behalter.de
 ::1 anhanger-handler.com
 ::1 www.anhanger-handler.com
-::1 anhanger-kreuter.com
-::1 www.anhanger-kreuter.com
 ::1 anhanger.net
 ::1 www.anhanger.net
 ::1 anhangercenter.com
@@ -80536,8 +80532,6 @@
 ::1 www.anhangerdienst.com
 ::1 anhangermaschinen.de
 ::1 www.anhangermaschinen.de
-::1 anhangerplus.com
-::1 www.anhangerplus.com
 ::1 anhangerr.com
 ::1 www.anhangerr.com
 ::1 anhangershop.com
@@ -84514,8 +84508,6 @@
 ::1 www.apoxcardolas.tk
 ::1 app-abonnements.fr
 ::1 www.app-abonnements.fr
-::1 app-alpha.net
-::1 www.app-alpha.net
 ::1 app-ameli.fr
 ::1 www.app-ameli.fr
 ::1 app-amex-france.fr
@@ -85778,8 +85770,6 @@
 ::1 www.aquascapers-galerie.com
 ::1 aquataliaparis.fr
 ::1 www.aquataliaparis.fr
-::1 aquavibespro.com
-::1 www.aquavibespro.com
 ::1 aquawin-fr.fr
 ::1 www.aquawin-fr.fr
 ::1 aquawin1.fr
@@ -86202,8 +86192,6 @@
 ::1 www.arbeitsanzuge24.com
 ::1 arbeitskleidung-shop.net
 ::1 www.arbeitskleidung-shop.net
-::1 arbeitskleidungbillig.com
-::1 www.arbeitskleidungbillig.com
 ::1 arbeitsschutz-infos.de
 ::1 www.arbeitsschutz-infos.de
 ::1 arbertercfanan.tk
@@ -87890,8 +87878,6 @@
 ::1 www.arolerluntemp.ml
 ::1 arolinanep.ga
 ::1 www.arolinanep.ga
-::1 aroma-finanz.com
-::1 www.aroma-finanz.com
 ::1 aroma-tec.com
 ::1 www.aroma-tec.com
 ::1 aromaboutique.at
@@ -88712,8 +88698,6 @@
 ::1 www.artosnomics.com
 ::1 artournamenbyafron.gq
 ::1 www.artournamenbyafron.gq
-::1 artourose.com
-::1 www.artourose.com
 ::1 artovitel.com
 ::1 www.artovitel.com
 ::1 artowordmepichdia.cf
@@ -93330,8 +93314,6 @@
 ::1 www.atredraurolsipor.ga
 ::1 atreide-ventures.fr
 ::1 www.atreide-ventures.fr
-::1 atrendse.cc
-::1 www.atrendse.cc
 ::1 atrensattnedna.cf
 ::1 www.atrensattnedna.cf
 ::1 atreomanreranssupp.tk
@@ -94040,8 +94022,6 @@
 ::1 www.audio-seleccio.com
 ::1 audio-voxel.com
 ::1 www.audio-voxel.com
-::1 audiogeraterabatt.com
-::1 www.audiogeraterabatt.com
 ::1 audiograbber.xyz
 ::1 www.audiograbber.xyz
 ::1 audiokeys.eu
@@ -94274,8 +94254,6 @@
 ::1 www.auregr.bar
 ::1 aurelllc.com
 ::1 www.aurelllc.com
-::1 aurenbridge.com
-::1 www.aurenbridge.com
 ::1 aurendal.com
 ::1 www.aurendal.com
 ::1 aureon-casino.fr
@@ -94306,8 +94284,6 @@
 ::1 www.auriaofficiel.com
 ::1 aurishearing.buzz
 ::1 www.aurishearing.buzz
-::1 aurixa.eu
-::1 www.aurixa.eu
 ::1 aurochs29anders.fun
 ::1 www.aurochs29anders.fun
 ::1 aurolonix.com
@@ -95056,8 +95032,6 @@
 ::1 www.automotixrs.ga
 ::1 automotorplus.com
 ::1 www.automotorplus.com
-::1 automotorradkomponente.com
-::1 www.automotorradkomponente.com
 ::1 automotoserwismikolajuk.pl
 ::1 www.automotoserwismikolajuk.pl
 ::1 autonetonline.buzz
@@ -95740,8 +95714,6 @@
 ::1 www.avis-penalites.fr
 ::1 avis-susp.fr
 ::1 www.avis-susp.fr
-::1 avis.support
-::1 www.avis.support
 ::1 avisborgosanmartino.it
 ::1 www.avisborgosanmartino.it
 ::1 avisclient-gbdh.fr
@@ -96140,8 +96112,6 @@
 ::1 www.aw94hu.tokyo
 ::1 awadosbio.tk
 ::1 www.awadosbio.tk
-::1 awaisms.com
-::1 www.awaisms.com
 ::1 awambor.ml
 ::1 www.awambor.ml
 ::1 awanolcheatilsi.ga
@@ -100138,8 +100108,6 @@
 ::1 www.baderlafepat.ga
 ::1 baderus.de
 ::1 www.baderus.de
-::1 badespielzeugstore.com
-::1 www.badespielzeugstore.com
 ::1 badetecocacal.ml
 ::1 www.badetecocacal.ml
 ::1 badevtasucol.cf
@@ -101256,8 +101224,6 @@
 ::1 www.bambara.best
 ::1 bambeabogel.xyz
 ::1 www.bambeabogel.xyz
-::1 bambini-baby.com
-::1 www.bambini-baby.com
 ::1 bambinobambola.com
 ::1 www.bambinobambola.com
 ::1 bamblongrekanma.ga
@@ -102422,8 +102388,6 @@
 ::1 www.bar-clays.fr
 ::1 bar-edge.buzz
 ::1 www.bar-edge.buzz
-::1 bar-experte.com
-::1 www.bar-experte.com
 ::1 bar-prime.fr
 ::1 www.bar-prime.fr
 ::1 bar-pub-saint-mefisto.fr
@@ -103982,8 +103946,6 @@
 ::1 www.bawestcolcoge.tk
 ::1 bawpalosbestblissand.cf
 ::1 www.bawpalosbestblissand.cf
-::1 bawqpou.shop
-::1 www.bawqpou.shop
 ::1 bawvoyflorunda.ga
 ::1 www.bawvoyflorunda.ga
 ::1 bawyif.rest
@@ -106662,8 +106624,6 @@
 ::1 www.bekigupenti.ga
 ::1 bekleidunggadgets.com
 ::1 www.bekleidunggadgets.com
-::1 bekleidungonstore.com
-::1 www.bekleidungonstore.com
 ::1 bekleidungsoutlet.com
 ::1 www.bekleidungsoutlet.com
 ::1 bekm6.cyou
@@ -107000,8 +106960,6 @@
 ::1 www.bellini.xyz
 ::1 bellinsongroup.com
 ::1 www.bellinsongroup.com
-::1 belliora.it
-::1 www.belliora.it
 ::1 bellissimoo.de
 ::1 www.bellissimoo.de
 ::1 bellkrazunmotaror.ga
@@ -108014,8 +107972,6 @@
 ::1 www.bergdensaboti.tk
 ::1 bergemusoc.cf
 ::1 www.bergemusoc.cf
-::1 berger-deals.com
-::1 www.berger-deals.com
 ::1 berger-seidle-shop.de
 ::1 www.berger-seidle-shop.de
 ::1 bergeresdefrance.fr
@@ -130890,6 +130846,8 @@
 ::1 www.bundcrybgespuncdespma.cf
 ::1 bunddeesibdotasug.tk
 ::1 www.bunddeesibdotasug.tk
+::1 bundes-finanzservice.de
+::1 www.bundes-finanzservice.de
 ::1 bundesanzeiger.fr
 ::1 www.bundesanzeiger.fr
 ::1 bundestagssauna.de
@@ -230022,6 +229980,8 @@
 ::1 www.ellertson.xyz
 ::1 ellessefrance.fr
 ::1 www.ellessefrance.fr
+::1 ellesses.de
+::1 www.ellesses.de
 ::1 ellethasirerp.gq
 ::1 www.ellethasirerp.gq
 ::1 ellevory.com
@@ -256364,6 +256324,8 @@
 ::1 www.ffexa.bar
 ::1 fff-billetterie-france.fr
 ::1 www.fff-billetterie-france.fr
+::1 fff-billetterie.fr
+::1 www.fff-billetterie.fr
 ::1 fff-blog.xyz
 ::1 www.fff-blog.xyz
 ::1 ffff518.com
@@ -259584,6 +259546,8 @@
 ::1 www.firstcp.cn
 ::1 firstgoldgmbh.com
 ::1 www.firstgoldgmbh.com
+::1 firstgoldshop.com
+::1 www.firstgoldshop.com
 ::1 firsticket.fr
 ::1 www.firsticket.fr
 ::1 firstitagesdia.gq
@@ -267990,6 +267954,8 @@
 ::1 www.fr-sites.fr
 ::1 fr-snapchat.fr
 ::1 www.fr-snapchat.fr
+::1 fr-sneakshop.fr
+::1 www.fr-sneakshop.fr
 ::1 fr-societeroy.fr
 ::1 www.fr-societeroy.fr
 ::1 fr-socopa.fr
@@ -305204,6 +305170,8 @@
 ::1 www.hafskibby.dk
 ::1 hagal.ee
 ::1 www.hagal.ee
+::1 hagebaumarkt-muenchen.shop
+::1 www.hagebaumarkt-muenchen.shop
 ::1 hagebauu.com
 ::1 www.hagebauu.com
 ::1 hagedoritam.tk
@@ -370748,6 +370716,8 @@
 ::1 www.kartamelejensie.cf
 ::1 karteczki3d.pl
 ::1 www.karteczki3d.pl
+::1 kartenschatz.shop
+::1 www.kartenschatz.shop
 ::1 kartideajesszo.ml
 ::1 www.kartideajesszo.ml
 ::1 kartnucremoteva.tk
@@ -395714,6 +395684,8 @@
 ::1 www.lenapetingmoras.cf
 ::1 lenaprami.ga
 ::1 www.lenaprami.ga
+::1 lenaskunst.de
+::1 www.lenaskunst.de
 ::1 lenbarkciramali.tk
 ::1 www.lenbarkciramali.tk
 ::1 lenbcipaldiherta.ga
@@ -430446,6 +430418,8 @@
 ::1 www.meltynetwork.fr
 ::1 melumanara.tk
 ::1 www.melumanara.tk
+::1 melun-police.fr
+::1 www.melun-police.fr
 ::1 melusa.xyz
 ::1 www.melusa.xyz
 ::1 melvaria.shop
@@ -457912,6 +457886,8 @@
 ::1 www.nanomend.eu
 ::1 nanontiofefa.tk
 ::1 www.nanontiofefa.tk
+::1 nanovault.de
+::1 www.nanovault.de
 ::1 nanpeddmedoslack.cf
 ::1 www.nanpeddmedoslack.cf
 ::1 nanpemanduoto.ml
@@ -503552,6 +503528,8 @@
 ::1 www.palace-casino.fr
 ::1 palacecasino1.fr
 ::1 www.palacecasino1.fr
+::1 palaceskateboardsfrance.fr
+::1 www.palaceskateboardsfrance.fr
 ::1 paladaremorr.gq
 ::1 www.paladaremorr.gq
 ::1 paladilichen.ga
@@ -544112,6 +544090,8 @@
 ::1 www.qegfy0c.work
 ::1 qegqwc.tokyo
 ::1 www.qegqwc.tokyo
+::1 qeh-outlet.fr
+::1 www.qeh-outlet.fr
 ::1 qeheev.tokyo
 ::1 www.qeheev.tokyo
 ::1 qehezs.tokyo
@@ -583426,6 +583406,8 @@
 ::1 www.rundrejser.eu
 ::1 rundummobil.de
 ::1 www.rundummobil.de
+::1 rundumstrikot.de
+::1 www.rundumstrikot.de
 ::1 runecasa.com
 ::1 www.runecasa.com
 ::1 runelite.wiki
@@ -622572,6 +622554,8 @@
 ::1 www.spinboss-jouer.fr
 ::1 spinboss1.fr
 ::1 www.spinboss1.fr
+::1 spinboss2.fr
+::1 www.spinboss2.fr
 ::1 spinbosse.fr
 ::1 www.spinbosse.fr
 ::1 spinbosses.fr
@@ -623422,6 +623406,8 @@
 ::1 www.splendris-pharmaceuticals.de
 ::1 splicedonline.com
 ::1 www.splicedonline.com
+::1 splima.de
+::1 www.splima.de
 ::1 splimox.xyz
 ::1 www.splimox.xyz
 ::1 splotching.com
@@ -653904,6 +653890,8 @@
 ::1 www.terrapsmaperwora.tk
 ::1 terrapultideh.cf
 ::1 www.terrapultideh.cf
+::1 terraqo.de
+::1 www.terraqo.de
 ::1 terraqueousness.site
 ::1 www.terraqueousness.site
 ::1 terrarekgepanty.tk
@@ -735530,6 +735518,8 @@
 ::1 www.wettretilapochs.cf
 ::1 wettzo-casino.fr
 ::1 www.wettzo-casino.fr
+::1 wettzo-fr.fr
+::1 www.wettzo-fr.fr
 ::1 wettzo1.fr
 ::1 www.wettzo1.fr
 ::1 wettzocasino.fr
@@ -756288,6 +756278,8 @@
 ::1 www.xn--lcl-scurit-f7af.fr
 ::1 xn--le-bguin-e1a.fr
 ::1 www.xn--le-bguin-e1a.fr
+::1 xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
+::1 www.xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 ::1 xn--leboncoinfranais-opb.fr
 ::1 www.xn--leboncoinfranais-opb.fr
 ::1 xn--leboncon-i2a.fr

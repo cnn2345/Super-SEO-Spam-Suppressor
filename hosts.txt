@@ -80502,8 +80502,6 @@
 0.0.0.0 www.anhaenger-pfalzgrafenweiler.de
 0.0.0.0 anhaenger-von-thule.de
 0.0.0.0 www.anhaenger-von-thule.de
-0.0.0.0 anhaengerhandel-leipzig.com
-0.0.0.0 www.anhaengerhandel-leipzig.com
 0.0.0.0 anhaengerhandel-leipziig.de
 0.0.0.0 www.anhaengerhandel-leipziig.de
 0.0.0.0 anhaengerkauf24.com
@@ -80526,8 +80524,6 @@
 0.0.0.0 www.anhanger-behalter.de
 0.0.0.0 anhanger-handler.com
 0.0.0.0 www.anhanger-handler.com
-0.0.0.0 anhanger-kreuter.com
-0.0.0.0 www.anhanger-kreuter.com
 0.0.0.0 anhanger.net
 0.0.0.0 www.anhanger.net
 0.0.0.0 anhangercenter.com
@@ -80536,8 +80532,6 @@
 0.0.0.0 www.anhangerdienst.com
 0.0.0.0 anhangermaschinen.de
 0.0.0.0 www.anhangermaschinen.de
-0.0.0.0 anhangerplus.com
-0.0.0.0 www.anhangerplus.com
 0.0.0.0 anhangerr.com
 0.0.0.0 www.anhangerr.com
 0.0.0.0 anhangershop.com
@@ -84514,8 +84508,6 @@
 0.0.0.0 www.apoxcardolas.tk
 0.0.0.0 app-abonnements.fr
 0.0.0.0 www.app-abonnements.fr
-0.0.0.0 app-alpha.net
-0.0.0.0 www.app-alpha.net
 0.0.0.0 app-ameli.fr
 0.0.0.0 www.app-ameli.fr
 0.0.0.0 app-amex-france.fr
@@ -85778,8 +85770,6 @@
 0.0.0.0 www.aquascapers-galerie.com
 0.0.0.0 aquataliaparis.fr
 0.0.0.0 www.aquataliaparis.fr
-0.0.0.0 aquavibespro.com
-0.0.0.0 www.aquavibespro.com
 0.0.0.0 aquawin-fr.fr
 0.0.0.0 www.aquawin-fr.fr
 0.0.0.0 aquawin1.fr
@@ -86202,8 +86192,6 @@
 0.0.0.0 www.arbeitsanzuge24.com
 0.0.0.0 arbeitskleidung-shop.net
 0.0.0.0 www.arbeitskleidung-shop.net
-0.0.0.0 arbeitskleidungbillig.com
-0.0.0.0 www.arbeitskleidungbillig.com
 0.0.0.0 arbeitsschutz-infos.de
 0.0.0.0 www.arbeitsschutz-infos.de
 0.0.0.0 arbertercfanan.tk
@@ -87890,8 +87878,6 @@
 0.0.0.0 www.arolerluntemp.ml
 0.0.0.0 arolinanep.ga
 0.0.0.0 www.arolinanep.ga
-0.0.0.0 aroma-finanz.com
-0.0.0.0 www.aroma-finanz.com
 0.0.0.0 aroma-tec.com
 0.0.0.0 www.aroma-tec.com
 0.0.0.0 aromaboutique.at
@@ -88712,8 +88698,6 @@
 0.0.0.0 www.artosnomics.com
 0.0.0.0 artournamenbyafron.gq
 0.0.0.0 www.artournamenbyafron.gq
-0.0.0.0 artourose.com
-0.0.0.0 www.artourose.com
 0.0.0.0 artovitel.com
 0.0.0.0 www.artovitel.com
 0.0.0.0 artowordmepichdia.cf
@@ -93330,8 +93314,6 @@
 0.0.0.0 www.atredraurolsipor.ga
 0.0.0.0 atreide-ventures.fr
 0.0.0.0 www.atreide-ventures.fr
-0.0.0.0 atrendse.cc
-0.0.0.0 www.atrendse.cc
 0.0.0.0 atrensattnedna.cf
 0.0.0.0 www.atrensattnedna.cf
 0.0.0.0 atreomanreranssupp.tk
@@ -94040,8 +94022,6 @@
 0.0.0.0 www.audio-seleccio.com
 0.0.0.0 audio-voxel.com
 0.0.0.0 www.audio-voxel.com
-0.0.0.0 audiogeraterabatt.com
-0.0.0.0 www.audiogeraterabatt.com
 0.0.0.0 audiograbber.xyz
 0.0.0.0 www.audiograbber.xyz
 0.0.0.0 audiokeys.eu
@@ -94274,8 +94254,6 @@
 0.0.0.0 www.auregr.bar
 0.0.0.0 aurelllc.com
 0.0.0.0 www.aurelllc.com
-0.0.0.0 aurenbridge.com
-0.0.0.0 www.aurenbridge.com
 0.0.0.0 aurendal.com
 0.0.0.0 www.aurendal.com
 0.0.0.0 aureon-casino.fr
@@ -94306,8 +94284,6 @@
 0.0.0.0 www.auriaofficiel.com
 0.0.0.0 aurishearing.buzz
 0.0.0.0 www.aurishearing.buzz
-0.0.0.0 aurixa.eu
-0.0.0.0 www.aurixa.eu
 0.0.0.0 aurochs29anders.fun
 0.0.0.0 www.aurochs29anders.fun
 0.0.0.0 aurolonix.com
@@ -95056,8 +95032,6 @@
 0.0.0.0 www.automotixrs.ga
 0.0.0.0 automotorplus.com
 0.0.0.0 www.automotorplus.com
-0.0.0.0 automotorradkomponente.com
-0.0.0.0 www.automotorradkomponente.com
 0.0.0.0 automotoserwismikolajuk.pl
 0.0.0.0 www.automotoserwismikolajuk.pl
 0.0.0.0 autonetonline.buzz
@@ -95740,8 +95714,6 @@
 0.0.0.0 www.avis-penalites.fr
 0.0.0.0 avis-susp.fr
 0.0.0.0 www.avis-susp.fr
-0.0.0.0 avis.support
-0.0.0.0 www.avis.support
 0.0.0.0 avisborgosanmartino.it
 0.0.0.0 www.avisborgosanmartino.it
 0.0.0.0 avisclient-gbdh.fr
@@ -96140,8 +96112,6 @@
 0.0.0.0 www.aw94hu.tokyo
 0.0.0.0 awadosbio.tk
 0.0.0.0 www.awadosbio.tk
-0.0.0.0 awaisms.com
-0.0.0.0 www.awaisms.com
 0.0.0.0 awambor.ml
 0.0.0.0 www.awambor.ml
 0.0.0.0 awanolcheatilsi.ga
@@ -100138,8 +100108,6 @@
 0.0.0.0 www.baderlafepat.ga
 0.0.0.0 baderus.de
 0.0.0.0 www.baderus.de
-0.0.0.0 badespielzeugstore.com
-0.0.0.0 www.badespielzeugstore.com
 0.0.0.0 badetecocacal.ml
 0.0.0.0 www.badetecocacal.ml
 0.0.0.0 badevtasucol.cf
@@ -101256,8 +101224,6 @@
 0.0.0.0 www.bambara.best
 0.0.0.0 bambeabogel.xyz
 0.0.0.0 www.bambeabogel.xyz
-0.0.0.0 bambini-baby.com
-0.0.0.0 www.bambini-baby.com
 0.0.0.0 bambinobambola.com
 0.0.0.0 www.bambinobambola.com
 0.0.0.0 bamblongrekanma.ga
@@ -102422,8 +102388,6 @@
 0.0.0.0 www.bar-clays.fr
 0.0.0.0 bar-edge.buzz
 0.0.0.0 www.bar-edge.buzz
-0.0.0.0 bar-experte.com
-0.0.0.0 www.bar-experte.com
 0.0.0.0 bar-prime.fr
 0.0.0.0 www.bar-prime.fr
 0.0.0.0 bar-pub-saint-mefisto.fr
@@ -103982,8 +103946,6 @@
 0.0.0.0 www.bawestcolcoge.tk
 0.0.0.0 bawpalosbestblissand.cf
 0.0.0.0 www.bawpalosbestblissand.cf
-0.0.0.0 bawqpou.shop
-0.0.0.0 www.bawqpou.shop
 0.0.0.0 bawvoyflorunda.ga
 0.0.0.0 www.bawvoyflorunda.ga
 0.0.0.0 bawyif.rest
@@ -106662,8 +106624,6 @@
 0.0.0.0 www.bekigupenti.ga
 0.0.0.0 bekleidunggadgets.com
 0.0.0.0 www.bekleidunggadgets.com
-0.0.0.0 bekleidungonstore.com
-0.0.0.0 www.bekleidungonstore.com
 0.0.0.0 bekleidungsoutlet.com
 0.0.0.0 www.bekleidungsoutlet.com
 0.0.0.0 bekm6.cyou
@@ -107000,8 +106960,6 @@
 0.0.0.0 www.bellini.xyz
 0.0.0.0 bellinsongroup.com
 0.0.0.0 www.bellinsongroup.com
-0.0.0.0 belliora.it
-0.0.0.0 www.belliora.it
 0.0.0.0 bellissimoo.de
 0.0.0.0 www.bellissimoo.de
 0.0.0.0 bellkrazunmotaror.ga
@@ -108014,8 +107972,6 @@
 0.0.0.0 www.bergdensaboti.tk
 0.0.0.0 bergemusoc.cf
 0.0.0.0 www.bergemusoc.cf
-0.0.0.0 berger-deals.com
-0.0.0.0 www.berger-deals.com
 0.0.0.0 berger-seidle-shop.de
 0.0.0.0 www.berger-seidle-shop.de
 0.0.0.0 bergeresdefrance.fr
@@ -130890,6 +130846,8 @@
 0.0.0.0 www.bundcrybgespuncdespma.cf
 0.0.0.0 bunddeesibdotasug.tk
 0.0.0.0 www.bunddeesibdotasug.tk
+0.0.0.0 bundes-finanzservice.de
+0.0.0.0 www.bundes-finanzservice.de
 0.0.0.0 bundesanzeiger.fr
 0.0.0.0 www.bundesanzeiger.fr
 0.0.0.0 bundestagssauna.de
@@ -230022,6 +229980,8 @@
 0.0.0.0 www.ellertson.xyz
 0.0.0.0 ellessefrance.fr
 0.0.0.0 www.ellessefrance.fr
+0.0.0.0 ellesses.de
+0.0.0.0 www.ellesses.de
 0.0.0.0 ellethasirerp.gq
 0.0.0.0 www.ellethasirerp.gq
 0.0.0.0 ellevory.com
@@ -256364,6 +256324,8 @@
 0.0.0.0 www.ffexa.bar
 0.0.0.0 fff-billetterie-france.fr
 0.0.0.0 www.fff-billetterie-france.fr
+0.0.0.0 fff-billetterie.fr
+0.0.0.0 www.fff-billetterie.fr
 0.0.0.0 fff-blog.xyz
 0.0.0.0 www.fff-blog.xyz
 0.0.0.0 ffff518.com
@@ -259584,6 +259546,8 @@
 0.0.0.0 www.firstcp.cn
 0.0.0.0 firstgoldgmbh.com
 0.0.0.0 www.firstgoldgmbh.com
+0.0.0.0 firstgoldshop.com
+0.0.0.0 www.firstgoldshop.com
 0.0.0.0 firsticket.fr
 0.0.0.0 www.firsticket.fr
 0.0.0.0 firstitagesdia.gq
@@ -267990,6 +267954,8 @@
 0.0.0.0 www.fr-sites.fr
 0.0.0.0 fr-snapchat.fr
 0.0.0.0 www.fr-snapchat.fr
+0.0.0.0 fr-sneakshop.fr
+0.0.0.0 www.fr-sneakshop.fr
 0.0.0.0 fr-societeroy.fr
 0.0.0.0 www.fr-societeroy.fr
 0.0.0.0 fr-socopa.fr
@@ -305204,6 +305170,8 @@
 0.0.0.0 www.hafskibby.dk
 0.0.0.0 hagal.ee
 0.0.0.0 www.hagal.ee
+0.0.0.0 hagebaumarkt-muenchen.shop
+0.0.0.0 www.hagebaumarkt-muenchen.shop
 0.0.0.0 hagebauu.com
 0.0.0.0 www.hagebauu.com
 0.0.0.0 hagedoritam.tk
@@ -370748,6 +370716,8 @@
 0.0.0.0 www.kartamelejensie.cf
 0.0.0.0 karteczki3d.pl
 0.0.0.0 www.karteczki3d.pl
+0.0.0.0 kartenschatz.shop
+0.0.0.0 www.kartenschatz.shop
 0.0.0.0 kartideajesszo.ml
 0.0.0.0 www.kartideajesszo.ml
 0.0.0.0 kartnucremoteva.tk
@@ -395714,6 +395684,8 @@
 0.0.0.0 www.lenapetingmoras.cf
 0.0.0.0 lenaprami.ga
 0.0.0.0 www.lenaprami.ga
+0.0.0.0 lenaskunst.de
+0.0.0.0 www.lenaskunst.de
 0.0.0.0 lenbarkciramali.tk
 0.0.0.0 www.lenbarkciramali.tk
 0.0.0.0 lenbcipaldiherta.ga
@@ -430446,6 +430418,8 @@
 0.0.0.0 www.meltynetwork.fr
 0.0.0.0 melumanara.tk
 0.0.0.0 www.melumanara.tk
+0.0.0.0 melun-police.fr
+0.0.0.0 www.melun-police.fr
 0.0.0.0 melusa.xyz
 0.0.0.0 www.melusa.xyz
 0.0.0.0 melvaria.shop
@@ -457912,6 +457886,8 @@
 0.0.0.0 www.nanomend.eu
 0.0.0.0 nanontiofefa.tk
 0.0.0.0 www.nanontiofefa.tk
+0.0.0.0 nanovault.de
+0.0.0.0 www.nanovault.de
 0.0.0.0 nanpeddmedoslack.cf
 0.0.0.0 www.nanpeddmedoslack.cf
 0.0.0.0 nanpemanduoto.ml
@@ -503552,6 +503528,8 @@
 0.0.0.0 www.palace-casino.fr
 0.0.0.0 palacecasino1.fr
 0.0.0.0 www.palacecasino1.fr
+0.0.0.0 palaceskateboardsfrance.fr
+0.0.0.0 www.palaceskateboardsfrance.fr
 0.0.0.0 paladaremorr.gq
 0.0.0.0 www.paladaremorr.gq
 0.0.0.0 paladilichen.ga
@@ -544112,6 +544090,8 @@
 0.0.0.0 www.qegfy0c.work
 0.0.0.0 qegqwc.tokyo
 0.0.0.0 www.qegqwc.tokyo
+0.0.0.0 qeh-outlet.fr
+0.0.0.0 www.qeh-outlet.fr
 0.0.0.0 qeheev.tokyo
 0.0.0.0 www.qeheev.tokyo
 0.0.0.0 qehezs.tokyo
@@ -583426,6 +583406,8 @@
 0.0.0.0 www.rundrejser.eu
 0.0.0.0 rundummobil.de
 0.0.0.0 www.rundummobil.de
+0.0.0.0 rundumstrikot.de
+0.0.0.0 www.rundumstrikot.de
 0.0.0.0 runecasa.com
 0.0.0.0 www.runecasa.com
 0.0.0.0 runelite.wiki
@@ -622572,6 +622554,8 @@
 0.0.0.0 www.spinboss-jouer.fr
 0.0.0.0 spinboss1.fr
 0.0.0.0 www.spinboss1.fr
+0.0.0.0 spinboss2.fr
+0.0.0.0 www.spinboss2.fr
 0.0.0.0 spinbosse.fr
 0.0.0.0 www.spinbosse.fr
 0.0.0.0 spinbosses.fr
@@ -623422,6 +623406,8 @@
 0.0.0.0 www.splendris-pharmaceuticals.de
 0.0.0.0 splicedonline.com
 0.0.0.0 www.splicedonline.com
+0.0.0.0 splima.de
+0.0.0.0 www.splima.de
 0.0.0.0 splimox.xyz
 0.0.0.0 www.splimox.xyz
 0.0.0.0 splotching.com
@@ -653904,6 +653890,8 @@
 0.0.0.0 www.terrapsmaperwora.tk
 0.0.0.0 terrapultideh.cf
 0.0.0.0 www.terrapultideh.cf
+0.0.0.0 terraqo.de
+0.0.0.0 www.terraqo.de
 0.0.0.0 terraqueousness.site
 0.0.0.0 www.terraqueousness.site
 0.0.0.0 terrarekgepanty.tk
@@ -735530,6 +735518,8 @@
 0.0.0.0 www.wettretilapochs.cf
 0.0.0.0 wettzo-casino.fr
 0.0.0.0 www.wettzo-casino.fr
+0.0.0.0 wettzo-fr.fr
+0.0.0.0 www.wettzo-fr.fr
 0.0.0.0 wettzo1.fr
 0.0.0.0 www.wettzo1.fr
 0.0.0.0 wettzocasino.fr
@@ -756288,6 +756278,8 @@
 0.0.0.0 www.xn--lcl-scurit-f7af.fr
 0.0.0.0 xn--le-bguin-e1a.fr
 0.0.0.0 www.xn--le-bguin-e1a.fr
+0.0.0.0 xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
+0.0.0.0 www.xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 0.0.0.0 xn--leboncoinfranais-opb.fr
 0.0.0.0 www.xn--leboncoinfranais-opb.fr
 0.0.0.0 xn--leboncon-i2a.fr

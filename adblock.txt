@@ -40253,7 +40253,6 @@
 ||anhaenger-klasen.de^$document
 ||anhaenger-pfalzgrafenweiler.de^$document
 ||anhaenger-von-thule.de^$document
-||anhaengerhandel-leipzig.com^$document
 ||anhaengerhandel-leipziig.de^$document
 ||anhaengerkauf24.com^$document
 ||anhaengerklasen.de^$document
@@ -40265,12 +40264,10 @@
 ||anhamamdiewelna.gq^$document
 ||anhanger-behalter.de^$document
 ||anhanger-handler.com^$document
-||anhanger-kreuter.com^$document
 ||anhanger.net^$document
 ||anhangercenter.com^$document
 ||anhangerdienst.com^$document
 ||anhangermaschinen.de^$document
-||anhangerplus.com^$document
 ||anhangerr.com^$document
 ||anhangershop.com^$document
 ||anhangershop24.com^$document
@@ -42259,7 +42256,6 @@
 ||apoversand24.com^$document
 ||apoxcardolas.tk^$document
 ||app-abonnements.fr^$document
-||app-alpha.net^$document
 ||app-ameli.fr^$document
 ||app-amex-france.fr^$document
 ||app-analyse.de^$document
@@ -42891,7 +42887,6 @@
 ||aquariumzubehor24.com^$document
 ||aquascapers-galerie.com^$document
 ||aquataliaparis.fr^$document
-||aquavibespro.com^$document
 ||aquawin-fr.fr^$document
 ||aquawin1.fr^$document
 ||aqufqtc.cyou^$document
@@ -43103,7 +43098,6 @@
 ||arbeitjetzt.com^$document
 ||arbeitsanzuge24.com^$document
 ||arbeitskleidung-shop.net^$document
-||arbeitskleidungbillig.com^$document
 ||arbeitsschutz-infos.de^$document
 ||arbertercfanan.tk^$document
 ||arbesmyece.ga^$document
@@ -43947,7 +43941,6 @@
 ||arolanunripur.tk^$document
 ||arolerluntemp.ml^$document
 ||arolinanep.ga^$document
-||aroma-finanz.com^$document
 ||aroma-tec.com^$document
 ||aromaboutique.at^$document
 ||aromaleben.com^$document
@@ -44358,7 +44351,6 @@
 ||artolureakari.ga^$document
 ||artosnomics.com^$document
 ||artournamenbyafron.gq^$document
-||artourose.com^$document
 ||artovitel.com^$document
 ||artowordmepichdia.cf^$document
 ||artpaintings.xyz^$document
@@ -46667,7 +46659,6 @@
 ||atrattalida.cf^$document
 ||atredraurolsipor.ga^$document
 ||atreide-ventures.fr^$document
-||atrendse.cc^$document
 ||atrensattnedna.cf^$document
 ||atreomanreranssupp.tk^$document
 ||atresterungrymp.cf^$document
@@ -47022,7 +47013,6 @@
 ||audio-ebooks-free.my.id^$document
 ||audio-seleccio.com^$document
 ||audio-voxel.com^$document
-||audiogeraterabatt.com^$document
 ||audiograbber.xyz^$document
 ||audiokeys.eu^$document
 ||audiomachinery.com^$document
@@ -47139,7 +47129,6 @@
 ||aureateness.best^$document
 ||auregr.bar^$document
 ||aurelllc.com^$document
-||aurenbridge.com^$document
 ||aurendal.com^$document
 ||aureon-casino.fr^$document
 ||aureon-play.fr^$document
@@ -47155,7 +47144,6 @@
 ||aurexk-pital.com^$document
 ||auriaofficiel.com^$document
 ||aurishearing.buzz^$document
-||aurixa.eu^$document
 ||aurochs29anders.fun^$document
 ||aurolonix.com^$document
 ||auromobile.fr^$document
@@ -47530,7 +47518,6 @@
 ||automotivepartsutah.com^$document
 ||automotixrs.ga^$document
 ||automotorplus.com^$document
-||automotorradkomponente.com^$document
 ||automotoserwismikolajuk.pl^$document
 ||autonetonline.buzz^$document
 ||autonews.dr^$document
@@ -47872,7 +47859,6 @@
 ||avis-penalite.fr^$document
 ||avis-penalites.fr^$document
 ||avis-susp.fr^$document
-||avis.support^$document
 ||avisborgosanmartino.it^$document
 ||avisclient-gbdh.fr^$document
 ||aviscontravention.fr^$document
@@ -48072,7 +48058,6 @@
 ||aw92en.cyou^$document
 ||aw94hu.tokyo^$document
 ||awadosbio.tk^$document
-||awaisms.com^$document
 ||awambor.ml^$document
 ||awanolcheatilsi.ga^$document
 ||awanzi.com^$document
@@ -50071,7 +50056,6 @@
 ||baderenitor.gq^$document
 ||baderlafepat.ga^$document
 ||baderus.de^$document
-||badespielzeugstore.com^$document
 ||badetecocacal.ml^$document
 ||badevtasucol.cf^$document
 ||badextspigurstan.tk^$document
@@ -50630,7 +50614,6 @@
 ||bambaata-streetwear-store.fr^$document
 ||bambara.best^$document
 ||bambeabogel.xyz^$document
-||bambini-baby.com^$document
 ||bambinobambola.com^$document
 ||bamblongrekanma.ga^$document
 ||bamboolikes.com^$document
@@ -51213,7 +51196,6 @@
 ||bar-a-vin-le-loft.fr^$document
 ||bar-clays.fr^$document
 ||bar-edge.buzz^$document
-||bar-experte.com^$document
 ||bar-prime.fr^$document
 ||bar-pub-saint-mefisto.fr^$document
 ||barabbas.it^$document
@@ -51993,7 +51975,6 @@
 ||bawelsfirshandwerzing.tk^$document
 ||bawestcolcoge.tk^$document
 ||bawpalosbestblissand.cf^$document
-||bawqpou.shop^$document
 ||bawvoyflorunda.ga^$document
 ||bawyif.rest^$document
 ||bawynssiran.tk^$document
@@ -53333,7 +53314,6 @@
 ||beketsbadcpenders.gq^$document
 ||bekigupenti.ga^$document
 ||bekleidunggadgets.com^$document
-||bekleidungonstore.com^$document
 ||bekleidungsoutlet.com^$document
 ||bekm6.cyou^$document
 ||beknewspreghetab.ga^$document
@@ -53502,7 +53482,6 @@
 ||belligerency.buzz^$document
 ||bellini.xyz^$document
 ||bellinsongroup.com^$document
-||belliora.it^$document
 ||bellissimoo.de^$document
 ||bellkrazunmotaror.ga^$document
 ||bellmebluti.tk^$document
@@ -54009,7 +53988,6 @@
 ||bergcycle.com^$document
 ||bergdensaboti.tk^$document
 ||bergemusoc.cf^$document
-||berger-deals.com^$document
 ||berger-seidle-shop.de^$document
 ||bergeresdefrance.fr^$document
 ||bergermode.com^$document
@@ -65447,6 +65425,7 @@
 ||bundconmamaldeper.cf^$document
 ||bundcrybgespuncdespma.cf^$document
 ||bunddeesibdotasug.tk^$document
+||bundes-finanzservice.de^$document
 ||bundesanzeiger.fr^$document
 ||bundestagssauna.de^$document
 ||bundeswehr-ingolstadt.de^$document
@@ -115013,6 +114992,7 @@
 ||ellerne.com^$document
 ||ellertson.xyz^$document
 ||ellessefrance.fr^$document
+||ellesses.de^$document
 ||ellethasirerp.gq^$document
 ||ellevory.com^$document
 ||ellfozy.tokyo^$document
@@ -128184,6 +128164,7 @@
 ||ffevvl.tokyo^$document
 ||ffexa.bar^$document
 ||fff-billetterie-france.fr^$document
+||fff-billetterie.fr^$document
 ||fff-blog.xyz^$document
 ||ffff518.com^$document
 ||fffhaltero.fr^$document
@@ -129794,6 +129775,7 @@
 ||firstclassmoto.com^$document
 ||firstcp.cn^$document
 ||firstgoldgmbh.com^$document
+||firstgoldshop.com^$document
 ||firsticket.fr^$document
 ||firstitagesdia.gq^$document
 ||firstlegalservices.es^$document
@@ -133997,6 +133979,7 @@
 ||fr-site.fr^$document
 ||fr-sites.fr^$document
 ||fr-snapchat.fr^$document
+||fr-sneakshop.fr^$document
 ||fr-societeroy.fr^$document
 ||fr-socopa.fr^$document
 ||fr-sogetrel.fr^$document
@@ -152604,6 +152587,7 @@
 ||hafootscafearit.tk^$document
 ||hafskibby.dk^$document
 ||hagal.ee^$document
+||hagebaumarkt-muenchen.shop^$document
 ||hagebauu.com^$document
 ||hagedoritam.tk^$document
 ||hagedornmode.de^$document
@@ -185376,6 +185360,7 @@
 ||kartables.fr^$document
 ||kartamelejensie.cf^$document
 ||karteczki3d.pl^$document
+||kartenschatz.shop^$document
 ||kartideajesszo.ml^$document
 ||kartnucremoteva.tk^$document
 ||kartoncanta.ist^$document
@@ -197859,6 +197844,7 @@
 ||lenanripartkann.ml^$document
 ||lenapetingmoras.cf^$document
 ||lenaprami.ga^$document
+||lenaskunst.de^$document
 ||lenbarkciramali.tk^$document
 ||lenbcipaldiherta.ga^$document
 ||lenbdanroundhapshel.ml^$document
@@ -215225,6 +215211,7 @@
 ||meltygroup.com^$document
 ||meltynetwork.fr^$document
 ||melumanara.tk^$document
+||melun-police.fr^$document
 ||melusa.xyz^$document
 ||melvaria.shop^$document
 ||melvecujass.ml^$document
@@ -228958,6 +228945,7 @@
 ||nanogold.online^$document
 ||nanomend.eu^$document
 ||nanontiofefa.tk^$document
+||nanovault.de^$document
 ||nanpeddmedoslack.cf^$document
 ||nanpemanduoto.ml^$document
 ||nanphodinews.tk^$document
@@ -251778,6 +251766,7 @@
 ||palaca.xyz^$document
 ||palace-casino.fr^$document
 ||palacecasino1.fr^$document
+||palaceskateboardsfrance.fr^$document
 ||paladaremorr.gq^$document
 ||paladilichen.ga^$document
 ||palaeozoological.com^$document
@@ -272058,6 +272047,7 @@
 ||qeg5o7.cyou^$document
 ||qegfy0c.work^$document
 ||qegqwc.tokyo^$document
+||qeh-outlet.fr^$document
 ||qeheev.tokyo^$document
 ||qehezs.tokyo^$document
 ||qehsua.rest^$document
@@ -291715,6 +291705,7 @@
 ||rundiffusion.com^$document
 ||rundrejser.eu^$document
 ||rundummobil.de^$document
+||rundumstrikot.de^$document
 ||runecasa.com^$document
 ||runelite.wiki^$document
 ||runelord.eu^$document
@@ -311288,6 +311279,7 @@
 ||spinboss-france.fr^$document
 ||spinboss-jouer.fr^$document
 ||spinboss1.fr^$document
+||spinboss2.fr^$document
 ||spinbosse.fr^$document
 ||spinbosses.fr^$document
 ||spinbosss.fr^$document
@@ -311713,6 +311705,7 @@
 ||splendourproof.xyz^$document
 ||splendris-pharmaceuticals.de^$document
 ||splicedonline.com^$document
+||splima.de^$document
 ||splimox.xyz^$document
 ||splotching.com^$document
 ||splov.xyz^$document
@@ -326954,6 +326947,7 @@
 ||terrancecanceleria.com^$document
 ||terrapsmaperwora.tk^$document
 ||terrapultideh.cf^$document
+||terraqo.de^$document
 ||terraqueousness.site^$document
 ||terrarekgepanty.tk^$document
 ||terrariumhaustiere.com^$document
@@ -367767,6 +367761,7 @@
 ||wetting.de^$document
 ||wettretilapochs.cf^$document
 ||wettzo-casino.fr^$document
+||wettzo-fr.fr^$document
 ||wettzo1.fr^$document
 ||wettzocasino.fr^$document
 ||wetwareconz.xyz^$document
@@ -378146,6 +378141,7 @@
 ||xn--lboncoin-b1a.fr^$document
 ||xn--lcl-scurit-f7af.fr^$document
 ||xn--le-bguin-e1a.fr^$document
+||xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr^$document
 ||xn--leboncoinfranais-opb.fr^$document
 ||xn--leboncon-i2a.fr^$document
 ||xn--lecanardenchain-pnb.fr^$document
