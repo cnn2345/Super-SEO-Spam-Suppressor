@@ -5488,6 +5488,8 @@
 0.0.0.0 www.1-coolzino.fr
 0.0.0.0 1-jj.xyz
 0.0.0.0 www.1-jj.xyz
+0.0.0.0 1-rx-shop.com
+0.0.0.0 www.1-rx-shop.com
 0.0.0.0 1-speaking.com
 0.0.0.0 www.1-speaking.com
 0.0.0.0 1-wins.fr
@@ -30570,8 +30572,6 @@
 0.0.0.0 www.5112754.com
 0.0.0.0 511soft.com
 0.0.0.0 www.511soft.com
-0.0.0.0 511tactical-outlets.shop
-0.0.0.0 www.511tactical-outlets.shop
 0.0.0.0 511vin.com
 0.0.0.0 www.511vin.com
 0.0.0.0 5122580.com
@@ -68752,8 +68752,6 @@
 0.0.0.0 www.ahangridov.tk
 0.0.0.0 ahanoutcanli.tk
 0.0.0.0 www.ahanoutcanli.tk
-0.0.0.0 ahaofootball.com
-0.0.0.0 www.ahaofootball.com
 0.0.0.0 ahappyxwife.xyz
 0.0.0.0 www.ahappyxwife.xyz
 0.0.0.0 ahaqsyfj.com
@@ -79136,8 +79134,6 @@
 0.0.0.0 www.amzon-service.fr
 0.0.0.0 amzones-renouvellement.fr
 0.0.0.0 www.amzones-renouvellement.fr
-0.0.0.0 amzonpaletten.com
-0.0.0.0 www.amzonpaletten.com
 0.0.0.0 amzprime.fr
 0.0.0.0 www.amzprime.fr
 0.0.0.0 amzprimeabonnement.fr
@@ -85794,8 +85790,6 @@
 0.0.0.0 www.aquamarinehotel.ee
 0.0.0.0 aquamask.xyz
 0.0.0.0 www.aquamask.xyz
-0.0.0.0 aquarells.shop
-0.0.0.0 www.aquarells.shop
 0.0.0.0 aquarienbedarf.com
 0.0.0.0 www.aquarienbedarf.com
 0.0.0.0 aquarisonlineshop.de
@@ -94170,8 +94164,6 @@
 0.0.0.0 www.augxlabs.com
 0.0.0.0 augxlabs.com
 0.0.0.0 www.augxlabs.com
-0.0.0.0 auhandmade.com
-0.0.0.0 www.auhandmade.com
 0.0.0.0 auhkjvf.tokyo
 0.0.0.0 www.auhkjvf.tokyo
 0.0.0.0 auhruu.bar
@@ -96018,8 +96010,6 @@
 0.0.0.0 www.avtidisen.tk
 0.0.0.0 avtiventaventco.tk
 0.0.0.0 www.avtiventaventco.tk
-0.0.0.0 avtmcugf.shop
-0.0.0.0 www.avtmcugf.shop
 0.0.0.0 avto-bg.eu
 0.0.0.0 www.avto-bg.eu
 0.0.0.0 avto-stekla.by
@@ -104840,8 +104830,6 @@
 0.0.0.0 www.bcomobepacan.ml
 0.0.0.0 bcor25.cyou
 0.0.0.0 www.bcor25.cyou
-0.0.0.0 bcoutlet-store.shop
-0.0.0.0 www.bcoutlet-store.shop
 0.0.0.0 bcowma1.tokyo
 0.0.0.0 www.bcowma1.tokyo
 0.0.0.0 bcpascher.fr
@@ -107614,8 +107602,6 @@
 0.0.0.0 www.bennman.it
 0.0.0.0 benny-hansen.dk
 0.0.0.0 www.benny-hansen.dk
-0.0.0.0 bennysbookskw.shop
-0.0.0.0 www.bennysbookskw.shop
 0.0.0.0 benoite31caution.download
 0.0.0.0 www.benoite31caution.download
 0.0.0.0 benolusrerect.tk
@@ -116596,6 +116582,8 @@
 0.0.0.0 www.bitcoin-shop.ro
 0.0.0.0 bitcoin-trader.net
 0.0.0.0 www.bitcoin-trader.net
+0.0.0.0 bitcoin-up.io
+0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -131118,8 +131106,6 @@
 0.0.0.0 www.buomby.rest
 0.0.0.0 buonarbakehigh.gq
 0.0.0.0 www.buonarbakehigh.gq
-0.0.0.0 buoreaostore.com
-0.0.0.0 www.buoreaostore.com
 0.0.0.0 buosmarsoinise.cf
 0.0.0.0 www.buosmarsoinise.cf
 0.0.0.0 buovaspkerlewar.ml
@@ -144846,8 +144832,6 @@
 0.0.0.0 www.cavalierforum.be
 0.0.0.0 cavaliernet.dk
 0.0.0.0 www.cavaliernet.dk
-0.0.0.0 cavalleria-toscana-eu.shop
-0.0.0.0 www.cavalleria-toscana-eu.shop
 0.0.0.0 cavalrenee.tk
 0.0.0.0 www.cavalrenee.tk
 0.0.0.0 cavanpipucta.cf
@@ -206536,8 +206520,6 @@
 0.0.0.0 www.discount-distributors.buzz
 0.0.0.0 discount-kobalt.com
 0.0.0.0 www.discount-kobalt.com
-0.0.0.0 discount-lakers.shop
-0.0.0.0 www.discount-lakers.shop
 0.0.0.0 discount-on-car-parts.com
 0.0.0.0 www.discount-on-car-parts.com
 0.0.0.0 discount-pool-park.com
@@ -206590,8 +206572,6 @@
 0.0.0.0 www.discounttraumde.de
 0.0.0.0 discountviagra.store
 0.0.0.0 www.discountviagra.store
-0.0.0.0 discountzone-eu.shop
-0.0.0.0 www.discountzone-eu.shop
 0.0.0.0 discover-anna-calm.nl
 0.0.0.0 www.discover-anna-calm.nl
 0.0.0.0 discover-club.com
@@ -222342,8 +222322,6 @@
 0.0.0.0 www.earinglisbuckti.ml
 0.0.0.0 earjtrust.xyz
 0.0.0.0 www.earjtrust.xyz
-0.0.0.0 earlblack.store
-0.0.0.0 www.earlblack.store
 0.0.0.0 earlegemeci.tk
 0.0.0.0 www.earlegemeci.tk
 0.0.0.0 earlesilquarntedi.tk
@@ -251824,8 +251802,6 @@
 0.0.0.0 www.fancygift.de
 0.0.0.0 fancygrab.com
 0.0.0.0 www.fancygrab.com
-0.0.0.0 fancyprinces.shop
-0.0.0.0 www.fancyprinces.shop
 0.0.0.0 fandelilipsba.ml
 0.0.0.0 www.fandelilipsba.ml
 0.0.0.0 fandetitoli.tk
@@ -280320,8 +280296,6 @@
 0.0.0.0 www.gbg168.cyou
 0.0.0.0 gbg23rw.cn
 0.0.0.0 www.gbg23rw.cn
-0.0.0.0 gbgbkk.de
-0.0.0.0 www.gbgbkk.de
 0.0.0.0 gbgpbz.cyou
 0.0.0.0 www.gbgpbz.cyou
 0.0.0.0 gbgroup.ee
@@ -292224,8 +292198,6 @@
 0.0.0.0 www.goldengoosesale.at
 0.0.0.0 goldengoosesale.de
 0.0.0.0 www.goldengoosesale.de
-0.0.0.0 goldengoosesen.shop
-0.0.0.0 www.goldengoosesen.shop
 0.0.0.0 goldengoosesoldes.fr
 0.0.0.0 www.goldengoosesoldes.fr
 0.0.0.0 goldenlion-casino.fr
@@ -358722,8 +358694,6 @@
 0.0.0.0 www.jesoloimpostadisoggiorno.it
 0.0.0.0 jespershus.dk
 0.0.0.0 www.jespershus.dk
-0.0.0.0 jessegray.shop
-0.0.0.0 www.jessegray.shop
 0.0.0.0 jessejones.xyz
 0.0.0.0 www.jessejones.xyz
 0.0.0.0 jessemccartney.fr
@@ -378522,8 +378492,6 @@
 0.0.0.0 www.kmgr-shop.com
 0.0.0.0 kmgr.store
 0.0.0.0 www.kmgr.store
-0.0.0.0 kmgshropshire.shop
-0.0.0.0 www.kmgshropshire.shop
 0.0.0.0 kmh188.shop
 0.0.0.0 www.kmh188.shop
 0.0.0.0 kmhanas.gq
@@ -411286,6 +411254,8 @@
 0.0.0.0 www.lotulivil.gq
 0.0.0.0 lotumetingdali.tk
 0.0.0.0 www.lotumetingdali.tk
+0.0.0.0 lotus-handeln.com
+0.0.0.0 www.lotus-handeln.com
 0.0.0.0 lotus-hotel.cn
 0.0.0.0 www.lotus-hotel.cn
 0.0.0.0 lotusenvironmentalblog.it
@@ -420914,6 +420884,8 @@
 0.0.0.0 www.magisk.me
 0.0.0.0 magisk.zip
 0.0.0.0 www.magisk.zip
+0.0.0.0 magiskapk.net
+0.0.0.0 www.magiskapk.net
 0.0.0.0 magiskapp.com
 0.0.0.0 www.magiskapp.com
 0.0.0.0 magiskcn.com
@@ -430354,8 +430326,6 @@
 0.0.0.0 www.melangfronylnu.ga
 0.0.0.0 melanieblaesing.de
 0.0.0.0 www.melanieblaesing.de
-0.0.0.0 melaniemack.top
-0.0.0.0 www.melaniemack.top
 0.0.0.0 melanism-unyoke-moodiness.xyz
 0.0.0.0 www.melanism-unyoke-moodiness.xyz
 0.0.0.0 melaresirosi.ml
@@ -432170,8 +432140,6 @@
 0.0.0.0 www.merrellchaussures.fr
 0.0.0.0 merrellenpromos.fr
 0.0.0.0 www.merrellenpromos.fr
-0.0.0.0 merrellfactoryoutlets.com
-0.0.0.0 www.merrellfactoryoutlets.com
 0.0.0.0 merrellfrance.fr
 0.0.0.0 www.merrellfrance.fr
 0.0.0.0 merrelloutletonline.de
@@ -489806,8 +489774,6 @@
 0.0.0.0 www.online-delivery.cam
 0.0.0.0 online-douyin.com
 0.0.0.0 www.online-douyin.com
-0.0.0.0 online-fanatec.top
-0.0.0.0 www.online-fanatec.top
 0.0.0.0 online-fast-slots.fr
 0.0.0.0 www.online-fast-slots.fr
 0.0.0.0 online-fastslots.fr
@@ -514922,6 +514888,8 @@
 0.0.0.0 www.pharmacyeurope24.com
 0.0.0.0 pharmacyinventory.org
 0.0.0.0 www.pharmacyinventory.org
+0.0.0.0 pharmacymarketonline.com
+0.0.0.0 www.pharmacymarketonline.com
 0.0.0.0 pharmacynod.com
 0.0.0.0 www.pharmacynod.com
 0.0.0.0 pharmacyonline24.com
@@ -516304,8 +516272,6 @@
 0.0.0.0 www.piamanwarslasbost.tk
 0.0.0.0 piamareresimp.tk
 0.0.0.0 www.piamareresimp.tk
-0.0.0.0 piana-mall.shop
-0.0.0.0 www.piana-mall.shop
 0.0.0.0 pianidicotturascontato.com
 0.0.0.0 www.pianidicotturascontato.com
 0.0.0.0 piano-barbary.fr
@@ -516488,6 +516454,8 @@
 0.0.0.0 www.piccoliprestitiveloci.it
 0.0.0.0 piccomaeurope.fr
 0.0.0.0 www.piccomaeurope.fr
+0.0.0.0 piccu.org
+0.0.0.0 www.piccu.org
 0.0.0.0 piccysajulem.gq
 0.0.0.0 www.piccysajulem.gq
 0.0.0.0 picdaitecessparna.cf
@@ -537408,8 +537376,6 @@
 0.0.0.0 www.psg-destockage.fr
 0.0.0.0 psg-fc.fr
 0.0.0.0 www.psg-fc.fr
-0.0.0.0 psg-online-store.shop
-0.0.0.0 www.psg-online-store.shop
 0.0.0.0 psg-shop.fr
 0.0.0.0 www.psg-shop.fr
 0.0.0.0 psg-store.fr
@@ -563558,8 +563524,6 @@
 0.0.0.0 www.regnafundverworl.tk
 0.0.0.0 regnbuekoret.dk
 0.0.0.0 www.regnbuekoret.dk
-0.0.0.0 regnc.com
-0.0.0.0 www.regnc.com
 0.0.0.0 regningbergduapi.ga
 0.0.0.0 www.regningbergduapi.ga
 0.0.0.0 regnotigecawi.ml
@@ -578434,8 +578398,6 @@
 0.0.0.0 www.rogtilicimire.tk
 0.0.0.0 rogtirollsuli.tk
 0.0.0.0 www.rogtirollsuli.tk
-0.0.0.0 roguefitnessus.shop
-0.0.0.0 www.roguefitnessus.shop
 0.0.0.0 roguelibri.web.app
 0.0.0.0 www.roguelibri.web.app
 0.0.0.0 rogvelpromanchthi.tk
@@ -584456,6 +584418,8 @@
 0.0.0.0 www.rwcpuw.cyou
 0.0.0.0 rwcrgyt.cyou
 0.0.0.0 www.rwcrgyt.cyou
+0.0.0.0 rwcstore.com
+0.0.0.0 www.rwcstore.com
 0.0.0.0 rwdftx.bar
 0.0.0.0 www.rwdftx.bar
 0.0.0.0 rwdgudo.tokyo
@@ -638598,8 +638562,6 @@
 0.0.0.0 www.swarnim.xyz
 0.0.0.0 swarovski-france.fr
 0.0.0.0 www.swarovski-france.fr
-0.0.0.0 swarovski-hot.shop
-0.0.0.0 www.swarovski-hot.shop
 0.0.0.0 swarovski-soldes.fr
 0.0.0.0 www.swarovski-soldes.fr
 0.0.0.0 swarovskiclub.myshoplaza.com
@@ -693570,8 +693532,6 @@
 0.0.0.0 www.unihhofo.ml
 0.0.0.0 unihyhewelod.cf
 0.0.0.0 www.unihyhewelod.cf
-0.0.0.0 uniitted.shop
-0.0.0.0 www.uniitted.shop
 0.0.0.0 unik-outfit.fr
 0.0.0.0 www.unik-outfit.fr
 0.0.0.0 unikalnostvnezapniy.biz
@@ -743542,6 +743502,8 @@
 0.0.0.0 www.woofgear.de
 0.0.0.0 wooflyx.com
 0.0.0.0 www.wooflyx.com
+0.0.0.0 woofz.academy
+0.0.0.0 www.woofz.academy
 0.0.0.0 woogitopeck.online
 0.0.0.0 www.woogitopeck.online
 0.0.0.0 woogpz.tokyo
@@ -749386,8 +749348,6 @@
 0.0.0.0 www.wxnidae.tokyo
 0.0.0.0 wxnris.tokyo
 0.0.0.0 www.wxnris.tokyo
-0.0.0.0 wxoabf.shop
-0.0.0.0 www.wxoabf.shop
 0.0.0.0 wxods.bar
 0.0.0.0 www.wxods.bar
 0.0.0.0 wxonih.bar
@@ -760204,8 +760164,6 @@
 0.0.0.0 www.xwalra.bar
 0.0.0.0 xwalra.rest
 0.0.0.0 www.xwalra.rest
-0.0.0.0 xwatches.to
-0.0.0.0 www.xwatches.to
 0.0.0.0 xwatmy.cyou
 0.0.0.0 www.xwatmy.cyou
 0.0.0.0 xwayspn.tokyo
