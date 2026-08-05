@@ -52700,6 +52700,7 @@
 ||beachshow.cf^$document
 ||beachtennislugano.ch^$document
 ||beachtioconta.tk^$document
+||beachwalkbali.com^$document
 ||beaconzero.net^$document
 ||beacuc.shop^$document
 ||beadaramos.ml^$document
@@ -59272,7 +59273,6 @@
 ||blatmetmara.gq^$document
 ||blattberlin.com^$document
 ||blattbucht.de^$document
-||blattverkauf.com^$document
 ||blatvuljavehals.ga^$document
 ||blatwerguhatchslov.ml^$document
 ||blaudonau.com^$document
@@ -63059,7 +63059,6 @@
 ||braun-france.fr^$document
 ||braunboutique.com^$document
 ||braundress.net^$document
-||brauneagrar.com^$document
 ||braunfrance.fr^$document
 ||braunsale.de^$document
 ||bravacdetga.tk^$document
@@ -63510,7 +63509,6 @@
 ||brewwelvenelliuwris.tk^$document
 ||brewywhaqteti.cf^$document
 ||brexitamsterdam.nl^$document
-||brezella.com^$document
 ||brezenetogid.ml^$document
 ||brezhasofimesook.ml^$document
 ||brezonatas.tk^$document
@@ -63897,7 +63895,6 @@
 ||brmusc.tokyo^$document
 ||brn2lb.cyou^$document
 ||brn79h.cyou^$document
-||brnghl.shop^$document
 ||brnh4.tokyo^$document
 ||brnlhv.tokyo^$document
 ||brnoxn.bar^$document
@@ -64135,7 +64132,6 @@
 ||brookslaufschuhesale.de^$document
 ||brooksoutletsale.de^$document
 ||brooksrunning-france.fr^$document
-||brooksrunningconnect.com^$document
 ||brookss.at^$document
 ||brooksschuhe.de^$document
 ||brooksschuheberlin.de^$document
@@ -64373,7 +64369,6 @@
 ||bruno-casinofr.fr^$document
 ||bruno-fra.fr^$document
 ||bruno-online.fr^$document
-||brunoberg.com^$document
 ||brunocasin.fr^$document
 ||brunocasino-2.fr^$document
 ||brunocasino-en-ligne.fr^$document
@@ -64919,7 +64914,6 @@
 ||buckketrenati.gq^$document
 ||buckley.xyz^$document
 ||buckleybelts.de^$document
-||buckleyswiss.com^$document
 ||buckligleyhourab.gq^$document
 ||bucklilikipca.tk^$document
 ||bucklinkrepreigoodka.tk^$document
@@ -65326,7 +65320,6 @@
 ||bulksellmart.co.uk^$document
 ||bulktoranha.tk^$document
 ||bull-leather.com^$document
-||bull-verse.org^$document
 ||bullaloha.tk^$document
 ||bullametlykookszell.cf^$document
 ||bullbatarlimide.tk^$document
@@ -69176,7 +69169,6 @@
 ||campfenasutju.tk^$document
 ||campficouncymume.ml^$document
 ||campfullkennfinmi.tk^$document
-||campfuns.com^$document
 ||campgaturrums.tk^$document
 ||campglidlylosu.tk^$document
 ||camping-bewegung.com^$document
@@ -69202,7 +69194,6 @@
 ||campingsgirona.es^$document
 ||campingspezialisten.com^$document
 ||campingstuhleshop.com^$document
-||campingsupplybest.com^$document
 ||campingsverkauf.com^$document
 ||campingzubehorhub.com^$document
 ||campken.xyz^$document
@@ -69235,7 +69226,6 @@
 ||camptaneldena.tk^$document
 ||camptool-shop.com^$document
 ||camptotalerb.tk^$document
-||camptotalneu.com^$document
 ||camptranicreccons.ga^$document
 ||camptrovagypscourso.cf^$document
 ||campus-adidas.fr^$document
@@ -69379,7 +69369,6 @@
 ||canadatransfer2024.fr^$document
 ||canadatrustmed.com^$document
 ||canadawidepharmacy.com^$document
-||canadian-rxpharmacy.com^$document
 ||canadianhealthcaremalll.com^$document
 ||canadianhealthcarepharmacymall.com^$document
 ||canadianhealthncaremall.com^$document
@@ -69407,7 +69396,6 @@
 ||canapopsmortercpin.tk^$document
 ||canard-enchaine.fr^$document
 ||canarigworlcentli.cf^$document
-||canaryrentalvillas.com^$document
 ||canaryvacationhome.com^$document
 ||canasutabmaupen.ml^$document
 ||canatatingdif.ml^$document
@@ -70008,7 +69996,6 @@
 ||carcsenhyharti.tk^$document
 ||carcucomciasub.ga^$document
 ||carcuisubsmagbio.ml^$document
-||carculturein.com^$document
 ||carcunowacheco.ml^$document
 ||carcuon.xyz^$document
 ||carcuwilwooti.tk^$document
@@ -70433,7 +70420,6 @@
 ||carriasaperbank.cf^$document
 ||carriborniwi.ml^$document
 ||carried24bail.webcam^$document
-||carrieri-handel.de^$document
 ||carrierrefrigerationdistributionfrancesas.fr^$document
 ||carrightseyetime.pw^$document
 ||carrillperpfuncber.cf^$document
@@ -141183,7 +141169,6 @@
 ||genereli.fr^$document
 ||generic4all-global.com^$document
 ||generic4allglobal.com^$document
-||genericdoctor.com^$document
 ||genericeupills.com^$document
 ||genericsbot.com^$document
 ||genericshop-247.eu^$document
@@ -149096,6 +149081,7 @@
 ||groundiesoutletfr.fr^$document
 ||groundiesschoenennederland.com^$document
 ||groundiesshop.at^$document
+||groundiesukshoes.com^$document
 ||groundisconaco.tk^$document
 ||groundly.best^$document
 ||groundoyrousmamelbedf.ml^$document
@@ -185002,7 +184988,6 @@
 ||kamagra-premium.net^$document
 ||kamagra-pro.com^$document
 ||kamagra-pro.net^$document
-||kamagra-pro.online^$document
 ||kamagra-prodej-online.eu^$document
 ||kamagra-prodej.cz^$document
 ||kamagra-prodej.online^$document
@@ -197699,6 +197684,7 @@
 ||lekaren-slovenska247.com^$document
 ||lekarenjedna.com^$document
 ||lekarenonline.com^$document
+||lekarenprevas.sk^$document
 ||lekarenslovenska.com^$document
 ||lekarenslovenska.sk^$document
 ||lekarenslovenska24.com^$document
@@ -222953,6 +222939,7 @@
 ||mooreandpetersen.com^$document
 ||mooredvazwe.myshopify.com^$document
 ||mooremanor.xyz^$document
+||mooris.de^$document
 ||moornacimostdoho.tk^$document
 ||moosastgurdtinave.ml^$document
 ||mooseknucklesfrance.fr^$document
@@ -243197,7 +243184,6 @@
 ||oikmvbuy.shop^$document
 ||oikpe.bar^$document
 ||oiktzca.bar^$document
-||oil-profits.com^$document
 ||oilav.xyz^$document
 ||oilchangeasheville.com^$document
 ||oilchangehendersonville.com^$document
@@ -324443,6 +324429,7 @@
 ||tcht.xyz^$document
 ||tchtpj.bar^$document
 ||tchwi.xyz^$document
+||tcinosgroup.com^$document
 ||tcj1uf.cyou^$document
 ||tcjjot.tokyo^$document
 ||tcjnsbp.tokyo^$document
@@ -324695,7 +324682,6 @@
 ||tdzjvne.bar^$document
 ||tdzkplp.tokyo^$document
 ||tdzoyy.bar^$document
-||te.de^$document
 ||te00cg.cyou^$document
 ||te0dpnn.cyou^$document
 ||te0fa97.cyou^$document
