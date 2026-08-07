@@ -96620,8 +96620,6 @@
 0.0.0.0 www.axasabanque.fr
 0.0.0.0 axatbq.bar
 0.0.0.0 www.axatbq.bar
-0.0.0.0 axatechviewou.com
-0.0.0.0 www.axatechviewou.com
 0.0.0.0 axaxhd.tokyo
 0.0.0.0 www.axaxhd.tokyo
 0.0.0.0 axazneiklengunsrock.ml
@@ -105404,6 +105402,8 @@
 0.0.0.0 www.beachtennislugano.ch
 0.0.0.0 beachtioconta.tk
 0.0.0.0 www.beachtioconta.tk
+0.0.0.0 beachwalkbali.com
+0.0.0.0 www.beachwalkbali.com
 0.0.0.0 beaconzero.net
 0.0.0.0 www.beaconzero.net
 0.0.0.0 beacuc.shop
@@ -116624,8 +116624,6 @@
 0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 bitcoin-shop.ro
 0.0.0.0 www.bitcoin-shop.ro
-0.0.0.0 bitcoin-up.io
-0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -138764,6 +138762,8 @@
 0.0.0.0 www.canadatrustmed.com
 0.0.0.0 canadawidepharmacy.com
 0.0.0.0 www.canadawidepharmacy.com
+0.0.0.0 canadiana.top
+0.0.0.0 www.canadiana.top
 0.0.0.0 canadianhealthcaremalll.com
 0.0.0.0 www.canadianhealthcaremalll.com
 0.0.0.0 canadianhealthcarepharmacymall.com
@@ -194032,8 +194032,6 @@
 0.0.0.0 www.de.epicooleronline.store
 0.0.0.0 de.fashvia.shop
 0.0.0.0 www.de.fashvia.shop
-0.0.0.0 de.fitlebenberlin.com
-0.0.0.0 www.de.fitlebenberlin.com
 0.0.0.0 de.givalli-lifestyle.com
 0.0.0.0 www.de.givalli-lifestyle.com
 0.0.0.0 de.gvgmall.com
@@ -227726,8 +227724,6 @@
 0.0.0.0 www.eic2i3d.tokyo
 0.0.0.0 eicarh.xyz
 0.0.0.0 www.eicarh.xyz
-0.0.0.0 eichborn-berlin.de
-0.0.0.0 www.eichborn-berlin.de
 0.0.0.0 eichhholtzsale.com
 0.0.0.0 www.eichhholtzsale.com
 0.0.0.0 eichmann.dk
@@ -254128,8 +254124,6 @@
 0.0.0.0 www.fdsqpg.tokyo
 0.0.0.0 fdsxpp.tokyo
 0.0.0.0 www.fdsxpp.tokyo
-0.0.0.0 fdte2.xyz
-0.0.0.0 www.fdte2.xyz
 0.0.0.0 fdti6e.tokyo
 0.0.0.0 www.fdti6e.tokyo
 0.0.0.0 fdtpig.rest
@@ -255310,8 +255304,6 @@
 0.0.0.0 www.fenonee.xyz
 0.0.0.0 fenoniroban.cf
 0.0.0.0 www.fenoniroban.cf
-0.0.0.0 fenox-autoteile.de
-0.0.0.0 www.fenox-autoteile.de
 0.0.0.0 fenoy6p.tokyo
 0.0.0.0 www.fenoy6p.tokyo
 0.0.0.0 fenpalece.tk
@@ -255692,8 +255684,6 @@
 0.0.0.0 www.ferpesttranarhycol.tk
 0.0.0.0 ferpiwalklectfull.gq
 0.0.0.0 www.ferpiwalklectfull.gq
-0.0.0.0 ferplastdeutschland.shop
-0.0.0.0 www.ferplastdeutschland.shop
 0.0.0.0 ferplastverkaufe.com
 0.0.0.0 www.ferplastverkaufe.com
 0.0.0.0 ferpodishemit.gq
@@ -255918,8 +255908,6 @@
 0.0.0.0 www.festgeld724.de
 0.0.0.0 festgeldfinder.de
 0.0.0.0 www.festgeldfinder.de
-0.0.0.0 festgeldkompass.com
-0.0.0.0 www.festgeldkompass.com
 0.0.0.0 festgeldsicher.at
 0.0.0.0 www.festgeldsicher.at
 0.0.0.0 festhoscoka.ga
@@ -256490,8 +256478,6 @@
 0.0.0.0 www.ffnwp.bar
 0.0.0.0 ffolfk.bar
 0.0.0.0 www.ffolfk.bar
-0.0.0.0 ffount-tech.de
-0.0.0.0 www.ffount-tech.de
 0.0.0.0 ffpjhlcwn.xyz
 0.0.0.0 www.ffpjhlcwn.xyz
 0.0.0.0 ffppch.tokyo
@@ -258198,8 +258184,6 @@
 0.0.0.0 www.filllofumanoba.tk
 0.0.0.0 fillnecessarylife.biz
 0.0.0.0 www.fillnecessarylife.biz
-0.0.0.0 filloutlet.com
-0.0.0.0 www.filloutlet.com
 0.0.0.0 fillsformperiod.biz
 0.0.0.0 www.fillsformperiod.biz
 0.0.0.0 fillsourcmizi.tk
@@ -259868,8 +259852,6 @@
 0.0.0.0 www.fitebipiqo.ml
 0.0.0.0 fitedowndownfu.gq
 0.0.0.0 www.fitedowndownfu.gq
-0.0.0.0 fiteningf.com
-0.0.0.0 www.fiteningf.com
 0.0.0.0 fitephoswheto.tk
 0.0.0.0 www.fitephoswheto.tk
 0.0.0.0 fiteridownsesfi.ga
@@ -259886,8 +259868,6 @@
 0.0.0.0 www.fitevolnaiful.ml
 0.0.0.0 fitexpressaviatiei.ro
 0.0.0.0 www.fitexpressaviatiei.ro
-0.0.0.0 fitflopparis.net
-0.0.0.0 www.fitflopparis.net
 0.0.0.0 fitflopromania.com
 0.0.0.0 www.fitflopromania.com
 0.0.0.0 fitflopsoutlet.fr
@@ -264880,8 +264860,6 @@
 0.0.0.0 www.footswordeacent.tk
 0.0.0.0 foottuatabunli.gq
 0.0.0.0 www.foottuatabunli.gq
-0.0.0.0 footvibe.de
-0.0.0.0 www.footvibe.de
 0.0.0.0 footvigeadbe.tk
 0.0.0.0 www.footvigeadbe.tk
 0.0.0.0 footwearapparelprotectionlaw.com
@@ -267042,8 +267020,6 @@
 0.0.0.0 www.fozt95.tokyo
 0.0.0.0 foztgzr.tokyo
 0.0.0.0 www.foztgzr.tokyo
-0.0.0.0 fp-brennholz.de
-0.0.0.0 www.fp-brennholz.de
 0.0.0.0 fp-impot-gouv-tva.fr
 0.0.0.0 www.fp-impot-gouv-tva.fr
 0.0.0.0 fp276o3.tokyo
@@ -268402,8 +268378,6 @@
 0.0.0.0 www.frameboxxindore.com
 0.0.0.0 framebyframe.eu
 0.0.0.0 www.framebyframe.eu
-0.0.0.0 framelia.org
-0.0.0.0 www.framelia.org
 0.0.0.0 framevexisvanla.gq
 0.0.0.0 www.framevexisvanla.gq
 0.0.0.0 framezegame.com
@@ -270302,8 +270276,6 @@
 0.0.0.0 www.freiburghiburch.eu
 0.0.0.0 freiemarkt.de
 0.0.0.0 www.freiemarkt.de
-0.0.0.0 freiestelle.net
-0.0.0.0 www.freiestelle.net
 0.0.0.0 freietaube.de
 0.0.0.0 www.freietaube.de
 0.0.0.0 freigardenstyle.com
@@ -270424,8 +270396,6 @@
 0.0.0.0 www.frenutmenocorsing.ga
 0.0.0.0 frenzing.tk
 0.0.0.0 www.frenzing.tk
-0.0.0.0 frenzyfoodie.com
-0.0.0.0 www.frenzyfoodie.com
 0.0.0.0 frepbox.fr
 0.0.0.0 www.frepbox.fr
 0.0.0.0 frequencyl.com
@@ -271270,8 +271240,6 @@
 0.0.0.0 www.frostbird.space
 0.0.0.0 frosthunter.xyz
 0.0.0.0 www.frosthunter.xyz
-0.0.0.0 frostorio.shop
-0.0.0.0 www.frostorio.shop
 0.0.0.0 frosvitcoure.cf
 0.0.0.0 www.frosvitcoure.cf
 0.0.0.0 froswhenhyallob.ml
@@ -273736,8 +273704,6 @@
 0.0.0.0 www.futura-sciences.com
 0.0.0.0 futuralluminio.com
 0.0.0.0 www.futuralluminio.com
-0.0.0.0 future-eco.com
-0.0.0.0 www.future-eco.com
 0.0.0.0 future-forex-trading.site
 0.0.0.0 www.future-forex-trading.site
 0.0.0.0 future-pedia.com
@@ -277720,8 +277686,6 @@
 0.0.0.0 www.gakker.eu
 0.0.0.0 gakspyn.tokyo
 0.0.0.0 www.gakspyn.tokyo
-0.0.0.0 gala-waldbau.de
-0.0.0.0 www.gala-waldbau.de
 0.0.0.0 galabau-trautmann.de
 0.0.0.0 www.galabau-trautmann.de
 0.0.0.0 galacticbets.fr
@@ -279136,8 +279100,6 @@
 0.0.0.0 www.garten-frische.de
 0.0.0.0 garten-gepflegt.de
 0.0.0.0 www.garten-gepflegt.de
-0.0.0.0 garten-outdoor.com
-0.0.0.0 www.garten-outdoor.com
 0.0.0.0 garten-pflanzen-pro.com
 0.0.0.0 www.garten-pflanzen-pro.com
 0.0.0.0 garten-profi24.de
@@ -279218,16 +279180,12 @@
 0.0.0.0 www.gartenguenter.de
 0.0.0.0 gartenhausmodern.com
 0.0.0.0 www.gartenhausmodern.com
-0.0.0.0 gartenil.com
-0.0.0.0 www.gartenil.com
 0.0.0.0 gartenira.com
 0.0.0.0 www.gartenira.com
 0.0.0.0 gartenix.com
 0.0.0.0 www.gartenix.com
 0.0.0.0 gartenkings.de
 0.0.0.0 www.gartenkings.de
-0.0.0.0 gartenkissen-premium.de
-0.0.0.0 www.gartenkissen-premium.de
 0.0.0.0 gartenkompass.com
 0.0.0.0 www.gartenkompass.com
 0.0.0.0 gartenkraft-de.com
@@ -279252,8 +279210,6 @@
 0.0.0.0 www.gartenmaschinenzubehor.com
 0.0.0.0 gartenmaxe.de
 0.0.0.0 www.gartenmaxe.de
-0.0.0.0 gartenmeistede.com
-0.0.0.0 www.gartenmeistede.com
 0.0.0.0 gartenmoebelangebote.de
 0.0.0.0 www.gartenmoebelangebote.de
 0.0.0.0 gartenmoebelwelt.com
@@ -279280,8 +279236,6 @@
 0.0.0.0 www.gartenpilot.com
 0.0.0.0 gartenplus24.com
 0.0.0.0 www.gartenplus24.com
-0.0.0.0 gartenpools24.de
-0.0.0.0 www.gartenpools24.de
 0.0.0.0 gartenpools24.shop
 0.0.0.0 www.gartenpools24.shop
 0.0.0.0 gartenquellede.com
@@ -279314,14 +279268,10 @@
 0.0.0.0 www.gartenstuhlemetall.com
 0.0.0.0 gartentherapeuten-nord.de
 0.0.0.0 www.gartentherapeuten-nord.de
-0.0.0.0 gartentischede.com
-0.0.0.0 www.gartentischede.com
 0.0.0.0 gartentrend.shop
 0.0.0.0 www.gartentrend.shop
 0.0.0.0 gartenundanhaenger.de
 0.0.0.0 www.gartenundanhaenger.de
-0.0.0.0 gartenundoutdoor-de.com
-0.0.0.0 www.gartenundoutdoor-de.com
 0.0.0.0 gartenvision2.de
 0.0.0.0 www.gartenvision2.de
 0.0.0.0 gartenzepter.de
@@ -279988,8 +279938,6 @@
 0.0.0.0 www.gawmuecolanniy.gq
 0.0.0.0 gawoqf.bar
 0.0.0.0 www.gawoqf.bar
-0.0.0.0 gawude.shop
-0.0.0.0 www.gawude.shop
 0.0.0.0 gawx8f.tokyo
 0.0.0.0 www.gawx8f.tokyo
 0.0.0.0 gaxdgp.tokyo
@@ -280268,8 +280216,6 @@
 0.0.0.0 www.gbg23rw.cn
 0.0.0.0 gbgpbz.cyou
 0.0.0.0 www.gbgpbz.cyou
-0.0.0.0 gbgroup.ee
-0.0.0.0 www.gbgroup.ee
 0.0.0.0 gbgyou.bar
 0.0.0.0 www.gbgyou.bar
 0.0.0.0 gbhh6n.tokyo
@@ -281274,8 +281220,6 @@
 0.0.0.0 www.gebsut.rest
 0.0.0.0 gebufft.de
 0.0.0.0 www.gebufft.de
-0.0.0.0 gebuhr-tech.de
-0.0.0.0 www.gebuhr-tech.de
 0.0.0.0 gebuliri.tk
 0.0.0.0 www.gebuliri.tk
 0.0.0.0 geburtstagswuensche-24.eu
@@ -295748,8 +295692,6 @@
 0.0.0.0 www.granderioam.com
 0.0.0.0 grandersofttrinador.tk
 0.0.0.0 www.grandersofttrinador.tk
-0.0.0.0 grandeurlogistic.forwarder-ltd.com
-0.0.0.0 www.grandeurlogistic.forwarder-ltd.com
 0.0.0.0 grandfa65antinom.racing
 0.0.0.0 www.grandfa65antinom.racing
 0.0.0.0 grandfor.my.id
@@ -362824,6 +362766,8 @@
 0.0.0.0 www.jojb4.cyou
 0.0.0.0 jojobet-online-2026.com
 0.0.0.0 www.jojobet-online-2026.com
+0.0.0.0 jojodiscount56.com
+0.0.0.0 www.jojodiscount56.com
 0.0.0.0 jojodots.dk
 0.0.0.0 www.jojodots.dk
 0.0.0.0 jojofish.com
@@ -589294,6 +589238,8 @@
 0.0.0.0 www.salomonosterreich.at
 0.0.0.0 salomonoutletgermany.de
 0.0.0.0 www.salomonoutletgermany.de
+0.0.0.0 salomonoutletireland.com
+0.0.0.0 www.salomonoutletireland.com
 0.0.0.0 salomonoutletstoresusa.com
 0.0.0.0 www.salomonoutletstoresusa.com
 0.0.0.0 salomonparis.fr
@@ -636626,8 +636572,6 @@
 0.0.0.0 www.support-client-generale.fr
 0.0.0.0 support-client-netflix.fr
 0.0.0.0 www.support-client-netflix.fr
-0.0.0.0 support-client.fr
-0.0.0.0 www.support-client.fr
 0.0.0.0 support-clientchrono.fr
 0.0.0.0 www.support-clientchrono.fr
 0.0.0.0 support-clientel-amli.fr
@@ -675132,8 +675076,6 @@
 0.0.0.0 www.trading-kapital.com
 0.0.0.0 trading.corso-web.com
 0.0.0.0 www.trading.corso-web.com
-0.0.0.0 trading.galacapital.net
-0.0.0.0 www.trading.galacapital.net
 0.0.0.0 trading.premiumyields.com
 0.0.0.0 www.trading.premiumyields.com
 0.0.0.0 tradingbotpro.com
@@ -719860,8 +719802,6 @@
 0.0.0.0 www.vip-xxxx-top.xyz
 0.0.0.0 vip.af
 0.0.0.0 www.vip.af
-0.0.0.0 vip.frontiermarket.icu
-0.0.0.0 www.vip.frontiermarket.icu
 0.0.0.0 vip.marketadvisor.icu
 0.0.0.0 www.vip.marketadvisor.icu
 0.0.0.0 vip.ru.com
@@ -743656,8 +743596,6 @@
 0.0.0.0 www.woofgear.de
 0.0.0.0 wooflyx.com
 0.0.0.0 www.wooflyx.com
-0.0.0.0 woofz.academy
-0.0.0.0 www.woofz.academy
 0.0.0.0 woogitopeck.online
 0.0.0.0 www.woogitopeck.online
 0.0.0.0 woogpz.tokyo
