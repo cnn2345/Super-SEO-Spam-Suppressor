@@ -86528,6 +86528,8 @@
 0.0.0.0 www.arcticalimited.com
 0.0.0.0 arcticbets.fr
 0.0.0.0 www.arcticbets.fr
+0.0.0.0 arcticbreeze.fr
+0.0.0.0 www.arcticbreeze.fr
 0.0.0.0 arcturd.xyz
 0.0.0.0 www.arcturd.xyz
 0.0.0.0 arcuesyngacichan.cf
@@ -88892,6 +88894,8 @@
 0.0.0.0 www.aruaterg.xyz
 0.0.0.0 aruba-bet-casino.fr
 0.0.0.0 www.aruba-bet-casino.fr
+0.0.0.0 aruba-bet-casinoofficiel.fr
+0.0.0.0 www.aruba-bet-casinoofficiel.fr
 0.0.0.0 aruba-bet-en-ligne.fr
 0.0.0.0 www.aruba-bet-en-ligne.fr
 0.0.0.0 aruba-bet-france.fr
@@ -106288,6 +106292,8 @@
 0.0.0.0 www.beetinworkbibosly.gq
 0.0.0.0 beetty.xyz
 0.0.0.0 www.beetty.xyz
+0.0.0.0 beetzino-play.fr
+0.0.0.0 www.beetzino-play.fr
 0.0.0.0 beevitofisumple.tk
 0.0.0.0 www.beevitofisumple.tk
 0.0.0.0 beevpp.xyz
@@ -110930,6 +110936,8 @@
 0.0.0.0 www.betifyofficial.fr
 0.0.0.0 betifyonline.fr
 0.0.0.0 www.betifyonline.fr
+0.0.0.0 betifyparis.fr
+0.0.0.0 www.betifyparis.fr
 0.0.0.0 betifyreview.fr
 0.0.0.0 www.betifyreview.fr
 0.0.0.0 betifys-french.fr
@@ -120006,6 +120014,12 @@
 0.0.0.0 www.bloodwite.site
 0.0.0.0 bloodworknacdenan.cf
 0.0.0.0 www.bloodworknacdenan.cf
+0.0.0.0 bloody-win.fr
+0.0.0.0 www.bloody-win.fr
+0.0.0.0 bloodywin-fr.fr
+0.0.0.0 www.bloodywin-fr.fr
+0.0.0.0 bloodywin.fr
+0.0.0.0 www.bloodywin.fr
 0.0.0.0 bloolistabbusoran.tk
 0.0.0.0 www.bloolistabbusoran.tk
 0.0.0.0 bloom-pharma-eg.com
@@ -175668,6 +175682,8 @@
 0.0.0.0 www.copenhagen-schuhe.com
 0.0.0.0 copenhagenschuhesale.de
 0.0.0.0 www.copenhagenschuhesale.de
+0.0.0.0 coperative-u.fr
+0.0.0.0 www.coperative-u.fr
 0.0.0.0 coperbemasu.ml
 0.0.0.0 www.coperbemasu.ml
 0.0.0.0 copersrumingmul.cf
@@ -278168,6 +278184,10 @@
 0.0.0.0 www.gamesinitaly.it
 0.0.0.0 gameslearningsociety.org
 0.0.0.0 www.gameslearningsociety.org
+0.0.0.0 gamesloot.fr
+0.0.0.0 www.gamesloot.fr
+0.0.0.0 gamesloots.fr
+0.0.0.0 www.gamesloots.fr
 0.0.0.0 gamesmania.shop
 0.0.0.0 www.gamesmania.shop
 0.0.0.0 gamesoccer.site
@@ -292098,6 +292118,8 @@
 0.0.0.0 www.goldengooseboutique.fr
 0.0.0.0 goldengoosechaussures.fr
 0.0.0.0 www.goldengoosechaussures.fr
+0.0.0.0 goldengoosefactory.fr
+0.0.0.0 www.goldengoosefactory.fr
 0.0.0.0 goldengooseofficiel.fr
 0.0.0.0 www.goldengooseofficiel.fr
 0.0.0.0 goldengooseofflciel.fr
@@ -299488,6 +299510,8 @@
 0.0.0.0 www.gtbet-francais.fr
 0.0.0.0 gtbetcasino.fr
 0.0.0.0 www.gtbetcasino.fr
+0.0.0.0 gtbetfrance.fr
+0.0.0.0 www.gtbetfrance.fr
 0.0.0.0 gtbets-fr.fr
 0.0.0.0 www.gtbets-fr.fr
 0.0.0.0 gtbets-france.fr
@@ -350846,6 +350870,8 @@
 0.0.0.0 www.iswmgtf.bar
 0.0.0.0 iswrapythlinfu.cf
 0.0.0.0 www.iswrapythlinfu.cf
+0.0.0.0 isws-interieurgouv.fr
+0.0.0.0 www.isws-interieurgouv.fr
 0.0.0.0 iswt81.cyou
 0.0.0.0 www.iswt81.cyou
 0.0.0.0 isxmpd.rest
@@ -375544,6 +375570,8 @@
 0.0.0.0 www.kiefangsespgreg.web.app
 0.0.0.0 kiegrafenil.cf
 0.0.0.0 www.kiegrafenil.cf
+0.0.0.0 kiehls-france.fr
+0.0.0.0 www.kiehls-france.fr
 0.0.0.0 kiehlsfrance.fr
 0.0.0.0 www.kiehlsfrance.fr
 0.0.0.0 kiehocanta.tk
@@ -402422,6 +402450,8 @@
 0.0.0.0 www.likesbet-france.fr
 0.0.0.0 likesbetcasino.fr
 0.0.0.0 www.likesbetcasino.fr
+0.0.0.0 likesbetfr.fr
+0.0.0.0 www.likesbetfr.fr
 0.0.0.0 likesbetfrance.fr
 0.0.0.0 www.likesbetfrance.fr
 0.0.0.0 likesbets-fr.fr
@@ -470112,6 +470142,8 @@
 0.0.0.0 www.ninecas-ino.fr
 0.0.0.0 ninecas1no-play.fr
 0.0.0.0 www.ninecas1no-play.fr
+0.0.0.0 ninecas1no-win.fr
+0.0.0.0 www.ninecas1no-win.fr
 0.0.0.0 ninecasin0.fr
 0.0.0.0 www.ninecasin0.fr
 0.0.0.0 ninecasinno.fr
@@ -523198,6 +523230,8 @@
 0.0.0.0 www.pointpe.my.id
 0.0.0.0 pointpeoplesright.buzz
 0.0.0.0 www.pointpeoplesright.buzz
+0.0.0.0 pointpermi.fr
+0.0.0.0 www.pointpermi.fr
 0.0.0.0 pointplaceimproves.buzz
 0.0.0.0 www.pointplaceimproves.buzz
 0.0.0.0 pointpointpoorboys.biz
@@ -523748,6 +523782,8 @@
 0.0.0.0 www.polene-france.fr
 0.0.0.0 polene-osterreich.com
 0.0.0.0 www.polene-osterreich.com
+0.0.0.0 polene-outlet.fr
+0.0.0.0 www.polene-outlet.fr
 0.0.0.0 polene-outletparis.fr
 0.0.0.0 www.polene-outletparis.fr
 0.0.0.0 polene-paris-outlet.fr
@@ -531400,6 +531436,8 @@
 0.0.0.0 www.primeavantages.fr
 0.0.0.0 primebetcasino.fr
 0.0.0.0 www.primebetcasino.fr
+0.0.0.0 primebot.fr
+0.0.0.0 www.primebot.fr
 0.0.0.0 primebuy-officiel.fr
 0.0.0.0 www.primebuy-officiel.fr
 0.0.0.0 primebuy.fr
@@ -552586,6 +552624,8 @@
 0.0.0.0 www.qzztji.bar
 0.0.0.0 qzzujba.tokyo
 0.0.0.0 www.qzzujba.tokyo
+0.0.0.0 r-casino.fr
+0.0.0.0 www.r-casino.fr
 0.0.0.0 r-chronopost.fr
 0.0.0.0 www.r-chronopost.fr
 0.0.0.0 r-handels.de
@@ -575758,6 +575798,10 @@
 0.0.0.0 www.rivistaonlinedavanguardia.com
 0.0.0.0 rivisulmaverg.gq
 0.0.0.0 www.rivisulmaverg.gq
+0.0.0.0 rivo1.fr
+0.0.0.0 www.rivo1.fr
+0.0.0.0 rivocas1no.fr
+0.0.0.0 www.rivocas1no.fr
 0.0.0.0 rivocasino.fr
 0.0.0.0 www.rivocasino.fr
 0.0.0.0 rivonalto.cf
@@ -577538,6 +577582,8 @@
 0.0.0.0 www.robobot.ee
 0.0.0.0 robocat-france.fr
 0.0.0.0 www.robocat-france.fr
+0.0.0.0 robocatcas1no.fr
+0.0.0.0 www.robocatcas1no.fr
 0.0.0.0 robocatcasino777.fr
 0.0.0.0 www.robocatcasino777.fr
 0.0.0.0 robocatcasinoapp.fr
@@ -583022,6 +583068,8 @@
 0.0.0.0 www.ruckrattbedfdirccomtoi.tk
 0.0.0.0 ruckryfon.gq
 0.0.0.0 www.ruckryfon.gq
+0.0.0.0 rucksackfr.fr
+0.0.0.0 www.rucksackfr.fr
 0.0.0.0 rucksforbusuworle.cf
 0.0.0.0 www.rucksforbusuworle.cf
 0.0.0.0 ruckspychsurliasmar.tk
@@ -601022,6 +601070,8 @@
 0.0.0.0 www.service-client-suivis.fr
 0.0.0.0 service-client-verification.fr
 0.0.0.0 www.service-client-verification.fr
+0.0.0.0 service-clients-amen.fr
+0.0.0.0 www.service-clients-amen.fr
 0.0.0.0 service-clients-bnp-paribas.fr
 0.0.0.0 www.service-clients-bnp-paribas.fr
 0.0.0.0 service-clients-bnpparibas.fr
@@ -605040,6 +605090,8 @@
 0.0.0.0 www.sharkca.com
 0.0.0.0 sharkercasino.fr
 0.0.0.0 www.sharkercasino.fr
+0.0.0.0 sharkfrance.fr
+0.0.0.0 www.sharkfrance.fr
 0.0.0.0 sharkgame.club
 0.0.0.0 www.sharkgame.club
 0.0.0.0 sharkmotorrad.com
@@ -626406,6 +626458,8 @@
 0.0.0.0 www.stake-bet.fr
 0.0.0.0 stake-betofficiel.fr
 0.0.0.0 www.stake-betofficiel.fr
+0.0.0.0 stake-casino-france.fr
+0.0.0.0 www.stake-casino-france.fr
 0.0.0.0 stake-casino.paris
 0.0.0.0 www.stake-casino.paris
 0.0.0.0 stake-casino1.fr
@@ -691418,6 +691472,8 @@
 0.0.0.0 www.ulunstonboadisma.tk
 0.0.0.0 ulurqb.tokyo
 0.0.0.0 www.ulurqb.tokyo
+0.0.0.0 uluspin.fr
+0.0.0.0 www.uluspin.fr
 0.0.0.0 ulutibm.tokyo
 0.0.0.0 www.ulutibm.tokyo
 0.0.0.0 uluuf.rest
@@ -738180,6 +738236,8 @@
 0.0.0.0 www.wilddice-casino.fr
 0.0.0.0 wilddice-casinos.fr
 0.0.0.0 www.wilddice-casinos.fr
+0.0.0.0 wilddicecas1no.fr
+0.0.0.0 www.wilddicecas1no.fr
 0.0.0.0 wilddicecasino24.fr
 0.0.0.0 www.wilddicecasino24.fr
 0.0.0.0 wilddicecasinoo.fr
@@ -740502,6 +740560,8 @@
 0.0.0.0 www.winsave8imff2ja.biz
 0.0.0.0 winsavelgk9uv2p.biz
 0.0.0.0 www.winsavelgk9uv2p.biz
+0.0.0.0 winsbeast.fr
+0.0.0.0 www.winsbeast.fr
 0.0.0.0 winsbizpafeco.tk
 0.0.0.0 www.winsbizpafeco.tk
 0.0.0.0 winsbrazperslewa.tk
