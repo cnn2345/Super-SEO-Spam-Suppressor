@@ -45708,6 +45708,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.assurancemeli-renouvellement.fr/*
 *://*.assurancemeli.fr/*
 *://*.assurancenetflix.fr/*
+*://*.assurancerenouvellement-statut.fr/*
 *://*.assurancerenouvellement.fr/*
 *://*.assuranceretraites.fr/*
 *://*.assuranceretraitre.fr/*
@@ -48531,6 +48532,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ayb06a.cyou/*
 *://*.ayba9k.tokyo/*
 *://*.aybejv.tokyo/*
+*://*.aybl-soldes.fr/*
 *://*.aybl.pl/*
 *://*.ayblreg.bar/*
 *://*.ayblsuomi.com/*
@@ -97351,6 +97353,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.decanessfighsu.ga/*
 *://*.decanetgui.ml/*
 *://*.decantersale.com/*
+*://*.decants.fr/*
 *://*.decapage-gommage.fr/*
 *://*.decarb.xyz/*
 *://*.decarba-mann.de/*
@@ -149248,6 +149251,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.groupefree.fr/*
 *://*.groupeimpactmedia.fr/*
 *://*.groupeldlc.fr/*
+*://*.groupeleroymerlin.fr/*
 *://*.groupemacif.fr/*
 *://*.groupement-lesmousquetaires.fr/*
 *://*.groupement-mousquetaires.fr/*
@@ -252476,6 +252480,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.parfite.xyz/*
 *://*.parfolkcoramapha.tk/*
 *://*.parforastsbilko.ga/*
+*://*.parfuemerie-harbeck.fr/*
 *://*.parfum-luxe.fr/*
 *://*.parfume.xyz/*
 *://*.parfumly.com/*
@@ -260247,6 +260252,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.playmaxcasino.fr/*
 *://*.playmkl.bar/*
 *://*.playmobilfr.fr/*
+*://*.playmobilfrance.fr/*
 *://*.playmobill.fr/*
 *://*.playmobilshop.be/*
 *://*.playmojo-casino.fr/*
@@ -311468,6 +311474,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinline-casino-online.de/*
 *://*.spinlogic.fr/*
 *://*.spinlycasino.fr/*
+*://*.spinlynxcasino-fr.fr/*
 *://*.spinmacho-fr.fr/*
 *://*.spinmacho1.fr/*
 *://*.spinmacho2.fr/*
