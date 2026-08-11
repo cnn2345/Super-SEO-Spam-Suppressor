@@ -30288,6 +30288,8 @@
 ::1 www.4zz5rc.tokyo
 ::1 5-club.ru
 ::1 www.5-club.ru
+::1 5-ee-mo.re
+::1 www.5-ee-mo.re
 ::1 5-gringo.fr
 ::1 www.5-gringo.fr
 ::1 5-gringos-casino.fr
@@ -63544,6 +63546,8 @@
 ::1 www.activer-prime.fr
 ::1 activer-recharges.fr
 ::1 www.activer-recharges.fr
+::1 activerecharge.fr
+::1 www.activerecharge.fr
 ::1 activespparticul.fr
 ::1 www.activespparticul.fr
 ::1 activestdiof22lcssf.biz
@@ -69526,6 +69530,8 @@
 ::1 www.aides-vitale.fr
 ::1 aidesante-ameli.fr
 ::1 www.aidesante-ameli.fr
+::1 aidesecourspopulaire.fr
+::1 www.aidesecourspopulaire.fr
 ::1 aidesuivi-laposte.fr
 ::1 www.aidesuivi-laposte.fr
 ::1 aidevitale.fr
@@ -127064,6 +127070,8 @@
 ::1 www.brewmacos.com
 ::1 brewmondtortrimangmo.cf
 ::1 www.brewmondtortrimangmo.cf
+::1 brewmybeer.online
+::1 www.brewmybeer.online
 ::1 brewpublik.com
 ::1 www.brewpublik.com
 ::1 brewrefidylo.tk
@@ -292162,6 +292170,8 @@
 ::1 www.goldenbett.fr
 ::1 goldencasino.fr
 ::1 www.goldencasino.fr
+::1 goldenchance.fr
+::1 www.goldenchance.fr
 ::1 goldencoastcasino.fr
 ::1 www.goldencoastcasino.fr
 ::1 goldencrown-casino.fr
@@ -498348,6 +498358,8 @@
 ::1 www.owalafranceshop.fr
 ::1 owalaifrance.fr
 ::1 www.owalaifrance.fr
+::1 owalalife-fr.fr
+::1 www.owalalife-fr.fr
 ::1 owalaofficialstore.com
 ::1 www.owalaofficialstore.com
 ::1 owalas-france.fr
@@ -622690,6 +622702,8 @@
 ::1 www.spinatneostamin.tk
 ::1 spinaura-avis.fr
 ::1 www.spinaura-avis.fr
+::1 spinaura-casi.fr
+::1 www.spinaura-casi.fr
 ::1 spinaura-casino.fr
 ::1 www.spinaura-casino.fr
 ::1 spinaura-en-ligne.fr
@@ -622722,6 +622736,8 @@
 ::1 www.spinbara-1.fr
 ::1 spinbara-bet.fr
 ::1 www.spinbara-bet.fr
+::1 spinbara-casi.fr
+::1 www.spinbara-casi.fr
 ::1 spinbara-casino-fr.fr
 ::1 www.spinbara-casino-fr.fr
 ::1 spinbara-en-ligne.fr
@@ -780514,6 +780530,8 @@
 ::1 www.zangezur.ee
 ::1 zangmysqmelighga.tk
 ::1 www.zangmysqmelighga.tk
+::1 zangouv.fr
+::1 www.zangouv.fr
 ::1 zangtengkisurco.ml
 ::1 www.zangtengkisurco.ml
 ::1 zangudertokowswi.cf
