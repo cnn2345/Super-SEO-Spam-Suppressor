@@ -6881,6 +6881,7 @@
 ||209wx4.cyou^$document
 ||209xhb.cyou^$document
 ||20abrp9.tokyo^$document
+||20bet1.fr^$document
 ||20bujnp.tokyo^$document
 ||20c4am.tokyo^$document
 ||20c80k.cyou^$document
@@ -65966,6 +65967,7 @@
 ||businesspointstudys.de^$document
 ||businesspractice.org^$document
 ||businessprivate.bar^$document
+||businessprofil-miseajour.fr^$document
 ||businessprogramlocal.biz^$document
 ||businessreflect.biz^$document
 ||businessrequire.biz^$document
@@ -70862,6 +70864,7 @@
 ||carzone.xyz^$document
 ||cas-bex.ch^$document
 ||cas-etu-bordeaux.fr^$document
+||cas-ino-sans-verification.fr^$document
 ||cas1nozerzz.fr^$document
 ||cas67fa.work^$document
 ||casa-fantasia.de^$document
@@ -71308,6 +71311,7 @@
 ||casino-slotlair.fr^$document
 ||casino-slotrush.fr^$document
 ||casino-so.fr^$document
+||casino-social.fr^$document
 ||casino-spin-boss.fr^$document
 ||casino-spinanga.fr^$document
 ||casino-spinania.fr^$document
@@ -71329,6 +71333,7 @@
 ||casino-togethers.fr^$document
 ||casino-touch.fr^$document
 ||casino-trino-online.de^$document
+||casino-trueluck.fr^$document
 ||casino-tucan.fr^$document
 ||casino-turbo-wins.fr^$document
 ||casino-twin-fr.fr^$document
@@ -71735,6 +71740,7 @@
 ||casinosmafia.fr^$document
 ||casinoso.fr^$document
 ||casinoso1.fr^$document
+||casinosocialbonus.fr^$document
 ||casinospinaura.fr^$document
 ||casinospindynasty.fr^$document
 ||casinospinfin.fr^$document
@@ -89818,6 +89824,7 @@
 ||crazypete.xyz^$document
 ||crazyslotscasino.fr^$document
 ||crazystar.fr^$document
+||crazytime-fr.fr^$document
 ||crazytower-casino.fr^$document
 ||crazytower.fr^$document
 ||crazyunbelieavablefunnel.com^$document
@@ -95827,6 +95834,7 @@
 ||dartry.fr^$document
 ||dartsickrichanka.tk^$document
 ||dartumoretic.gq^$document
+||darty-electromenager.fr^$document
 ||darty-prevention-de-la-fraude.fr^$document
 ||darty-sav.fr^$document
 ||darty-store.fr^$document
@@ -179445,6 +179453,7 @@
 ||jeuvesiconlifo.ml^$document
 ||jeux-auchan.fr^$document
 ||jeux-concours-enedis.fr^$document
+||jeux-jetx-fr.fr^$document
 ||jeux-paris-2024.fr^$document
 ||jeux-paris2024.fr^$document
 ||jeuxactu.com^$document
@@ -196930,6 +196939,7 @@
 ||lecledamdiverra.tk^$document
 ||leclefacneposa.tk^$document
 ||leclerc-auto-fagnieres.fr^$document
+||leclerc-auto-fameck.fr^$document
 ||leclerc-bon.fr^$document
 ||leclerc-dev.fr^$document
 ||leclerc-socamaine.fr^$document
@@ -206912,9 +206922,14 @@
 ||lucky-8casino.fr^$document
 ||lucky-8france.fr^$document
 ||lucky-bonus.fr^$document
+||lucky-boom-fr.fr^$document
+||lucky-boom.fr^$document
+||lucky-boom1.fr^$document
+||lucky-boomfr.fr^$document
 ||lucky-capone-casino.fr^$document
 ||lucky-caponecasino.fr^$document
 ||lucky-capones.fr^$document
+||lucky-crew.fr^$document
 ||lucky-elf.fr^$document
 ||lucky-elfcasino.fr^$document
 ||lucky-gem-casino.fr^$document
@@ -206939,6 +206954,7 @@
 ||lucky-treasurer.fr^$document
 ||lucky-wave.fr^$document
 ||lucky-wins.fr^$document
+||lucky1boom.fr^$document
 ||lucky247.ru^$document
 ||lucky31-casino.fr^$document
 ||lucky31-casinos.fr^$document
@@ -206979,6 +206995,7 @@
 ||lucky8-france.fr^$document
 ||lucky8-la-france.fr^$document
 ||lucky8-login.fr^$document
+||lucky8-official.fr^$document
 ||lucky8-online.fr^$document
 ||lucky8-play-olline.fr^$document
 ||lucky8-promo.fr^$document
@@ -207014,9 +207031,31 @@
 ||luckyblockcasinobonus.fr^$document
 ||luckyblockcasinologin.fr^$document
 ||luckyblockfrance.fr^$document
+||luckyboom-1.fr^$document
+||luckyboom-bonus.fr^$document
+||luckyboom-bonuses.fr^$document
 ||luckyboom-casino.fr^$document
+||luckyboom-fr.fr^$document
+||luckyboom-france.fr^$document
+||luckyboom-officiel.fr^$document
 ||luckyboom.fr^$document
+||luckyboom0.fr^$document
+||luckyboom1-fr.fr^$document
+||luckyboom1.fr^$document
+||luckyboom1fr.fr^$document
+||luckyboom2.fr^$document
+||luckyboom3.fr^$document
+||luckyboom4.fr^$document
+||luckyboom5.fr^$document
+||luckyboombonuses.fr^$document
 ||luckyboomcasino.fr^$document
+||luckyboomfr.fr^$document
+||luckyboomfrance.fr^$document
+||luckyboomofficiel.fr^$document
+||luckyboomonline.fr^$document
+||luckybooms.fr^$document
+||luckybooom.fr^$document
+||luckybounce.fr^$document
 ||luckyboyscasino.fr^$document
 ||luckybrand-deutschland.com^$document
 ||luckycapone-casino.fr^$document
@@ -207042,6 +207081,7 @@
 ||luckyganscasino.fr^$document
 ||luckygem-casino.fr^$document
 ||luckygem-france.fr^$document
+||luckygem-official.fr^$document
 ||luckygem1.fr^$document
 ||luckygemcasino.fr^$document
 ||luckygemcasinofr.fr^$document
@@ -261859,6 +261899,7 @@
 ||polene-paris.fr^$document
 ||polene-parisfrance.fr^$document
 ||polene-parisoutlet.fr^$document
+||polene-sac.fr^$document
 ||polene.at^$document
 ||polene.co.at^$document
 ||polenefr.fr^$document
@@ -308638,9 +308679,12 @@
 ||soche.fr^$document
 ||sociabaker.gq^$document
 ||sociably.best^$document
+||social-casino-en-ligne.fr^$document
+||social-casino.fr^$document
 ||social-prime.fr^$document
 ||socialbrewcafe.xyz^$document
 ||socialbyte.it^$document
+||socialcasinofrance.fr^$document
 ||socialcircus.eu^$document
 ||socialconcernstory.de^$document
 ||socialdraft.com^$document
@@ -317281,6 +317325,7 @@
 ||suivi-critair.fr^$document
 ||suivi-crowdfunding.fr^$document
 ||suivi-de-coli-track.fr^$document
+||suivi-de-dossier-lbp.fr^$document
 ||suivi-de-ma-commande.fr^$document
 ||suivi-dossier-antai.fr^$document
 ||suivi-du-colis.fr^$document
@@ -340181,6 +340226,7 @@
 ||true-hot-news.buzz^$document
 ||true-jizz-net.xyz^$document
 ||true-luck-cas.fr^$document
+||true-luck-france.fr^$document
 ||true-movs-video.xyz^$document
 ||true-ph.com^$document
 ||true-porno-movie.buzz^$document
@@ -342208,6 +342254,7 @@
 ||twins-consulting.dk^$document
 ||twinsapocurhy.tk^$document
 ||twinsastiransmesi.ml^$document
+||twinscasino.fr^$document
 ||twintifdetinammo.ga^$document
 ||twintitimullever.cf^$document
 ||twinumtapteci.tk^$document
