@@ -315808,8 +315808,6 @@
 0.0.0.0 www.heivilehino.cf
 0.0.0.0 heiviosmilerne.gq
 0.0.0.0 www.heiviosmilerne.gq
-0.0.0.0 heiz-fachmann.de
-0.0.0.0 www.heiz-fachmann.de
 0.0.0.0 heiz-oel24.com
 0.0.0.0 www.heiz-oel24.com
 0.0.0.0 heiz-oil.de
