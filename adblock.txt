@@ -39007,6 +39007,7 @@
 ||americansforredistrictingreform.org^$document
 ||americansportsoutlet.eu^$document
 ||americansportsoutlet.fr^$document
+||americansupplements.eu^$document
 ||americantestbakery.com^$document
 ||americantouqrister.cf^$document
 ||americantundrashepherd.com^$document
@@ -69481,6 +69482,7 @@
 ||canada-virement2024.fr^$document
 ||canada2024-lnterac.fr^$document
 ||canadabreakingnews.com^$document
+||canadadrugstore.com^$document
 ||canadagooseoutletfrance.fr^$document
 ||canadagoosepaschere.fr^$document
 ||canadanewsreport.com^$document
@@ -101617,7 +101619,6 @@
 ||diarpovamderys.tk^$document
 ||diaruptpumy.cf^$document
 ||diarynidestningdec.gq^$document
-||diaryofafitmommy.com^$document
 ||diasafihorakou.gq^$document
 ||diasallnpowadexlo.cf^$document
 ||diasandbutgastfrac.ga^$document
@@ -117544,7 +117545,6 @@
 ||enrigogcadu.ml^$document
 ||enriochrissimplboutex.tk^$document
 ||enripe.tk^$document
-||enriquetomasshop.shop^$document
 ||enriraresme.cf^$document
 ||enriritle.ml^$document
 ||enrisdieworl.ml^$document
@@ -121947,6 +121947,7 @@
 ||eu-new-media.eu^$document
 ||eu-pharmacy-online.com^$document
 ||eu-pharmacy.fr^$document
+||eu-pillstore.com^$document
 ||eu-prime.fr^$document
 ||eu-sezane.com^$document
 ||eu-snapchat.fr^$document
@@ -196411,7 +196412,6 @@
 ||lbsx69.cyou^$document
 ||lbszftg.cn^$document
 ||lbszka.rest^$document
-||lbtinc.com^$document
 ||lbtx8c.cyou^$document
 ||lbu7yb.xyz^$document
 ||lbumdomhcahefovu.tk^$document
@@ -249040,7 +249040,6 @@
 ||outletnewin.com^$document
 ||outletnike.fr^$document
 ||outletparis.fr^$document
-||outletpc.de^$document
 ||outletpickleball.com^$document
 ||outletpietramosaiciepiastrelle.it^$document
 ||outletprive.fr^$document
@@ -258037,6 +258036,7 @@
 ||pharmaright.vu^$document
 ||pharmaris.net^$document
 ||pharmas.xyz^$document
+||pharmaserve.com^$document
 ||pharmatheke-europe.com^$document
 ||pharmelobihar.tk^$document
 ||pharmeraly.tk^$document
@@ -334914,6 +334914,7 @@
 ||tjzscl.tokyo^$document
 ||tjzzedu.com^$document
 ||tk-deburncalories.shop^$document
+||tk-energiemanagement.de^$document
 ||tk-kontor.de^$document
 ||tk05k5.cyou^$document
 ||tk0831.cyou^$document
@@ -335921,6 +335922,7 @@
 ||togederwinkdumppo.tk^$document
 ||togee.xyz^$document
 ||togel357.biz^$document
+||togelsydneypools.org^$document
 ||togepukele.gq^$document
 ||togerupnome.tk^$document
 ||togesusmusar.gq^$document
@@ -336444,6 +336446,7 @@
 ||toolsforsuccess.website^$document
 ||toolshafaschandkadib.tk^$document
 ||toolshop.net^$document
+||toolshype.com^$document
 ||toolsmodern.com^$document
 ||toolspedia.io^$document
 ||toolspedia.io^$document
@@ -350292,7 +350295,6 @@
 ||uttespisoto.tk^$document
 ||uttlin.xyz^$document
 ||uttorw.xyz^$document
-||uttpforum.st^$document
 ||uttudecembgan.tk^$document
 ||uttx40.shop^$document
 ||utu1gi.cyou^$document
@@ -385190,7 +385192,6 @@
 ||ying997.com^$document
 ||ying998.com^$document
 ||ying999.com^$document
-||yinga-vital.de^$document
 ||yingfeidi.com^$document
 ||yinghuawang.com^$document
 ||yingkehz.com^$document

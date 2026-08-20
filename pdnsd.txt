@@ -38926,6 +38926,7 @@ neg {name=americannexpress.fr; types=domain;}
 neg {name=americansforredistrictingreform.org; types=domain;}
 neg {name=americansportsoutlet.eu; types=domain;}
 neg {name=americansportsoutlet.fr; types=domain;}
+neg {name=americansupplements.eu; types=domain;}
 neg {name=americantestbakery.com; types=domain;}
 neg {name=americantouqrister.cf; types=domain;}
 neg {name=americantundrashepherd.com; types=domain;}
@@ -69344,6 +69345,7 @@ neg {name=canada-pharmacy-24h.com; types=domain;}
 neg {name=canada-virement2024.fr; types=domain;}
 neg {name=canada2024-lnterac.fr; types=domain;}
 neg {name=canadabreakingnews.com; types=domain;}
+neg {name=canadadrugstore.com; types=domain;}
 neg {name=canadagooseoutletfrance.fr; types=domain;}
 neg {name=canadagoosepaschere.fr; types=domain;}
 neg {name=canadanewsreport.com; types=domain;}
@@ -101394,7 +101396,6 @@ neg {name=diaroupelicymind.ml; types=domain;}
 neg {name=diarpovamderys.tk; types=domain;}
 neg {name=diaruptpumy.cf; types=domain;}
 neg {name=diarynidestningdec.gq; types=domain;}
-neg {name=diaryofafitmommy.com; types=domain;}
 neg {name=diasafihorakou.gq; types=domain;}
 neg {name=diasallnpowadexlo.cf; types=domain;}
 neg {name=diasandbutgastfrac.ga; types=domain;}
@@ -117278,7 +117279,6 @@ neg {name=enriediludte.tk; types=domain;}
 neg {name=enrigogcadu.ml; types=domain;}
 neg {name=enriochrissimplboutex.tk; types=domain;}
 neg {name=enripe.tk; types=domain;}
-neg {name=enriquetomasshop.shop; types=domain;}
 neg {name=enriraresme.cf; types=domain;}
 neg {name=enriritle.ml; types=domain;}
 neg {name=enrisdieworl.ml; types=domain;}
@@ -121681,6 +121681,7 @@ neg {name=eu-meta.fr; types=domain;}
 neg {name=eu-new-media.eu; types=domain;}
 neg {name=eu-pharmacy-online.com; types=domain;}
 neg {name=eu-pharmacy.fr; types=domain;}
+neg {name=eu-pillstore.com; types=domain;}
 neg {name=eu-prime.fr; types=domain;}
 neg {name=eu-sezane.com; types=domain;}
 neg {name=eu-snapchat.fr; types=domain;}
@@ -196024,7 +196025,6 @@ neg {name=lbswwf.tokyo; types=domain;}
 neg {name=lbsx69.cyou; types=domain;}
 neg {name=lbszftg.cn; types=domain;}
 neg {name=lbszka.rest; types=domain;}
-neg {name=lbtinc.com; types=domain;}
 neg {name=lbtx8c.cyou; types=domain;}
 neg {name=lbu7yb.xyz; types=domain;}
 neg {name=lbumdomhcahefovu.tk; types=domain;}
@@ -248553,7 +248553,6 @@ neg {name=outletmiumiu.fr; types=domain;}
 neg {name=outletnewin.com; types=domain;}
 neg {name=outletnike.fr; types=domain;}
 neg {name=outletparis.fr; types=domain;}
-neg {name=outletpc.de; types=domain;}
 neg {name=outletpickleball.com; types=domain;}
 neg {name=outletpietramosaiciepiastrelle.it; types=domain;}
 neg {name=outletprive.fr; types=domain;}
@@ -257538,6 +257537,7 @@ neg {name=pharmaracapital.com; types=domain;}
 neg {name=pharmaright.vu; types=domain;}
 neg {name=pharmaris.net; types=domain;}
 neg {name=pharmas.xyz; types=domain;}
+neg {name=pharmaserve.com; types=domain;}
 neg {name=pharmatheke-europe.com; types=domain;}
 neg {name=pharmelobihar.tk; types=domain;}
 neg {name=pharmeraly.tk; types=domain;}
@@ -334233,6 +334233,7 @@ neg {name=tjzqfp.tokyo; types=domain;}
 neg {name=tjzscl.tokyo; types=domain;}
 neg {name=tjzzedu.com; types=domain;}
 neg {name=tk-deburncalories.shop; types=domain;}
+neg {name=tk-energiemanagement.de; types=domain;}
 neg {name=tk-kontor.de; types=domain;}
 neg {name=tk05k5.cyou; types=domain;}
 neg {name=tk0831.cyou; types=domain;}
@@ -335238,6 +335239,7 @@ neg {name=togedeleche.cf; types=domain;}
 neg {name=togederwinkdumppo.tk; types=domain;}
 neg {name=togee.xyz; types=domain;}
 neg {name=togel357.biz; types=domain;}
+neg {name=togelsydneypools.org; types=domain;}
 neg {name=togepukele.gq; types=domain;}
 neg {name=togerupnome.tk; types=domain;}
 neg {name=togesusmusar.gq; types=domain;}
@@ -335755,6 +335757,7 @@ neg {name=toolsforhumans.ai; types=domain;}
 neg {name=toolsforsuccess.website; types=domain;}
 neg {name=toolshafaschandkadib.tk; types=domain;}
 neg {name=toolshop.net; types=domain;}
+neg {name=toolshype.com; types=domain;}
 neg {name=toolsmodern.com; types=domain;}
 neg {name=toolspedia.io; types=domain;}
 neg {name=toolstore.pro; types=domain;}
@@ -349579,7 +349582,6 @@ neg {name=uttelywallutt.gq; types=domain;}
 neg {name=uttespisoto.tk; types=domain;}
 neg {name=uttlin.xyz; types=domain;}
 neg {name=uttorw.xyz; types=domain;}
-neg {name=uttpforum.st; types=domain;}
 neg {name=uttudecembgan.tk; types=domain;}
 neg {name=uttx40.shop; types=domain;}
 neg {name=utu1gi.cyou; types=domain;}
@@ -384442,7 +384444,6 @@ neg {name=ying996.com; types=domain;}
 neg {name=ying997.com; types=domain;}
 neg {name=ying998.com; types=domain;}
 neg {name=ying999.com; types=domain;}
-neg {name=yinga-vital.de; types=domain;}
 neg {name=yingfeidi.com; types=domain;}
 neg {name=yinghuawang.com; types=domain;}
 neg {name=yingkehz.com; types=domain;}
