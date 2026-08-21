@@ -13778,6 +13778,7 @@
 ||4bhhk.tokyo^$document
 ||4bhq2j.shop^$document
 ||4bigye.cyou^$document
+||4bike.net^$document
 ||4bio.pt^$document
 ||4bisblw.cn^$document
 ||4bj5s9.cyou^$document
@@ -35577,7 +35578,6 @@
 ||akura.xyz^$document
 ||akurl.xyz^$document
 ||akurmiwiven.ml^$document
-||akusoli.com^$document
 ||akustik-box.de^$document
 ||akustika1.ru^$document
 ||akustikholz.shop^$document
@@ -46692,6 +46692,7 @@
 ||atovinpetcha.ga^$document
 ||atoviphadicna.tk^$document
 ||atovoz.work^$document
+||atozvodka.com^$document
 ||atpaccahiha.ml^$document
 ||atpaebrilaron.gq^$document
 ||atpamaco.tk^$document
@@ -54843,6 +54844,7 @@
 ||bestellen-ciao-ciao-pf.de^$document
 ||bestelnuar.click^$document
 ||bestemailmarketingservices.xyz^$document
+||bestemed.com^$document
 ||bestemedikamente.com^$document
 ||bestenkaufen.com^$document
 ||bestenwahl.de^$document
@@ -98142,7 +98144,6 @@
 ||deinetierliebe.de^$document
 ||deinewskiprena.ml^$document
 ||deinhandwerkershop.de^$document
-||deini.com^$document
 ||deinliebesmensch.de^$document
 ||deinlieblingstier.co^$document
 ||deinmodetrends.com^$document
@@ -101639,6 +101640,7 @@
 ||diarpovamderys.tk^$document
 ||diaruptpumy.cf^$document
 ||diarynidestningdec.gq^$document
+||diaryofafitmommy.com^$document
 ||diasafihorakou.gq^$document
 ||diasallnpowadexlo.cf^$document
 ||diasandbutgastfrac.ga^$document
@@ -117566,6 +117568,7 @@
 ||enrigogcadu.ml^$document
 ||enriochrissimplboutex.tk^$document
 ||enripe.tk^$document
+||enriquetomasshop.shop^$document
 ||enriraresme.cf^$document
 ||enriritle.ml^$document
 ||enrisdieworl.ml^$document
@@ -121968,7 +121971,6 @@
 ||eu-new-media.eu^$document
 ||eu-pharmacy-online.com^$document
 ||eu-pharmacy.fr^$document
-||eu-pillstore.com^$document
 ||eu-prime.fr^$document
 ||eu-sezane.com^$document
 ||eu-snapchat.fr^$document
@@ -126375,7 +126377,6 @@
 ||farmacijahr.com^$document
 ||farmacijahrvatska24.com^$document
 ||farmadesk.eu^$document
-||farmaed.com^$document
 ||farmakeioellada24.com^$document
 ||farmakeioellinika.com^$document
 ||farmakeioellinika24.com^$document
@@ -297195,7 +297196,6 @@
 ||scanmicricotota.ga^$document
 ||scanmountadaburle.tk^$document
 ||scannegbiospin.tk^$document
-||scannero.io^$document
 ||scannetbutik.dk^$document
 ||scanoctobolt.ml^$document
 ||scanomjabvidi.ml^$document
@@ -313008,6 +313008,7 @@
 ||spydersale.de^$document
 ||spyderwrisemel.tk^$document
 ||spydintravornemenradingnofurtangde.xyz^$document
+||spydiscount24.com^$document
 ||spygok.rest^$document
 ||spyi5p.cyou^$document
 ||spymdefdirofacot.ga^$document
@@ -325414,7 +325415,6 @@
 ||tdzjvne.bar^$document
 ||tdzkplp.tokyo^$document
 ||tdzoyy.bar^$document
-||te.de^$document
 ||te00cg.cyou^$document
 ||te0dpnn.cyou^$document
 ||te0fa97.cyou^$document
@@ -334999,7 +334999,6 @@
 ||tjzscl.tokyo^$document
 ||tjzzedu.com^$document
 ||tk-deburncalories.shop^$document
-||tk-energiemanagement.de^$document
 ||tk-kontor.de^$document
 ||tk05k5.cyou^$document
 ||tk0831.cyou^$document
@@ -336531,7 +336530,6 @@
 ||toolsforsuccess.website^$document
 ||toolshafaschandkadib.tk^$document
 ||toolshop.net^$document
-||toolshype.com^$document
 ||toolsmodern.com^$document
 ||toolspedia.io^$document
 ||toolspedia.io^$document
@@ -350385,6 +350383,7 @@
 ||uttespisoto.tk^$document
 ||uttlin.xyz^$document
 ||uttorw.xyz^$document
+||uttpforum.st^$document
 ||uttudecembgan.tk^$document
 ||uttx40.shop^$document
 ||utu1gi.cyou^$document
@@ -370803,6 +370802,7 @@
 ||wine-investments.com^$document
 ||wine-tours.eu^$document
 ||winecfm.com^$document
+||winedharma.com^$document
 ||wineglassessaleshop.com^$document
 ||winemakerscorner.com^$document
 ||winemaking.xyz^$document
@@ -372637,7 +372637,6 @@
 ||woodunique-dk.de^$document
 ||woofgear.de^$document
 ||wooflyx.com^$document
-||woofz.academy^$document
 ||woogitopeck.online^$document
 ||woogpz.tokyo^$document
 ||wooinw.tokyo^$document
@@ -385299,6 +385298,7 @@
 ||ying997.com^$document
 ||ying998.com^$document
 ||ying999.com^$document
+||yinga-vital.de^$document
 ||yingfeidi.com^$document
 ||yinghuawang.com^$document
 ||yingkehz.com^$document

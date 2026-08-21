@@ -27552,6 +27552,8 @@
 ::1 www.4bhq2j.shop
 ::1 4bigye.cyou
 ::1 www.4bigye.cyou
+::1 4bike.net
+::1 www.4bike.net
 ::1 4bio.pt
 ::1 www.4bio.pt
 ::1 4bisblw.cn
@@ -71150,8 +71152,6 @@
 ::1 www.akurl.xyz
 ::1 akurmiwiven.ml
 ::1 www.akurmiwiven.ml
-::1 akusoli.com
-::1 www.akusoli.com
 ::1 akustik-box.de
 ::1 www.akustik-box.de
 ::1 akustika1.ru
@@ -93380,6 +93380,8 @@
 ::1 www.atoviphadicna.tk
 ::1 atovoz.work
 ::1 www.atovoz.work
+::1 atozvodka.com
+::1 www.atozvodka.com
 ::1 atpaccahiha.ml
 ::1 www.atpaccahiha.ml
 ::1 atpaebrilaron.gq
@@ -109682,6 +109684,8 @@
 ::1 www.bestelnuar.click
 ::1 bestemailmarketingservices.xyz
 ::1 www.bestemailmarketingservices.xyz
+::1 bestemed.com
+::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
 ::1 bestenkaufen.com
@@ -196280,8 +196284,6 @@
 ::1 www.deinewskiprena.ml
 ::1 deinhandwerkershop.de
 ::1 www.deinhandwerkershop.de
-::1 deini.com
-::1 www.deini.com
 ::1 deinliebesmensch.de
 ::1 www.deinliebesmensch.de
 ::1 deinlieblingstier.co
@@ -203274,6 +203276,8 @@
 ::1 www.diaruptpumy.cf
 ::1 diarynidestningdec.gq
 ::1 www.diarynidestningdec.gq
+::1 diaryofafitmommy.com
+::1 www.diaryofafitmommy.com
 ::1 diasafihorakou.gq
 ::1 www.diasafihorakou.gq
 ::1 diasallnpowadexlo.cf
@@ -235128,6 +235132,8 @@
 ::1 www.enriochrissimplboutex.tk
 ::1 enripe.tk
 ::1 www.enripe.tk
+::1 enriquetomasshop.shop
+::1 www.enriquetomasshop.shop
 ::1 enriraresme.cf
 ::1 www.enriraresme.cf
 ::1 enriritle.ml
@@ -243932,8 +243938,6 @@
 ::1 www.eu-pharmacy-online.com
 ::1 eu-pharmacy.fr
 ::1 www.eu-pharmacy.fr
-::1 eu-pillstore.com
-::1 www.eu-pillstore.com
 ::1 eu-prime.fr
 ::1 www.eu-prime.fr
 ::1 eu-sezane.com
@@ -252746,8 +252750,6 @@
 ::1 www.farmacijahrvatska24.com
 ::1 farmadesk.eu
 ::1 www.farmadesk.eu
-::1 farmaed.com
-::1 www.farmaed.com
 ::1 farmakeioellada24.com
 ::1 www.farmakeioellada24.com
 ::1 farmakeioellinika.com
@@ -594386,8 +594388,6 @@
 ::1 www.scanmountadaburle.tk
 ::1 scannegbiospin.tk
 ::1 www.scannegbiospin.tk
-::1 scannero.io
-::1 www.scannero.io
 ::1 scannetbutik.dk
 ::1 www.scannetbutik.dk
 ::1 scanoctobolt.ml
@@ -626012,6 +626012,8 @@
 ::1 www.spyderwrisemel.tk
 ::1 spydintravornemenradingnofurtangde.xyz
 ::1 www.spydintravornemenradingnofurtangde.xyz
+::1 spydiscount24.com
+::1 www.spydiscount24.com
 ::1 spygok.rest
 ::1 www.spygok.rest
 ::1 spyi5p.cyou
@@ -650824,8 +650826,6 @@
 ::1 www.tdzkplp.tokyo
 ::1 tdzoyy.bar
 ::1 www.tdzoyy.bar
-::1 te.de
-::1 www.te.de
 ::1 te00cg.cyou
 ::1 www.te00cg.cyou
 ::1 te0dpnn.cyou
@@ -669994,8 +669994,6 @@
 ::1 www.tjzzedu.com
 ::1 tk-deburncalories.shop
 ::1 www.tk-deburncalories.shop
-::1 tk-energiemanagement.de
-::1 www.tk-energiemanagement.de
 ::1 tk-kontor.de
 ::1 www.tk-kontor.de
 ::1 tk05k5.cyou
@@ -673058,8 +673056,6 @@
 ::1 www.toolshafaschandkadib.tk
 ::1 toolshop.net
 ::1 www.toolshop.net
-::1 toolshype.com
-::1 www.toolshype.com
 ::1 toolsmodern.com
 ::1 www.toolsmodern.com
 ::1 toolspedia.io
@@ -700766,6 +700762,8 @@
 ::1 www.uttlin.xyz
 ::1 uttorw.xyz
 ::1 www.uttorw.xyz
+::1 uttpforum.st
+::1 www.uttpforum.st
 ::1 uttudecembgan.tk
 ::1 www.uttudecembgan.tk
 ::1 uttx40.shop
@@ -741602,6 +741600,8 @@
 ::1 www.wine-tours.eu
 ::1 winecfm.com
 ::1 www.winecfm.com
+::1 winedharma.com
+::1 www.winedharma.com
 ::1 wineglassessaleshop.com
 ::1 www.wineglassessaleshop.com
 ::1 winemakerscorner.com
@@ -745270,8 +745270,6 @@
 ::1 www.woofgear.de
 ::1 wooflyx.com
 ::1 www.wooflyx.com
-::1 woofz.academy
-::1 www.woofz.academy
 ::1 woogitopeck.online
 ::1 www.woogitopeck.online
 ::1 woogpz.tokyo
@@ -770594,6 +770592,8 @@
 ::1 www.ying998.com
 ::1 ying999.com
 ::1 www.ying999.com
+::1 yinga-vital.de
+::1 www.yinga-vital.de
 ::1 yingfeidi.com
 ::1 www.yingfeidi.com
 ::1 yinghuawang.com
