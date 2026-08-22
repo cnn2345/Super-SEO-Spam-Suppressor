@@ -73752,6 +73752,7 @@
 ||celsius-casino-fr.fr^$document
 ||celsius-casino-france.fr^$document
 ||celsius-casino.fr^$document
+||celsiuscasino-connexion.fr^$document
 ||celsiuscasino-fr.fr^$document
 ||celsiuscasino-france.fr^$document
 ||celsiuscasino-officiel.fr^$document
@@ -90361,6 +90362,7 @@
 ||creditlyonnaislcl.fr^$document
 ||creditmaritime-atlantique.fr^$document
 ||creditmitiel.fr^$document
+||creditmut-capital.fr^$document
 ||creditmuteuel.fr^$document
 ||creditmutual.fr^$document
 ||creditmutuel-authentification.fr^$document
@@ -96186,6 +96188,7 @@
 ||date-now-here1.com^$document
 ||date-now-here2.com^$document
 ||date-prime.fr^$document
+||date-sneaker.fr^$document
 ||date-this-supergirl1.com^$document
 ||date-this-supergirl2.com^$document
 ||date-with-me5.com^$document
@@ -117920,6 +117923,7 @@
 ||environmentupon.biz^$document
 ||enviroulemonde.fr^$document
 ||envivotv.es^$document
+||envoi-24.fr^$document
 ||envoi-ameli.fr^$document
 ||envoi-chronopost.fr^$document
 ||envoi-mondialrelay.fr^$document
@@ -121716,6 +121720,7 @@
 ||etic-managers.eu^$document
 ||eticketshop.fr^$document
 ||eticketswap.fr^$document
+||eticketsy.com^$document
 ||eticticheckplan.ga^$document
 ||etictitireb.ga^$document
 ||etidev.bar^$document
@@ -204836,6 +204841,7 @@
 ||locototonadgatt.ga^$document
 ||locouncaymisboa.gq^$document
 ||locourhathank.tk^$document
+||locowin-bet.fr^$document
 ||locowin-casinoo.fr^$document
 ||locowin-casinos.fr^$document
 ||locowin-fr.fr^$document
@@ -205267,6 +205273,7 @@
 ||lolajack-officiel.fr^$document
 ||lolajack-online.fr^$document
 ||lolajack-play.fr^$document
+||lolajackbonus.fr^$document
 ||lolajackcasino-fr.fr^$document
 ||lolajackcasino.fr^$document
 ||lolajackenligne.fr^$document
@@ -207511,8 +207518,11 @@
 ||lucky8en-ligne.fr^$document
 ||lucky8enligne.fr^$document
 ||lucky8fr.fr^$document
+||lucky8fr8.fr^$document
 ||lucky8france.fr^$document
+||lucky8licence.fr^$document
 ||lucky8official.fr^$document
+||lucky8officiel.fr^$document
 ||lucky8online.fr^$document
 ||lucky8s.fr^$document
 ||lucky8vip.com^$document
@@ -227760,6 +227770,7 @@
 ||mystische-wesen.de^$document
 ||mystiv.xyz^$document
 ||mystk-fr.fr^$document
+||mystoreonline.fr^$document
 ||mystripesocks.com^$document
 ||mystudy.blog^$document
 ||mysubsribigo.tk^$document
@@ -232384,6 +232395,7 @@
 ||netflix-nopaye.fr^$document
 ||netflix-nopayement.fr^$document
 ||netflix-notification.fr^$document
+||netflix-online.fr^$document
 ||netflix-paiement-authentification.fr^$document
 ||netflix-paiement-client.fr^$document
 ||netflix-paiement-info.fr^$document
@@ -249051,6 +249063,7 @@
 ||outlet-newbalance.fr^$document
 ||outlet-nike.fr^$document
 ||outlet-nutrition.com^$document
+||outlet-paris.fr^$document
 ||outlet-polene-paris.fr^$document
 ||outlet-pro.com^$document
 ||outlet-promos-2024.fr^$document
@@ -279999,11 +280012,13 @@
 ||rayanpixel.xyz^$document
 ||rayanserver.info^$document
 ||rayansoal.ir^$document
+||rayban-meta.fr^$document
 ||rayban-pas-cher.fr^$document
 ||rayban-pascher.fr^$document
 ||raybanboutique.fr^$document
 ||raybanfrance.fr^$document
 ||raybanlunettespascher.fr^$document
+||raybanmeta.fr^$document
 ||raybanpascher.fr^$document
 ||raybedsrosfoundtab.ga^$document
 ||raycampafermota.ga^$document
@@ -299014,6 +299029,7 @@
 ||secufactuenerg.fr^$document
 ||secuinfo-ameli.fr^$document
 ||secuinfovitale.fr^$document
+||seculeboncoin.fr^$document
 ||secuma.dk^$document
 ||secumajpay.fr^$document
 ||secundilla.de^$document
