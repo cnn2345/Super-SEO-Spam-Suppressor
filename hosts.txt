@@ -651612,6 +651612,8 @@
 0.0.0.0 www.techklatoconro.ml
 0.0.0.0 techkpetomuhydno.gq
 0.0.0.0 www.techkpetomuhydno.gq
+0.0.0.0 techlasi.com
+0.0.0.0 www.techlasi.com
 0.0.0.0 techmezootudiveg.cf
 0.0.0.0 www.techmezootudiveg.cf
 0.0.0.0 techmiforhahosnai.tk
