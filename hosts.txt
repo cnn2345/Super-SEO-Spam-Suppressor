@@ -19790,8 +19790,6 @@
 0.0.0.0 www.2wh25g.tokyo
 0.0.0.0 2wh9i2.cyou
 0.0.0.0 www.2wh9i2.cyou
-0.0.0.0 2wheelshero.com
-0.0.0.0 www.2wheelshero.com
 0.0.0.0 2whjai.tokyo
 0.0.0.0 www.2whjai.tokyo
 0.0.0.0 2whu35q.tokyo
@@ -71156,8 +71154,6 @@
 0.0.0.0 www.akurl.xyz
 0.0.0.0 akurmiwiven.ml
 0.0.0.0 www.akurmiwiven.ml
-0.0.0.0 akusoli.com
-0.0.0.0 www.akusoli.com
 0.0.0.0 akustik-box.de
 0.0.0.0 www.akustik-box.de
 0.0.0.0 akustika1.ru
@@ -84550,8 +84546,6 @@
 0.0.0.0 www.aposdebmisurca.tk
 0.0.0.0 apossinenmopgdit.ml
 0.0.0.0 www.apossinenmopgdit.ml
-0.0.0.0 apotek-no24.com
-0.0.0.0 www.apotek-no24.com
 0.0.0.0 apotek-norge24.com
 0.0.0.0 www.apotek-norge24.com
 0.0.0.0 apotekb213.com
@@ -105566,6 +105560,8 @@
 0.0.0.0 www.beachtennislugano.ch
 0.0.0.0 beachtioconta.tk
 0.0.0.0 www.beachtioconta.tk
+0.0.0.0 beachwalkbali.com
+0.0.0.0 www.beachwalkbali.com
 0.0.0.0 beaconzero.net
 0.0.0.0 www.beaconzero.net
 0.0.0.0 beacuc.shop
@@ -109714,6 +109710,8 @@
 0.0.0.0 www.bestelnuar.click
 0.0.0.0 bestemailmarketingservices.xyz
 0.0.0.0 www.bestemailmarketingservices.xyz
+0.0.0.0 bestemed.com
+0.0.0.0 www.bestemed.com
 0.0.0.0 bestemedikamente.com
 0.0.0.0 www.bestemedikamente.com
 0.0.0.0 bestenkaufen.com
@@ -139020,8 +139018,6 @@
 0.0.0.0 www.canada2024-lnterac.fr
 0.0.0.0 canadabreakingnews.com
 0.0.0.0 www.canadabreakingnews.com
-0.0.0.0 canadadrugstore.com
-0.0.0.0 www.canadadrugstore.com
 0.0.0.0 canadagooseoutletfrance.fr
 0.0.0.0 www.canadagooseoutletfrance.fr
 0.0.0.0 canadagoosepaschere.fr
@@ -230130,6 +230126,8 @@
 0.0.0.0 www.elektroheld24.de
 0.0.0.0 elektrokaufen.com
 0.0.0.0 www.elektrokaufen.com
+0.0.0.0 elektrokaz.com
+0.0.0.0 www.elektrokaz.com
 0.0.0.0 elektrokessmarkt.de
 0.0.0.0 www.elektrokessmarkt.de
 0.0.0.0 elektrokomfort24.ru
@@ -293184,8 +293182,6 @@
 0.0.0.0 www.goldenplaycasinofr.fr
 0.0.0.0 goldenplayonline.fr
 0.0.0.0 www.goldenplayonline.fr
-0.0.0.0 goldenpump.de
-0.0.0.0 www.goldenpump.de
 0.0.0.0 goldenr.fr
 0.0.0.0 www.goldenr.fr
 0.0.0.0 goldenretrievervompfarrgarten.de
@@ -321456,6 +321452,8 @@
 0.0.0.0 www.hjyops.bar
 0.0.0.0 hjyr.com.cn
 0.0.0.0 www.hjyr.com.cn
+0.0.0.0 hjz-handel.de
+0.0.0.0 www.hjz-handel.de
 0.0.0.0 hjzamz.rest
 0.0.0.0 www.hjzamz.rest
 0.0.0.0 hjzgmwl.cyou
@@ -393072,6 +393070,8 @@
 0.0.0.0 www.lbszftg.cn
 0.0.0.0 lbszka.rest
 0.0.0.0 www.lbszka.rest
+0.0.0.0 lbtinc.com
+0.0.0.0 www.lbtinc.com
 0.0.0.0 lbtx8c.cyou
 0.0.0.0 www.lbtx8c.cyou
 0.0.0.0 lbu7yb.xyz
@@ -394436,6 +394436,8 @@
 0.0.0.0 www.lebensartikel.com
 0.0.0.0 lebensfreude-musik.eu
 0.0.0.0 www.lebensfreude-musik.eu
+0.0.0.0 lebenskernde.com
+0.0.0.0 www.lebenskernde.com
 0.0.0.0 lebensmittelgeschaft.com
 0.0.0.0 www.lebensmittelgeschaft.com
 0.0.0.0 lebensmittelgeschafte.com
@@ -446934,6 +446936,8 @@
 0.0.0.0 www.montrepas-cher.fr
 0.0.0.0 montreremarli.ml
 0.0.0.0 www.montreremarli.ml
+0.0.0.0 montrereplique.to
+0.0.0.0 www.montrereplique.to
 0.0.0.0 montresfrance.fr
 0.0.0.0 www.montresfrance.fr
 0.0.0.0 montreslip.fr
@@ -495276,6 +495280,8 @@
 0.0.0.0 www.orittivallia.ga
 0.0.0.0 oritunjo.ga
 0.0.0.0 www.oritunjo.ga
+0.0.0.0 orivelle-official.com
+0.0.0.0 www.orivelle-official.com
 0.0.0.0 orivlyachilafilt.cf
 0.0.0.0 www.orivlyachilafilt.cf
 0.0.0.0 oriwdl.bar
@@ -496372,6 +496378,8 @@
 0.0.0.0 www.oshinmiaperca.tk
 0.0.0.0 oshismicomnehost.ga
 0.0.0.0 www.oshismicomnehost.ga
+0.0.0.0 oshoplive.com
+0.0.0.0 www.oshoplive.com
 0.0.0.0 oshoselcude.cf
 0.0.0.0 www.oshoselcude.cf
 0.0.0.0 oshydtocelthe.cf
@@ -594640,6 +594648,8 @@
 0.0.0.0 www.scanmountadaburle.tk
 0.0.0.0 scannegbiospin.tk
 0.0.0.0 www.scannegbiospin.tk
+0.0.0.0 scannero.io
+0.0.0.0 www.scannero.io
 0.0.0.0 scannetbutik.dk
 0.0.0.0 www.scannetbutik.dk
 0.0.0.0 scanoctobolt.ml
@@ -606756,6 +606766,8 @@
 0.0.0.0 www.shedweb.org
 0.0.0.0 shedwinnipeg.com
 0.0.0.0 www.shedwinnipeg.com
+0.0.0.0 sheenplace.com
+0.0.0.0 www.sheenplace.com
 0.0.0.0 sheepdogs.dk
 0.0.0.0 www.sheepdogs.dk
 0.0.0.0 sheetkladde.de
@@ -651114,8 +651126,6 @@
 0.0.0.0 www.tdzkplp.tokyo
 0.0.0.0 tdzoyy.bar
 0.0.0.0 www.tdzoyy.bar
-0.0.0.0 te.de
-0.0.0.0 www.te.de
 0.0.0.0 te00cg.cyou
 0.0.0.0 www.te00cg.cyou
 0.0.0.0 te0dpnn.cyou
@@ -682430,8 +682440,6 @@
 0.0.0.0 www.trustedgreencbd.com
 0.0.0.0 trustedkeys.es
 0.0.0.0 www.trustedkeys.es
-0.0.0.0 trustedmedstore24.com
-0.0.0.0 www.trustedmedstore24.com
 0.0.0.0 trustednorx.com
 0.0.0.0 www.trustednorx.com
 0.0.0.0 trustedparents.com
@@ -693508,6 +693516,8 @@
 0.0.0.0 www.umhostesi.cf
 0.0.0.0 umhunt.asia
 0.0.0.0 www.umhunt.asia
+0.0.0.0 umiaholz.com
+0.0.0.0 www.umiaholz.com
 0.0.0.0 umieg-waren.de
 0.0.0.0 www.umieg-waren.de
 0.0.0.0 umii3o.cyou
@@ -735192,6 +735202,8 @@
 0.0.0.0 www.webeex.fr
 0.0.0.0 webeqq.tokyo
 0.0.0.0 www.webeqq.tokyo
+0.0.0.0 weber-baumarkt.com
+0.0.0.0 www.weber-baumarkt.com
 0.0.0.0 weber-fr.fr
 0.0.0.0 www.weber-fr.fr
 0.0.0.0 weber-france.fr
@@ -738672,8 +738684,6 @@
 0.0.0.0 www.whereter.my.id
 0.0.0.0 whereube.com
 0.0.0.0 www.whereube.com
-0.0.0.0 whereverk.com
-0.0.0.0 www.whereverk.com
 0.0.0.0 wherewasit.com
 0.0.0.0 www.wherewasit.com
 0.0.0.0 whesacosodop.gq
