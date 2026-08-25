@@ -73773,6 +73773,7 @@
 ||celsius-casino-fr.fr^$document
 ||celsius-casino-france.fr^$document
 ||celsius-casino.fr^$document
+||celsius-casinos.fr^$document
 ||celsiuscasino-connexion.fr^$document
 ||celsiuscasino-fr.fr^$document
 ||celsiuscasino-france.fr^$document
@@ -114040,6 +114041,7 @@
 ||ehfzhepg.shop^$document
 ||ehg.xyz^$document
 ||ehgenamore.ml^$document
+||ehgouv.fr^$document
 ||ehgr.cn^$document
 ||ehgranpanu.tk^$document
 ||ehguxgl.tokyo^$document
@@ -120414,6 +120416,7 @@
 ||esgibteinwir.de^$document
 ||esgidoubtlesi.ga^$document
 ||esgiua.cyou^$document
+||esgouv.fr^$document
 ||esgranocochtua.ml^$document
 ||esgroupoten.gq^$document
 ||esgrtu.tokyo^$document
@@ -121676,6 +121679,7 @@
 ||etgh3sj.tokyo^$document
 ||etgmzp.tokyo^$document
 ||etgnmf.rest^$document
+||etgouv.fr^$document
 ||etguzm.tokyo^$document
 ||etgzuh.tokyo^$document
 ||ethabcrylwarmches.gq^$document
@@ -172241,6 +172245,7 @@
 ||infos-sante.fr^$document
 ||infos-secure-vitale.fr^$document
 ||infos-service-relay.fr^$document
+||infos-servicemondialrelay.fr^$document
 ||infos-sfr.fr^$document
 ||infos-stationnement.fr^$document
 ||infos-suivi-redistrubution.fr^$document
@@ -216867,6 +216872,7 @@
 ||mes-services-netfiix.fr^$document
 ||mes-services-prime.fr^$document
 ||mes-services-sante.fr^$document
+||mes-transactions-prime.fr^$document
 ||mes-virements-payliib.fr^$document
 ||mes6mk.xyz^$document
 ||mesa-solar.com^$document
@@ -252543,6 +252549,7 @@
 ||pajamsofin.ga^$document
 ||pajbtb.tokyo^$document
 ||pajcejv.tokyo^$document
+||paje-interieurgouv.fr^$document
 ||pajmmu.bar^$document
 ||pajrvc.bar^$document
 ||pajuhpigumpdisli.tk^$document
@@ -301796,6 +301803,7 @@
 ||services-vitales.fr^$document
 ||servicesabonnement.fr^$document
 ||servicesaccount.fr^$document
+||servicesachatsventeslbc.fr^$document
 ||servicesamandes.fr^$document
 ||servicesamendes.fr^$document
 ||servicesante-ameli.fr^$document
@@ -336821,6 +336829,7 @@
 ||top9840mag.xyz^$document
 ||top9897xnxx.xyz^$document
 ||topaap.bar^$document
+||topachatss.fr^$document
 ||topactafince.tk^$document
 ||topai.tools^$document
 ||topai.tools^$document
@@ -348023,6 +348032,7 @@
 ||univcatholyon.fr^$document
 ||univcorse.fr^$document
 ||univdacemidd.cf^$document
+||unive-catholille.fr^$document
 ||unive-cotedazur.fr^$document
 ||unive-lille.fr^$document
 ||unive-montp3.fr^$document
@@ -379565,7 +379575,9 @@
 ||xn--scuritsocial-bebf.fr^$document
 ||xn--scuritsociale-bhbf.fr^$document
 ||xn--scuritsocialeameli-bwbf.fr^$document
+||xn--se-mo-4ra.re^$document
 ||xn--se-mo-bsa.re^$document
+||xn--se-mo-csa.re^$document
 ||xn--secures-imptsgouv-accs-v8b7w.fr^$document
 ||xn--securit-ameli-hhb.fr^$document
 ||xn--securit-assurance-maladie-hic.fr^$document
@@ -379574,6 +379586,7 @@
 ||xn--securit-sociale-hnb.fr^$document
 ||xn--securitsocit-gnrale-lzbbcb.fr^$document
 ||xn--see-m-4ta.re^$document
+||xn--see-m-nua.re^$document
 ||xn--see-m-yta.re^$document
 ||xn--seem-oqa.re^$document
 ||xn--seem-tqa.re^$document
@@ -379603,6 +379616,7 @@
 ||xn--shei-l3a.com^$document
 ||xn--sidesant-i1a.fr^$document
 ||xn--sidessant-j4a.fr^$document
+||xn--smo-jmaa.re^$document
 ||xn--snapcht-bxa.fr^$document
 ||xn--socgnrale-clients-etbb.fr^$document
 ||xn--societ-genarale-gnb.fr^$document
