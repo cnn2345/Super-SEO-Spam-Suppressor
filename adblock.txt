@@ -29902,6 +29902,7 @@
 ||abfluss-frei24.de^$document
 ||abfluss-profi.at^$document
 ||abfobenbats.tk^$document
+||abforstwirtschaft.de^$document
 ||abfrinecodop.ga^$document
 ||abftest.club^$document
 ||abfuhren.de^$document
@@ -42275,6 +42276,7 @@
 ||aporunexrebi.gq^$document
 ||aposdebmisurca.tk^$document
 ||apossinenmopgdit.ml^$document
+||apotek-no24.com^$document
 ||apotek-norge24.com^$document
 ||apotekb213.com^$document
 ||apoteket.to^$document
@@ -51746,6 +51748,7 @@
 ||basirawhistve.tk^$document
 ||basis3.dk^$document
 ||basistioroca.cf^$document
+||basiswallet.co^$document
 ||basjbk.tokyo^$document
 ||basjglz.tokyo^$document
 ||basjsins.ga^$document
@@ -58416,6 +58419,7 @@
 ||bitcoin-pharmacy.com^$document
 ||bitcoin-revolution.org^$document
 ||bitcoin-shop.ro^$document
+||bitcoin-up.io^$document
 ||bitcoin-xact.fr^$document
 ||bitcoinarchon.com^$document
 ||bitcoinblackfriday.com^$document
@@ -69511,6 +69515,7 @@
 ||canada-virement2024.fr^$document
 ||canada2024-lnterac.fr^$document
 ||canadabreakingnews.com^$document
+||canadadrugstore.com^$document
 ||canadagooseoutletfrance.fr^$document
 ||canadagoosepaschere.fr^$document
 ||canadanewsreport.com^$document
@@ -97269,6 +97274,7 @@
 ||de-fahrradshop.com^$document
 ||de-filter.com^$document
 ||de-fizzclean.com^$document
+||de-lumelia.com^$document
 ||de-musicshop.com^$document
 ||de-orion.site^$document
 ||de-rimowa.shop^$document
@@ -133678,6 +133684,7 @@
 ||fostaconsappmea.cf^$document
 ||fostercare.xyz^$document
 ||fosterits.eu^$document
+||fosterrefrigerator.de^$document
 ||fostra-si.ch^$document
 ||fosuldumpfrec.tk^$document
 ||fot0da.cyou^$document
@@ -185489,6 +185496,7 @@
 ||kamagra-premium.net^$document
 ||kamagra-pro.com^$document
 ||kamagra-pro.net^$document
+||kamagra-pro.online^$document
 ||kamagra-prodej-online.eu^$document
 ||kamagra-prodej.cz^$document
 ||kamagra-prodej.online^$document
@@ -223476,7 +223484,6 @@
 ||montreparis.fr^$document
 ||montrepas-cher.fr^$document
 ||montreremarli.ml^$document
-||montrereplique.to^$document
 ||montresfrance.fr^$document
 ||montreslip.fr^$document
 ||montroroslidenhorn.cf^$document
@@ -311138,7 +311145,6 @@
 ||sovypl.bar^$document
 ||sow6t2.cyou^$document
 ||sowaoptive.asia^$document
-||sowaswillichauch.de^$document
 ||sowbrl.bar^$document
 ||sowepirare.gq^$document
 ||sowibarje.ga^$document
@@ -325573,6 +325579,7 @@
 ||tdzjvne.bar^$document
 ||tdzkplp.tokyo^$document
 ||tdzoyy.bar^$document
+||te.de^$document
 ||te00cg.cyou^$document
 ||te0dpnn.cyou^$document
 ||te0fa97.cyou^$document
@@ -339921,6 +339928,7 @@
 ||tresolelfursumoch.ga^$document
 ||tresolenchelin.gq^$document
 ||tresonsioterzaring.cf^$document
+||tresorbit.com^$document
 ||tresorcreditmutuel.fr^$document
 ||tresorerie-marchespublics.fr^$document
 ||tresorininib.ga^$document
@@ -341231,6 +341239,7 @@
 ||trustedconsumerreview.online^$document
 ||trustedgreencbd.com^$document
 ||trustedkeys.es^$document
+||trustedmedstore24.com^$document
 ||trustednorx.com^$document
 ||trustedparents.com^$document
 ||trustedrxsolutions.com^$document
@@ -388434,6 +388443,7 @@
 ||yuak2d.tokyo^$document
 ||yualfq.bar^$document
 ||yualfq.rest^$document
+||yuan-paygroup.com^$document
 ||yuandait.com^$document
 ||yuanmacha.com^$document
 ||yuanpaygroup.org^$document
