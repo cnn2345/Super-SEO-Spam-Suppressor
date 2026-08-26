@@ -32427,6 +32427,7 @@
 ||adidascampus.at^$document
 ||adidascampus.fr^$document
 ||adidaschaussures.fr^$document
+||adidasfluxpascher.fr^$document
 ||adidasfootlockerwin.fr^$document
 ||adidasforum.fr^$document
 ||adidasgazelle.fr^$document
@@ -42935,6 +42936,7 @@
 ||aqu.my.id^$document
 ||aqua-kasper.de^$document
 ||aqua-spins.fr^$document
+||aqua-win.fr^$document
 ||aquabike-europe.eu^$document
 ||aquabook.cf^$document
 ||aquabus.es^$document
@@ -42958,6 +42960,8 @@
 ||aquataliaparis.fr^$document
 ||aquawin-fr.fr^$document
 ||aquawin1.fr^$document
+||aquawincasino.fr^$document
+||aquawinscasino.fr^$document
 ||aqufqtc.cyou^$document
 ||aqugehiwowow.tk^$document
 ||aquiblue.it^$document
@@ -47705,6 +47709,7 @@
 ||autryjapan.net^$document
 ||autrymarseille.fr^$document
 ||autrymexico.net^$document
+||autryofficiel.fr^$document
 ||autryoutlet.com^$document
 ||autryoutlet.fr^$document
 ||autryoutletfrance.fr^$document
@@ -55280,6 +55285,7 @@
 ||bet-on-red-france.fr^$document
 ||bet-on-red-online.fr^$document
 ||bet-on-redcasino.fr^$document
+||bet-on-you.fr^$document
 ||bet-onred.fr^$document
 ||bet-riot-casino.fr^$document
 ||bet-riotcasino.fr^$document
@@ -61695,6 +61701,7 @@
 ||boomnaracanima.tk^$document
 ||booms-bet-casino.fr^$document
 ||booms-betcasino.fr^$document
+||booms-bets.fr^$document
 ||boomsbet-casino.fr^$document
 ||boomsbet-fr.fr^$document
 ||boomsbetcasino.fr^$document
@@ -71513,6 +71520,7 @@
 ||casinoadrenaline.fr^$document
 ||casinoaerobet.fr^$document
 ||casinoalexanderfr.fr^$document
+||casinoallwins.fr^$document
 ||casinoallyspin.fr^$document
 ||casinoamunra.fr^$document
 ||casinoandfriends.fr^$document
@@ -71541,6 +71549,7 @@
 ||casinobonus365.fr^$document
 ||casinobonuszone.fr^$document
 ||casinoboomerang.fr^$document
+||casinoboomsbet.fr^$document
 ||casinoboostfr.fr^$document
 ||casinobossy-fr.fr^$document
 ||casinobrutal.fr^$document
@@ -71722,6 +71731,7 @@
 ||casinoloots-fr.fr^$document
 ||casinoloots.fr^$document
 ||casinoloots1.fr^$document
+||casinolucki.fr^$document
 ||casinolucky8.fr^$document
 ||casinoluckyblock.fr^$document
 ||casinoluckyfr.fr^$document
@@ -71760,6 +71770,7 @@
 ||casinomillionz.fr^$document
 ||casinomonsterwin.fr^$document
 ||casinomorospin.fr^$document
+||casinomostbet.fr^$document
 ||casinomrpacho.fr^$document
 ||casinomrpunter.fr^$document
 ||casinonapoleon.fr^$document
@@ -71810,6 +71821,7 @@
 ||casinoplay.icu^$document
 ||casinopolestar.fr^$document
 ||casinoposido.fr^$document
+||casinoprestige-fr.fr^$document
 ||casinoprestiges.fr^$document
 ||casinoprincess.fr^$document
 ||casinoprive-fr.fr^$document
@@ -71894,6 +71906,7 @@
 ||casinosocialbonus.fr^$document
 ||casinospinaura.fr^$document
 ||casinospindynasty.fr^$document
+||casinospinfest.fr^$document
 ||casinospinfin.fr^$document
 ||casinospinight.fr^$document
 ||casinospinit.fr^$document
@@ -71949,10 +71962,12 @@
 ||casinova-officiel.fr^$document
 ||casinovacasino.fr^$document
 ||casinovacasinoonline.fr^$document
+||casinovacasinos.fr^$document
 ||casinovale.fr^$document
 ||casinovale1.fr^$document
 ||casinovalyss.fr^$document
 ||casinovaonlinecasino.fr^$document
+||casinovascasino.fr^$document
 ||casinovasy.fr^$document
 ||casinovave-online.fr^$document
 ||casinovegashero.fr^$document
@@ -73794,6 +73809,7 @@
 ||celsiuscasinologin.fr^$document
 ||celsiuscasinopromo.fr^$document
 ||celsiusfr.fr^$document
+||celsiusfrance.fr^$document
 ||celsiusfrancecasino.fr^$document
 ||celsiusfrcasino.fr^$document
 ||celtanghantaiconspawn.cf^$document
@@ -88014,6 +88030,7 @@
 ||coolzinofrance-fr.fr^$document
 ||coolzinofrance.fr^$document
 ||coolzinos.fr^$document
+||coolzinoscasino.fr^$document
 ||coomcalllurorba.tk^$document
 ||coomenhospportio.cf^$document
 ||coomicjarepdisc.gq^$document
@@ -88291,6 +88308,8 @@
 ||corgibet-france.fr^$document
 ||corgibetcasino-fr.fr^$document
 ||corgibetcasinoenligne.fr^$document
+||corgibetcasinos.fr^$document
+||corgibetscasino.fr^$document
 ||corgihomeplan.co.uk^$document
 ||corgiticeabit.tk^$document
 ||corgolirixa.tk^$document
@@ -145551,6 +145570,7 @@
 ||glucinnanwebpzea.tk^$document
 ||glucinriaturtestto.gq^$document
 ||glucjehighral.tk^$document
+||gluck2027.fr^$document
 ||gluckbox.com^$document
 ||gluclorebsalemo.tk^$document
 ||glucmelkromtent.tk^$document
@@ -155203,7 +155223,9 @@
 ||happygroupagency.xyz^$document
 ||happyhelper.xyz^$document
 ||happyhugocasino-official.fr^$document
+||happyhugocasinos.fr^$document
 ||happyhugos.fr^$document
+||happyhugoscasino.fr^$document
 ||happyhun.de^$document
 ||happyjobprograms.rest^$document
 ||happyjokers-games.fr^$document
@@ -171900,6 +171922,7 @@
 ||info-service-renouvellement.fr^$document
 ||info-service.fr^$document
 ||info-serviceabonnement.fr^$document
+||info-servicemondialrelay.fr^$document
 ||info-servicesamendes.fr^$document
 ||info-sfr.fr^$document
 ||info-sg.fr^$document
@@ -173712,6 +173735,7 @@
 ||instantns.info^$document
 ||instantpaylibencaissement.fr^$document
 ||instantpoolquote.site^$document
+||instants-casino.fr^$document
 ||instantscasino.fr^$document
 ||instantstreetview.fr^$document
 ||instanttcasinoss.fr^$document
@@ -173728,6 +173752,8 @@
 ||instasino1.fr^$document
 ||instasino777.fr^$document
 ||instasinocasino.fr^$document
+||instasinocasinos.fr^$document
+||instasinoscasino.fr^$document
 ||instasnap.fr^$document
 ||instaspin-casino.fr^$document
 ||instaspin-fr.fr^$document
@@ -197920,6 +197946,7 @@
 ||legianocasinoenligne.fr^$document
 ||legianocasinofr.fr^$document
 ||legianocasinofrance.fr^$document
+||legianocasinoo1.fr^$document
 ||legianocasinoonline.fr^$document
 ||legianocasinos-fr.fr^$document
 ||legianocasinos-fra.fr^$document
@@ -207636,6 +207663,7 @@
 ||luckyblockenligne.fr^$document
 ||luckyblockfr.fr^$document
 ||luckyblockfrance.fr^$document
+||luckyblockscasino.fr^$document
 ||luckyboom-1.fr^$document
 ||luckyboom-bonus.fr^$document
 ||luckyboom-bonuses.fr^$document
@@ -211050,6 +211078,7 @@
 ||magicalspinfrance.fr^$document
 ||magicalspinn.fr^$document
 ||magicalspinonline.fr^$document
+||magicalspins-casino.fr^$document
 ||magicbackery.de^$document
 ||magicbet-fr.fr^$document
 ||magiccn90.com^$document
@@ -211947,6 +211976,7 @@
 ||malina-casinos.fr^$document
 ||malina-fr.fr^$document
 ||malina.ee^$document
+||malinaacasinos.fr^$document
 ||malinabonus.fr^$document
 ||malinacasino-fr.fr^$document
 ||malinacasino-france.fr^$document
@@ -214647,6 +214677,7 @@
 ||mcdjpx.bar^$document
 ||mcdmav.tokyo^$document
 ||mcdmebm.bar^$document
+||mcdo-fidelite.fr^$document
 ||mcdonads.fr^$document
 ||mcdonalds-donneescorporate.fr^$document
 ||mcdonalds-livraison.fr^$document
@@ -219660,6 +219691,7 @@
 ||misdiscflusalesan.ml^$document
 ||misdoiponing.tk^$document
 ||misduconnetpsehr.gq^$document
+||mise-a-jour-abonnement-compte.fr^$document
 ||mise-a-jour-abonnement.fr^$document
 ||mise-a-jour-annuel.fr^$document
 ||mise-a-jour-carte-ameli.fr^$document
@@ -222143,6 +222175,7 @@
 ||mon-espace-sante-enligne.fr^$document
 ||mon-espace-sante-info.fr^$document
 ||mon-espace-securisation.fr^$document
+||mon-espace-securiser.fr^$document
 ||mon-espace-sfr.fr^$document
 ||mon-espace-sgen.fr^$document
 ||mon-espace-sms-en-ligne.fr^$document
@@ -232510,6 +232543,7 @@
 ||netflix-paye.fr^$document
 ||netflix-payement.fr^$document
 ||netflix-payments.fr^$document
+||netflix-play.fr^$document
 ||netflix-prelevement.fr^$document
 ||netflix-premium.fr^$document
 ||netflix-prenium.fr^$document
@@ -244820,6 +244854,7 @@
 ||olympecasinovip.fr^$document
 ||olympecasinoz.fr^$document
 ||olympefrance-fr.fr^$document
+||olympes-casino.fr^$document
 ||olympia-arts.org^$document
 ||olympia-casino.fr^$document
 ||olympiacasino.fr^$document
@@ -254817,6 +254852,7 @@
 ||paypal-noreply.fr^$document
 ||paypal-online.fr^$document
 ||paypal-paiement.fr^$document
+||paypal-play.fr^$document
 ||paypal-reconfiguration.fr^$document
 ||paypal-restriction.fr^$document
 ||paypal-restrictionfrance.fr^$document
@@ -281770,6 +281806,7 @@
 ||recupay-paylib.fr^$document
 ||recupayement-leboncoin.fr^$document
 ||recupaylbinstantsecur.fr^$document
+||recuperation-financiere.fr^$document
 ||recuperesudinero.es^$document
 ||recuperocromo.it^$document
 ||recupmoncompte.fr^$document
@@ -289742,6 +289779,7 @@
 ||rockstar-france.fr^$document
 ||rockstarcasino-france.fr^$document
 ||rockstarcasino-officiel.fr^$document
+||rockstarscasino.fr^$document
 ||rockstinemreni.tk^$document
 ||rocksylrophasymtou.cf^$document
 ||rockthebretzel.fr^$document
@@ -289759,6 +289797,8 @@
 ||rockyspin-casino.fr^$document
 ||rockyspin1.fr^$document
 ||rockyspincasinos.fr^$document
+||rockyspinn.fr^$document
+||rockyspinscasino.fr^$document
 ||roclaycaculidis.ml^$document
 ||rocliepresinep.tk^$document
 ||roclilevtaine.gq^$document
@@ -290244,6 +290284,7 @@
 ||rollditinetto.gq^$document
 ||rolldorado-en-ligne.fr^$document
 ||rolldorado-enligne.fr^$document
+||rolldorado-fr.fr^$document
 ||rolldorado1.fr^$document
 ||rolldoradofr.fr^$document
 ||rolldorados.fr^$document
@@ -316578,6 +316619,7 @@
 ||streamoflight.pl^$document
 ||streamyngcomunity.bar^$document
 ||street-motopiece.fr^$document
+||street-outlet.fr^$document
 ||streetandshook.com^$document
 ||streetarteverywhere.fr^$document
 ||streetartmoebel.de^$document
@@ -352308,6 +352350,7 @@
 ||vallisneri.it^$document
 ||vallyanna.nl^$document
 ||valmaconcvernlucag.tk^$document
+||valmarfr.fr^$document
 ||valmelepec.tk^$document
 ||valmemersrecto.cf^$document
 ||valmingpemada.gq^$document
@@ -371408,6 +371451,7 @@
 ||winzter-france.fr^$document
 ||winzter-officiel.fr^$document
 ||winzter1.fr^$document
+||winztercasinos.fr^$document
 ||winzzcasino.fr^$document
 ||wiolpg5.tokyo^$document
 ||wioobu.bar^$document

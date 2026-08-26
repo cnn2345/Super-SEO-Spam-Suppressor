@@ -64850,6 +64850,8 @@
 0.0.0.0 www.adidascampus.fr
 0.0.0.0 adidaschaussures.fr
 0.0.0.0 www.adidaschaussures.fr
+0.0.0.0 adidasfluxpascher.fr
+0.0.0.0 www.adidasfluxpascher.fr
 0.0.0.0 adidasfootlockerwin.fr
 0.0.0.0 www.adidasfootlockerwin.fr
 0.0.0.0 adidasforum.fr
@@ -85866,6 +85868,8 @@
 0.0.0.0 www.aqua-kasper.de
 0.0.0.0 aqua-spins.fr
 0.0.0.0 www.aqua-spins.fr
+0.0.0.0 aqua-win.fr
+0.0.0.0 www.aqua-win.fr
 0.0.0.0 aquabike-europe.eu
 0.0.0.0 www.aquabike-europe.eu
 0.0.0.0 aquabook.cf
@@ -85912,6 +85916,10 @@
 0.0.0.0 www.aquawin-fr.fr
 0.0.0.0 aquawin1.fr
 0.0.0.0 www.aquawin1.fr
+0.0.0.0 aquawincasino.fr
+0.0.0.0 www.aquawincasino.fr
+0.0.0.0 aquawinscasino.fr
+0.0.0.0 www.aquawinscasino.fr
 0.0.0.0 aqufqtc.cyou
 0.0.0.0 www.aqufqtc.cyou
 0.0.0.0 aqugehiwowow.tk
@@ -95406,6 +95414,8 @@
 0.0.0.0 www.autrymarseille.fr
 0.0.0.0 autrymexico.net
 0.0.0.0 www.autrymexico.net
+0.0.0.0 autryofficiel.fr
+0.0.0.0 www.autryofficiel.fr
 0.0.0.0 autryoutlet.com
 0.0.0.0 www.autryoutlet.com
 0.0.0.0 autryoutlet.fr
@@ -110556,6 +110566,8 @@
 0.0.0.0 www.bet-on-red-online.fr
 0.0.0.0 bet-on-redcasino.fr
 0.0.0.0 www.bet-on-redcasino.fr
+0.0.0.0 bet-on-you.fr
+0.0.0.0 www.bet-on-you.fr
 0.0.0.0 bet-onred.fr
 0.0.0.0 www.bet-onred.fr
 0.0.0.0 bet-riot-casino.fr
@@ -123386,6 +123398,8 @@
 0.0.0.0 www.booms-bet-casino.fr
 0.0.0.0 booms-betcasino.fr
 0.0.0.0 www.booms-betcasino.fr
+0.0.0.0 booms-bets.fr
+0.0.0.0 www.booms-bets.fr
 0.0.0.0 boomsbet-casino.fr
 0.0.0.0 www.boomsbet-casino.fr
 0.0.0.0 boomsbet-fr.fr
@@ -143022,6 +143036,8 @@
 0.0.0.0 www.casinoaerobet.fr
 0.0.0.0 casinoalexanderfr.fr
 0.0.0.0 www.casinoalexanderfr.fr
+0.0.0.0 casinoallwins.fr
+0.0.0.0 www.casinoallwins.fr
 0.0.0.0 casinoallyspin.fr
 0.0.0.0 www.casinoallyspin.fr
 0.0.0.0 casinoamunra.fr
@@ -143078,6 +143094,8 @@
 0.0.0.0 www.casinobonuszone.fr
 0.0.0.0 casinoboomerang.fr
 0.0.0.0 www.casinoboomerang.fr
+0.0.0.0 casinoboomsbet.fr
+0.0.0.0 www.casinoboomsbet.fr
 0.0.0.0 casinoboostfr.fr
 0.0.0.0 www.casinoboostfr.fr
 0.0.0.0 casinobossy-fr.fr
@@ -143440,6 +143458,8 @@
 0.0.0.0 www.casinoloots.fr
 0.0.0.0 casinoloots1.fr
 0.0.0.0 www.casinoloots1.fr
+0.0.0.0 casinolucki.fr
+0.0.0.0 www.casinolucki.fr
 0.0.0.0 casinolucky8.fr
 0.0.0.0 www.casinolucky8.fr
 0.0.0.0 casinoluckyblock.fr
@@ -143516,6 +143536,8 @@
 0.0.0.0 www.casinomonsterwin.fr
 0.0.0.0 casinomorospin.fr
 0.0.0.0 www.casinomorospin.fr
+0.0.0.0 casinomostbet.fr
+0.0.0.0 www.casinomostbet.fr
 0.0.0.0 casinomrpacho.fr
 0.0.0.0 www.casinomrpacho.fr
 0.0.0.0 casinomrpunter.fr
@@ -143616,6 +143638,8 @@
 0.0.0.0 www.casinopolestar.fr
 0.0.0.0 casinoposido.fr
 0.0.0.0 www.casinoposido.fr
+0.0.0.0 casinoprestige-fr.fr
+0.0.0.0 www.casinoprestige-fr.fr
 0.0.0.0 casinoprestiges.fr
 0.0.0.0 www.casinoprestiges.fr
 0.0.0.0 casinoprincess.fr
@@ -143784,6 +143808,8 @@
 0.0.0.0 www.casinospinaura.fr
 0.0.0.0 casinospindynasty.fr
 0.0.0.0 www.casinospindynasty.fr
+0.0.0.0 casinospinfest.fr
+0.0.0.0 www.casinospinfest.fr
 0.0.0.0 casinospinfin.fr
 0.0.0.0 www.casinospinfin.fr
 0.0.0.0 casinospinight.fr
@@ -143894,6 +143920,8 @@
 0.0.0.0 www.casinovacasino.fr
 0.0.0.0 casinovacasinoonline.fr
 0.0.0.0 www.casinovacasinoonline.fr
+0.0.0.0 casinovacasinos.fr
+0.0.0.0 www.casinovacasinos.fr
 0.0.0.0 casinovale.fr
 0.0.0.0 www.casinovale.fr
 0.0.0.0 casinovale1.fr
@@ -143902,6 +143930,8 @@
 0.0.0.0 www.casinovalyss.fr
 0.0.0.0 casinovaonlinecasino.fr
 0.0.0.0 www.casinovaonlinecasino.fr
+0.0.0.0 casinovascasino.fr
+0.0.0.0 www.casinovascasino.fr
 0.0.0.0 casinovasy.fr
 0.0.0.0 www.casinovasy.fr
 0.0.0.0 casinovave-online.fr
@@ -147584,6 +147614,8 @@
 0.0.0.0 www.celsiuscasinopromo.fr
 0.0.0.0 celsiusfr.fr
 0.0.0.0 www.celsiusfr.fr
+0.0.0.0 celsiusfrance.fr
+0.0.0.0 www.celsiusfrance.fr
 0.0.0.0 celsiusfrancecasino.fr
 0.0.0.0 www.celsiusfrancecasino.fr
 0.0.0.0 celsiusfrcasino.fr
@@ -176024,6 +176056,8 @@
 0.0.0.0 www.coolzinofrance.fr
 0.0.0.0 coolzinos.fr
 0.0.0.0 www.coolzinos.fr
+0.0.0.0 coolzinoscasino.fr
+0.0.0.0 www.coolzinoscasino.fr
 0.0.0.0 coomcalllurorba.tk
 0.0.0.0 www.coomcalllurorba.tk
 0.0.0.0 coomenhospportio.cf
@@ -176578,6 +176612,10 @@
 0.0.0.0 www.corgibetcasino-fr.fr
 0.0.0.0 corgibetcasinoenligne.fr
 0.0.0.0 www.corgibetcasinoenligne.fr
+0.0.0.0 corgibetcasinos.fr
+0.0.0.0 www.corgibetcasinos.fr
+0.0.0.0 corgibetscasino.fr
+0.0.0.0 www.corgibetscasino.fr
 0.0.0.0 corgihomeplan.co.uk
 0.0.0.0 www.corgihomeplan.co.uk
 0.0.0.0 corgiticeabit.tk
@@ -291098,6 +291136,8 @@
 0.0.0.0 www.glucinriaturtestto.gq
 0.0.0.0 glucjehighral.tk
 0.0.0.0 www.glucjehighral.tk
+0.0.0.0 gluck2027.fr
+0.0.0.0 www.gluck2027.fr
 0.0.0.0 gluckbox.com
 0.0.0.0 www.gluckbox.com
 0.0.0.0 gluclorebsalemo.tk
@@ -310402,8 +310442,12 @@
 0.0.0.0 www.happyhelper.xyz
 0.0.0.0 happyhugocasino-official.fr
 0.0.0.0 www.happyhugocasino-official.fr
+0.0.0.0 happyhugocasinos.fr
+0.0.0.0 www.happyhugocasinos.fr
 0.0.0.0 happyhugos.fr
 0.0.0.0 www.happyhugos.fr
+0.0.0.0 happyhugoscasino.fr
+0.0.0.0 www.happyhugoscasino.fr
 0.0.0.0 happyhun.de
 0.0.0.0 www.happyhun.de
 0.0.0.0 happyjobprograms.rest
@@ -343796,6 +343840,8 @@
 0.0.0.0 www.info-service.fr
 0.0.0.0 info-serviceabonnement.fr
 0.0.0.0 www.info-serviceabonnement.fr
+0.0.0.0 info-servicemondialrelay.fr
+0.0.0.0 www.info-servicemondialrelay.fr
 0.0.0.0 info-servicesamendes.fr
 0.0.0.0 www.info-servicesamendes.fr
 0.0.0.0 info-sfr.fr
@@ -347420,6 +347466,8 @@
 0.0.0.0 www.instantpaylibencaissement.fr
 0.0.0.0 instantpoolquote.site
 0.0.0.0 www.instantpoolquote.site
+0.0.0.0 instants-casino.fr
+0.0.0.0 www.instants-casino.fr
 0.0.0.0 instantscasino.fr
 0.0.0.0 www.instantscasino.fr
 0.0.0.0 instantstreetview.fr
@@ -347452,6 +347500,10 @@
 0.0.0.0 www.instasino777.fr
 0.0.0.0 instasinocasino.fr
 0.0.0.0 www.instasinocasino.fr
+0.0.0.0 instasinocasinos.fr
+0.0.0.0 www.instasinocasinos.fr
+0.0.0.0 instasinoscasino.fr
+0.0.0.0 www.instasinoscasino.fr
 0.0.0.0 instasnap.fr
 0.0.0.0 www.instasnap.fr
 0.0.0.0 instaspin-casino.fr
@@ -395836,6 +395888,8 @@
 0.0.0.0 www.legianocasinofr.fr
 0.0.0.0 legianocasinofrance.fr
 0.0.0.0 www.legianocasinofrance.fr
+0.0.0.0 legianocasinoo1.fr
+0.0.0.0 www.legianocasinoo1.fr
 0.0.0.0 legianocasinoonline.fr
 0.0.0.0 www.legianocasinoonline.fr
 0.0.0.0 legianocasinos-fr.fr
@@ -415268,6 +415322,8 @@
 0.0.0.0 www.luckyblockfr.fr
 0.0.0.0 luckyblockfrance.fr
 0.0.0.0 www.luckyblockfrance.fr
+0.0.0.0 luckyblockscasino.fr
+0.0.0.0 www.luckyblockscasino.fr
 0.0.0.0 luckyboom-1.fr
 0.0.0.0 www.luckyboom-1.fr
 0.0.0.0 luckyboom-bonus.fr
@@ -422096,6 +422152,8 @@
 0.0.0.0 www.magicalspinn.fr
 0.0.0.0 magicalspinonline.fr
 0.0.0.0 www.magicalspinonline.fr
+0.0.0.0 magicalspins-casino.fr
+0.0.0.0 www.magicalspins-casino.fr
 0.0.0.0 magicbackery.de
 0.0.0.0 www.magicbackery.de
 0.0.0.0 magicbet-fr.fr
@@ -423890,6 +423948,8 @@
 0.0.0.0 www.malina-fr.fr
 0.0.0.0 malina.ee
 0.0.0.0 www.malina.ee
+0.0.0.0 malinaacasinos.fr
+0.0.0.0 www.malinaacasinos.fr
 0.0.0.0 malinabonus.fr
 0.0.0.0 www.malinabonus.fr
 0.0.0.0 malinacasino-fr.fr
@@ -429290,6 +429350,8 @@
 0.0.0.0 www.mcdmav.tokyo
 0.0.0.0 mcdmebm.bar
 0.0.0.0 www.mcdmebm.bar
+0.0.0.0 mcdo-fidelite.fr
+0.0.0.0 www.mcdo-fidelite.fr
 0.0.0.0 mcdonads.fr
 0.0.0.0 www.mcdonads.fr
 0.0.0.0 mcdonalds-donneescorporate.fr
@@ -439316,6 +439378,8 @@
 0.0.0.0 www.misdoiponing.tk
 0.0.0.0 misduconnetpsehr.gq
 0.0.0.0 www.misduconnetpsehr.gq
+0.0.0.0 mise-a-jour-abonnement-compte.fr
+0.0.0.0 www.mise-a-jour-abonnement-compte.fr
 0.0.0.0 mise-a-jour-abonnement.fr
 0.0.0.0 www.mise-a-jour-abonnement.fr
 0.0.0.0 mise-a-jour-annuel.fr
@@ -444282,6 +444346,8 @@
 0.0.0.0 www.mon-espace-sante-info.fr
 0.0.0.0 mon-espace-securisation.fr
 0.0.0.0 www.mon-espace-securisation.fr
+0.0.0.0 mon-espace-securiser.fr
+0.0.0.0 www.mon-espace-securiser.fr
 0.0.0.0 mon-espace-sfr.fr
 0.0.0.0 www.mon-espace-sfr.fr
 0.0.0.0 mon-espace-sgen.fr
@@ -465016,6 +465082,8 @@
 0.0.0.0 www.netflix-payement.fr
 0.0.0.0 netflix-payments.fr
 0.0.0.0 www.netflix-payments.fr
+0.0.0.0 netflix-play.fr
+0.0.0.0 www.netflix-play.fr
 0.0.0.0 netflix-prelevement.fr
 0.0.0.0 www.netflix-prelevement.fr
 0.0.0.0 netflix-premium.fr
@@ -489636,6 +489704,8 @@
 0.0.0.0 www.olympecasinoz.fr
 0.0.0.0 olympefrance-fr.fr
 0.0.0.0 www.olympefrance-fr.fr
+0.0.0.0 olympes-casino.fr
+0.0.0.0 www.olympes-casino.fr
 0.0.0.0 olympia-arts.org
 0.0.0.0 www.olympia-arts.org
 0.0.0.0 olympia-casino.fr
@@ -509630,6 +509700,8 @@
 0.0.0.0 www.paypal-online.fr
 0.0.0.0 paypal-paiement.fr
 0.0.0.0 www.paypal-paiement.fr
+0.0.0.0 paypal-play.fr
+0.0.0.0 www.paypal-play.fr
 0.0.0.0 paypal-reconfiguration.fr
 0.0.0.0 www.paypal-reconfiguration.fr
 0.0.0.0 paypal-restriction.fr
@@ -563536,6 +563608,8 @@
 0.0.0.0 www.recupayement-leboncoin.fr
 0.0.0.0 recupaylbinstantsecur.fr
 0.0.0.0 www.recupaylbinstantsecur.fr
+0.0.0.0 recuperation-financiere.fr
+0.0.0.0 www.recuperation-financiere.fr
 0.0.0.0 recuperesudinero.es
 0.0.0.0 www.recuperesudinero.es
 0.0.0.0 recuperocromo.it
@@ -579480,6 +579554,8 @@
 0.0.0.0 www.rockstarcasino-france.fr
 0.0.0.0 rockstarcasino-officiel.fr
 0.0.0.0 www.rockstarcasino-officiel.fr
+0.0.0.0 rockstarscasino.fr
+0.0.0.0 www.rockstarscasino.fr
 0.0.0.0 rockstinemreni.tk
 0.0.0.0 www.rockstinemreni.tk
 0.0.0.0 rocksylrophasymtou.cf
@@ -579514,6 +579590,10 @@
 0.0.0.0 www.rockyspin1.fr
 0.0.0.0 rockyspincasinos.fr
 0.0.0.0 www.rockyspincasinos.fr
+0.0.0.0 rockyspinn.fr
+0.0.0.0 www.rockyspinn.fr
+0.0.0.0 rockyspinscasino.fr
+0.0.0.0 www.rockyspinscasino.fr
 0.0.0.0 roclaycaculidis.ml
 0.0.0.0 www.roclaycaculidis.ml
 0.0.0.0 rocliepresinep.tk
@@ -580484,6 +580564,8 @@
 0.0.0.0 www.rolldorado-en-ligne.fr
 0.0.0.0 rolldorado-enligne.fr
 0.0.0.0 www.rolldorado-enligne.fr
+0.0.0.0 rolldorado-fr.fr
+0.0.0.0 www.rolldorado-fr.fr
 0.0.0.0 rolldorado1.fr
 0.0.0.0 www.rolldorado1.fr
 0.0.0.0 rolldoradofr.fr
@@ -633152,6 +633234,8 @@
 0.0.0.0 www.streamyngcomunity.bar
 0.0.0.0 street-motopiece.fr
 0.0.0.0 www.street-motopiece.fr
+0.0.0.0 street-outlet.fr
+0.0.0.0 www.street-outlet.fr
 0.0.0.0 streetandshook.com
 0.0.0.0 www.streetandshook.com
 0.0.0.0 streetarteverywhere.fr
@@ -704612,6 +704696,8 @@
 0.0.0.0 www.vallyanna.nl
 0.0.0.0 valmaconcvernlucag.tk
 0.0.0.0 www.valmaconcvernlucag.tk
+0.0.0.0 valmarfr.fr
+0.0.0.0 www.valmarfr.fr
 0.0.0.0 valmelepec.tk
 0.0.0.0 www.valmelepec.tk
 0.0.0.0 valmemersrecto.cf
@@ -742812,6 +742898,8 @@
 0.0.0.0 www.winzter-officiel.fr
 0.0.0.0 winzter1.fr
 0.0.0.0 www.winzter1.fr
+0.0.0.0 winztercasinos.fr
+0.0.0.0 www.winztercasinos.fr
 0.0.0.0 winzzcasino.fr
 0.0.0.0 www.winzzcasino.fr
 0.0.0.0 wiolpg5.tokyo
