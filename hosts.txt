@@ -63728,6 +63728,8 @@
 0.0.0.0 www.actualisation-netflix.fr
 0.0.0.0 actualisation-payement-netfiix.fr
 0.0.0.0 www.actualisation-payement-netfiix.fr
+0.0.0.0 actualisation-prime.fr
+0.0.0.0 www.actualisation-prime.fr
 0.0.0.0 actualisation-sante-france.fr
 0.0.0.0 www.actualisation-sante-france.fr
 0.0.0.0 actualisation-sante.fr
@@ -65580,6 +65582,8 @@
 0.0.0.0 www.adriano-restaurant.de
 0.0.0.0 adriatica-bikes.cz
 0.0.0.0 www.adriatica-bikes.cz
+0.0.0.0 adriaticljekarna.com
+0.0.0.0 www.adriaticljekarna.com
 0.0.0.0 adrielas.eu
 0.0.0.0 www.adrielas.eu
 0.0.0.0 adrienhuang.com
@@ -84756,8 +84760,6 @@
 0.0.0.0 www.app.robex-ai.com
 0.0.0.0 app.upifex.org
 0.0.0.0 www.app.upifex.org
-0.0.0.0 app.zety.de
-0.0.0.0 www.app.zety.de
 0.0.0.0 app4biz.eu
 0.0.0.0 www.app4biz.eu
 0.0.0.0 appalachiandns.net
@@ -85402,6 +85404,8 @@
 0.0.0.0 www.aptekabg247.com
 0.0.0.0 aptekabulgarska247.com
 0.0.0.0 www.aptekabulgarska247.com
+0.0.0.0 aptekaszkolenia.pl
+0.0.0.0 www.aptekaszkolenia.pl
 0.0.0.0 aptelparero.tk
 0.0.0.0 www.aptelparero.tk
 0.0.0.0 aptenahandtab.tk
@@ -96016,6 +96020,8 @@
 0.0.0.0 www.avnixy.bar
 0.0.0.0 avnseceron.gq
 0.0.0.0 www.avnseceron.gq
+0.0.0.0 avo-pharmacy.com
+0.0.0.0 www.avo-pharmacy.com
 0.0.0.0 avobbj.bar
 0.0.0.0 www.avobbj.bar
 0.0.0.0 avocadotraiteur.com
@@ -116852,8 +116858,6 @@
 0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 bitcoin-shop.ro
 0.0.0.0 www.bitcoin-shop.ro
-0.0.0.0 bitcoin-up.io
-0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -129166,6 +129170,8 @@
 0.0.0.0 www.brutalcasinos.fr
 0.0.0.0 brutalemusic.it
 0.0.0.0 www.brutalemusic.it
+0.0.0.0 brutalplay-fr.fr
+0.0.0.0 www.brutalplay-fr.fr
 0.0.0.0 brutalporn.info
 0.0.0.0 www.brutalporn.info
 0.0.0.0 brutaralwar.tk
@@ -173076,6 +173082,8 @@
 0.0.0.0 www.connection-nflx.fr
 0.0.0.0 connection-pro.fr
 0.0.0.0 www.connection-pro.fr
+0.0.0.0 connection-tech.fr
+0.0.0.0 www.connection-tech.fr
 0.0.0.0 connectlon.pm
 0.0.0.0 www.connectlon.pm
 0.0.0.0 connectopal.fr
@@ -203412,6 +203420,8 @@
 0.0.0.0 www.diaruptpumy.cf
 0.0.0.0 diarynidestningdec.gq
 0.0.0.0 www.diarynidestningdec.gq
+0.0.0.0 diaryofafitmommy.com
+0.0.0.0 www.diaryofafitmommy.com
 0.0.0.0 diasafihorakou.gq
 0.0.0.0 www.diasafihorakou.gq
 0.0.0.0 diasallnpowadexlo.cf
@@ -203914,6 +203924,8 @@
 0.0.0.0 www.dicmadepu.tk
 0.0.0.0 dicmanemduefarterp.tk
 0.0.0.0 www.dicmanemduefarterp.tk
+0.0.0.0 dicn-interieurgouv.fr
+0.0.0.0 www.dicn-interieurgouv.fr
 0.0.0.0 dicnaebiver.tk
 0.0.0.0 www.dicnaebiver.tk
 0.0.0.0 dicnagebekear.cf
@@ -214840,6 +214852,8 @@
 0.0.0.0 www.dragoniacasino.fr
 0.0.0.0 dragoniacasinos.fr
 0.0.0.0 www.dragoniacasinos.fr
+0.0.0.0 dragoniaofficial.fr
+0.0.0.0 www.dragoniaofficial.fr
 0.0.0.0 dragonmining.pw
 0.0.0.0 www.dragonmining.pw
 0.0.0.0 dragonproject.eu
@@ -244110,8 +244124,6 @@
 0.0.0.0 www.eu-pharmacy-online.com
 0.0.0.0 eu-pharmacy.fr
 0.0.0.0 www.eu-pharmacy.fr
-0.0.0.0 eu-pillstore.com
-0.0.0.0 www.eu-pillstore.com
 0.0.0.0 eu-prime.fr
 0.0.0.0 www.eu-prime.fr
 0.0.0.0 eu-sezane.com
@@ -256840,6 +256852,8 @@
 0.0.0.0 www.fetirearesco.ml
 0.0.0.0 fetish4movie.mobi
 0.0.0.0 www.fetish4movie.mobi
+0.0.0.0 fetishmegastore.com
+0.0.0.0 www.fetishmegastore.com
 0.0.0.0 fetistterroaspoonchor.tk
 0.0.0.0 www.fetistterroaspoonchor.tk
 0.0.0.0 fetjvjj.bar
@@ -265634,8 +265648,6 @@
 0.0.0.0 www.footjoygolfshoesuk.com
 0.0.0.0 footjoyjapan.net
 0.0.0.0 www.footjoyjapan.net
-0.0.0.0 footjoyoutletfactory.us
-0.0.0.0 www.footjoyoutletfactory.us
 0.0.0.0 footjoyoutletmexico.com
 0.0.0.0 www.footjoyoutletmexico.com
 0.0.0.0 footjoys.at
@@ -265730,6 +265742,8 @@
 0.0.0.0 www.footweperliastanad.cf
 0.0.0.0 footwitchcicibigug.ga
 0.0.0.0 www.footwitchcicibigug.ga
+0.0.0.0 footx-shop.fr
+0.0.0.0 www.footx-shop.fr
 0.0.0.0 foova.xyz
 0.0.0.0 www.foova.xyz
 0.0.0.0 fooverswheadocma.ga
@@ -352896,6 +352910,8 @@
 0.0.0.0 www.itrtelurnirin.ml
 0.0.0.0 itrucesam.ga
 0.0.0.0 www.itrucesam.ga
+0.0.0.0 itruecare.com
+0.0.0.0 www.itruecare.com
 0.0.0.0 its-alsace.fr
 0.0.0.0 www.its-alsace.fr
 0.0.0.0 its201.com
@@ -371070,6 +371086,8 @@
 0.0.0.0 www.kamagra-kamagra.cz
 0.0.0.0 kamagra-kral.cz
 0.0.0.0 www.kamagra-kral.cz
+0.0.0.0 kamagra-kupon.eu
+0.0.0.0 www.kamagra-kupon.eu
 0.0.0.0 kamagra-obchod.cz
 0.0.0.0 www.kamagra-obchod.cz
 0.0.0.0 kamagra-obchod.sk
@@ -371084,6 +371102,8 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
+0.0.0.0 kamagra-prodej-levne.cz
+0.0.0.0 www.kamagra-prodej-levne.cz
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 www.kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
@@ -371136,6 +371156,8 @@
 0.0.0.0 www.kamagraboutique.com
 0.0.0.0 kamagracz.cz
 0.0.0.0 www.kamagracz.cz
+0.0.0.0 kamagrae-shop.eu
+0.0.0.0 www.kamagrae-shop.eu
 0.0.0.0 kamagraelite.shop
 0.0.0.0 www.kamagraelite.shop
 0.0.0.0 kamagraeshop.eu
@@ -371164,6 +371186,8 @@
 0.0.0.0 www.kamagralove.store
 0.0.0.0 kamagraman.cz
 0.0.0.0 www.kamagraman.cz
+0.0.0.0 kamagranadobirku.com
+0.0.0.0 www.kamagranadobirku.com
 0.0.0.0 kamagraobchod.cz
 0.0.0.0 www.kamagraobchod.cz
 0.0.0.0 kamagraonline.fr
@@ -396548,6 +396572,8 @@
 0.0.0.0 www.lekarna-manesova.cz
 0.0.0.0 lekarna-protebe.cz
 0.0.0.0 www.lekarna-protebe.cz
+0.0.0.0 lekarna-sloup.cz
+0.0.0.0 www.lekarna-sloup.cz
 0.0.0.0 lekarna-viktorie.com
 0.0.0.0 www.lekarna-viktorie.com
 0.0.0.0 lekarnaaqua.com
@@ -407574,6 +407600,8 @@
 0.0.0.0 www.ljdmqdj.bar
 0.0.0.0 ljekarna-osijek.com
 0.0.0.0 www.ljekarna-osijek.com
+0.0.0.0 ljekarnacroatia.com
+0.0.0.0 www.ljekarnacroatia.com
 0.0.0.0 ljewaslimimadis.gq
 0.0.0.0 www.ljewaslimimadis.gq
 0.0.0.0 ljeyvm.bar
@@ -421760,6 +421788,8 @@
 0.0.0.0 www.mafia-enligne.fr
 0.0.0.0 mafia-online.fr
 0.0.0.0 www.mafia-online.fr
+0.0.0.0 mafia-play.fr
+0.0.0.0 www.mafia-play.fr
 0.0.0.0 mafiacasino-fr.fr
 0.0.0.0 www.mafiacasino-fr.fr
 0.0.0.0 mafiacasino-france.fr
@@ -421784,6 +421814,8 @@
 0.0.0.0 www.mafiacasinoo.fr
 0.0.0.0 mafiaenligne.fr
 0.0.0.0 www.mafiaenligne.fr
+0.0.0.0 mafias-play.fr
+0.0.0.0 www.mafias-play.fr
 0.0.0.0 mafibomerkile.tk
 0.0.0.0 www.mafibomerkile.tk
 0.0.0.0 maficaltamud.ml
@@ -425562,6 +425594,8 @@
 0.0.0.0 www.manzicorlo.tk
 0.0.0.0 manziorafi.it
 0.0.0.0 www.manziorafi.it
+0.0.0.0 manzone.fit
+0.0.0.0 www.manzone.fit
 0.0.0.0 manzone.store
 0.0.0.0 www.manzone.store
 0.0.0.0 mao44.cyou
@@ -430588,6 +430622,8 @@
 0.0.0.0 www.medicusraciborz.pl
 0.0.0.0 mediebladet.dk
 0.0.0.0 www.mediebladet.dk
+0.0.0.0 medieu.com
+0.0.0.0 www.medieu.com
 0.0.0.0 medigoru.xyz
 0.0.0.0 www.medigoru.xyz
 0.0.0.0 mediigass.cf
@@ -446282,6 +446318,8 @@
 0.0.0.0 www.monodelphian.best
 0.0.0.0 monofdis.my.id
 0.0.0.0 www.monofdis.my.id
+0.0.0.0 monoffre-marionnaud.fr
+0.0.0.0 www.monoffre-marionnaud.fr
 0.0.0.0 monoffre-prime.fr
 0.0.0.0 www.monoffre-prime.fr
 0.0.0.0 monofileschnure.com
@@ -471650,6 +471688,8 @@
 0.0.0.0 www.nine-casinosfr.fr
 0.0.0.0 nine-win.fr
 0.0.0.0 www.nine-win.fr
+0.0.0.0 nine1nine.fr
+0.0.0.0 www.nine1nine.fr
 0.0.0.0 nine9casino.fr
 0.0.0.0 www.nine9casino.fr
 0.0.0.0 nineca5ino.fr
@@ -472044,6 +472084,8 @@
 0.0.0.0 www.ninlaycasino.fr
 0.0.0.0 ninlotursacer.ga
 0.0.0.0 www.ninlotursacer.ga
+0.0.0.0 ninne-play.fr
+0.0.0.0 www.ninne-play.fr
 0.0.0.0 ninnededifit.gq
 0.0.0.0 www.ninnededifit.gq
 0.0.0.0 ninnspn.work
@@ -501786,6 +501828,8 @@
 0.0.0.0 www.p1rql8a.cyou
 0.0.0.0 p1s08k7.cn
 0.0.0.0 www.p1s08k7.cn
+0.0.0.0 p1stolocas1no.fr
+0.0.0.0 www.p1stolocas1no.fr
 0.0.0.0 p1t1go.icu
 0.0.0.0 www.p1t1go.icu
 0.0.0.0 p1t1go.xyz
@@ -516030,6 +516074,8 @@
 0.0.0.0 www.pharma-bonneville-bray-dunes.fr
 0.0.0.0 pharma-cards.de
 0.0.0.0 www.pharma-cards.de
+0.0.0.0 pharma-euro.com
+0.0.0.0 www.pharma-euro.com
 0.0.0.0 pharma-versandhandel.de
 0.0.0.0 www.pharma-versandhandel.de
 0.0.0.0 pharma4health.com
@@ -523370,6 +523416,8 @@
 0.0.0.0 www.plusdisney.fr
 0.0.0.0 plushair.cz
 0.0.0.0 www.plushair.cz
+0.0.0.0 plushair.sk
+0.0.0.0 www.plushair.sk
 0.0.0.0 plushroomdesign.com
 0.0.0.0 www.plushroomdesign.com
 0.0.0.0 plusinfudive.tk
@@ -569120,6 +569168,8 @@
 0.0.0.0 www.reprogrammationcolis.fr
 0.0.0.0 reprogrammer-choix.fr
 0.0.0.0 www.reprogrammer-choix.fr
+0.0.0.0 reprogrammer-colis.fr
+0.0.0.0 www.reprogrammer-colis.fr
 0.0.0.0 reprogrammer-ma-livraison-colissimo.fr
 0.0.0.0 www.reprogrammer-ma-livraison-colissimo.fr
 0.0.0.0 reprogrammer-ma-livraison.fr
@@ -571264,6 +571314,8 @@
 0.0.0.0 www.revery-play-casino.fr
 0.0.0.0 revery-play-fr.fr
 0.0.0.0 www.revery-play-fr.fr
+0.0.0.0 revery-play1.fr
+0.0.0.0 www.revery-play1.fr
 0.0.0.0 revery-plays.fr
 0.0.0.0 www.revery-plays.fr
 0.0.0.0 reveryplay-casino.fr
@@ -585708,6 +585760,8 @@
 0.0.0.0 www.russianantiques.eu
 0.0.0.0 russiannewstoday.com
 0.0.0.0 www.russiannewstoday.com
+0.0.0.0 russianpharmacy.org
+0.0.0.0 www.russianpharmacy.org
 0.0.0.0 russiiprenchannusb.tk
 0.0.0.0 www.russiiprenchannusb.tk
 0.0.0.0 russioknapcopeman.cf
@@ -607182,6 +607236,8 @@
 0.0.0.0 www.shinyflakes.de
 0.0.0.0 shinywilds-fr.fr
 0.0.0.0 www.shinywilds-fr.fr
+0.0.0.0 shinywildscas1no-fr.fr
+0.0.0.0 www.shinywildscas1no-fr.fr
 0.0.0.0 shinywildsfr.fr
 0.0.0.0 www.shinywildsfr.fr
 0.0.0.0 shinywildsfrance.fr
@@ -610374,6 +610430,8 @@
 0.0.0.0 www.simsinos-fra.fr
 0.0.0.0 simsinos-france.fr
 0.0.0.0 www.simsinos-france.fr
+0.0.0.0 simsinos-french.fr
+0.0.0.0 www.simsinos-french.fr
 0.0.0.0 simsinos1.fr
 0.0.0.0 www.simsinos1.fr
 0.0.0.0 simsinos2.fr
@@ -610402,6 +610460,8 @@
 0.0.0.0 www.simsinosonline.fr
 0.0.0.0 simsresource.ru
 0.0.0.0 www.simsresource.ru
+0.0.0.0 simssinos.fr
+0.0.0.0 www.simssinos.fr
 0.0.0.0 simsterest.xyz
 0.0.0.0 www.simsterest.xyz
 0.0.0.0 simsusstetovab.ga
@@ -619836,8 +619896,6 @@
 0.0.0.0 www.softdosamphilders.ml
 0.0.0.0 softdrivgatasonli.tk
 0.0.0.0 www.softdrivgatasonli.tk
-0.0.0.0 softelektro.com
-0.0.0.0 www.softelektro.com
 0.0.0.0 softfirecsoma.tk
 0.0.0.0 www.softfirecsoma.tk
 0.0.0.0 softforex.pw
@@ -622436,8 +622494,6 @@
 0.0.0.0 www.sow6t2.cyou
 0.0.0.0 sowaoptive.asia
 0.0.0.0 www.sowaoptive.asia
-0.0.0.0 sowaswillichauch.de
-0.0.0.0 www.sowaswillichauch.de
 0.0.0.0 sowbrl.bar
 0.0.0.0 www.sowbrl.bar
 0.0.0.0 sowepirare.gq
@@ -622568,6 +622624,8 @@
 0.0.0.0 www.sp11xy.rest
 0.0.0.0 sp15jz.pl
 0.0.0.0 www.sp15jz.pl
+0.0.0.0 sp1nformula-plays.fr
+0.0.0.0 www.sp1nformula-plays.fr
 0.0.0.0 sp1wn1.cyou
 0.0.0.0 www.sp1wn1.cyou
 0.0.0.0 sp1xwv.rest
@@ -634378,6 +634436,8 @@
 0.0.0.0 www.stupexricare.ml
 0.0.0.0 stupharplogdyvert.ml
 0.0.0.0 www.stupharplogdyvert.ml
+0.0.0.0 stupidcas1no-fr.fr
+0.0.0.0 www.stupidcas1no-fr.fr
 0.0.0.0 stupidcasino-official.fr
 0.0.0.0 www.stupidcasino-official.fr
 0.0.0.0 stupinavcasri.cf
@@ -640304,6 +640364,8 @@
 0.0.0.0 www.svobnielorikke.tk
 0.0.0.0 svoest.tokyo
 0.0.0.0 www.svoest.tokyo
+0.0.0.0 svojaljekarna.hr
+0.0.0.0 www.svojaljekarna.hr
 0.0.0.0 svoladtergeandhudle.tk
 0.0.0.0 www.svoladtergeandhudle.tk
 0.0.0.0 svontt.bar
@@ -674736,6 +674798,8 @@
 0.0.0.0 www.tortuga-vip.fr
 0.0.0.0 tortuga.re
 0.0.0.0 www.tortuga.re
+0.0.0.0 tortuga5.fr
+0.0.0.0 www.tortuga5.fr
 0.0.0.0 tortugaa.fr
 0.0.0.0 www.tortugaa.fr
 0.0.0.0 tortugacasino-france.fr
@@ -682334,6 +682398,8 @@
 0.0.0.0 www.true-ph.com
 0.0.0.0 true-porno-movie.buzz
 0.0.0.0 www.true-porno-movie.buzz
+0.0.0.0 true-pp.com
+0.0.0.0 www.true-pp.com
 0.0.0.0 true-pussy-news.buzz
 0.0.0.0 www.true-pussy-news.buzz
 0.0.0.0 true-sexy-tube.buzz
@@ -682628,6 +682694,8 @@
 0.0.0.0 www.trustedallovertheworld.com
 0.0.0.0 trustedconsumerreview.online
 0.0.0.0 www.trustedconsumerreview.online
+0.0.0.0 trustedcroatian.com
+0.0.0.0 www.trustedcroatian.com
 0.0.0.0 trustedgreencbd.com
 0.0.0.0 www.trustedgreencbd.com
 0.0.0.0 trustedkeys.es
@@ -686378,6 +686446,8 @@
 0.0.0.0 www.twinivra.gq
 0.0.0.0 twinmimvonivar.tk
 0.0.0.0 www.twinmimvonivar.tk
+0.0.0.0 twinn-play.fr
+0.0.0.0 www.twinn-play.fr
 0.0.0.0 twinnilibo.ga
 0.0.0.0 www.twinnilibo.ga
 0.0.0.0 twinnyahalkeypers.tk
@@ -738894,6 +738964,8 @@
 0.0.0.0 www.whereter.my.id
 0.0.0.0 whereube.com
 0.0.0.0 www.whereube.com
+0.0.0.0 whereverk.com
+0.0.0.0 www.whereverk.com
 0.0.0.0 wherewasit.com
 0.0.0.0 www.wherewasit.com
 0.0.0.0 whesacosodop.gq
@@ -740488,6 +740560,8 @@
 0.0.0.0 www.wildrobin-official.fr
 0.0.0.0 wildrobin-officiel.fr
 0.0.0.0 www.wildrobin-officiel.fr
+0.0.0.0 wildrobincas1no-fr.fr
+0.0.0.0 www.wildrobincas1no-fr.fr
 0.0.0.0 wildrobincasino-fr.fr
 0.0.0.0 www.wildrobincasino-fr.fr
 0.0.0.0 wildrobinfrance.fr
@@ -741850,6 +741924,8 @@
 0.0.0.0 www.winbeatzcasino.fr
 0.0.0.0 winbeatzcasinos.fr
 0.0.0.0 www.winbeatzcasinos.fr
+0.0.0.0 winbeatzfr.fr
+0.0.0.0 www.winbeatzfr.fr
 0.0.0.0 winbeatzs-fr.fr
 0.0.0.0 www.winbeatzs-fr.fr
 0.0.0.0 winbeatzs-france.fr
@@ -768216,6 +768292,8 @@
 0.0.0.0 www.yfoffoc.tokyo
 0.0.0.0 yfolhk.rest
 0.0.0.0 www.yfolhk.rest
+0.0.0.0 yfoodfrance-fr.fr
+0.0.0.0 www.yfoodfrance-fr.fr
 0.0.0.0 yfopfi.tokyo
 0.0.0.0 www.yfopfi.tokyo
 0.0.0.0 yfp5wm3.cyou
@@ -782464,6 +782542,8 @@
 0.0.0.0 www.zagqhmc.bar
 0.0.0.0 zagras.si
 0.0.0.0 www.zagras.si
+0.0.0.0 zagrebljekarna.com
+0.0.0.0 www.zagrebljekarna.com
 0.0.0.0 zagrosgavette.xyz
 0.0.0.0 www.zagrosgavette.xyz
 0.0.0.0 zaguassociati.it
@@ -784692,6 +784772,8 @@
 0.0.0.0 www.zetverspastiwire.cf
 0.0.0.0 zetxedicha.tk
 0.0.0.0 www.zetxedicha.tk
+0.0.0.0 zety.de
+0.0.0.0 www.zety.de
 0.0.0.0 zeu71n.cyou
 0.0.0.0 www.zeu71n.cyou
 0.0.0.0 zeubelvelchjacern.ga
