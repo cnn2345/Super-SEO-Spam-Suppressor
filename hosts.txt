@@ -129162,6 +129162,8 @@
 0.0.0.0 www.brutal-casinos.fr
 0.0.0.0 brutal-enligne.fr
 0.0.0.0 www.brutal-enligne.fr
+0.0.0.0 brutalcas1no.fr
+0.0.0.0 www.brutalcas1no.fr
 0.0.0.0 brutalcasino-fr.fr
 0.0.0.0 www.brutalcasino-fr.fr
 0.0.0.0 brutalcasino.fr
@@ -143170,6 +143172,8 @@
 0.0.0.0 www.casinocoinpoker.fr
 0.0.0.0 casinocola.fr
 0.0.0.0 www.casinocola.fr
+0.0.0.0 casinoconnexion.fr
+0.0.0.0 www.casinoconnexion.fr
 0.0.0.0 casinocoolzino.fr
 0.0.0.0 www.casinocoolzino.fr
 0.0.0.0 casinocoolzino1.fr
@@ -145546,6 +145550,8 @@
 0.0.0.0 www.cazeus-france.fr
 0.0.0.0 cazeus-login.fr
 0.0.0.0 www.cazeus-login.fr
+0.0.0.0 cazeus-official.fr
+0.0.0.0 www.cazeus-official.fr
 0.0.0.0 cazeus-officiel.fr
 0.0.0.0 www.cazeus-officiel.fr
 0.0.0.0 cazeus1.fr
@@ -167990,6 +167996,8 @@
 0.0.0.0 www.coin-casino-france.fr
 0.0.0.0 coin-casino.fr
 0.0.0.0 www.coin-casino.fr
+0.0.0.0 coin-official.fr
+0.0.0.0 www.coin-official.fr
 0.0.0.0 coinbase-834859.com
 0.0.0.0 www.coinbase-834859.com
 0.0.0.0 coinbase-support.fr
@@ -176044,6 +176052,8 @@
 0.0.0.0 www.coolwaychaussures.fr
 0.0.0.0 coolwayfrance.fr
 0.0.0.0 www.coolwayfrance.fr
+0.0.0.0 coolz1no.fr
+0.0.0.0 www.coolz1no.fr
 0.0.0.0 coolzi.fr
 0.0.0.0 www.coolzi.fr
 0.0.0.0 coolzino-1.fr
@@ -268898,6 +268908,8 @@
 0.0.0.0 www.fr-rocketman.fr
 0.0.0.0 fr-roobet.fr
 0.0.0.0 www.fr-roobet.fr
+0.0.0.0 fr-roobetcasino.fr
+0.0.0.0 www.fr-roobetcasino.fr
 0.0.0.0 fr-safran-nacelles.fr
 0.0.0.0 www.fr-safran-nacelles.fr
 0.0.0.0 fr-sagram.fr
@@ -269300,6 +269312,8 @@
 0.0.0.0 www.fraize.xyz
 0.0.0.0 fraktion32.dk
 0.0.0.0 www.fraktion32.dk
+0.0.0.0 fraleneparis.fr
+0.0.0.0 www.fraleneparis.fr
 0.0.0.0 framacemgebuni.tk
 0.0.0.0 www.framacemgebuni.tk
 0.0.0.0 framadylvicre.tk
@@ -325788,6 +325802,8 @@
 0.0.0.0 www.hotmailneuf.fr
 0.0.0.0 hotmakl.fr
 0.0.0.0 www.hotmakl.fr
+0.0.0.0 hotmalil.fr
+0.0.0.0 www.hotmalil.fr
 0.0.0.0 hotmaom.fr
 0.0.0.0 www.hotmaom.fr
 0.0.0.0 hotmayil.fr
@@ -422266,6 +422282,8 @@
 0.0.0.0 www.magicwandshop.de
 0.0.0.0 magicwin-fr.fr
 0.0.0.0 www.magicwin-fr.fr
+0.0.0.0 magicwin1.fr
+0.0.0.0 www.magicwin1.fr
 0.0.0.0 magicwincasino.fr
 0.0.0.0 www.magicwincasino.fr
 0.0.0.0 magicwinonline.fr
@@ -450244,6 +450262,8 @@
 0.0.0.0 www.mrbriccolage.fr
 0.0.0.0 mrcarpet.xyz
 0.0.0.0 www.mrcarpet.xyz
+0.0.0.0 mrcash-casino.fr
+0.0.0.0 www.mrcash-casino.fr
 0.0.0.0 mrcashcasino.fr
 0.0.0.0 www.mrcashcasino.fr
 0.0.0.0 mrcatcasino.fr
@@ -470836,6 +470856,8 @@
 0.0.0.0 www.nightlotmonthshome.biz
 0.0.0.0 nightlotprocesss.biz
 0.0.0.0 www.nightlotprocesss.biz
+0.0.0.0 nightluckcasino.fr
+0.0.0.0 www.nightluckcasino.fr
 0.0.0.0 nightmaysstatestyle.biz
 0.0.0.0 www.nightmaysstatestyle.biz
 0.0.0.0 nightmeetingpoint.eu
@@ -486584,6 +486606,10 @@
 0.0.0.0 www.offlce.fr
 0.0.0.0 offmrds.work
 0.0.0.0 www.offmrds.work
+0.0.0.0 offre-annonce-boncoin.fr
+0.0.0.0 www.offre-annonce-boncoin.fr
+0.0.0.0 offre-annonceboncoin.fr
+0.0.0.0 www.offre-annonceboncoin.fr
 0.0.0.0 offre-caraibes-pro.fr
 0.0.0.0 www.offre-caraibes-pro.fr
 0.0.0.0 offre-compte-pro.fr
@@ -577516,6 +577542,8 @@
 0.0.0.0 www.rivisulmaverg.gq
 0.0.0.0 rivo1.fr
 0.0.0.0 www.rivo1.fr
+0.0.0.0 rivocas1no-fr.fr
+0.0.0.0 www.rivocas1no-fr.fr
 0.0.0.0 rivocas1no.fr
 0.0.0.0 www.rivocas1no.fr
 0.0.0.0 rivocasino.fr
@@ -608096,6 +608124,8 @@
 0.0.0.0 www.shuddm.bar
 0.0.0.0 shuffle-casino.fr
 0.0.0.0 www.shuffle-casino.fr
+0.0.0.0 shufflecas1no-fr.fr
+0.0.0.0 www.shufflecas1no-fr.fr
 0.0.0.0 shufflecasino-fr.fr
 0.0.0.0 www.shufflecasino-fr.fr
 0.0.0.0 shufflecasino.fr
@@ -608258,6 +608288,8 @@
 0.0.0.0 www.si77l7.tokyo
 0.0.0.0 sia-av.it
 0.0.0.0 www.sia-av.it
+0.0.0.0 sia-notifications.fr
+0.0.0.0 www.sia-notifications.fr
 0.0.0.0 siabamirrai.gq
 0.0.0.0 www.siabamirrai.gq
 0.0.0.0 siabivacibubb.gq
@@ -617796,6 +617828,8 @@
 0.0.0.0 www.snapchat-compte.fr
 0.0.0.0 snapchat-connexion.fr
 0.0.0.0 www.snapchat-connexion.fr
+0.0.0.0 snapchat-de.fr
+0.0.0.0 www.snapchat-de.fr
 0.0.0.0 snapchat-fr.fr
 0.0.0.0 www.snapchat-fr.fr
 0.0.0.0 snapchat-help.fr
@@ -622082,6 +622116,8 @@
 0.0.0.0 www.soundbackcetide.tk
 0.0.0.0 soundbackroulmaless.ga
 0.0.0.0 www.soundbackroulmaless.ga
+0.0.0.0 soundbrewery.com
+0.0.0.0 www.soundbrewery.com
 0.0.0.0 soundcardforwhili.ga
 0.0.0.0 www.soundcardforwhili.ga
 0.0.0.0 soundchangmomenni.tk
@@ -622624,6 +622660,8 @@
 0.0.0.0 www.sp11xy.rest
 0.0.0.0 sp15jz.pl
 0.0.0.0 www.sp15jz.pl
+0.0.0.0 sp1nformula-fr.fr
+0.0.0.0 www.sp1nformula-fr.fr
 0.0.0.0 sp1nformula-plays.fr
 0.0.0.0 www.sp1nformula-plays.fr
 0.0.0.0 sp1wn1.cyou
@@ -624808,6 +624846,10 @@
 0.0.0.0 www.spinfinfrance.fr
 0.0.0.0 spinfinity.fr
 0.0.0.0 www.spinfinity.fr
+0.0.0.0 spinformula.fr
+0.0.0.0 www.spinformula.fr
+0.0.0.0 spinformulacasino.fr
+0.0.0.0 www.spinformulacasino.fr
 0.0.0.0 spingambcocongdi.ml
 0.0.0.0 www.spingambcocongdi.ml
 0.0.0.0 spingenie.fr
@@ -625184,6 +625226,8 @@
 0.0.0.0 www.spinsy-1.fr
 0.0.0.0 spinsy-app.fr
 0.0.0.0 www.spinsy-app.fr
+0.0.0.0 spinsy-bet.fr
+0.0.0.0 www.spinsy-bet.fr
 0.0.0.0 spinsy-bonus.fr
 0.0.0.0 www.spinsy-bonus.fr
 0.0.0.0 spinsy-casino-fr.fr
@@ -660792,6 +660836,8 @@
 0.0.0.0 www.thermopro.ro
 0.0.0.0 thermoscup-shop.com
 0.0.0.0 www.thermoscup-shop.com
+0.0.0.0 thermosfrance.fr
+0.0.0.0 www.thermosfrance.fr
 0.0.0.0 thermoshapers.de
 0.0.0.0 www.thermoshapers.de
 0.0.0.0 thermtecuk.buzz
@@ -662154,6 +662200,8 @@
 0.0.0.0 www.thor-fortune-casino.fr
 0.0.0.0 thorboeje.xyz
 0.0.0.0 www.thorboeje.xyz
+0.0.0.0 thorcas1no-fr.fr
+0.0.0.0 www.thorcas1no-fr.fr
 0.0.0.0 thorcasino-enligne.fr
 0.0.0.0 www.thorcasino-enligne.fr
 0.0.0.0 thorcasino-fr.fr
@@ -740410,6 +740458,10 @@
 0.0.0.0 www.wilddice-casinos.fr
 0.0.0.0 wilddice-online.fr
 0.0.0.0 www.wilddice-online.fr
+0.0.0.0 wilddice-plays.fr
+0.0.0.0 www.wilddice-plays.fr
+0.0.0.0 wilddicecas1no-fr.fr
+0.0.0.0 www.wilddicecas1no-fr.fr
 0.0.0.0 wilddicecas1no.fr
 0.0.0.0 www.wilddicecas1no.fr
 0.0.0.0 wilddicecasino24.fr
@@ -740542,6 +740594,8 @@
 0.0.0.0 www.wildrestwhogunbe.tk
 0.0.0.0 wildriwebcforle.tk
 0.0.0.0 www.wildriwebcforle.tk
+0.0.0.0 wildrob1nplays.fr
+0.0.0.0 www.wildrob1nplays.fr
 0.0.0.0 wildrobin-1.fr
 0.0.0.0 www.wildrobin-1.fr
 0.0.0.0 wildrobin-casino-fr.fr
@@ -741030,6 +741084,8 @@
 0.0.0.0 www.win-kingdom-casino.fr
 0.0.0.0 win-kingdom.fr
 0.0.0.0 www.win-kingdom.fr
+0.0.0.0 win-kingdom1.fr
+0.0.0.0 www.win-kingdom1.fr
 0.0.0.0 win-oui-casino.fr
 0.0.0.0 www.win-oui-casino.fr
 0.0.0.0 win-oui-casinos.fr
@@ -742764,6 +742820,8 @@
 0.0.0.0 www.winreduclaci.ga
 0.0.0.0 winrolla1.fr
 0.0.0.0 www.winrolla1.fr
+0.0.0.0 wins-beatz.fr
+0.0.0.0 www.wins-beatz.fr
 0.0.0.0 wins-uniques.fr
 0.0.0.0 www.wins-uniques.fr
 0.0.0.0 winsave0fuz3kk2.biz
@@ -745904,6 +745962,8 @@
 0.0.0.0 www.wookoq.bar
 0.0.0.0 woolbbelttusreca.cf
 0.0.0.0 www.woolbbelttusreca.cf
+0.0.0.0 woolbetcasino.fr
+0.0.0.0 www.woolbetcasino.fr
 0.0.0.0 woolbgonsrecoubo.tk
 0.0.0.0 www.woolbgonsrecoubo.tk
 0.0.0.0 wooldxiwarratunta.ml

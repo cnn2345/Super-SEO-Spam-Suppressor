@@ -129162,6 +129162,8 @@
 ::1 www.brutal-casinos.fr
 ::1 brutal-enligne.fr
 ::1 www.brutal-enligne.fr
+::1 brutalcas1no.fr
+::1 www.brutalcas1no.fr
 ::1 brutalcasino-fr.fr
 ::1 www.brutalcasino-fr.fr
 ::1 brutalcasino.fr
@@ -143170,6 +143172,8 @@
 ::1 www.casinocoinpoker.fr
 ::1 casinocola.fr
 ::1 www.casinocola.fr
+::1 casinoconnexion.fr
+::1 www.casinoconnexion.fr
 ::1 casinocoolzino.fr
 ::1 www.casinocoolzino.fr
 ::1 casinocoolzino1.fr
@@ -145546,6 +145550,8 @@
 ::1 www.cazeus-france.fr
 ::1 cazeus-login.fr
 ::1 www.cazeus-login.fr
+::1 cazeus-official.fr
+::1 www.cazeus-official.fr
 ::1 cazeus-officiel.fr
 ::1 www.cazeus-officiel.fr
 ::1 cazeus1.fr
@@ -167990,6 +167996,8 @@
 ::1 www.coin-casino-france.fr
 ::1 coin-casino.fr
 ::1 www.coin-casino.fr
+::1 coin-official.fr
+::1 www.coin-official.fr
 ::1 coinbase-834859.com
 ::1 www.coinbase-834859.com
 ::1 coinbase-support.fr
@@ -176044,6 +176052,8 @@
 ::1 www.coolwaychaussures.fr
 ::1 coolwayfrance.fr
 ::1 www.coolwayfrance.fr
+::1 coolz1no.fr
+::1 www.coolz1no.fr
 ::1 coolzi.fr
 ::1 www.coolzi.fr
 ::1 coolzino-1.fr
@@ -268898,6 +268908,8 @@
 ::1 www.fr-rocketman.fr
 ::1 fr-roobet.fr
 ::1 www.fr-roobet.fr
+::1 fr-roobetcasino.fr
+::1 www.fr-roobetcasino.fr
 ::1 fr-safran-nacelles.fr
 ::1 www.fr-safran-nacelles.fr
 ::1 fr-sagram.fr
@@ -269300,6 +269312,8 @@
 ::1 www.fraize.xyz
 ::1 fraktion32.dk
 ::1 www.fraktion32.dk
+::1 fraleneparis.fr
+::1 www.fraleneparis.fr
 ::1 framacemgebuni.tk
 ::1 www.framacemgebuni.tk
 ::1 framadylvicre.tk
@@ -325788,6 +325802,8 @@
 ::1 www.hotmailneuf.fr
 ::1 hotmakl.fr
 ::1 www.hotmakl.fr
+::1 hotmalil.fr
+::1 www.hotmalil.fr
 ::1 hotmaom.fr
 ::1 www.hotmaom.fr
 ::1 hotmayil.fr
@@ -422266,6 +422282,8 @@
 ::1 www.magicwandshop.de
 ::1 magicwin-fr.fr
 ::1 www.magicwin-fr.fr
+::1 magicwin1.fr
+::1 www.magicwin1.fr
 ::1 magicwincasino.fr
 ::1 www.magicwincasino.fr
 ::1 magicwinonline.fr
@@ -450244,6 +450262,8 @@
 ::1 www.mrbriccolage.fr
 ::1 mrcarpet.xyz
 ::1 www.mrcarpet.xyz
+::1 mrcash-casino.fr
+::1 www.mrcash-casino.fr
 ::1 mrcashcasino.fr
 ::1 www.mrcashcasino.fr
 ::1 mrcatcasino.fr
@@ -470836,6 +470856,8 @@
 ::1 www.nightlotmonthshome.biz
 ::1 nightlotprocesss.biz
 ::1 www.nightlotprocesss.biz
+::1 nightluckcasino.fr
+::1 www.nightluckcasino.fr
 ::1 nightmaysstatestyle.biz
 ::1 www.nightmaysstatestyle.biz
 ::1 nightmeetingpoint.eu
@@ -486584,6 +486606,10 @@
 ::1 www.offlce.fr
 ::1 offmrds.work
 ::1 www.offmrds.work
+::1 offre-annonce-boncoin.fr
+::1 www.offre-annonce-boncoin.fr
+::1 offre-annonceboncoin.fr
+::1 www.offre-annonceboncoin.fr
 ::1 offre-caraibes-pro.fr
 ::1 www.offre-caraibes-pro.fr
 ::1 offre-compte-pro.fr
@@ -577516,6 +577542,8 @@
 ::1 www.rivisulmaverg.gq
 ::1 rivo1.fr
 ::1 www.rivo1.fr
+::1 rivocas1no-fr.fr
+::1 www.rivocas1no-fr.fr
 ::1 rivocas1no.fr
 ::1 www.rivocas1no.fr
 ::1 rivocasino.fr
@@ -608096,6 +608124,8 @@
 ::1 www.shuddm.bar
 ::1 shuffle-casino.fr
 ::1 www.shuffle-casino.fr
+::1 shufflecas1no-fr.fr
+::1 www.shufflecas1no-fr.fr
 ::1 shufflecasino-fr.fr
 ::1 www.shufflecasino-fr.fr
 ::1 shufflecasino.fr
@@ -608258,6 +608288,8 @@
 ::1 www.si77l7.tokyo
 ::1 sia-av.it
 ::1 www.sia-av.it
+::1 sia-notifications.fr
+::1 www.sia-notifications.fr
 ::1 siabamirrai.gq
 ::1 www.siabamirrai.gq
 ::1 siabivacibubb.gq
@@ -617796,6 +617828,8 @@
 ::1 www.snapchat-compte.fr
 ::1 snapchat-connexion.fr
 ::1 www.snapchat-connexion.fr
+::1 snapchat-de.fr
+::1 www.snapchat-de.fr
 ::1 snapchat-fr.fr
 ::1 www.snapchat-fr.fr
 ::1 snapchat-help.fr
@@ -622082,6 +622116,8 @@
 ::1 www.soundbackcetide.tk
 ::1 soundbackroulmaless.ga
 ::1 www.soundbackroulmaless.ga
+::1 soundbrewery.com
+::1 www.soundbrewery.com
 ::1 soundcardforwhili.ga
 ::1 www.soundcardforwhili.ga
 ::1 soundchangmomenni.tk
@@ -622624,6 +622660,8 @@
 ::1 www.sp11xy.rest
 ::1 sp15jz.pl
 ::1 www.sp15jz.pl
+::1 sp1nformula-fr.fr
+::1 www.sp1nformula-fr.fr
 ::1 sp1nformula-plays.fr
 ::1 www.sp1nformula-plays.fr
 ::1 sp1wn1.cyou
@@ -624808,6 +624846,10 @@
 ::1 www.spinfinfrance.fr
 ::1 spinfinity.fr
 ::1 www.spinfinity.fr
+::1 spinformula.fr
+::1 www.spinformula.fr
+::1 spinformulacasino.fr
+::1 www.spinformulacasino.fr
 ::1 spingambcocongdi.ml
 ::1 www.spingambcocongdi.ml
 ::1 spingenie.fr
@@ -625184,6 +625226,8 @@
 ::1 www.spinsy-1.fr
 ::1 spinsy-app.fr
 ::1 www.spinsy-app.fr
+::1 spinsy-bet.fr
+::1 www.spinsy-bet.fr
 ::1 spinsy-bonus.fr
 ::1 www.spinsy-bonus.fr
 ::1 spinsy-casino-fr.fr
@@ -660792,6 +660836,8 @@
 ::1 www.thermopro.ro
 ::1 thermoscup-shop.com
 ::1 www.thermoscup-shop.com
+::1 thermosfrance.fr
+::1 www.thermosfrance.fr
 ::1 thermoshapers.de
 ::1 www.thermoshapers.de
 ::1 thermtecuk.buzz
@@ -662154,6 +662200,8 @@
 ::1 www.thor-fortune-casino.fr
 ::1 thorboeje.xyz
 ::1 www.thorboeje.xyz
+::1 thorcas1no-fr.fr
+::1 www.thorcas1no-fr.fr
 ::1 thorcasino-enligne.fr
 ::1 www.thorcasino-enligne.fr
 ::1 thorcasino-fr.fr
@@ -740410,6 +740458,10 @@
 ::1 www.wilddice-casinos.fr
 ::1 wilddice-online.fr
 ::1 www.wilddice-online.fr
+::1 wilddice-plays.fr
+::1 www.wilddice-plays.fr
+::1 wilddicecas1no-fr.fr
+::1 www.wilddicecas1no-fr.fr
 ::1 wilddicecas1no.fr
 ::1 www.wilddicecas1no.fr
 ::1 wilddicecasino24.fr
@@ -740542,6 +740594,8 @@
 ::1 www.wildrestwhogunbe.tk
 ::1 wildriwebcforle.tk
 ::1 www.wildriwebcforle.tk
+::1 wildrob1nplays.fr
+::1 www.wildrob1nplays.fr
 ::1 wildrobin-1.fr
 ::1 www.wildrobin-1.fr
 ::1 wildrobin-casino-fr.fr
@@ -741030,6 +741084,8 @@
 ::1 www.win-kingdom-casino.fr
 ::1 win-kingdom.fr
 ::1 www.win-kingdom.fr
+::1 win-kingdom1.fr
+::1 www.win-kingdom1.fr
 ::1 win-oui-casino.fr
 ::1 www.win-oui-casino.fr
 ::1 win-oui-casinos.fr
@@ -742764,6 +742820,8 @@
 ::1 www.winreduclaci.ga
 ::1 winrolla1.fr
 ::1 www.winrolla1.fr
+::1 wins-beatz.fr
+::1 www.wins-beatz.fr
 ::1 wins-uniques.fr
 ::1 www.wins-uniques.fr
 ::1 winsave0fuz3kk2.biz
@@ -745904,6 +745962,8 @@
 ::1 www.wookoq.bar
 ::1 woolbbelttusreca.cf
 ::1 www.woolbbelttusreca.cf
+::1 woolbetcasino.fr
+::1 www.woolbetcasino.fr
 ::1 woolbgonsrecoubo.tk
 ::1 www.woolbgonsrecoubo.tk
 ::1 wooldxiwarratunta.ml
