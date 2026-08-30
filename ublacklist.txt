@@ -35592,7 +35592,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.akura.xyz/*
 *://*.akurl.xyz/*
 *://*.akurmiwiven.ml/*
-*://*.akusoli.com/*
 *://*.akustik-box.de/*
 *://*.akustika1.ru/*
 *://*.akustikholz.shop/*
@@ -54893,6 +54892,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestellen-ciao-ciao-pf.de/*
 *://*.bestelnuar.click/*
 *://*.bestemailmarketingservices.xyz/*
+*://*.bestemed.com/*
 *://*.bestemedikamente.com/*
 *://*.bestenkaufen.com/*
 *://*.bestenwahl.de/*
@@ -69566,7 +69566,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.canada-virement2024.fr/*
 *://*.canada2024-lnterac.fr/*
 *://*.canadabreakingnews.com/*
-*://*.canadadrugstore.com/*
 *://*.canadagooseoutletfrance.fr/*
 *://*.canadagoosepaschere.fr/*
 *://*.canadanewsreport.com/*
@@ -96130,6 +96129,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.darpuncmedunami.tk/*
 *://*.darralypmaheal.tk/*
 *://*.darrilumreevahealh.tk/*
+*://*.darrioumerlesylvain.com/*
 *://*.darsbersmattbeanutvie.ga/*
 *://*.darsblizcolamafol.gq/*
 *://*.darscechechdidimo.gq/*
@@ -129803,7 +129803,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.financites.fr/*
 *://*.financo-sav.fr/*
 *://*.finansowylis.pl/*
-*://*.finanzamt-familienbeihilfe-at.com/*
 *://*.finanzarena.pro/*
 *://*.finanzasforex.com/*
 *://*.finanzberater-schaaf.de/*
@@ -132916,6 +132915,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.footjoy-suomi.com/*
 *://*.footjoygolfshoesuk.com/*
 *://*.footjoyjapan.net/*
+*://*.footjoyoutletfactory.us/*
 *://*.footjoyoutletmexico.com/*
 *://*.footjoys.at/*
 *://*.footjoysuomi.com/*
@@ -161874,7 +161874,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hokratedisphel.ml/*
 *://*.hola-chicas.pro/*
 *://*.holabet.fr/*
-*://*.holapick.com/*
 *://*.holapywlent.tk/*
 *://*.holara.ai/*
 *://*.holara.ai/*
@@ -162941,6 +162940,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotelgallimberti.it/*
 *://*.hotelheavyforget.xyz/*
 *://*.hotelimaginewheres.rest/*
+*://*.hotelinphuket.net/*
 *://*.hotelissimo.fr/*
 *://*.hotelitfromshome.rest/*
 *://*.hoteljacobgade.dk/*
@@ -189743,7 +189743,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.klikkicasino.fr/*
 *://*.klimaanlageportal.de/*
 *://*.klimabonus-2026.net/*
-*://*.klimabonus-antrag.co/*
 *://*.klimabonus2026.at/*
 *://*.klimacare24.de/*
 *://*.klimacare24.shop/*
@@ -191576,7 +191575,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kromrindumimesum.ga/*
 *://*.kron-mo.ru/*
 *://*.kronberg-partner.de/*
-*://*.kronbergpartner.com/*
 *://*.kronbergwien.at/*
 *://*.kroncurtirabgeo.tk/*
 *://*.kronekredit.dk/*
@@ -202237,7 +202235,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.limvoicapve.tk/*
 *://*.limwheatgcolhure.tk/*
 *://*.limymapatexs.ml/*
-*://*.limzaicore.com/*
 *://*.lin7dwerk46.com/*
 *://*.linacakavifa.tk/*
 *://*.linademicmensmog.tk/*
@@ -213402,6 +213399,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.markgryoups.gq/*
 *://*.markh.xyz/*
 *://*.marki.es/*
+*://*.markierskibindungen.com/*
 *://*.markiphepersaydi.tk/*
 *://*.markisen-bgl.de/*
 *://*.markisenfuxx.de/*
@@ -221662,7 +221660,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.modeschulte.de/*
 *://*.modestylebay.com/*
 *://*.modesusphistlawn.gq/*
-*://*.modesytlebay.com/*
 *://*.modetalente.com/*
 *://*.modetanadacor.cf/*
 *://*.modeteamdiycou.gq/*
@@ -284591,6 +284588,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.repafananmu.gq/*
 *://*.repagretankeiclow.cf/*
 *://*.repaiement-amazon.fr/*
+*://*.repairbase.eu/*
 *://*.repakorbabe.gq/*
 *://*.repalafollden.ga/*
 *://*.repamagitu.ga/*
@@ -295075,6 +295073,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sachelemega.tk/*
 *://*.sachermes.fr/*
 *://*.sachsen-anhalt-wahl.de/*
+*://*.sachsenpelletgmbh.de/*
 *://*.sachtikensuve.ml/*
 *://*.sacia.xyz/*
 *://*.sacigasucri.ml/*
@@ -310166,6 +310165,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.softdorebachant.ga/*
 *://*.softdosamphilders.ml/*
 *://*.softdrivgatasonli.tk/*
+*://*.softelektro.com/*
 *://*.softfirecsoma.tk/*
 *://*.softforex.pw/*
 *://*.softfosgeschmakasib.gq/*
@@ -321582,7 +321582,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.system-activationclient.fr/*
 *://*.system-auth.fr/*
 *://*.system-ca.fr/*
-*://*.system-capital.org/*
 *://*.system-prime.fr/*
 *://*.system-securite.fr/*
 *://*.system-srl.com/*
@@ -356111,6 +356110,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.versadotcyro.cf/*
 *://*.versamefvecol.gq/*
 *://*.versand-fuxx-ug.myshopify.com/*
+*://*.versand-kaufhaus.de/*
 *://*.versandcesimo.ml/*
 *://*.versandhaus-herrmann.de/*
 *://*.versandpharma.com/*
@@ -361800,7 +361800,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivaharmoni.com/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
-*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
@@ -369736,6 +369735,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.whereswomanplayer.buzz/*
 *://*.whereter.my.id/*
 *://*.whereube.com/*
+*://*.whereverk.com/*
 *://*.wherewasit.com/*
 *://*.whesacosodop.gq/*
 *://*.whetcagetico.tk/*
