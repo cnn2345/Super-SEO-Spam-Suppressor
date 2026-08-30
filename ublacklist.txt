@@ -48376,6 +48376,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ax6vz1.cyou/*
 *://*.ax7rn3k.tokyo/*
 *://*.ax92vb.cyou/*
+*://*.axa-aassurance.fr/*
 *://*.axa-app.fr/*
 *://*.axa-clients.fr/*
 *://*.axa-connect.fr/*
@@ -71714,6 +71715,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinohappyhugo.fr/*
 *://*.casinohermes.fr/*
 *://*.casinohermesfrance.fr/*
+*://*.casinohermesvip.fr/*
 *://*.casinoherospin.fr/*
 *://*.casinohorus.fr/*
 *://*.casinohouse.fr/*
@@ -73298,6 +73300,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cdistancek.web.app/*
 *://*.cditcs.bar/*
 *://*.cditcs.rest/*
+*://*.cdiv-sivinterieurgouv.fr/*
 *://*.cdixkh.bar/*
 *://*.cdjmfo.tokyo/*
 *://*.cdjrnl.tokyo/*
@@ -79986,6 +79989,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cigiftlpuronen.tk/*
 *://*.cigise.tokyo/*
 *://*.ciglicalsimpracce.tk/*
+*://*.cign-interieurgouv.fr/*
 *://*.cignalhome.net/*
 *://*.cigolliesentiolea.cf/*
 *://*.cigonaldprokwertbiz.cf/*
@@ -86242,6 +86246,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.conforfcentanire.gq/*
 *://*.conforim.com/*
 *://*.conforme-interieurgouv.fr/*
+*://*.conformite-ants.fr/*
 *://*.conformite-boursorama.fr/*
 *://*.conformite-fortuneo.fr/*
 *://*.conformite-interieurgouv.fr/*
@@ -129198,6 +129203,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fidarktedapp.web.app/*
 *://*.fidasgiovani.it/*
 *://*.fidbuberdestthinvi.gq/*
+*://*.fidc-interieurgouv.fr/*
 *://*.fidcis.bar/*
 *://*.fidddalyhure.tk/*
 *://*.fidddarfichech.ml/*
@@ -167488,6 +167494,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.icvecmabouli.ml/*
 *://*.icverroimenar.tk/*
 *://*.icvertosocolca.ga/*
+*://*.icvhd-interieurgouv.fr/*
 *://*.icvoob.tokyo/*
 *://*.icw4x2.cyou/*
 *://*.icw55k.tokyo/*
@@ -301897,6 +301904,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.service24hours.xyz/*
 *://*.serviceaccount.fr/*
 *://*.serviceachat-sccfrance.fr/*
+*://*.serviceamazon.fr/*
 *://*.serviceameli.fr/*
 *://*.serviceamelie.fr/*
 *://*.serviceamende-antai.fr/*
@@ -306531,9 +306539,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.siusterimgee.ml/*
 *://*.siutsotanev.tk/*
 *://*.siuzaaniting.ga/*
+*://*.siv-adergouv.fr/*
 *://*.siv-antsgouv.fr/*
+*://*.siv-gouvants.fr/*
 *://*.siv-immatriculation.fr/*
 *://*.siv-iseregouv.fr/*
+*://*.siv-portailprogouv.fr/*
 *://*.siv-pref.fr/*
 *://*.siv-prointerieurgouv.fr/*
 *://*.siv6q88.cn/*
@@ -361502,6 +361513,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.visasihunre.gq/*
 *://*.visatovietnam.fr/*
 *://*.visayan.site/*
+*://*.visc-interieurgouv.fr/*
 *://*.viscabicoup.gq/*
 *://*.viscbr.bar/*
 *://*.viscessterthei.tk/*
