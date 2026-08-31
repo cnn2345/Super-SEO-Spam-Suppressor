@@ -9900,6 +9900,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.2wgpeuh.cyou/*
 *://*.2wh25g.tokyo/*
 *://*.2wh9i2.cyou/*
+*://*.2wheelshero.com/*
 *://*.2whjai.tokyo/*
 *://*.2whu35q.tokyo/*
 *://*.2whvye.cyou/*
@@ -13780,7 +13781,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.4bhhk.tokyo/*
 *://*.4bhq2j.shop/*
 *://*.4bigye.cyou/*
-*://*.4bike.net/*
 *://*.4bio.pt/*
 *://*.4bisblw.cn/*
 *://*.4bj5s9.cyou/*
@@ -54893,7 +54893,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestellen-ciao-ciao-pf.de/*
 *://*.bestelnuar.click/*
 *://*.bestemailmarketingservices.xyz/*
-*://*.bestemed.com/*
 *://*.bestemedikamente.com/*
 *://*.bestenkaufen.com/*
 *://*.bestenwahl.de/*
@@ -55177,6 +55176,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestsabordaty.ga/*
 *://*.bestsaunakits.com/*
 *://*.bestscashardpuzzdown.cf/*
+*://*.bestselectionforyou.com/*
 *://*.bestseller-price.news/*
 *://*.bestseller-stock.cyou/*
 *://*.bestseniordatingsites.org/*
@@ -69567,6 +69567,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.canada-virement2024.fr/*
 *://*.canada2024-lnterac.fr/*
 *://*.canadabreakingnews.com/*
+*://*.canadadrugstore.com/*
 *://*.canadagooseoutletfrance.fr/*
 *://*.canadagoosepaschere.fr/*
 *://*.canadanewsreport.com/*
@@ -72322,6 +72323,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.catalinares.xyz/*
 *://*.catalog-sg.it/*
 *://*.catalogue-prime.fr/*
+*://*.catalunyafarm.com/*
 *://*.catania-sexysexytime.space/*
 *://*.catantiro.tk/*
 *://*.catanub.es/*
@@ -98288,6 +98290,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.deinetierliebe.de/*
 *://*.deinewskiprena.ml/*
 *://*.deinhandwerkershop.de/*
+*://*.deini.com/*
 *://*.deinliebesmensch.de/*
 *://*.deinlieblingstier.co/*
 *://*.deinmodetrends.com/*
@@ -105754,7 +105757,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.doctorscavebeachhotel.com/*
 *://*.doctorshivaprasad.com/*
 *://*.doctorsignage.com.br/*
-*://*.doctorsolve.com/*
 *://*.doctorsshortpoints.biz/*
 *://*.doctorstar.org/*
 *://*.doctossimo.fr/*
@@ -141528,7 +141530,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gelisenso.tk/*
 *://*.geliteferila.ml/*
 *://*.gelitenjarera.tk/*
-*://*.gelmalls.com/*
 *://*.gelmrk.tokyo/*
 *://*.gelneyquivicycnews.gq/*
 *://*.gelohzahobar.tk/*
@@ -161880,6 +161881,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hokratedisphel.ml/*
 *://*.hola-chicas.pro/*
 *://*.holabet.fr/*
+*://*.holapick.com/*
 *://*.holapywlent.tk/*
 *://*.holara.ai/*
 *://*.holara.ai/*
@@ -170198,6 +170200,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.immediate-coraldex.com/*
 *://*.immediate-dash.de/*
 *://*.immediate-direct.com/*
+*://*.immediate-edge2.com/*
 *://*.immediate-flik.com/*
 *://*.immediate-growth.com/*
 *://*.immediate-momentum.com/*
@@ -215492,7 +215495,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mediperdi.tk/*
 *://*.mediplanet.fr/*
 *://*.mediplus-berlin.de/*
-*://*.medirao.com/*
 *://*.medirezept.net/*
 *://*.medisirstiklas.eu/*
 *://*.medisite.fr/*
@@ -297649,7 +297651,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.scanmicricotota.ga/*
 *://*.scanmountadaburle.tk/*
 *://*.scannegbiospin.tk/*
-*://*.scannero.io/*
 *://*.scannetbutik.dk/*
 *://*.scanoctobolt.ml/*
 *://*.scanomjabvidi.ml/*
@@ -313518,7 +313519,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spydersale.de/*
 *://*.spyderwrisemel.tk/*
 *://*.spydintravornemenradingnofurtangde.xyz/*
-*://*.spydiscount24.com/*
 *://*.spygok.rest/*
 *://*.spyi5p.cyou/*
 *://*.spymdefdirofacot.ga/*
@@ -341597,7 +341597,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trustdice1.fr/*
 *://*.trustdicecasino.fr/*
 *://*.trusted-help.com/*
-*://*.trusted-online-generic.com/*
 *://*.trustedallcbd.com/*
 *://*.trustedallovertheworld.com/*
 *://*.trustedconsumerreview.online/*
@@ -341607,7 +341606,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trustedmedstore24.com/*
 *://*.trustednorx.com/*
 *://*.trustedparents.com/*
-*://*.trustedrxsolutions.com/*
 *://*.trustedshops.store/*
 *://*.trustedtablets.online/*
 *://*.trustedxshop.com/*
@@ -361812,6 +361810,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivaharmoni.com/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
+*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
