@@ -93333,6 +93333,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cvsiue.tokyo/*
 *://*.cvslos.rest/*
 *://*.cvspci.tokyo/*
+*://*.cvsq-interieurgouv.fr/*
 *://*.cvsv.xyz/*
 *://*.cvt-prime.fr/*
 *://*.cvt8688.cyou/*
@@ -105852,6 +105853,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dofsbackportwitu.tk/*
 *://*.dofslarankapostmost.gq/*
 *://*.dofumaxdustci.tk/*
+*://*.dofus-store.fr/*
 *://*.dofuss.fr/*
 *://*.dofxeveko.gq/*
 *://*.dofxhbu.rest/*
@@ -170414,6 +170416,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.impots-authentification.fr/*
 *://*.impots-cryptomonnaies.fr/*
 *://*.impots-declaration.fr/*
+*://*.impots-espace-particuliers.fr/*
 *://*.impots-espace.fr/*
 *://*.impots-gou.fr/*
 *://*.impots-gouv-assistance.fr/*
@@ -232420,6 +232423,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.net-fast-cams.buzz/*
 *://*.net-fix.fr/*
 *://*.net-fli.fr/*
+*://*.net-flix-paiement.fr/*
 *://*.net-flix.fr/*
 *://*.net-hardcore-cum.buzz/*
 *://*.net-horny-mag.agency/*
@@ -247565,6 +247569,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.oranlamer.ga/*
 *://*.oranogprinenen.tk/*
 *://*.oranqe.fr/*
+*://*.oranqee.fr/*
 *://*.oranve.fr/*
 *://*.oraphalofkulti.gq/*
 *://*.oraporvacas.tk/*
@@ -309968,6 +309973,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.societegeneralesecured.fr/*
 *://*.societegeneralesecurepass.fr/*
 *://*.societegeneraleservice.fr/*
+*://*.societegeneraleservicevirement.fr/*
 *://*.societegeneralesinfo.fr/*
 *://*.societegeneralesparticulier.fr/*
 *://*.societegeneralesparticuliers.fr/*
