@@ -55441,6 +55441,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betify-app.fr/*
 *://*.betify-applicationbonus.fr/*
 *://*.betify-applicationconnexion.fr/*
+*://*.betify-apps.fr/*
 *://*.betify-bonus-code.fr/*
 *://*.betify-bonus.fr/*
 *://*.betify-bonusconnexion.fr/*
@@ -55485,6 +55486,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betify-fr-casino.fr/*
 *://*.betify-fra.fr/*
 *://*.betify-france.fr/*
+*://*.betify-game.fr/*
+*://*.betify-games.fr/*
 *://*.betify-ios.fr/*
 *://*.betify-jeu.fr/*
 *://*.betify-jouer.fr/*
@@ -55531,6 +55534,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betifycasinos.fr/*
 *://*.betifycasinos1.fr/*
 *://*.betifyfr.fr/*
+*://*.betifygame.fr/*
 *://*.betifyjeu.fr/*
 *://*.betifyjeux.fr/*
 *://*.betifylogin.fr/*
@@ -71271,6 +71275,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-amonbet.fr/*
 *://*.casino-amunra.fr/*
 *://*.casino-aquawin.fr/*
+*://*.casino-argent-reel.fr/*
 *://*.casino-astral.fr/*
 *://*.casino-banque.fr/*
 *://*.casino-banzai.fr/*
@@ -74872,6 +74877,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cetechlachanc.tk/*
 *://*.cetegchockdisro.ml/*
 *://*.cetelel.fr/*
+*://*.cetelem-bnpparibas.fr/*
 *://*.cetelem-connecte.fr/*
 *://*.cetelem-financement.fr/*
 *://*.cetelem-particulier-notifications.fr/*
@@ -86174,6 +86180,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.conformite-fortuneo.fr/*
 *://*.conformite-interieurgouv.fr/*
 *://*.conformite-lbp.fr/*
+*://*.conformiteants.fr/*
 *://*.confortbancwestro.tk/*
 *://*.confortbebe.ro/*
 *://*.confortefvie.fr/*
@@ -120461,6 +120468,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.esimecak.gq/*
 *://*.esimgelo.tk/*
 *://*.esimolbala.tk/*
+*://*.esimrapide.fr/*
 *://*.esimsfr.fr/*
 *://*.esimsoestam.ga/*
 *://*.esimurinilma.tk/*
@@ -173579,6 +173587,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.insse.fr/*
 *://*.inssee.fr/*
 *://*.insseriousdropstudy.biz/*
+*://*.insta-cams.fr/*
 *://*.insta-flirt-books2.com/*
 *://*.insta-flirt-books3.com/*
 *://*.insta-localhookup4.com/*
@@ -197494,6 +197503,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.leclerc-dev.fr/*
 *://*.leclerc-socamaine.fr/*
 *://*.leclerc-socamil.fr/*
+*://*.leclerc-sodexco.fr/*
 *://*.leclercpharma.fr/*
 *://*.leclercrive.fr/*
 *://*.leclitamlind.tk/*
@@ -215473,6 +215483,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.megadicecasino.fr/*
 *://*.megadiscount-shop.fr/*
 *://*.megadjzu.web.app/*
+*://*.megafishwins-online.fr/*
 *://*.megafishwinscasino.fr/*
 *://*.megafliesen24.de/*
 *://*.megaflirtbook2.com/*
@@ -309836,9 +309847,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sodervernmullynid.cf/*
 *://*.sodetedawor.ml/*
 *://*.sodex-da.fr/*
+*://*.sodexco-leclerc.fr/*
+*://*.sodexco-lelerc.fr/*
 *://*.sodexo-groupe.fr/*
 *://*.sodexo-groupes.fr/*
 *://*.sodexo-groups.fr/*
+*://*.sodexo-lelerc.fr/*
 *://*.sodexo-pass-france-sa.fr/*
 *://*.sodexo-sas.fr/*
 *://*.sodexogroupe.fr/*
@@ -316661,6 +316675,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stqvjw.bar/*
 *://*.strabenmotorrad.com/*
 *://*.stradellanostra.it/*
+*://*.stradivarius-fr.fr/*
 *://*.stradivariusfr.fr/*
 *://*.stradivariusfrance.fr/*
 *://*.stradivariusoutlet.fr/*
@@ -361372,6 +361387,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vistadu.xyz/*
 *://*.vistanabaringlo.tk/*
 *://*.vistaporirenlink.ga/*
+*://*.vistaprint.tf/*
 *://*.vistaprinte.fr/*
 *://*.vistatifenliga.gq/*
 *://*.vistevekotaba.ml/*
@@ -370211,8 +370227,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wild-robin-official.fr/*
 *://*.wild-robinofficiel.fr/*
 *://*.wild-sino.fr/*
+*://*.wild-sultan-app.fr/*
 *://*.wild-sultan-casino.fr/*
 *://*.wild-sultan-fr.fr/*
+*://*.wild-sultan-game.fr/*
+*://*.wild-sultan-online.fr/*
+*://*.wild-sultan-slots.fr/*
 *://*.wild-sultan1.fr/*
 *://*.wild-sultanfr.fr/*
 *://*.wild-sultanfr1.fr/*
