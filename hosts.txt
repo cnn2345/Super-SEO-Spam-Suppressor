@@ -84624,6 +84624,8 @@
 0.0.0.0 www.app-antai.fr
 0.0.0.0 app-associates.com
 0.0.0.0 www.app-associates.com
+0.0.0.0 app-bankera.fr
+0.0.0.0 www.app-bankera.fr
 0.0.0.0 app-banquepostale.fr
 0.0.0.0 www.app-banquepostale.fr
 0.0.0.0 app-blablacar.fr
@@ -88986,6 +88988,8 @@
 0.0.0.0 www.arubabet-france.fr
 0.0.0.0 arubabetcasino.fr
 0.0.0.0 www.arubabetcasino.fr
+0.0.0.0 arubabetfr.fr
+0.0.0.0 www.arubabetfr.fr
 0.0.0.0 arubafr.fr
 0.0.0.0 www.arubafr.fr
 0.0.0.0 arubanoublu.tk
@@ -114768,6 +114772,8 @@
 0.0.0.0 www.billionairespin-france.fr
 0.0.0.0 billionairespin-online.fr
 0.0.0.0 www.billionairespin-online.fr
+0.0.0.0 billionairespin2.fr
+0.0.0.0 www.billionairespin2.fr
 0.0.0.0 billionairespincasino.fr
 0.0.0.0 www.billionairespincasino.fr
 0.0.0.0 billionairetissu.fr
@@ -330736,6 +330742,8 @@
 0.0.0.0 www.hype-hoodies.com
 0.0.0.0 hype-kasino.fr
 0.0.0.0 www.hype-kasino.fr
+0.0.0.0 hype-sneakers.fr
+0.0.0.0 www.hype-sneakers.fr
 0.0.0.0 hypecasino.fr
 0.0.0.0 www.hypecasino.fr
 0.0.0.0 hypecasino1.fr
@@ -506672,6 +506680,8 @@
 0.0.0.0 www.paris-g7taxis.fr
 0.0.0.0 paris-live-tickets.fr
 0.0.0.0 www.paris-live-tickets.fr
+0.0.0.0 paris-outlet.fr
+0.0.0.0 www.paris-outlet.fr
 0.0.0.0 paris-sportif-retrait-rapide.fr
 0.0.0.0 www.paris-sportif-retrait-rapide.fr
 0.0.0.0 paris-taxig7.fr
@@ -526290,6 +526300,8 @@
 0.0.0.0 www.poptv.xyz
 0.0.0.0 popub9.cyou
 0.0.0.0 www.popub9.cyou
+0.0.0.0 populaire-mon-compte.fr
+0.0.0.0 www.populaire-mon-compte.fr
 0.0.0.0 popular-camping.com
 0.0.0.0 www.popular-camping.com
 0.0.0.0 popularaitools.ai
@@ -698592,6 +698604,8 @@
 0.0.0.0 www.uphvsm.rest
 0.0.0.0 uphxmwt.tokyo
 0.0.0.0 www.uphxmwt.tokyo
+0.0.0.0 upi-universite.fr
+0.0.0.0 www.upi-universite.fr
 0.0.0.0 upi1an.tokyo
 0.0.0.0 www.upi1an.tokyo
 0.0.0.0 upibotetuseg.tk
