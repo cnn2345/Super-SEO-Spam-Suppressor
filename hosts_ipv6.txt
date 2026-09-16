@@ -85078,8 +85078,6 @@
 ::1 www.applibraryupdate.network
 ::1 applicanttrackingsoftware.buzz
 ::1 www.applicanttrackingsoftware.buzz
-::1 application-esta.fr
-::1 www.application-esta.fr
 ::1 application-g7.fr
 ::1 www.application-g7.fr
 ::1 application-prime.fr
@@ -111532,8 +111530,6 @@
 ::1 www.betriebspaedagogik.buzz
 ::1 betriot-fr.fr
 ::1 www.betriot-fr.fr
-::1 betriotcasino.fr
-::1 www.betriotcasino.fr
 ::1 betriotcasinofrance.fr
 ::1 www.betriotcasinofrance.fr
 ::1 betriots.fr
@@ -118972,8 +118968,6 @@
 ::1 www.blazesevbelopzoy.gq
 ::1 blazesiferoflab.tk
 ::1 www.blazesiferoflab.tk
-::1 blazespin.fr
-::1 www.blazespin.fr
 ::1 blazespins-casino.fr
 ::1 www.blazespins-casino.fr
 ::1 blazespins.fr
@@ -139476,8 +139470,6 @@
 ::1 www.candyspinz-casino.fr
 ::1 candyspinz-francais.fr
 ::1 www.candyspinz-francais.fr
-::1 candyspinz-france.fr
-::1 www.candyspinz-france.fr
 ::1 caneboremen.tk
 ::1 www.caneboremen.tk
 ::1 caneckangmortder.gq
@@ -142916,8 +142908,6 @@
 ::1 www.casino-gtbet.fr
 ::1 casino-gxmble.fr
 ::1 www.casino-gxmble.fr
-::1 casino-hadesbet.fr
-::1 www.casino-hadesbet.fr
 ::1 casino-hermes.fr
 ::1 www.casino-hermes.fr
 ::1 casino-horus.fr
@@ -142962,8 +142952,6 @@
 ::1 www.casino-legiano-fr.fr
 ::1 casino-legiano.fr
 ::1 www.casino-legiano.fr
-::1 casino-legionbet.fr
-::1 www.casino-legionbet.fr
 ::1 casino-levant.fr
 ::1 www.casino-levant.fr
 ::1 casino-liraspin.fr
@@ -143314,8 +143302,6 @@
 ::1 www.casinocasombie.fr
 ::1 casinocasoo.fr
 ::1 www.casinocasoo.fr
-::1 casinocat-france.fr
-::1 www.casinocat-france.fr
 ::1 casinocat.fr
 ::1 www.casinocat.fr
 ::1 casinocatcasino.fr
@@ -202562,8 +202548,6 @@
 ::1 www.dhlexpress-suivi.fr
 ::1 dhlfrance.fr
 ::1 www.dhlfrance.fr
-::1 dhlglobal.fr
-::1 www.dhlglobal.fr
 ::1 dhli.fr
 ::1 www.dhli.fr
 ::1 dhlinfo-arrivages.fr
@@ -226214,8 +226198,6 @@
 ::1 www.edhfb4i.cyou
 ::1 edhk6a.xyz
 ::1 www.edhk6a.xyz
-::1 edhl.fr
-::1 www.edhl.fr
 ::1 edhocv.tokyo
 ::1 www.edhocv.tokyo
 ::1 edhsig.rest
@@ -269090,8 +269072,6 @@
 ::1 www.fr-marlinkeventssas.fr
 ::1 fr-megawin.fr
 ::1 www.fr-megawin.fr
-::1 fr-mendorex.fr
-::1 www.fr-mendorex.fr
 ::1 fr-mescomptes.fr
 ::1 www.fr-mescomptes.fr
 ::1 fr-milanpresse.fr
@@ -269114,8 +269094,6 @@
 ::1 www.fr-mystake.fr
 ::1 fr-navigo.fr
 ::1 www.fr-navigo.fr
-::1 fr-neon54.fr
-::1 www.fr-neon54.fr
 ::1 fr-neosoftservices.fr
 ::1 www.fr-neosoftservices.fr
 ::1 fr-netflix-paiement.fr
@@ -269252,8 +269230,6 @@
 ::1 www.fr-sotecplastsas.fr
 ::1 fr-spaceman.fr
 ::1 www.fr-spaceman.fr
-::1 fr-spinanga.fr
-::1 www.fr-spinanga.fr
 ::1 fr-spinania.fr
 ::1 www.fr-spinania.fr
 ::1 fr-spinbara.fr
@@ -271728,8 +271704,6 @@
 ::1 www.freshelino.com
 ::1 freshhoods.com
 ::1 www.freshhoods.com
-::1 freshjuicestore.fr
-::1 www.freshjuicestore.fr
 ::1 freshkeema.com
 ::1 www.freshkeema.com
 ::1 freshlife.ee
@@ -291358,8 +291332,6 @@
 ::1 www.glp1-apotheke.com
 ::1 glp1apotheke.com
 ::1 www.glp1apotheke.com
-::1 glp5glt.fr
-::1 www.glp5glt.fr
 ::1 glpfs.bar
 ::1 www.glpfs.bar
 ::1 glpura.com
@@ -292828,8 +292800,6 @@
 ::1 www.godofcasinoavis365.fr
 ::1 godofcasinobonus777.fr
 ::1 www.godofcasinobonus777.fr
-::1 godofcasinofrance.fr
-::1 www.godofcasinofrance.fr
 ::1 godofcasinologin.fr
 ::1 www.godofcasinologin.fr
 ::1 godofcasinopromocode.fr
@@ -292838,8 +292808,6 @@
 ::1 www.godofcasinos.fr
 ::1 godofcoins-casino.fr
 ::1 www.godofcoins-casino.fr
-::1 godofcoinscasino-fr.fr
-::1 www.godofcoinscasino-fr.fr
 ::1 godofcoinscasino.fr
 ::1 www.godofcoinscasino.fr
 ::1 godofcoinsfr.fr
@@ -293280,8 +293248,6 @@
 ::1 www.gold-spinia.fr
 ::1 gold-spiniacasino.fr
 ::1 www.gold-spiniacasino.fr
-::1 gold-spins.fr
-::1 www.gold-spins.fr
 ::1 goldan3tm.web.app
 ::1 www.goldan3tm.web.app
 ::1 goldankauf365.de
@@ -358094,8 +358060,6 @@
 ::1 www.jashintools.fr
 ::1 jasingreenidge.xyz
 ::1 www.jasingreenidge.xyz
-::1 jasino-casino.fr
-::1 www.jasino-casino.fr
 ::1 jasiprovno.site
 ::1 www.jasiprovno.site
 ::1 jasitznicreicomcu.tk
@@ -364300,8 +364264,6 @@
 ::1 www.jokery-fr.fr
 ::1 jokery1.fr
 ::1 www.jokery1.fr
-::1 jokerycasino-fr.fr
-::1 www.jokerycasino-fr.fr
 ::1 jokerycasino-online.de
 ::1 www.jokerycasino-online.de
 ::1 jokerycasino1.fr
@@ -396318,8 +396280,6 @@
 ::1 www.legionbet1.fr
 ::1 legionbetcasino.fr
 ::1 www.legionbetcasino.fr
-::1 legionbetcasinofrance.fr
-::1 www.legionbetcasinofrance.fr
 ::1 legionbets.fr
 ::1 www.legionbets.fr
 ::1 legioncasino.fr
@@ -408506,8 +408466,6 @@
 ::1 www.llbc-order7213195.fr
 ::1 llbc-transfr.fr
 ::1 www.llbc-transfr.fr
-::1 llbcoin.fr
-::1 www.llbcoin.fr
 ::1 llbf9l.xyz
 ::1 www.llbf9l.xyz
 ::1 llbnkzj.tokyo
@@ -422574,8 +422532,6 @@
 ::1 www.magicwin1.fr
 ::1 magicwincasino.fr
 ::1 www.magicwincasino.fr
-::1 magicwinfr.fr
-::1 www.magicwinfr.fr
 ::1 magicwinonline.fr
 ::1 www.magicwinonline.fr
 ::1 magicworld.xyz
@@ -454972,8 +454928,6 @@
 ::1 www.myempire-fr.fr
 ::1 myempirecasino1.fr
 ::1 www.myempirecasino1.fr
-::1 myempirecasinofrance.fr
-::1 www.myempirecasinofrance.fr
 ::1 myempirefr.fr
 ::1 www.myempirefr.fr
 ::1 myempirefrance.fr
@@ -472366,8 +472320,6 @@
 ::1 www.ninlay-en-ligne.fr
 ::1 ninlay-enligne.fr
 ::1 www.ninlay-enligne.fr
-::1 ninlay-france.fr
-::1 www.ninlay-france.fr
 ::1 ninlay-officiel.fr
 ::1 www.ninlay-officiel.fr
 ::1 ninlaycasino.fr
@@ -491242,8 +491194,6 @@
 ::1 www.onecar.biz.id
 ::1 onecharter.it
 ::1 www.onecharter.it
-::1 oneclick-fr.fr
-::1 www.oneclick-fr.fr
 ::1 oneclickmoebel.de
 ::1 www.oneclickmoebel.de
 ::1 onecloudy.club
@@ -509074,8 +509024,6 @@
 ::1 www.patioprimate.xyz
 ::1 patioprovencal.fr
 ::1 www.patioprovencal.fr
-::1 patis-store.fr
-::1 www.patis-store.fr
 ::1 patitenda.ga
 ::1 www.patitenda.ga
 ::1 pative.shop
@@ -570676,8 +570624,6 @@
 ::1 www.restorehopem.com
 ::1 restoremozapvi.ga
 ::1 www.restoremozapvi.ga
-::1 restospin.fr
-::1 www.restospin.fr
 ::1 restotivic.gq
 ::1 www.restotivic.gq
 ::1 restovatojac.gq
@@ -583256,8 +583202,6 @@
 ::1 www.royaloakescorts4u.eu
 ::1 royalpalace.rest
 ::1 www.royalpalace.rest
-::1 royalpanda-fr.fr
-::1 www.royalpanda-fr.fr
 ::1 royalpandaonline.fr
 ::1 www.royalpandaonline.fr
 ::1 royalpark.ro
@@ -584720,8 +584664,6 @@
 ::1 www.rtarophornewsfran.tk
 ::1 rtavpp.tokyo
 ::1 www.rtavpp.tokyo
-::1 rtbet-fr.fr
-::1 www.rtbet-fr.fr
 ::1 rtbet-france.fr
 ::1 www.rtbet-france.fr
 ::1 rtbet1.fr
@@ -591658,8 +591600,6 @@
 ::1 www.samawosipartua.ml
 ::1 samba-slot.fr
 ::1 www.samba-slot.fr
-::1 samba-slots-france.fr
-::1 www.samba-slots-france.fr
 ::1 sambaoutlet.fr
 ::1 www.sambaoutlet.fr
 ::1 sambarker.xyz
@@ -615618,8 +615558,6 @@
 ::1 www.slotexoofficiel.fr
 ::1 slotexpress-casino.fr
 ::1 www.slotexpress-casino.fr
-::1 slotexpress-mobile.fr
-::1 www.slotexpress-mobile.fr
 ::1 slotfeathers.fr
 ::1 www.slotfeathers.fr
 ::1 slotgem-casino.fr
@@ -620202,8 +620140,6 @@
 ::1 www.sofinco-caconsumerfinance.fr
 ::1 sofinco-client.fr
 ::1 www.sofinco-client.fr
-::1 sofinco-eco.fr
-::1 www.sofinco-eco.fr
 ::1 sofinco-financement.fr
 ::1 www.sofinco-financement.fr
 ::1 sofinco-finances.fr
@@ -624722,8 +624658,6 @@
 ::1 www.spiginsonsoftges.cf
 ::1 spigomticmaikedemp.ml
 ::1 www.spigomticmaikedemp.ml
-::1 spiinbara.fr
-::1 www.spiinbara.fr
 ::1 spiinboss.fr
 ::1 www.spiinboss.fr
 ::1 spikalezlabosi.gq
@@ -625312,8 +625246,6 @@
 ::1 www.spinjunkcurworddidd.tk
 ::1 spinkocasino.fr
 ::1 www.spinkocasino.fr
-::1 spinkong-casino.fr
-::1 www.spinkong-casino.fr
 ::1 spinkong-fr.fr
 ::1 www.spinkong-fr.fr
 ::1 spinkong.fr
@@ -625600,8 +625532,6 @@
 ::1 www.spinsino-casino.fr
 ::1 spinsino-fr.fr
 ::1 www.spinsino-fr.fr
-::1 spinsino.fr
-::1 www.spinsino.fr
 ::1 spinsino1.fr
 ::1 www.spinsino1.fr
 ::1 spinslynx.fr
@@ -633214,8 +633144,6 @@
 ::1 www.storegizgussa.cf
 ::1 storehubpro.com
 ::1 www.storehubpro.com
-::1 storejacks.fr
-::1 www.storejacks.fr
 ::1 storejoudcela.tk
 ::1 www.storejoudcela.tk
 ::1 storekepe.de
@@ -638134,8 +638062,6 @@
 ::1 www.sunnybet.fr
 ::1 sunnybetcasino.fr
 ::1 www.sunnybetcasino.fr
-::1 sunnybets.fr
-::1 www.sunnybets.fr
 ::1 sunnydays.xyz
 ::1 www.sunnydays.xyz
 ::1 sunnydesignshome.com
@@ -665806,8 +665732,6 @@
 ::1 www.tikitaka-fr.fr
 ::1 tikitaka-france.fr
 ::1 www.tikitaka-france.fr
-::1 tikitaka-mobile.fr
-::1 www.tikitaka-mobile.fr
 ::1 tikitaka-online.fr
 ::1 www.tikitaka-online.fr
 ::1 tikitaka1.fr
@@ -682270,8 +682194,6 @@
 ::1 www.trophuneveran.ml
 ::1 trophuntlogutdo.cf
 ::1 www.trophuntlogutdo.cf
-::1 tropicacasino.fr
-::1 www.tropicacasino.fr
 ::1 tropical-dive.de
 ::1 www.tropical-dive.de
 ::1 tropical-tides.com

@@ -42541,7 +42541,6 @@
 ||appliancesglobal.com^$document
 ||applibraryupdate.network^$document
 ||applicanttrackingsoftware.buzz^$document
-||application-esta.fr^$document
 ||application-g7.fr^$document
 ||application-prime.fr^$document
 ||applicationdusinagetechnique.fr^$document
@@ -55768,7 +55767,6 @@
 ||betride.fr^$document
 ||betriebspaedagogik.buzz^$document
 ||betriot-fr.fr^$document
-||betriotcasino.fr^$document
 ||betriotcasinofrance.fr^$document
 ||betriots.fr^$document
 ||betritifirbaume.ml^$document
@@ -59488,7 +59486,6 @@
 ||blazertokids.com^$document
 ||blazesevbelopzoy.gq^$document
 ||blazesiferoflab.tk^$document
-||blazespin.fr^$document
 ||blazespins-casino.fr^$document
 ||blazespins.fr^$document
 ||blazeview.net^$document
@@ -69740,7 +69737,6 @@
 ||candysp1nzwin.fr^$document
 ||candyspinz-casino.fr^$document
 ||candyspinz-francais.fr^$document
-||candyspinz-france.fr^$document
 ||caneboremen.tk^$document
 ||caneckangmortder.gq^$document
 ||canecorso-kolodo.dk^$document
@@ -71460,7 +71456,6 @@
 ||casino-gtbet-fr.fr^$document
 ||casino-gtbet.fr^$document
 ||casino-gxmble.fr^$document
-||casino-hadesbet.fr^$document
 ||casino-hermes.fr^$document
 ||casino-horus.fr^$document
 ||casino-hugobets.fr^$document
@@ -71483,7 +71478,6 @@
 ||casino-labofficiel.fr^$document
 ||casino-legiano-fr.fr^$document
 ||casino-legiano.fr^$document
-||casino-legionbet.fr^$document
 ||casino-levant.fr^$document
 ||casino-liraspin.fr^$document
 ||casino-lizaro.fr^$document
@@ -71659,7 +71653,6 @@
 ||casinocasinozer.fr^$document
 ||casinocasombie.fr^$document
 ||casinocasoo.fr^$document
-||casinocat-france.fr^$document
 ||casinocat.fr^$document
 ||casinocatcasino.fr^$document
 ||casinocazeus.fr^$document
@@ -101283,7 +101276,6 @@
 ||dhlexpress-livraison.fr^$document
 ||dhlexpress-suivi.fr^$document
 ||dhlfrance.fr^$document
-||dhlglobal.fr^$document
 ||dhli.fr^$document
 ||dhlinfo-arrivages.fr^$document
 ||dhljgys.bar^$document
@@ -113109,7 +113101,6 @@
 ||edhenturavan.ml^$document
 ||edhfb4i.cyou^$document
 ||edhk6a.xyz^$document
-||edhl.fr^$document
 ||edhocv.tokyo^$document
 ||edhsig.rest^$document
 ||edhutton.com^$document
@@ -134547,7 +134538,6 @@
 ||fr-maptrotter.fr^$document
 ||fr-marlinkeventssas.fr^$document
 ||fr-megawin.fr^$document
-||fr-mendorex.fr^$document
 ||fr-mescomptes.fr^$document
 ||fr-milanpresse.fr^$document
 ||fr-millioner.fr^$document
@@ -134559,7 +134549,6 @@
 ||fr-mrxbet.fr^$document
 ||fr-mystake.fr^$document
 ||fr-navigo.fr^$document
-||fr-neon54.fr^$document
 ||fr-neosoftservices.fr^$document
 ||fr-netflix-paiement.fr^$document
 ||fr-netflix.fr^$document
@@ -134628,7 +134617,6 @@
 ||fr-sogetrel.fr^$document
 ||fr-sotecplastsas.fr^$document
 ||fr-spaceman.fr^$document
-||fr-spinanga.fr^$document
 ||fr-spinania.fr^$document
 ||fr-spinbara.fr^$document
 ||fr-spinboss.fr^$document
@@ -135866,7 +135854,6 @@
 ||freshdirectonline.com^$document
 ||freshelino.com^$document
 ||freshhoods.com^$document
-||freshjuicestore.fr^$document
 ||freshkeema.com^$document
 ||freshlife.ee^$document
 ||freshlykueche.de^$document
@@ -145681,7 +145668,6 @@
 ||glozfk.bar^$document
 ||glp1-apotheke.com^$document
 ||glp1apotheke.com^$document
-||glp5glt.fr^$document
 ||glpfs.bar^$document
 ||glpura.com^$document
 ||glpustv.work^$document
@@ -146416,12 +146402,10 @@
 ||godofcasinoapp.fr^$document
 ||godofcasinoavis365.fr^$document
 ||godofcasinobonus777.fr^$document
-||godofcasinofrance.fr^$document
 ||godofcasinologin.fr^$document
 ||godofcasinopromocode.fr^$document
 ||godofcasinos.fr^$document
 ||godofcoins-casino.fr^$document
-||godofcoinscasino-fr.fr^$document
 ||godofcoinscasino.fr^$document
 ||godofcoinsfr.fr^$document
 ||godofprompt.ai^$document
@@ -146642,7 +146626,6 @@
 ||gold-spinia-casino.fr^$document
 ||gold-spinia.fr^$document
 ||gold-spiniacasino.fr^$document
-||gold-spins.fr^$document
 ||goldan3tm.web.app^$document
 ||goldankauf365.de^$document
 ||goldbamriaskywrya.tk^$document
@@ -179049,7 +179032,6 @@
 ||jasferacsithe.tk^$document
 ||jashintools.fr^$document
 ||jasingreenidge.xyz^$document
-||jasino-casino.fr^$document
 ||jasiprovno.site^$document
 ||jasitznicreicomcu.tk^$document
 ||jaslo-hs.pl^$document
@@ -182152,7 +182134,6 @@
 ||jokery-casino-online.de^$document
 ||jokery-fr.fr^$document
 ||jokery1.fr^$document
-||jokerycasino-fr.fr^$document
 ||jokerycasino-online.de^$document
 ||jokerycasino1.fr^$document
 ||jokerycasinocasino.fr^$document
@@ -198161,7 +198142,6 @@
 ||legionbet.fr^$document
 ||legionbet1.fr^$document
 ||legionbetcasino.fr^$document
-||legionbetcasinofrance.fr^$document
 ||legionbets.fr^$document
 ||legioncasino.fr^$document
 ||legionova.com^$document
@@ -204255,7 +204235,6 @@
 ||llaw.xyz^$document
 ||llbc-order7213195.fr^$document
 ||llbc-transfr.fr^$document
-||llbcoin.fr^$document
 ||llbf9l.xyz^$document
 ||llbnkzj.tokyo^$document
 ||llceqh.tokyo^$document
@@ -211289,7 +211268,6 @@
 ||magicwin-fr.fr^$document
 ||magicwin1.fr^$document
 ||magicwincasino.fr^$document
-||magicwinfr.fr^$document
 ||magicwinonline.fr^$document
 ||magicworld.xyz^$document
 ||magikdepotfrance.fr^$document
@@ -227488,7 +227466,6 @@
 ||myemonotadesc.ga^$document
 ||myempire-fr.fr^$document
 ||myempirecasino1.fr^$document
-||myempirecasinofrance.fr^$document
 ||myempirefr.fr^$document
 ||myempirefrance.fr^$document
 ||myempirescasino.fr^$document
@@ -236185,7 +236162,6 @@
 ||ninknerriasurchee.gq^$document
 ||ninlay-en-ligne.fr^$document
 ||ninlay-enligne.fr^$document
-||ninlay-france.fr^$document
 ||ninlay-officiel.fr^$document
 ||ninlaycasino.fr^$document
 ||ninlotursacer.ga^$document
@@ -245623,7 +245599,6 @@
 ||onecalldelivery.xyz^$document
 ||onecar.biz.id^$document
 ||onecharter.it^$document
-||oneclick-fr.fr^$document
 ||oneclickmoebel.de^$document
 ||onecloudy.club^$document
 ||onecloudy.info^$document
@@ -254539,7 +254514,6 @@
 ||pation.my.id^$document
 ||patioprimate.xyz^$document
 ||patioprovencal.fr^$document
-||patis-store.fr^$document
 ||patitenda.ga^$document
 ||pative.shop^$document
 ||pativice.tk^$document
@@ -285340,7 +285314,6 @@
 ||restoredfutureglobal.org^$document
 ||restorehopem.com^$document
 ||restoremozapvi.ga^$document
-||restospin.fr^$document
 ||restotivic.gq^$document
 ||restovatojac.gq^$document
 ||restpartcewrmusyfir.tk^$document
@@ -291630,7 +291603,6 @@
 ||royalmonze.org^$document
 ||royaloakescorts4u.eu^$document
 ||royalpalace.rest^$document
-||royalpanda-fr.fr^$document
 ||royalpandaonline.fr^$document
 ||royalpark.ro^$document
 ||royalpetmeds.com^$document
@@ -292362,7 +292334,6 @@
 ||rtalvr.tokyo^$document
 ||rtarophornewsfran.tk^$document
 ||rtavpp.tokyo^$document
-||rtbet-fr.fr^$document
 ||rtbet-france.fr^$document
 ||rtbet1.fr^$document
 ||rtbet3.fr^$document
@@ -295831,7 +295802,6 @@
 ||samatsandsallstul.tk^$document
 ||samawosipartua.ml^$document
 ||samba-slot.fr^$document
-||samba-slots-france.fr^$document
 ||sambaoutlet.fr^$document
 ||sambarker.xyz^$document
 ||sambaslots-casino.fr^$document
@@ -307811,7 +307781,6 @@
 ||slotexofr.fr^$document
 ||slotexoofficiel.fr^$document
 ||slotexpress-casino.fr^$document
-||slotexpress-mobile.fr^$document
 ||slotfeathers.fr^$document
 ||slotgem-casino.fr^$document
 ||slotgem.fr^$document
@@ -310103,7 +310072,6 @@
 ||sofimanfle.cf^$document
 ||sofinco-caconsumerfinance.fr^$document
 ||sofinco-client.fr^$document
-||sofinco-eco.fr^$document
 ||sofinco-financement.fr^$document
 ||sofinco-finances.fr^$document
 ||sofinco-france.fr^$document
@@ -312363,7 +312331,6 @@
 ||spiginormi.cf^$document
 ||spiginsonsoftges.cf^$document
 ||spigomticmaikedemp.ml^$document
-||spiinbara.fr^$document
 ||spiinboss.fr^$document
 ||spikalezlabosi.gq^$document
 ||spikanderane.ml^$document
@@ -312658,7 +312625,6 @@
 ||spinjo.fr^$document
 ||spinjunkcurworddidd.tk^$document
 ||spinkocasino.fr^$document
-||spinkong-casino.fr^$document
 ||spinkong-fr.fr^$document
 ||spinkong.fr^$document
 ||spinkongcasino.fr^$document
@@ -312802,7 +312768,6 @@
 ||spinsingtokilu.cf^$document
 ||spinsino-casino.fr^$document
 ||spinsino-fr.fr^$document
-||spinsino.fr^$document
 ||spinsino1.fr^$document
 ||spinslynx.fr^$document
 ||spinsock.buzz^$document
@@ -316609,7 +316574,6 @@
 ||storegardentool.com^$document
 ||storegizgussa.cf^$document
 ||storehubpro.com^$document
-||storejacks.fr^$document
 ||storejoudcela.tk^$document
 ||storekepe.de^$document
 ||storelexiticer.ga^$document
@@ -319069,7 +319033,6 @@
 ||sunnybet-casino.fr^$document
 ||sunnybet.fr^$document
 ||sunnybetcasino.fr^$document
-||sunnybets.fr^$document
 ||sunnydays.xyz^$document
 ||sunnydesignshome.com^$document
 ||sunnyextensions.com^$document
@@ -332905,7 +332868,6 @@
 ||tikitaka-casino.fr^$document
 ||tikitaka-fr.fr^$document
 ||tikitaka-france.fr^$document
-||tikitaka-mobile.fr^$document
 ||tikitaka-online.fr^$document
 ||tikitaka1.fr^$document
 ||tikitaka7-casino.fr^$document
@@ -341137,7 +341099,6 @@
 ||trophtidenzcertcentpolk.tk^$document
 ||trophuneveran.ml^$document
 ||trophuntlogutdo.cf^$document
-||tropicacasino.fr^$document
 ||tropical-dive.de^$document
 ||tropical-tides.com^$document
 ||tropical19a570eei.biz^$document
