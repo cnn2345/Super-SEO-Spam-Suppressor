@@ -5537,6 +5537,7 @@
 ||1m84w8.cyou^$document
 ||1m8mz.cyou^$document
 ||1m9qzq8.shop^$document
+||1maillot.fr^$document
 ||1maimt8.shop^$document
 ||1majeolomouc.eu^$document
 ||1marssc.top^$document
@@ -36786,6 +36787,7 @@
 ||allyspin-casino.fr^$document
 ||allyspin-casino1.fr^$document
 ||allyspin-casinoofficiel.fr^$document
+||allyspin-casinos.fr^$document
 ||allyspin-com.fr^$document
 ||allyspin-fr.fr^$document
 ||allyspin-france.fr^$document
@@ -55539,6 +55541,7 @@
 ||betify-casino-live-france.fr^$document
 ||betify-casino-online-fr.fr^$document
 ||betify-casino-online-france.fr^$document
+||betify-casino-online.fr^$document
 ||betify-casino-play-fr.fr^$document
 ||betify-casino-play-france.fr^$document
 ||betify-casino-poker-fr.fr^$document
@@ -55586,6 +55589,7 @@
 ||betify-site.fr^$document
 ||betify.wf^$document
 ||betify.xyz^$document
+||betify10.fr^$document
 ||betify3.fr^$document
 ||betify5sh.fr^$document
 ||betify6.fr^$document
@@ -55605,6 +55609,7 @@
 ||betifycasino-france.fr^$document
 ||betifycasino-official.fr^$document
 ||betifycasino-officiel.fr^$document
+||betifycasino-online.fr^$document
 ||betifycasino3.fr^$document
 ||betifycasino4.fr^$document
 ||betifycasinoenligne.fr^$document
@@ -55613,7 +55618,9 @@
 ||betifycasinologin.fr^$document
 ||betifycasinoo.fr^$document
 ||betifycasinoofrance1.fr^$document
+||betifycasinoonline.fr^$document
 ||betifycasinos-fr.fr^$document
+||betifycasinos-france.fr^$document
 ||betifycasinos.fr^$document
 ||betifycasinos1.fr^$document
 ||betifyfr.fr^$document
@@ -70179,6 +70186,7 @@
 ||captainjack-online.fr^$document
 ||captainjackofficial.fr^$document
 ||captainkatja.xyz^$document
+||captainslots-com.fr^$document
 ||captainslots-fr.fr^$document
 ||captainslotsfr.fr^$document
 ||captcacongoawindga.cf^$document
@@ -71590,6 +71598,7 @@
 ||casino-prive-fr.fr^$document
 ||casino-prive-france.fr^$document
 ||casino-revolut.fr^$document
+||casino-rizz.fr^$document
 ||casino-robocat.fr^$document
 ||casino-roby.fr^$document
 ||casino-rockstar.fr^$document
@@ -71696,6 +71705,7 @@
 ||casinobello1.fr^$document
 ||casinobetblast.fr^$document
 ||casinobetclic.fr^$document
+||casinobetify-online.fr^$document
 ||casinobetify.fr^$document
 ||casinobetify1.fr^$document
 ||casinobetlive.fr^$document
@@ -72191,6 +72201,7 @@
 ||casinoyonibet.fr^$document
 ||casinozer-4.fr^$document
 ||casinozer-bet.fr^$document
+||casinozer-casino-fr.fr^$document
 ||casinozer-casino-france.fr^$document
 ||casinozer-casino.fr^$document
 ||casinozer-casino1.fr^$document
@@ -72284,6 +72295,7 @@
 ||casoocasino-fr.fr^$document
 ||casoocasino.fr^$document
 ||casoola-fr.fr^$document
+||casoolacasinofr.fr^$document
 ||casoolacasinos.fr^$document
 ||casoolafr.fr^$document
 ||casoolas.fr^$document
@@ -90188,6 +90200,7 @@
 ||craseramphozita.ml^$document
 ||crash-casino.fr^$document
 ||crash-fr.fr^$document
+||crash-pirate.fr^$document
 ||crash.xyz^$document
 ||crashbet.fr^$document
 ||crashcasino.fr^$document
@@ -90886,6 +90899,7 @@
 ||cresusbonus.fr^$document
 ||cresuscasina.fr^$document
 ||cresuscasino-1.fr^$document
+||cresuscasino-com.fr^$document
 ||cresuscasino-en-ligne.fr^$document
 ||cresuscasino-fr.fr^$document
 ||cresuscasino-france.fr^$document
@@ -107644,6 +107658,8 @@
 ||dragoermusikfest.dk^$document
 ||dragolkeyzardkind.tk^$document
 ||dragon-fr.fr^$document
+||dragon1a-fr.fr^$document
+||dragon1a.fr^$document
 ||dragonara.xyz^$document
 ||dragonballmerch.de^$document
 ||dragonia-casino-101.fr^$document
@@ -127089,6 +127105,7 @@
 ||fatpiratecasino777.fr^$document
 ||fatpiratecasinofr.fr^$document
 ||fatpiratecasinos.fr^$document
+||fatpiratee.fr^$document
 ||fatpiratefr.fr^$document
 ||fatpiratefrance.fr^$document
 ||fatt.pw^$document
@@ -136448,6 +136465,7 @@
 ||frshinywilds.fr^$document
 ||frshpb.cyou^$document
 ||frsnapchat.fr^$document
+||frsneakshop.fr^$document
 ||frswg5.cyou^$document
 ||frsxm3.cyou^$document
 ||frtopd.rest^$document
@@ -147419,6 +147437,7 @@
 ||google-assistance.fr^$document
 ||google-drive.fr^$document
 ||google-drive.zip^$document
+||google-images.fr^$document
 ||google-info.cn^$document
 ||google-mail.fr^$document
 ||google-meet.fr^$document
@@ -165267,6 +165286,7 @@
 ||hwdkkn.bar^$document
 ||hwdvtzrx.xyz^$document
 ||hwe.org.tw^$document
+||hwebmail-orange.fr^$document
 ||hweibocom.xyz^$document
 ||hwejjex.tokyo^$document
 ||hwemcp.tokyo^$document
@@ -174100,6 +174120,7 @@
 ||instantcasinoo.fr^$document
 ||instantcasinoo1.fr^$document
 ||instantcasinoonline.fr^$document
+||instantcasinos-com.fr^$document
 ||instantcasinos1.fr^$document
 ||instantcassino.fr^$document
 ||instantcredit.xyz^$document
@@ -178841,6 +178862,7 @@
 ||jackperwhoocontcata.ga^$document
 ||jackphedortiater.cf^$document
 ||jackpokercasino.fr^$document
+||jackpot-bob-casinos.fr^$document
 ||jackpot-bob-france.fr^$document
 ||jackpot-bob-jouer.fr^$document
 ||jackpot-bob-online.fr^$document
@@ -191091,7 +191113,9 @@
 ||korkoubiti.ml^$document
 ||kormaysabcentla.ga^$document
 ||kormuj.bar^$document
+||korn-checkout.fr^$document
 ||korn-eurotour.fr^$document
+||korn-lives.fr^$document
 ||kornbaddgandmenquileg.cf^$document
 ||kornechesnacarhau.tk^$document
 ||kornhenmatil.tk^$document
@@ -205814,11 +205838,14 @@
 ||lolajack-officiel.fr^$document
 ||lolajack-online.fr^$document
 ||lolajack-play.fr^$document
+||lolajack1-fr.fr^$document
 ||lolajackbonus.fr^$document
 ||lolajackcasino-fr.fr^$document
 ||lolajackcasino.fr^$document
 ||lolajackenligne.fr^$document
+||lolajackfrance.fr^$document
 ||lolajackk-fr.fr^$document
+||lolajackkfr.fr^$document
 ||lolajackofficial.fr^$document
 ||lolajackplay.fr^$document
 ||lolajacks-fr.fr^$document
@@ -207937,6 +207964,7 @@
 ||luckenwalder-salzgrotte.de^$document
 ||luckeygnischengast.tk^$document
 ||lucki.fr^$document
+||lucki31fr.fr^$document
 ||luckicasino-fr.fr^$document
 ||luckicasino-france.fr^$document
 ||luckiest.xyz^$document
@@ -207983,6 +208011,7 @@
 ||lucky-gemcasino.fr^$document
 ||lucky-gems-fr.fr^$document
 ||lucky-gems.fr^$document
+||lucky-knife.fr^$document
 ||lucky-lost.fr^$document
 ||lucky-luke.fr^$document
 ||lucky-meslots.fr^$document
@@ -208061,6 +208090,7 @@
 ||lucky8casino-fr.fr^$document
 ||lucky8casino-france.fr^$document
 ||lucky8casino.fr^$document
+||lucky8casino1.fr^$document
 ||lucky8casinofr.fr^$document
 ||lucky8casinofrance.fr^$document
 ||lucky8casinogame.fr^$document
@@ -219349,6 +219379,7 @@
 ||millionercasinoenligne.fr^$document
 ||millionercasinos.fr^$document
 ||millionerfr.fr^$document
+||millionerr.fr^$document
 ||millioners-casino.fr^$document
 ||millioners-casinos.fr^$document
 ||millionerscasino.fr^$document
@@ -219369,6 +219400,7 @@
 ||millionz-jeu.fr^$document
 ||millionz-online.fr^$document
 ||millionz-promo.fr^$document
+||millionzcas1no-fr.fr^$document
 ||millionzcas1no.fr^$document
 ||millionzcasino-france.fr^$document
 ||millionzcasino-officiel.fr^$document
@@ -223053,6 +223085,7 @@
 ||mondial-relay-relivraison-colis.fr^$document
 ||mondial-relay-reprogrammation-colis.fr^$document
 ||mondial-relay-reprogrammation.fr^$document
+||mondial-relay-retour.fr^$document
 ||mondial-relay-seine-maritime.fr^$document
 ||mondial-relay-services.fr^$document
 ||mondial-relay-suivi.fr^$document
@@ -239149,6 +239182,7 @@
 ||nova-finance.net^$document
 ||nova-jackpot-casino.fr^$document
 ||nova-jackpot-fr.fr^$document
+||nova-jackpots.fr^$document
 ||nova-mia.de^$document
 ||nova-parts.ru^$document
 ||nova-play.com^$document
@@ -246441,6 +246475,7 @@
 ||onlyspin1.fr^$document
 ||onlyspincasino.fr^$document
 ||onlyspins-casino-fr.fr^$document
+||onlyspins-casinos.fr^$document
 ||onlyspins-en-ligne.fr^$document
 ||onlyspins-enligne.fr^$document
 ||onlyspins-francais.fr^$document
@@ -256054,6 +256089,7 @@
 ||peacestoryknowworld.buzz^$document
 ||peachbruh.com^$document
 ||peachehirosfi.ml^$document
+||peaches-casino.fr^$document
 ||peachesfr.fr^$document
 ||peachossom.com^$document
 ||peachtcarora.gq^$document
@@ -298742,6 +298778,7 @@
 ||sciencenews.world^$document
 ||sciencenewworkadult.biz^$document
 ||sciencesetlavenir.fr^$document
+||sciencespo-finance.fr^$document
 ||sciencespo-lyon-admin.fr^$document
 ||scientific-federation.org^$document
 ||scientistprogram.bar^$document
@@ -302238,6 +302275,7 @@
 ||service-vitaledroit.fr^$document
 ||service-vulnerable.fr^$document
 ||service-wero.fr^$document
+||service-xoom-contestation.fr^$document
 ||service-z9mmkhqhpefjqippj6xewpmnc.xyz^$document
 ||service24hours.xyz^$document
 ||serviceaccount.fr^$document
@@ -304413,6 +304451,7 @@
 ||shopmixmatch.com^$document
 ||shopmood.de^$document
 ||shopmotorbikeparts.com^$document
+||shopmyprime.fr^$document
 ||shopnavali.com^$document
 ||shopnobazar.xyz^$document
 ||shopnow-fm.com^$document
@@ -312980,6 +313019,7 @@
 ||spinfest1.fr^$document
 ||spinfests.fr^$document
 ||spinfevercasino.fr^$document
+||spinfiin.fr^$document
 ||spinfin-casino.fr^$document
 ||spinfin-enligne.fr^$document
 ||spinfin-fr.fr^$document
@@ -313080,6 +313120,7 @@
 ||spinmaniacasino.fr^$document
 ||spinmayacasino.fr^$document
 ||spinmillion-casino.fr^$document
+||spinmillion-com.fr^$document
 ||spinmillion-france.fr^$document
 ||spinmillion1.fr^$document
 ||spinmillioncasino-fr.fr^$document
@@ -331662,6 +331703,7 @@
 ||thopenwearsposunu.cf^$document
 ||thopowcebentnylo.ml^$document
 ||thoquanrizediffta.ga^$document
+||thor-casino-com.fr^$document
 ||thor-fortune-casino.fr^$document
 ||thorboeje.xyz^$document
 ||thorcas1no-fr.fr^$document
@@ -348569,6 +348611,7 @@
 ||uniqlos.fr^$document
 ||uniqlosfrance.fr^$document
 ||uniqlosuomioutlet.com^$document
+||unique-cas1no-fr.fr^$document
 ||unique-cas1no.fr^$document
 ||unique-casino-fr.fr^$document
 ||unique-casino-pari.fr^$document
