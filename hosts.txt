@@ -63580,6 +63580,8 @@
 0.0.0.0 www.activearly.com
 0.0.0.0 activebeat.fr
 0.0.0.0 www.activebeat.fr
+0.0.0.0 activeelectric.net
+0.0.0.0 www.activeelectric.net
 0.0.0.0 activeitzone.fr
 0.0.0.0 www.activeitzone.fr
 0.0.0.0 activepla.xyz
@@ -123658,6 +123660,8 @@
 0.0.0.0 www.boomgoutitiro.tk
 0.0.0.0 boomipanmettwelcia.cf
 0.0.0.0 www.boomipanmettwelcia.cf
+0.0.0.0 boomjoo.co
+0.0.0.0 www.boomjoo.co
 0.0.0.0 boomnaracanima.tk
 0.0.0.0 www.boomnaracanima.tk
 0.0.0.0 booms-bet-casino.fr
@@ -127398,6 +127402,8 @@
 0.0.0.0 www.brennholzweber.de
 0.0.0.0 brennholzwerner.de
 0.0.0.0 www.brennholzwerner.de
+0.0.0.0 brennholzwidmann.de
+0.0.0.0 www.brennholzwidmann.de
 0.0.0.0 brenntag.ee
 0.0.0.0 www.brenntag.ee
 0.0.0.0 brennuischif.ml
@@ -143100,6 +143106,8 @@
 0.0.0.0 www.casino-hermes.fr
 0.0.0.0 casino-horus.fr
 0.0.0.0 www.casino-horus.fr
+0.0.0.0 casino-housebets.fr
+0.0.0.0 www.casino-housebets.fr
 0.0.0.0 casino-hugobets.fr
 0.0.0.0 www.casino-hugobets.fr
 0.0.0.0 casino-igobet.fr
@@ -143722,6 +143730,8 @@
 0.0.0.0 www.casinohorus.fr
 0.0.0.0 casinohouse.fr
 0.0.0.0 www.casinohouse.fr
+0.0.0.0 casinohousebets.fr
+0.0.0.0 www.casinohousebets.fr
 0.0.0.0 casinohugo.fr
 0.0.0.0 www.casinohugo.fr
 0.0.0.0 casinohugobets.fr
@@ -150222,6 +150232,8 @@
 0.0.0.0 www.cetelem-bnpparibas.fr
 0.0.0.0 cetelem-connecte.fr
 0.0.0.0 www.cetelem-connecte.fr
+0.0.0.0 cetelem-contact.fr
+0.0.0.0 www.cetelem-contact.fr
 0.0.0.0 cetelem-financement.fr
 0.0.0.0 www.cetelem-financement.fr
 0.0.0.0 cetelem-particulier-notifications.fr
@@ -166356,6 +166368,8 @@
 0.0.0.0 www.cmcre.fr
 0.0.0.0 cmcroata.ce.gov.br
 0.0.0.0 www.cmcroata.ce.gov.br
+0.0.0.0 cmctradingeu.com
+0.0.0.0 www.cmctradingeu.com
 0.0.0.0 cmd-ns7efhlcf2.biz
 0.0.0.0 www.cmd-ns7efhlcf2.biz
 0.0.0.0 cmd-prime.fr
@@ -172690,6 +172704,8 @@
 0.0.0.0 www.confirmation-de-vos-rendezvous-securise-leboncoin.fr
 0.0.0.0 confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr
 0.0.0.0 www.confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr
+0.0.0.0 confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr
+0.0.0.0 www.confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr
 0.0.0.0 confirmation-details-rdv-leboncoin.fr
 0.0.0.0 www.confirmation-details-rdv-leboncoin.fr
 0.0.0.0 confirmation-devotre-rendez-vous-securise-leboncoin.fr
@@ -195142,6 +195158,8 @@
 0.0.0.0 www.de-orion.site
 0.0.0.0 de-schmuckens.com
 0.0.0.0 www.de-schmuckens.com
+0.0.0.0 de-shimano.com
+0.0.0.0 www.de-shimano.com
 0.0.0.0 de-smuller.nl
 0.0.0.0 www.de-smuller.nl
 0.0.0.0 de-tero.com
@@ -195926,6 +195944,8 @@
 0.0.0.0 www.deckcalmn.com
 0.0.0.0 deckconcopilsuu.cf
 0.0.0.0 www.deckconcopilsuu.cf
+0.0.0.0 deckeldrauf.com
+0.0.0.0 www.deckeldrauf.com
 0.0.0.0 deckfenogari.gq
 0.0.0.0 www.deckfenogari.gq
 0.0.0.0 deckkrematdimanland.cf
@@ -197092,6 +197112,8 @@
 0.0.0.0 www.dekagarpufnza.tk
 0.0.0.0 dekani.si
 0.0.0.0 www.dekani.si
+0.0.0.0 dekantier.de
+0.0.0.0 www.dekantier.de
 0.0.0.0 dekapivova.tk
 0.0.0.0 www.dekapivova.tk
 0.0.0.0 dekaralgisives.cf
@@ -201220,6 +201242,8 @@
 0.0.0.0 www.deutothoughra.ml
 0.0.0.0 deutsch-brennholz.de
 0.0.0.0 www.deutsch-brennholz.de
+0.0.0.0 deutschapotheke.com
+0.0.0.0 www.deutschapotheke.com
 0.0.0.0 deutschdeal.com
 0.0.0.0 www.deutschdeal.com
 0.0.0.0 deutsche-armut.de
@@ -205668,6 +205692,8 @@
 0.0.0.0 www.digitalvox.name
 0.0.0.0 digitalwalkingmaps.eu
 0.0.0.0 www.digitalwalkingmaps.eu
+0.0.0.0 digitalwertezentrum.de
+0.0.0.0 www.digitalwertezentrum.de
 0.0.0.0 digitalyuans.xyz
 0.0.0.0 www.digitalyuans.xyz
 0.0.0.0 digitax-solutions.de
@@ -263474,6 +263500,8 @@
 0.0.0.0 www.flimgeoresub.tk
 0.0.0.0 flimitcheytheli.gq
 0.0.0.0 www.flimitcheytheli.gq
+0.0.0.0 flimmenpapst.com
+0.0.0.0 www.flimmenpapst.com
 0.0.0.0 flimulexal.gq
 0.0.0.0 www.flimulexal.gq
 0.0.0.0 flimwellprogconssupp.gq
@@ -271148,6 +271176,8 @@
 0.0.0.0 www.fredwestfohoment.ga
 0.0.0.0 free-adult-videos.xyz
 0.0.0.0 www.free-adult-videos.xyz
+0.0.0.0 free-assistance.fr
+0.0.0.0 www.free-assistance.fr
 0.0.0.0 free-bang-blog.agency
 0.0.0.0 www.free-bang-blog.agency
 0.0.0.0 free-best-cum.xyz
@@ -285848,8 +285878,6 @@
 0.0.0.0 www.get-teralin.site
 0.0.0.0 get-thebest-prizes.info
 0.0.0.0 www.get-thebest-prizes.info
-0.0.0.0 get-wuffy.com
-0.0.0.0 www.get-wuffy.com
 0.0.0.0 get-yer-rocks-off.nl
 0.0.0.0 www.get-yer-rocks-off.nl
 0.0.0.0 get-your-best-prize.info
@@ -319484,6 +319512,8 @@
 0.0.0.0 www.hex7m6.cyou
 0.0.0.0 hexa-tronic.com
 0.0.0.0 www.hexa-tronic.com
+0.0.0.0 hexadistri.com
+0.0.0.0 www.hexadistri.com
 0.0.0.0 hexagonal-wide-prose.glitch.me
 0.0.0.0 www.hexagonal-wide-prose.glitch.me
 0.0.0.0 hexagonresources.org
@@ -325376,6 +325406,8 @@
 0.0.0.0 www.hophelltohella.ml
 0.0.0.0 hopigsuntlecve.tk
 0.0.0.0 www.hopigsuntlecve.tk
+0.0.0.0 hopital-ensisheim.fr
+0.0.0.0 www.hopital-ensisheim.fr
 0.0.0.0 hopital-nord-alsace.fr
 0.0.0.0 www.hopital-nord-alsace.fr
 0.0.0.0 hopital-veterinaire.ca
@@ -326462,6 +326494,8 @@
 0.0.0.0 www.hotels-collections.fr
 0.0.0.0 hotels-colombo.com
 0.0.0.0 www.hotels-colombo.com
+0.0.0.0 hotels-colorado.net
+0.0.0.0 www.hotels-colorado.net
 0.0.0.0 hotelsandiego.xyz
 0.0.0.0 www.hotelsandiego.xyz
 0.0.0.0 hotelsandkaas.dk
@@ -357690,6 +357724,8 @@
 0.0.0.0 www.jack-casino.fr
 0.0.0.0 jack-the-ripper.net
 0.0.0.0 www.jack-the-ripper.net
+0.0.0.0 jack-wolfskinfrance.fr
+0.0.0.0 www.jack-wolfskinfrance.fr
 0.0.0.0 jack21casino.fr
 0.0.0.0 www.jack21casino.fr
 0.0.0.0 jack7e.xyz
@@ -398044,6 +398080,8 @@
 0.0.0.0 www.lenirosab.tk
 0.0.0.0 lenisrobutasof.gq
 0.0.0.0 www.lenisrobutasof.gq
+0.0.0.0 lenkerclip.com
+0.0.0.0 www.lenkerclip.com
 0.0.0.0 lenlaconlimosun.tk
 0.0.0.0 www.lenlaconlimosun.tk
 0.0.0.0 lenlauvanantonan.ml
@@ -422754,10 +422792,14 @@
 0.0.0.0 www.mafia-en-ligne.fr
 0.0.0.0 mafia-enligne.fr
 0.0.0.0 www.mafia-enligne.fr
+0.0.0.0 mafia-online-play.fr
+0.0.0.0 www.mafia-online-play.fr
 0.0.0.0 mafia-online.fr
 0.0.0.0 www.mafia-online.fr
 0.0.0.0 mafia-play.fr
 0.0.0.0 www.mafia-play.fr
+0.0.0.0 mafia2-online.fr
+0.0.0.0 www.mafia2-online.fr
 0.0.0.0 mafiacasino-fr.fr
 0.0.0.0 www.mafiacasino-fr.fr
 0.0.0.0 mafiacasino-france.fr
@@ -426810,6 +426852,8 @@
 0.0.0.0 www.maratenroper.ga
 0.0.0.0 maratevater.cf
 0.0.0.0 www.maratevater.cf
+0.0.0.0 marathonasset.com
+0.0.0.0 www.marathonasset.com
 0.0.0.0 marathondulacduder.fr
 0.0.0.0 www.marathondulacduder.fr
 0.0.0.0 marathonsportsrunclub.com
@@ -467162,6 +467206,8 @@
 0.0.0.0 www.neubingnosyntlo.ga
 0.0.0.0 neubjorentic.cf
 0.0.0.0 www.neubjorentic.cf
+0.0.0.0 neublasinstrumente.com
+0.0.0.0 www.neublasinstrumente.com
 0.0.0.0 neublinloketen.cf
 0.0.0.0 www.neublinloketen.cf
 0.0.0.0 neubloodovhearterc.cf
@@ -478114,6 +478160,8 @@
 0.0.0.0 www.notifbonus.fr
 0.0.0.0 notifcationmail.fr
 0.0.0.0 www.notifcationmail.fr
+0.0.0.0 notife-ar24.fr
+0.0.0.0 www.notife-ar24.fr
 0.0.0.0 notification-achat.fr
 0.0.0.0 www.notification-achat.fr
 0.0.0.0 notification-ameli.fr
@@ -498926,6 +498974,8 @@
 0.0.0.0 www.oubuey.shop
 0.0.0.0 oubxqt.shop
 0.0.0.0 www.oubxqt.shop
+0.0.0.0 ouces.heuristicreview.company
+0.0.0.0 www.ouces.heuristicreview.company
 0.0.0.0 ouctdch.cyou
 0.0.0.0 www.ouctdch.cyou
 0.0.0.0 oud.sint-janscollege.be
@@ -502500,8 +502550,8 @@
 0.0.0.0 www.p-cybertek.fr
 0.0.0.0 p-d-n.ru
 0.0.0.0 www.p-d-n.ru
-0.0.0.0 p-ep.com
-0.0.0.0 www.p-ep.com
+0.0.0.0 p-ep.org
+0.0.0.0 www.p-ep.org
 0.0.0.0 p-group.jp
 0.0.0.0 www.p-group.jp
 0.0.0.0 p-particuliers.fr
@@ -513134,6 +513184,8 @@
 0.0.0.0 www.pellet-ecos.company.site
 0.0.0.0 pellet-haus.com
 0.0.0.0 www.pellet-haus.com
+0.0.0.0 pellet-werk.com
+0.0.0.0 www.pellet-werk.com
 0.0.0.0 pelletkraft.de
 0.0.0.0 www.pelletkraft.de
 0.0.0.0 pelletopia.de
@@ -560806,6 +560858,8 @@
 0.0.0.0 www.rasberrypi.org
 0.0.0.0 rascanigis.tk
 0.0.0.0 www.rascanigis.tk
+0.0.0.0 rascassesas.com
+0.0.0.0 www.rascassesas.com
 0.0.0.0 rascatunjaifa.gq
 0.0.0.0 www.rascatunjaifa.gq
 0.0.0.0 raschika.info
@@ -570194,6 +570248,8 @@
 0.0.0.0 www.replicakaufen.de
 0.0.0.0 replicareview.io
 0.0.0.0 www.replicareview.io
+0.0.0.0 replicasrelojes.to
+0.0.0.0 www.replicasrelojes.to
 0.0.0.0 replicaswatches.vip
 0.0.0.0 www.replicaswatches.vip
 0.0.0.0 replicate.ai
@@ -570224,6 +570280,8 @@
 0.0.0.0 www.replifamolab.gq
 0.0.0.0 replika-uhr.to
 0.0.0.0 www.replika-uhr.to
+0.0.0.0 replikuhrenshop.de
+0.0.0.0 www.replikuhrenshop.de
 0.0.0.0 repliqueburberry.fr
 0.0.0.0 www.repliqueburberry.fr
 0.0.0.0 repliquecartier.fr
@@ -581852,8 +581910,6 @@
 0.0.0.0 www.rolesthingbusinesss.biz
 0.0.0.0 rolex-replica.to
 0.0.0.0 www.rolex-replica.to
-0.0.0.0 rolexwanduhr.de
-0.0.0.0 www.rolexwanduhr.de
 0.0.0.0 rolexyeals.com
 0.0.0.0 www.rolexyeals.com
 0.0.0.0 rolezamtibo.ga
@@ -606252,8 +606308,6 @@
 0.0.0.0 www.sexhubmovs.com
 0.0.0.0 sexhunt.xyz
 0.0.0.0 www.sexhunt.xyz
-0.0.0.0 sexicats.com
-0.0.0.0 www.sexicats.com
 0.0.0.0 sexigo.eu
 0.0.0.0 www.sexigo.eu
 0.0.0.0 sexinthekitchen.eu
@@ -660670,6 +660724,8 @@
 0.0.0.0 www.the-bitcoin-bank.com
 0.0.0.0 the-car-glass.fr
 0.0.0.0 www.the-car-glass.fr
+0.0.0.0 the-culinology.com
+0.0.0.0 www.the-culinology.com
 0.0.0.0 the-cuties.com
 0.0.0.0 www.the-cuties.com
 0.0.0.0 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
@@ -684290,6 +684346,8 @@
 0.0.0.0 www.trustup.online
 0.0.0.0 trustuu.com
 0.0.0.0 www.trustuu.com
+0.0.0.0 trusty-eu.com
+0.0.0.0 www.trusty-eu.com
 0.0.0.0 trusty-faultless.nl
 0.0.0.0 www.trusty-faultless.nl
 0.0.0.0 trustydealmarket.com
@@ -711656,6 +711714,8 @@
 0.0.0.0 www.vendofabmo.ml
 0.0.0.0 vendokz.xyz
 0.0.0.0 www.vendokz.xyz
+0.0.0.0 vendome-logistique.com
+0.0.0.0 www.vendome-logistique.com
 0.0.0.0 vendomeprestige.com
 0.0.0.0 www.vendomeprestige.com
 0.0.0.0 vendomesaro.tk
@@ -724718,6 +724778,8 @@
 0.0.0.0 www.vivaia-schuhe.de
 0.0.0.0 vivaiaboutiques.fr
 0.0.0.0 www.vivaiaboutiques.fr
+0.0.0.0 vivaiacollection.com
+0.0.0.0 www.vivaiacollection.com
 0.0.0.0 vivaiaparis.fr
 0.0.0.0 www.vivaiaparis.fr
 0.0.0.0 vivaiaschaussures.fr
@@ -728054,6 +728116,8 @@
 0.0.0.0 www.vpu-vorbereitung.online
 0.0.0.0 vpucenter.dk
 0.0.0.0 www.vpucenter.dk
+0.0.0.0 vpudoktor.com
+0.0.0.0 www.vpudoktor.com
 0.0.0.0 vpufuchs.com
 0.0.0.0 www.vpufuchs.com
 0.0.0.0 vpumad.bar
@@ -738910,6 +738974,8 @@
 0.0.0.0 www.wenmefuthernordbots.ga
 0.0.0.0 wenmorusscertilyg.tk
 0.0.0.0 www.wenmorusscertilyg.tk
+0.0.0.0 wenndennpelletsgmbh.de
+0.0.0.0 www.wenndennpelletsgmbh.de
 0.0.0.0 wennelun.gq
 0.0.0.0 www.wennelun.gq
 0.0.0.0 wenreabutgolfsuclind.tk
@@ -760588,6 +760654,8 @@
 0.0.0.0 www.xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 0.0.0.0 xn--leboncoinfranais-opb.fr
 0.0.0.0 www.xn--leboncoinfranais-opb.fr
+0.0.0.0 xn--leboncoinscuris-knbf.fr
+0.0.0.0 www.xn--leboncoinscuris-knbf.fr
 0.0.0.0 xn--leboncon-i2a.fr
 0.0.0.0 www.xn--leboncon-i2a.fr
 0.0.0.0 xn--lecanardenchain-pnb.fr
