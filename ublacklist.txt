@@ -51774,6 +51774,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.basepointsroomhome.buzz/*
 *://*.basesorlojum.cf/*
 *://*.basetilighlisna.tk/*
+*://*.baseus-store.fr/*
 *://*.baseusfr.fr/*
 *://*.basfebimidsa.tk/*
 *://*.basfederdera.cf/*
@@ -63575,6 +63576,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.brecthunsutapago.ga/*
 *://*.brecuttpagun.tk/*
 *://*.bred-france.fr/*
+*://*.bred-informatique.fr/*
 *://*.bred-paris.fr/*
 *://*.bredabarthalwall.tk/*
 *://*.bredabinexsov.cf/*
@@ -85738,6 +85740,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.compte-libertex.fr/*
 *://*.compte-livraison.fr/*
 *://*.compte-maladie.fr/*
+*://*.compte-merchant-center-suspendu.fr/*
 *://*.compte-nelflix.fr/*
 *://*.compte-netflix.fr/*
 *://*.compte-nickel-france.fr/*
@@ -246094,6 +246097,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onepager.fr/*
 *://*.onepiecefr.fr/*
 *://*.onepiecenetflix.fr/*
+*://*.onepieceshopparis2024.fr/*
 *://*.onepmeesynzeiket.tk/*
 *://*.oner-activefrance.fr/*
 *://*.oner.my.id/*
@@ -256770,6 +256774,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.penludafecvoi.ga/*
 *://*.penlunahisqui.gq/*
 *://*.penlurabe.ml/*
+*://*.penly-edf.fr/*
 *://*.penly.ai/*
 *://*.penly.ai/*
 *://*.penmacomprict.ga/*
@@ -281476,6 +281481,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.reactivation-espace-lbp.fr/*
 *://*.reactivation-espaces.fr/*
 *://*.reactivation-info.fr/*
+*://*.reactivation-merchant-center.fr/*
 *://*.reactivation-netflix.fr/*
 *://*.reactivation-nflx.fr/*
 *://*.reactivation-pl.fr/*
@@ -300597,6 +300603,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.seemoree.re/*
 *://*.seemoreon.de/*
 *://*.seemorre.re/*
+*://*.seemro.re/*
 *://*.seemsallcurrent.rest/*
 *://*.seemsworkteamstops.biz/*
 *://*.seemucanta.tk/*
@@ -341570,6 +341577,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.troianimoto.it/*
 *://*.troiealtelefono899.com/*
 *://*.troiphveilla.de/*
+*://*.trois-suisses.fr/*
 *://*.trojalesadeshyd.tk/*
 *://*.trojbedibutmi.tk/*
 *://*.trojcapqueslinmarni.tk/*
@@ -380254,6 +380262,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.xn--fed.com/*
 *://*.xn--ferienwohnung-krnten-pzb.eu/*
 *://*.xn--ferienwohnung-sterreich-llc.eu/*
+*://*.xn--ffrandonne-j7a.fr/*
 *://*.xn--fiq02ep7wukd.wang/*
 *://*.xn--fiq22lfzcku7b.wang/*
 *://*.xn--fiq50lfulivco1h1x0d.com/*
