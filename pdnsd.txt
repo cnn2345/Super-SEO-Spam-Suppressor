@@ -54937,6 +54937,7 @@ neg {name=bestperslotsseriouss.biz; types=domain;}
 neg {name=bestpertconlenxmer.ml; types=domain;}
 neg {name=bestpharm-eu.com; types=domain;}
 neg {name=bestpillpharmacy.com; types=domain;}
+neg {name=bestpillsnetwork.com; types=domain;}
 neg {name=bestpods.fr; types=domain;}
 neg {name=bestpometlupe.cf; types=domain;}
 neg {name=bestprepaidcards.xyz; types=domain;}
@@ -56044,7 +56045,6 @@ neg {name=bfocus.dk; types=domain;}
 neg {name=bfoggq.tokyo; types=domain;}
 neg {name=bforbinary.com; types=domain;}
 neg {name=bforebank.fr; types=domain;}
-neg {name=bforex.com; types=domain;}
 neg {name=bforgb.tokyo; types=domain;}
 neg {name=bfouoq.rest; types=domain;}
 neg {name=bfoywn.tokyo; types=domain;}
@@ -58418,6 +58418,7 @@ neg {name=bitcoin-miner.shop; types=domain;}
 neg {name=bitcoin-pharmacy.com; types=domain;}
 neg {name=bitcoin-revolution.org; types=domain;}
 neg {name=bitcoin-shop.ro; types=domain;}
+neg {name=bitcoin-up.io; types=domain;}
 neg {name=bitcoin-xact.fr; types=domain;}
 neg {name=bitcoinarchon.com; types=domain;}
 neg {name=bitcoinblackfriday.com; types=domain;}
@@ -97638,6 +97639,7 @@ neg {name=deblwav.tokyo; types=domain;}
 neg {name=debofromolo.ml; types=domain;}
 neg {name=deboomerang.eu; types=domain;}
 neg {name=deboperhillde.gq; types=domain;}
+neg {name=debot-maschinen.de; types=domain;}
 neg {name=debovoten.gq; types=domain;}
 neg {name=debremisicounpost.gq; types=domain;}
 neg {name=debroussailleuse.eu; types=domain;}
@@ -122210,6 +122212,7 @@ neg {name=eumarketstores.com; types=domain;}
 neg {name=eumasia.com; types=domain;}
 neg {name=eumatip.co; types=domain;}
 neg {name=eumeds24.com; types=domain;}
+neg {name=eumedz.com; types=domain;}
 neg {name=eumund.xyz; types=domain;}
 neg {name=eumypo.tokyo; types=domain;}
 neg {name=eun3ey.cyou; types=domain;}
@@ -125347,6 +125350,7 @@ neg {name=fabdoyt.web.app; types=domain;}
 neg {name=fabdream.art; types=domain;}
 neg {name=fabdxj.rest; types=domain;}
 neg {name=fabdytasercent.tk; types=domain;}
+neg {name=fabecodis.com; types=domain;}
 neg {name=fabelbo.dk; types=domain;}
 neg {name=faberipotpost.gq; types=domain;}
 neg {name=fabestiovirew.gq; types=domain;}
@@ -162916,6 +162920,7 @@ neg {name=hotelfortecappellini.it; types=domain;}
 neg {name=hotelgallimberti.it; types=domain;}
 neg {name=hotelheavyforget.xyz; types=domain;}
 neg {name=hotelimaginewheres.rest; types=domain;}
+neg {name=hotelinphuket.net; types=domain;}
 neg {name=hotelissimo.fr; types=domain;}
 neg {name=hotelitfromshome.rest; types=domain;}
 neg {name=hoteljacobgade.dk; types=domain;}
@@ -208153,7 +208158,6 @@ neg {name=lumendecor.de; types=domain;}
 neg {name=lumenia-shop.fr; types=domain;}
 neg {name=lumenor.ai; types=domain;}
 neg {name=lumenrosa.de; types=domain;}
-neg {name=lumentes.com; types=domain;}
 neg {name=lumepotikogaw.tk; types=domain;}
 neg {name=lumerabeautyclub.com; types=domain;}
 neg {name=lumesccyboferlo.cf; types=domain;}
@@ -217803,7 +217807,6 @@ neg {name=mg5zu2.cyou; types=domain;}
 neg {name=mg6eqap.cyou; types=domain;}
 neg {name=mg7lzf.tokyo; types=domain;}
 neg {name=mg7ofa.tokyo; types=domain;}
-neg {name=mgaffaires.com; types=domain;}
 neg {name=mgaibt.cyou; types=domain;}
 neg {name=mgaj0fy.tokyo; types=domain;}
 neg {name=mgajfk.tokyo; types=domain;}
@@ -223771,6 +223774,7 @@ neg {name=moordfemegilopal.cf; types=domain;}
 neg {name=mooreandpetersen.com; types=domain;}
 neg {name=mooredvazwe.myshopify.com; types=domain;}
 neg {name=mooremanor.xyz; types=domain;}
+neg {name=mooris.de; types=domain;}
 neg {name=moornacimostdoho.tk; types=domain;}
 neg {name=moosastgurdtinave.ml; types=domain;}
 neg {name=mooseknucklesfrance.fr; types=domain;}
@@ -247575,7 +247579,6 @@ neg {name=orderbuycheap.com; types=domain;}
 neg {name=orderflowers.xyz; types=domain;}
 neg {name=ordergunmagazinesonline.com; types=domain;}
 neg {name=orderonceareanight.biz; types=domain;}
-neg {name=orderrxstore.com; types=domain;}
 neg {name=orders-prime.fr; types=domain;}
 neg {name=orderspointsheworks.biz; types=domain;}
 neg {name=ordersurfsite.com; types=domain;}
@@ -290362,7 +290365,6 @@ neg {name=roleslinanwade.ml; types=domain;}
 neg {name=rolesroomstraditionals.bar; types=domain;}
 neg {name=rolesthingbusinesss.biz; types=domain;}
 neg {name=rolex-replica.to; types=domain;}
-neg {name=rolexwanduhr.de; types=domain;}
 neg {name=rolexyeals.com; types=domain;}
 neg {name=rolezamtibo.ga; types=domain;}
 neg {name=rolf24.ee; types=domain;}
@@ -298027,6 +298029,7 @@ neg {name=schmidt-express.com; types=domain;}
 neg {name=schmidt-ulm-mde.de; types=domain;}
 neg {name=schmidt-wundberatung.de; types=domain;}
 neg {name=schmidtiefbaugmbh.de; types=domain;}
+neg {name=schmidtmaschine.de; types=domain;}
 neg {name=schmidtmode.de; types=domain;}
 neg {name=schmidts-handel.de; types=domain;}
 neg {name=schmidtstil.com; types=domain;}
@@ -302549,6 +302552,7 @@ neg {name=sexfreenews.agency; types=domain;}
 neg {name=sexhardcorexxxcams.buzz; types=domain;}
 neg {name=sexhubmovs.com; types=domain;}
 neg {name=sexhunt.xyz; types=domain;}
+neg {name=sexicats.com; types=domain;}
 neg {name=sexigo.eu; types=domain;}
 neg {name=sexinthekitchen.eu; types=domain;}
 neg {name=sexirenpato.tk; types=domain;}
@@ -361672,7 +361676,6 @@ neg {name=vivagopro.com; types=domain;}
 neg {name=vivaharmoni.com; types=domain;}
 neg {name=vivaia-schuhe.de; types=domain;}
 neg {name=vivaiaboutiques.fr; types=domain;}
-neg {name=vivaiacollection.com; types=domain;}
 neg {name=vivaiaparis.fr; types=domain;}
 neg {name=vivaiaschaussures.fr; types=domain;}
 neg {name=vivaiaschuhe.at; types=domain;}
