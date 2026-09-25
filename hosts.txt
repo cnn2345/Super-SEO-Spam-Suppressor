@@ -66918,6 +66918,8 @@
 0.0.0.0 www.afjjop.shop
 0.0.0.0 afjnkf.rest
 0.0.0.0 www.afjnkf.rest
+0.0.0.0 afk-spins-fr.fr
+0.0.0.0 www.afk-spins-fr.fr
 0.0.0.0 afkarawemdabe.tk
 0.0.0.0 www.afkarawemdabe.tk
 0.0.0.0 afkbsw.cyou
@@ -70134,6 +70136,8 @@
 0.0.0.0 www.airfrance-relationce.fr
 0.0.0.0 airfrance-surbooking.fr
 0.0.0.0 www.airfrance-surbooking.fr
+0.0.0.0 airfrance-tickets.fr
+0.0.0.0 www.airfrance-tickets.fr
 0.0.0.0 airfrancefreight.fr
 0.0.0.0 www.airfrancefreight.fr
 0.0.0.0 airfrancetransport.fr
@@ -102000,6 +102004,8 @@
 0.0.0.0 www.bang982web.xyz
 0.0.0.0 bangalilovesambhu.biz
 0.0.0.0 www.bangalilovesambhu.biz
+0.0.0.0 bangawin.fr
+0.0.0.0 www.bangawin.fr
 0.0.0.0 bangbamicceiluab.cf
 0.0.0.0 www.bangbamicceiluab.cf
 0.0.0.0 bangbogl.com
@@ -122060,6 +122066,8 @@
 0.0.0.0 www.bnpparibas-nouvelle-cledigital.fr
 0.0.0.0 bnpparibas-nouvelle-cledigitale.fr
 0.0.0.0 www.bnpparibas-nouvelle-cledigitale.fr
+0.0.0.0 bnpparibas-realestate.fr
+0.0.0.0 www.bnpparibas-realestate.fr
 0.0.0.0 bnpparibas-securisation.fr
 0.0.0.0 www.bnpparibas-securisation.fr
 0.0.0.0 bnpparibas-securite.fr
@@ -122100,6 +122108,8 @@
 0.0.0.0 www.bnpparibaspro.fr
 0.0.0.0 bnpparibois.fr
 0.0.0.0 www.bnpparibois.fr
+0.0.0.0 bnpparisbas-realestate.fr
+0.0.0.0 www.bnpparisbas-realestate.fr
 0.0.0.0 bnppfimmobilier.fr
 0.0.0.0 www.bnppfimmobilier.fr
 0.0.0.0 bnpppf-connexion.fr
@@ -143584,6 +143594,8 @@
 0.0.0.0 www.casino-prive-fr.fr
 0.0.0.0 casino-prive-france.fr
 0.0.0.0 www.casino-prive-france.fr
+0.0.0.0 casino-reveryplay.fr
+0.0.0.0 www.casino-reveryplay.fr
 0.0.0.0 casino-revolut.fr
 0.0.0.0 www.casino-revolut.fr
 0.0.0.0 casino-rizz.fr
@@ -144444,6 +144456,8 @@
 0.0.0.0 www.casinorainbet.fr
 0.0.0.0 casinoretraitinstantane.fr
 0.0.0.0 www.casinoretraitinstantane.fr
+0.0.0.0 casinoreveryplay.fr
+0.0.0.0 www.casinoreveryplay.fr
 0.0.0.0 casinorevolut.fr
 0.0.0.0 www.casinorevolut.fr
 0.0.0.0 casinorex.fr
@@ -144788,6 +144802,8 @@
 0.0.0.0 www.casinowinaura.fr
 0.0.0.0 casinowinbay.fr
 0.0.0.0 www.casinowinbay.fr
+0.0.0.0 casinowinbeast.fr
+0.0.0.0 www.casinowinbeast.fr
 0.0.0.0 casinowinbeatz.fr
 0.0.0.0 www.casinowinbeatz.fr
 0.0.0.0 casinowinhero.fr
@@ -144838,6 +144854,8 @@
 0.0.0.0 www.casinozer-com.fr
 0.0.0.0 casinozer-enligne.fr
 0.0.0.0 www.casinozer-enligne.fr
+0.0.0.0 casinozer-eu.fr
+0.0.0.0 www.casinozer-eu.fr
 0.0.0.0 casinozer-fr1.fr
 0.0.0.0 www.casinozer-fr1.fr
 0.0.0.0 casinozer-france1.fr
@@ -179234,6 +179252,8 @@
 0.0.0.0 www.coupselodismikun.gq
 0.0.0.0 couptumbrockcranlecpyo.ml
 0.0.0.0 www.couptumbrockcranlecpyo.ml
+0.0.0.0 cour-de-cassation.fr
+0.0.0.0 www.cour-de-cassation.fr
 0.0.0.0 courata.tk
 0.0.0.0 www.courata.tk
 0.0.0.0 courbilyjor.cf
@@ -180676,6 +180696,8 @@
 0.0.0.0 www.crafsauheatuncouma.cf
 0.0.0.0 crafsekecume.tk
 0.0.0.0 www.crafsekecume.tk
+0.0.0.0 craft-soldes.fr
+0.0.0.0 www.craft-soldes.fr
 0.0.0.0 craft0kv3.web.app
 0.0.0.0 www.craft0kv3.web.app
 0.0.0.0 craftantgenlanota.cf
@@ -395986,6 +396008,8 @@
 0.0.0.0 www.leandfescaleebasharg.cf
 0.0.0.0 leandrarehoonoder.gq
 0.0.0.0 www.leandrarehoonoder.gq
+0.0.0.0 leanela-fr.fr
+0.0.0.0 www.leanela-fr.fr
 0.0.0.0 leanffmi.com
 0.0.0.0 www.leanffmi.com
 0.0.0.0 leankalaforjamo.tk
@@ -396862,6 +396886,8 @@
 0.0.0.0 www.leclerc-bon.fr
 0.0.0.0 leclerc-dev.fr
 0.0.0.0 www.leclerc-dev.fr
+0.0.0.0 leclerc-mavidis.fr
+0.0.0.0 www.leclerc-mavidis.fr
 0.0.0.0 leclerc-socamaine.fr
 0.0.0.0 www.leclerc-socamaine.fr
 0.0.0.0 leclerc-socamil.fr
@@ -407554,6 +407580,8 @@
 0.0.0.0 www.lirasasarmelo.tk
 0.0.0.0 lirashaalialift.cf
 0.0.0.0 www.lirashaalialift.cf
+0.0.0.0 lirasp1n-fr.fr
+0.0.0.0 www.lirasp1n-fr.fr
 0.0.0.0 lirasp1nplay.fr
 0.0.0.0 www.lirasp1nplay.fr
 0.0.0.0 liraspiin.fr
@@ -408712,6 +408740,8 @@
 0.0.0.0 www.liveatgreen.ee
 0.0.0.0 livebasbershe.tk
 0.0.0.0 www.livebasbershe.tk
+0.0.0.0 livebet-app.fr
+0.0.0.0 www.livebet-app.fr
 0.0.0.0 liveblog.ca
 0.0.0.0 www.liveblog.ca
 0.0.0.0 livebroadcast.cn
@@ -467692,6 +467722,8 @@
 0.0.0.0 www.netfllx-france.fr
 0.0.0.0 netfllx-redirection.fr
 0.0.0.0 www.netfllx-redirection.fr
+0.0.0.0 netfllx.fr
+0.0.0.0 www.netfllx.fr
 0.0.0.0 netfllxfrance.fr
 0.0.0.0 www.netfllxfrance.fr
 0.0.0.0 netflx-app.fr
@@ -524358,6 +524390,8 @@
 0.0.0.0 www.play-jonnybet.fr
 0.0.0.0 play-jonnycasino.fr
 0.0.0.0 www.play-jonnycasino.fr
+0.0.0.0 play-jonnys-fr.fr
+0.0.0.0 www.play-jonnys-fr.fr
 0.0.0.0 play-magneticslots.fr
 0.0.0.0 www.play-magneticslots.fr
 0.0.0.0 play-one-prime.fr
@@ -559942,6 +559976,8 @@
 0.0.0.0 www.rainopavo.web.app
 0.0.0.0 rainosigoosrehon.cf
 0.0.0.0 www.rainosigoosrehon.cf
+0.0.0.0 rains-soldes.fr
+0.0.0.0 www.rains-soldes.fr
 0.0.0.0 rainsfrance.fr
 0.0.0.0 www.rainsfrance.fr
 0.0.0.0 rainsoutlet.fr
@@ -579186,6 +579222,8 @@
 0.0.0.0 www.rippgripinelyr.tk
 0.0.0.0 rippihunithepo.ml
 0.0.0.0 www.rippihunithepo.ml
+0.0.0.0 ripplebanque.fr
+0.0.0.0 www.ripplebanque.fr
 0.0.0.0 rippletrade.xyz
 0.0.0.0 www.rippletrade.xyz
 0.0.0.0 ripsaysi.gq
@@ -580004,6 +580042,8 @@
 0.0.0.0 www.rivistaonlinedavanguardia.com
 0.0.0.0 rivisulmaverg.gq
 0.0.0.0 www.rivisulmaverg.gq
+0.0.0.0 rivo-cas1no.fr
+0.0.0.0 www.rivo-cas1no.fr
 0.0.0.0 rivo1.fr
 0.0.0.0 www.rivo1.fr
 0.0.0.0 rivocas1no-fr.fr
@@ -605696,6 +605736,8 @@
 0.0.0.0 www.service-mesamendes-antai.fr
 0.0.0.0 service-messagerie-leboncoin.fr
 0.0.0.0 www.service-messagerie-leboncoin.fr
+0.0.0.0 service-mma.fr
+0.0.0.0 www.service-mma.fr
 0.0.0.0 service-mondiai-relai.fr
 0.0.0.0 www.service-mondiai-relai.fr
 0.0.0.0 service-mondial-relai.fr
@@ -613076,6 +613118,8 @@
 0.0.0.0 www.simsinofrance-fr.fr
 0.0.0.0 simsinofrance.fr
 0.0.0.0 www.simsinofrance.fr
+0.0.0.0 simsinos-cas.fr
+0.0.0.0 www.simsinos-cas.fr
 0.0.0.0 simsinos-casino1.fr
 0.0.0.0 www.simsinos-casino1.fr
 0.0.0.0 simsinos-casinos.fr
@@ -620856,6 +620900,8 @@
 0.0.0.0 www.sneakoutlet.fr
 0.0.0.0 sneakr.fr
 0.0.0.0 www.sneakr.fr
+0.0.0.0 sneakrworld.fr
+0.0.0.0 www.sneakrworld.fr
 0.0.0.0 sneakrz.fr
 0.0.0.0 www.sneakrz.fr
 0.0.0.0 sneakuclaslareadders.ml
@@ -625356,6 +625402,8 @@
 0.0.0.0 www.sp15jz.pl
 0.0.0.0 sp1nformula-fr.fr
 0.0.0.0 www.sp1nformula-fr.fr
+0.0.0.0 sp1nformula-fra.fr
+0.0.0.0 www.sp1nformula-fra.fr
 0.0.0.0 sp1nformula-plays.fr
 0.0.0.0 www.sp1nformula-plays.fr
 0.0.0.0 sp1nsy-fr.fr
@@ -627150,6 +627198,8 @@
 0.0.0.0 www.spin-aurafr.fr
 0.0.0.0 spin-aurafrance.fr
 0.0.0.0 www.spin-aurafrance.fr
+0.0.0.0 spin-auras-fr.fr
+0.0.0.0 www.spin-auras-fr.fr
 0.0.0.0 spin-auras.fr
 0.0.0.0 www.spin-auras.fr
 0.0.0.0 spin-bara-casino.fr
@@ -627924,6 +627974,8 @@
 0.0.0.0 www.spins-alto.fr
 0.0.0.0 spins-altos.fr
 0.0.0.0 www.spins-altos.fr
+0.0.0.0 spins-aura.fr
+0.0.0.0 www.spins-aura.fr
 0.0.0.0 spins-casino.fr
 0.0.0.0 www.spins-casino.fr
 0.0.0.0 spins-heaven.fr
@@ -678538,6 +678590,8 @@
 0.0.0.0 www.tower-rushofficiel.fr
 0.0.0.0 towerbetcasino.fr
 0.0.0.0 www.towerbetcasino.fr
+0.0.0.0 towercas1no-fr.fr
+0.0.0.0 www.towercas1no-fr.fr
 0.0.0.0 towercasinos.fr
 0.0.0.0 www.towercasinos.fr
 0.0.0.0 towerrushargent.fr
@@ -743374,6 +743428,8 @@
 0.0.0.0 www.wiimenrosandda.tk
 0.0.0.0 wiinamax.fr
 0.0.0.0 www.wiinamax.fr
+0.0.0.0 wiinbeastt.fr
+0.0.0.0 www.wiinbeastt.fr
 0.0.0.0 wiipczf.bar
 0.0.0.0 www.wiipczf.bar
 0.0.0.0 wiiralt.ee
