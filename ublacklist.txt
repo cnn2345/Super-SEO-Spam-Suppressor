@@ -13787,7 +13787,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.4bhhk.tokyo/*
 *://*.4bhq2j.shop/*
 *://*.4bigye.cyou/*
-*://*.4bike.net/*
 *://*.4bio.pt/*
 *://*.4bisblw.cn/*
 *://*.4bj5s9.cyou/*
@@ -47376,6 +47375,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.auszeit-seminar.de/*
 *://*.aut-doc.fr/*
 *://*.aut-occasion.fr/*
+*://*.aut.oanrp.shop/*
 *://*.autain.my.id/*
 *://*.auten-leboncoin.fr/*
 *://*.auteurs.xyz/*
@@ -58697,6 +58697,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bitcoin-pharmacy.com/*
 *://*.bitcoin-revolution.org/*
 *://*.bitcoin-shop.ro/*
+*://*.bitcoin-up.io/*
 *://*.bitcoin-xact.fr/*
 *://*.bitcoinarchon.com/*
 *://*.bitcoinblackfriday.com/*
@@ -59125,7 +59126,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bjlwjc.com/*
 *://*.bjm8c.cyou/*
 *://*.bjmileland.com/*
-*://*.bjmining.com/*
 *://*.bjmkjfd.tokyo/*
 *://*.bjmmi.bar/*
 *://*.bjmuce.bar/*
@@ -60902,6 +60902,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bnbhotel.fr/*
 *://*.bnbhotels.fr/*
 *://*.bnbparibas.fr/*
+*://*.bnbsjbir.shop/*
 *://*.bnbtechnologies.buzz/*
 *://*.bnbuhce.tokyo/*
 *://*.bnbvejle.dk/*
@@ -74190,7 +74191,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cellleconvacont.ml/*
 *://*.cellmasga.ga/*
 *://*.cellnonpticomri.tk/*
-*://*.cellpeptides.com/*
 *://*.cellphonelocation.net/*
 *://*.cellprettysdaykill.rest/*
 *://*.cellreacuralu.tk/*
@@ -81866,6 +81866,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.claracasperjuwelen.de/*
 *://*.clarachristine-wien.at/*
 *://*.claraduffy.com/*
+*://*.claragraz.at/*
 *://*.claralapchowto.ga/*
 *://*.claraletloumapo.tk/*
 *://*.claraluzern.ch/*
@@ -93746,7 +93747,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cvlpbib.bar/*
 *://*.cvlpzu.tokyo/*
 *://*.cvm56vi.cyou/*
-*://*.cvmaker.de/*
 *://*.cvmblm.rest/*
 *://*.cvmdrxl.cyou/*
 *://*.cvmfoxd.tokyo/*
@@ -167381,6 +167381,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.iamq8d7.tokyo/*
 *://*.iamtgz.tokyo/*
 *://*.iancheer.com/*
+*://*.iandamode.com/*
 *://*.iandbx.bar/*
 *://*.iandpl.tokyo/*
 *://*.iandro.rest/*
@@ -180850,6 +180851,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.jettoncasino.fr/*
 *://*.jetupanhandco.tk/*
 *://*.jetwarbdersressbacti.gq/*
+*://*.jetzt-beantragen.com/*
 *://*.jetztzeiten.xyz/*
 *://*.jeu-biocoop.fr/*
 *://*.jeu-concours-golden-ticket.fr/*
@@ -186439,6 +186441,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kamagra-premium.net/*
 *://*.kamagra-pro.com/*
 *://*.kamagra-pro.net/*
+*://*.kamagra-pro.online/*
 *://*.kamagra-prodej-levne.cz/*
 *://*.kamagra-prodej.cz/*
 *://*.kamagra-prodej.online/*
@@ -209697,7 +209700,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lwex.com/*
 *://*.lwex.fr/*
 *://*.lwex02.com/*
-*://*.lwf-energy.com/*
 *://*.lwfbvs.rest/*
 *://*.lwfdznu.tokyo/*
 *://*.lwfittings.com/*
@@ -211736,6 +211738,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.madekimepo.ml/*
 *://*.madelai29amalgam.xyz/*
 *://*.madeleine-issing.com/*
+*://*.madelinemunchen.com/*
 *://*.madelor.com/*
 *://*.mademande-ameli.fr/*
 *://*.mademande-edf.fr/*
@@ -220159,6 +220162,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mimemeseja.tk/*
 *://*.mimetheasumte.tk/*
 *://*.mimethormulanto.tk/*
+*://*.mimicoffee.com/*
 *://*.mimidonaro.ml/*
 *://*.mimijkng.xyz/*
 *://*.mimipap.xyz/*
@@ -224767,6 +224771,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mooreandpetersen.com/*
 *://*.mooredvazwe.myshopify.com/*
 *://*.mooremanor.xyz/*
+*://*.mooris.de/*
 *://*.moornacimostdoho.tk/*
 *://*.moosastgurdtinave.ml/*
 *://*.mooseknucklesfrance.fr/*
@@ -267847,6 +267852,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.primeluxe.fr/*
 *://*.primeminister.fr/*
 *://*.primenickel.fr/*
+*://*.primeoffer.de/*
 *://*.primepharm24.com/*
 *://*.primeplatform-ai.com/*
 *://*.primeprorexflymsing.ga/*
@@ -364379,6 +364385,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.voltslotcasino.fr/*
 *://*.voltslotonline.fr/*
 *://*.volture.de/*
+*://*.volturexa.de/*
 *://*.voltus-elektroshop.de/*
 *://*.volunteerhere.xyz/*
 *://*.volupysinpa.ga/*
@@ -368591,6 +368598,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.waypresbuiglutso.ml/*
 *://*.waypumulmostmingde.tk/*
 *://*.wayractantferjustlumb.tk/*
+*://*.wayrates.com/*
 *://*.wayrekrinapuwhist.ml/*
 *://*.wayreuneyfuncnanthke.gq/*
 *://*.wayrichstudentnumbers.biz/*
@@ -370054,6 +370062,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.weinschatulle.com/*
 *://*.weinshop-de.com/*
 *://*.weinundgenusswelt.com/*
+*://*.weinvielfalt.shop/*
 *://*.weinweltgenuss.com/*
 *://*.weipabfectsanddikom.gq/*
 *://*.weipacadistiolu.cf/*
@@ -380592,6 +380601,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.xloclp.bar/*
 *://*.xlolorg.xyz/*
 *://*.xloowjt.rest/*
+*://*.xlorventa.shop/*
 *://*.xlotcoxd.tokyo/*
 *://*.xlp6su.cyou/*
 *://*.xlpacv.rest/*

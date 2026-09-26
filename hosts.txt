@@ -27568,8 +27568,6 @@
 0.0.0.0 www.4bhq2j.shop
 0.0.0.0 4bigye.cyou
 0.0.0.0 www.4bigye.cyou
-0.0.0.0 4bike.net
-0.0.0.0 www.4bike.net
 0.0.0.0 4bio.pt
 0.0.0.0 www.4bio.pt
 0.0.0.0 4bisblw.cn
@@ -94746,6 +94744,8 @@
 0.0.0.0 www.aut-doc.fr
 0.0.0.0 aut-occasion.fr
 0.0.0.0 www.aut-occasion.fr
+0.0.0.0 aut.oanrp.shop
+0.0.0.0 www.aut.oanrp.shop
 0.0.0.0 autain.my.id
 0.0.0.0 www.autain.my.id
 0.0.0.0 auten-leboncoin.fr
@@ -117388,6 +117388,8 @@
 0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 bitcoin-shop.ro
 0.0.0.0 www.bitcoin-shop.ro
+0.0.0.0 bitcoin-up.io
+0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -118244,8 +118246,6 @@
 0.0.0.0 www.bjm8c.cyou
 0.0.0.0 bjmileland.com
 0.0.0.0 www.bjmileland.com
-0.0.0.0 bjmining.com
-0.0.0.0 www.bjmining.com
 0.0.0.0 bjmkjfd.tokyo
 0.0.0.0 www.bjmkjfd.tokyo
 0.0.0.0 bjmmi.bar
@@ -121798,6 +121798,8 @@
 0.0.0.0 www.bnbhotels.fr
 0.0.0.0 bnbparibas.fr
 0.0.0.0 www.bnbparibas.fr
+0.0.0.0 bnbsjbir.shop
+0.0.0.0 www.bnbsjbir.shop
 0.0.0.0 bnbtechnologies.buzz
 0.0.0.0 www.bnbtechnologies.buzz
 0.0.0.0 bnbuhce.tokyo
@@ -148374,8 +148376,6 @@
 0.0.0.0 www.cellmasga.ga
 0.0.0.0 cellnonpticomri.tk
 0.0.0.0 www.cellnonpticomri.tk
-0.0.0.0 cellpeptides.com
-0.0.0.0 www.cellpeptides.com
 0.0.0.0 cellphonelocation.net
 0.0.0.0 www.cellphonelocation.net
 0.0.0.0 cellprettysdaykill.rest
@@ -163726,6 +163726,8 @@
 0.0.0.0 www.clarachristine-wien.at
 0.0.0.0 claraduffy.com
 0.0.0.0 www.claraduffy.com
+0.0.0.0 claragraz.at
+0.0.0.0 www.claragraz.at
 0.0.0.0 claralapchowto.ga
 0.0.0.0 www.claralapchowto.ga
 0.0.0.0 claraletloumapo.tk
@@ -187486,8 +187488,6 @@
 0.0.0.0 www.cvlpzu.tokyo
 0.0.0.0 cvm56vi.cyou
 0.0.0.0 www.cvm56vi.cyou
-0.0.0.0 cvmaker.de
-0.0.0.0 www.cvmaker.de
 0.0.0.0 cvmblm.rest
 0.0.0.0 www.cvmblm.rest
 0.0.0.0 cvmdrxl.cyou
@@ -334756,6 +334756,8 @@
 0.0.0.0 www.iamtgz.tokyo
 0.0.0.0 iancheer.com
 0.0.0.0 www.iancheer.com
+0.0.0.0 iandamode.com
+0.0.0.0 www.iandamode.com
 0.0.0.0 iandbx.bar
 0.0.0.0 www.iandbx.bar
 0.0.0.0 iandpl.tokyo
@@ -361694,6 +361696,8 @@
 0.0.0.0 www.jetupanhandco.tk
 0.0.0.0 jetwarbdersressbacti.gq
 0.0.0.0 www.jetwarbdersressbacti.gq
+0.0.0.0 jetzt-beantragen.com
+0.0.0.0 www.jetzt-beantragen.com
 0.0.0.0 jetztzeiten.xyz
 0.0.0.0 www.jetztzeiten.xyz
 0.0.0.0 jeu-biocoop.fr
@@ -372872,6 +372876,8 @@
 0.0.0.0 www.kamagra-pro.com
 0.0.0.0 kamagra-pro.net
 0.0.0.0 www.kamagra-pro.net
+0.0.0.0 kamagra-pro.online
+0.0.0.0 www.kamagra-pro.online
 0.0.0.0 kamagra-prodej-levne.cz
 0.0.0.0 www.kamagra-prodej-levne.cz
 0.0.0.0 kamagra-prodej.cz
@@ -419388,8 +419394,6 @@
 0.0.0.0 www.lwex.fr
 0.0.0.0 lwex02.com
 0.0.0.0 www.lwex02.com
-0.0.0.0 lwf-energy.com
-0.0.0.0 www.lwf-energy.com
 0.0.0.0 lwfbvs.rest
 0.0.0.0 www.lwfbvs.rest
 0.0.0.0 lwfdznu.tokyo
@@ -423466,6 +423470,8 @@
 0.0.0.0 www.madelai29amalgam.xyz
 0.0.0.0 madeleine-issing.com
 0.0.0.0 www.madeleine-issing.com
+0.0.0.0 madelinemunchen.com
+0.0.0.0 www.madelinemunchen.com
 0.0.0.0 madelor.com
 0.0.0.0 www.madelor.com
 0.0.0.0 mademande-ameli.fr
@@ -440312,6 +440318,8 @@
 0.0.0.0 www.mimetheasumte.tk
 0.0.0.0 mimethormulanto.tk
 0.0.0.0 www.mimethormulanto.tk
+0.0.0.0 mimicoffee.com
+0.0.0.0 www.mimicoffee.com
 0.0.0.0 mimidonaro.ml
 0.0.0.0 www.mimidonaro.ml
 0.0.0.0 mimijkng.xyz
@@ -449528,6 +449536,8 @@
 0.0.0.0 www.mooredvazwe.myshopify.com
 0.0.0.0 mooremanor.xyz
 0.0.0.0 www.mooremanor.xyz
+0.0.0.0 mooris.de
+0.0.0.0 www.mooris.de
 0.0.0.0 moornacimostdoho.tk
 0.0.0.0 www.moornacimostdoho.tk
 0.0.0.0 moosastgurdtinave.ml
@@ -535688,6 +535698,8 @@
 0.0.0.0 www.primeminister.fr
 0.0.0.0 primenickel.fr
 0.0.0.0 www.primenickel.fr
+0.0.0.0 primeoffer.de
+0.0.0.0 www.primeoffer.de
 0.0.0.0 primepharm24.com
 0.0.0.0 www.primepharm24.com
 0.0.0.0 primeplatform-ai.com
@@ -728752,6 +728764,8 @@
 0.0.0.0 www.voltslotonline.fr
 0.0.0.0 volture.de
 0.0.0.0 www.volture.de
+0.0.0.0 volturexa.de
+0.0.0.0 www.volturexa.de
 0.0.0.0 voltus-elektroshop.de
 0.0.0.0 www.voltus-elektroshop.de
 0.0.0.0 volunteerhere.xyz
@@ -737176,6 +737190,8 @@
 0.0.0.0 www.waypumulmostmingde.tk
 0.0.0.0 wayractantferjustlumb.tk
 0.0.0.0 www.wayractantferjustlumb.tk
+0.0.0.0 wayrates.com
+0.0.0.0 www.wayrates.com
 0.0.0.0 wayrekrinapuwhist.ml
 0.0.0.0 www.wayrekrinapuwhist.ml
 0.0.0.0 wayreuneyfuncnanthke.gq
@@ -740102,6 +740118,8 @@
 0.0.0.0 www.weinshop-de.com
 0.0.0.0 weinundgenusswelt.com
 0.0.0.0 www.weinundgenusswelt.com
+0.0.0.0 weinvielfalt.shop
+0.0.0.0 www.weinvielfalt.shop
 0.0.0.0 weinweltgenuss.com
 0.0.0.0 www.weinweltgenuss.com
 0.0.0.0 weipabfectsanddikom.gq
@@ -761178,6 +761196,8 @@
 0.0.0.0 www.xlolorg.xyz
 0.0.0.0 xloowjt.rest
 0.0.0.0 www.xloowjt.rest
+0.0.0.0 xlorventa.shop
+0.0.0.0 www.xlorventa.shop
 0.0.0.0 xlotcoxd.tokyo
 0.0.0.0 www.xlotcoxd.tokyo
 0.0.0.0 xlp6su.cyou
