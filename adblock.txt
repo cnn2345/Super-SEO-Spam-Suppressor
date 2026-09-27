@@ -2745,7 +2745,6 @@
 ||1-class-sexshop.dk^$document
 ||1-coolzino.fr^$document
 ||1-jj.xyz^$document
-||1-rx-shop.com^$document
 ||1-speaking.com^$document
 ||1-wins.fr^$document
 ||10001mb.com^$document
@@ -2781,6 +2780,7 @@
 ||1018272.cn^$document
 ||1018s5.cyou^$document
 ||1019110.com^$document
+||101apotheek.com^$document
 ||101carreviews.online^$document
 ||101defvideos.pw^$document
 ||101dh.com^$document
@@ -29492,7 +29492,6 @@
 ||aa8jh8.tokyo^$document
 ||aaa-nan.info^$document
 ||aaaaua.top^$document
-||aaaclothing.ru^$document
 ||aaadddd.com^$document
 ||aaahrh.net^$document
 ||aaaikg.tokyo^$document
@@ -55146,7 +55145,6 @@
 ||bestpertconlenxmer.ml^$document
 ||bestpharm-eu.com^$document
 ||bestpillpharmacy.com^$document
-||bestpillsnetwork.com^$document
 ||bestpods.fr^$document
 ||bestpometlupe.cf^$document
 ||bestprepaidcards.xyz^$document
@@ -65456,6 +65454,7 @@
 ||buddcavo.gq^$document
 ||buddchantgucomfoe.cf^$document
 ||buddforcouditu.tk^$document
+||buddhapowerstore.com^$document
 ||buddhaweekly.com^$document
 ||buddhismo8x1000.it^$document
 ||buddholbconbergres.ml^$document
@@ -76744,7 +76743,6 @@
 ||chculfitriahan.ga^$document
 ||chdacr.rest^$document
 ||chduly.tokyo^$document
-||che.com^$document
 ||che5xc.cyou^$document
 ||cheabustscopud.tk^$document
 ||cheangh.xyz^$document
@@ -160707,7 +160705,6 @@
 ||hichcsh.tokyo^$document
 ||hichegeschmocmohol.tk^$document
 ||hichonostvopen.tk^$document
-||hicity.de^$document
 ||hicknartitexvia.tk^$document
 ||hicknorthmolxibonme.cf^$document
 ||hickory-spicy-frog.glitch.me^$document
@@ -162560,7 +162557,6 @@
 ||hokratedisphel.ml^$document
 ||hola-chicas.pro^$document
 ||holabet.fr^$document
-||holapick.com^$document
 ||holapywlent.tk^$document
 ||holara.ai^$document
 ||holara.ai^$document
@@ -163658,6 +163654,7 @@
 ||hotelsclick.fr^$document
 ||hotelsilvanasanmarino.it^$document
 ||hotelsinperm.ru^$document
+||hotelsinvienna.org^$document
 ||hotelsofmenorca.com^$document
 ||hotelspydns.com^$document
 ||hotelstravelandmore.com^$document
@@ -218769,6 +218766,7 @@
 ||mg6eqap.cyou^$document
 ||mg7lzf.tokyo^$document
 ||mg7ofa.tokyo^$document
+||mgaffaires.com^$document
 ||mgaibt.cyou^$document
 ||mgaj0fy.tokyo^$document
 ||mgajfk.tokyo^$document
@@ -239606,6 +239604,7 @@
 ||notdaughtersenergy.biz^$document
 ||note-u3l.com^$document
 ||noteazure-music.de^$document
+||notebookakku.at^$document
 ||notebooknetzteileshop.de^$document
 ||notecoughdysu.tk^$document
 ||notecountrymoney.bar^$document
@@ -244481,7 +244480,6 @@
 ||offrightseeallfacts.rest^$document
 ||offroad.co.jp^$document
 ||offroadzimy.pl^$document
-||offshorecheapmeds.com^$document
 ||offsidegiugliano.shop^$document
 ||offsneakz.fr^$document
 ||offup-vip.za.com^$document
@@ -247016,6 +247014,7 @@
 ||onlineindiespiele.de^$document
 ||onlineinterviewsoftware.buzz^$document
 ||onlinejizzbang.agency^$document
+||onlinekamagra.com^$document
 ||onlinekamagrastore.org^$document
 ||onlinekohler.com^$document
 ||onlinel.fr^$document
@@ -250499,6 +250498,7 @@
 ||outletnewin.com^$document
 ||outletnike.fr^$document
 ||outletparis.fr^$document
+||outletpc.de^$document
 ||outletpickleball.com^$document
 ||outletpietramosaiciepiastrelle.it^$document
 ||outletprive.fr^$document
@@ -259534,7 +259534,6 @@
 ||pharmaplax.com^$document
 ||pharmaracapital.com^$document
 ||pharmaright.vu^$document
-||pharmaris.net^$document
 ||pharmas.xyz^$document
 ||pharmaserve.com^$document
 ||pharmatheke-europe.com^$document
@@ -363244,6 +363243,7 @@
 ||vivaharmoni.com^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
+||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
