@@ -12910,6 +12910,8 @@
 0.0.0.0 www.1win-casinos.fr
 0.0.0.0 1win-club.fr
 0.0.0.0 www.1win-club.fr
+0.0.0.0 1win-enligne.fr
+0.0.0.0 www.1win-enligne.fr
 0.0.0.0 1win-fr.fr
 0.0.0.0 www.1win-fr.fr
 0.0.0.0 1win-france.fr
@@ -79152,6 +79154,8 @@
 0.0.0.0 www.amunpostanggamas.ml
 0.0.0.0 amunpropelagil.ga
 0.0.0.0 www.amunpropelagil.ga
+0.0.0.0 amunra-casinos.fr
+0.0.0.0 www.amunra-casinos.fr
 0.0.0.0 amunra-en-ligne.fr
 0.0.0.0 www.amunra-en-ligne.fr
 0.0.0.0 amunra-enligne.fr
@@ -85138,6 +85142,8 @@
 0.0.0.0 www.appleprovision.fr
 0.0.0.0 applepxaf.web.app
 0.0.0.0 www.applepxaf.web.app
+0.0.0.0 appleroom.fr
+0.0.0.0 www.appleroom.fr
 0.0.0.0 appleroses.buzz
 0.0.0.0 www.appleroses.buzz
 0.0.0.0 applerp.cn
@@ -85152,6 +85158,8 @@
 0.0.0.0 www.appleshopp.fr
 0.0.0.0 applestare.fr
 0.0.0.0 www.applestare.fr
+0.0.0.0 applestore-support.fr
+0.0.0.0 www.applestore-support.fr
 0.0.0.0 applestoreparis.fr
 0.0.0.0 www.applestoreparis.fr
 0.0.0.0 appleuyhe.web.app
@@ -96102,6 +96110,8 @@
 0.0.0.0 www.avis-penalite.fr
 0.0.0.0 avis-penalites.fr
 0.0.0.0 www.avis-penalites.fr
+0.0.0.0 avis-stationnement-telepaiement.fr
+0.0.0.0 www.avis-stationnement-telepaiement.fr
 0.0.0.0 avis-susp.fr
 0.0.0.0 www.avis-susp.fr
 0.0.0.0 avisborgosanmartino.it
@@ -111354,6 +111364,8 @@
 0.0.0.0 www.betify-casino1.fr
 0.0.0.0 betify-casino2.fr
 0.0.0.0 www.betify-casino2.fr
+0.0.0.0 betify-casinofr.fr
+0.0.0.0 www.betify-casinofr.fr
 0.0.0.0 betify-casinologin.fr
 0.0.0.0 www.betify-casinologin.fr
 0.0.0.0 betify-casinos.fr
@@ -111374,6 +111386,8 @@
 0.0.0.0 www.betify-fra.fr
 0.0.0.0 betify-france.fr
 0.0.0.0 www.betify-france.fr
+0.0.0.0 betify-frcasino.fr
+0.0.0.0 www.betify-frcasino.fr
 0.0.0.0 betify-game.fr
 0.0.0.0 www.betify-game.fr
 0.0.0.0 betify-games.fr
@@ -111484,6 +111498,10 @@
 0.0.0.0 www.betifycasinos1.fr
 0.0.0.0 betifyfr.fr
 0.0.0.0 www.betifyfr.fr
+0.0.0.0 betifyfrancecasino.fr
+0.0.0.0 www.betifyfrancecasino.fr
+0.0.0.0 betifyfrcasino.fr
+0.0.0.0 www.betifyfrcasino.fr
 0.0.0.0 betifygame.fr
 0.0.0.0 www.betifygame.fr
 0.0.0.0 betifyjeu.fr
@@ -143818,6 +143836,8 @@
 0.0.0.0 www.casino770com.fr
 0.0.0.0 casino770fr.fr
 0.0.0.0 www.casino770fr.fr
+0.0.0.0 casino770france.fr
+0.0.0.0 www.casino770france.fr
 0.0.0.0 casino770slot.fr
 0.0.0.0 www.casino770slot.fr
 0.0.0.0 casino777enligne.fr
@@ -165092,6 +165112,8 @@
 0.0.0.0 www.clients-service.fr
 0.0.0.0 clients-sfr.fr
 0.0.0.0 www.clients-sfr.fr
+0.0.0.0 clients-sg.fr
+0.0.0.0 www.clients-sg.fr
 0.0.0.0 clients-societegenerale.fr
 0.0.0.0 www.clients-societegenerale.fr
 0.0.0.0 clients-support.fr
@@ -177046,6 +177068,8 @@
 0.0.0.0 www.coolwaychaussures.fr
 0.0.0.0 coolwayfrance.fr
 0.0.0.0 www.coolwayfrance.fr
+0.0.0.0 coolz1no-fra.fr
+0.0.0.0 www.coolz1no-fra.fr
 0.0.0.0 coolz1no.fr
 0.0.0.0 www.coolz1no.fr
 0.0.0.0 coolzi.fr
@@ -182950,6 +182974,8 @@
 0.0.0.0 www.cristalbarbershop.com
 0.0.0.0 cristallorent.nl
 0.0.0.0 www.cristallorent.nl
+0.0.0.0 cristalticket.fr
+0.0.0.0 www.cristalticket.fr
 0.0.0.0 cristelcolomb-psychologue.fr
 0.0.0.0 www.cristelcolomb-psychologue.fr
 0.0.0.0 cristianventurelli.it
@@ -214174,6 +214200,8 @@
 0.0.0.0 www.dossier-carte-vitale.fr
 0.0.0.0 dossier-clients.fr
 0.0.0.0 www.dossier-clients.fr
+0.0.0.0 dossier-contestation-fr.fr
+0.0.0.0 www.dossier-contestation-fr.fr
 0.0.0.0 dossier-contravention.fr
 0.0.0.0 www.dossier-contravention.fr
 0.0.0.0 dossier-contraventions.fr
@@ -256632,6 +256660,8 @@
 0.0.0.0 www.fedex-tracking.fr
 0.0.0.0 fedexexpress.fr
 0.0.0.0 www.fedexexpress.fr
+0.0.0.0 fedexgroupement.fr
+0.0.0.0 www.fedexgroupement.fr
 0.0.0.0 fedezu.es
 0.0.0.0 www.fedezu.es
 0.0.0.0 fedin.info
@@ -296784,6 +296814,8 @@
 0.0.0.0 www.gouv-financementenergies.fr
 0.0.0.0 gouv-finances.fr
 0.0.0.0 www.gouv-finances.fr
+0.0.0.0 gouv-fr.fr
+0.0.0.0 www.gouv-fr.fr
 0.0.0.0 gouv-france-connect.fr
 0.0.0.0 www.gouv-france-connect.fr
 0.0.0.0 gouv-france.fr
@@ -327736,6 +327768,8 @@
 0.0.0.0 www.housebets.fr
 0.0.0.0 housebetscasino.fr
 0.0.0.0 www.housebetscasino.fr
+0.0.0.0 housebetsfr.fr
+0.0.0.0 www.housebetsfr.fr
 0.0.0.0 housebighomelife.mom
 0.0.0.0 www.housebighomelife.mom
 0.0.0.0 houseblast.com
@@ -361898,6 +361932,8 @@
 0.0.0.0 www.jewelleryina.com
 0.0.0.0 jewellerythrone.com
 0.0.0.0 www.jewellerythrone.com
+0.0.0.0 jewelly-jeans.fr
+0.0.0.0 www.jewelly-jeans.fr
 0.0.0.0 jewelryclaire.com
 0.0.0.0 www.jewelryclaire.com
 0.0.0.0 jewelrymanufacturers.buzz
@@ -413830,6 +413866,8 @@
 0.0.0.0 www.loreal-groupe.fr
 0.0.0.0 lorealepoveto.ml
 0.0.0.0 www.lorealepoveto.ml
+0.0.0.0 lorealfrance.fr
+0.0.0.0 www.lorealfrance.fr
 0.0.0.0 loreals.fr
 0.0.0.0 www.loreals.fr
 0.0.0.0 lorealwear.com
@@ -423870,6 +423908,8 @@
 0.0.0.0 www.mafia-jouer-argentreel.fr
 0.0.0.0 mafia-jouer-enligne.fr
 0.0.0.0 www.mafia-jouer-enligne.fr
+0.0.0.0 mafia-official.fr
+0.0.0.0 www.mafia-official.fr
 0.0.0.0 mafia-online-play.fr
 0.0.0.0 www.mafia-online-play.fr
 0.0.0.0 mafia-online.fr
@@ -458096,6 +458136,8 @@
 0.0.0.0 www.mystake-casino-fr.fr
 0.0.0.0 mystake-casino.fr
 0.0.0.0 www.mystake-casino.fr
+0.0.0.0 mystake-enligne.fr
+0.0.0.0 www.mystake-enligne.fr
 0.0.0.0 mystake-fr-casino.fr
 0.0.0.0 www.mystake-fr-casino.fr
 0.0.0.0 mystake-fr.fr
@@ -486254,6 +486296,8 @@
 0.0.0.0 www.oaraoa.bar
 0.0.0.0 oarh4k.xyz
 0.0.0.0 www.oarh4k.xyz
+0.0.0.0 oarnge.fr
+0.0.0.0 www.oarnge.fr
 0.0.0.0 oarqcf.tokyo
 0.0.0.0 www.oarqcf.tokyo
 0.0.0.0 oasenlicht.myshopify.com
@@ -494092,6 +494136,8 @@
 0.0.0.0 www.onlinegioielli.it
 0.0.0.0 onlinegoodshub.com
 0.0.0.0 www.onlinegoodshub.com
+0.0.0.0 onlinegransino.fr
+0.0.0.0 www.onlinegransino.fr
 0.0.0.0 onlinehealthworldtrust.com
 0.0.0.0 www.onlinehealthworldtrust.com
 0.0.0.0 onlinehenanprovince.com
@@ -494412,6 +494458,8 @@
 0.0.0.0 www.onlyspinss-france.fr
 0.0.0.0 onlyspinss.fr
 0.0.0.0 www.onlyspinss.fr
+0.0.0.0 onlyspinz.fr
+0.0.0.0 www.onlyspinz.fr
 0.0.0.0 onlythebestshop.com
 0.0.0.0 www.onlythebestshop.com
 0.0.0.0 onlywaifus.ai
@@ -561274,6 +561322,8 @@
 0.0.0.0 www.randstacd.fr
 0.0.0.0 randstaddigitalfrance.fr
 0.0.0.0 www.randstaddigitalfrance.fr
+0.0.0.0 randstade.fr
+0.0.0.0 www.randstade.fr
 0.0.0.0 randstadt.fr
 0.0.0.0 www.randstadt.fr
 0.0.0.0 randtingtiwire.gq
@@ -587818,6 +587868,8 @@
 0.0.0.0 www.ruffprunothgihydcoe.tk
 0.0.0.0 ruffsymptoreciding.cf
 0.0.0.0 www.ruffsymptoreciding.cf
+0.0.0.0 ruffwearfrance.fr
+0.0.0.0 www.ruffwearfrance.fr
 0.0.0.0 ruffweargeschaft.com
 0.0.0.0 www.ruffweargeschaft.com
 0.0.0.0 rufgsh.tokyo
@@ -596726,6 +596778,8 @@
 0.0.0.0 www.savaspins-fr.fr
 0.0.0.0 savaspinscasino.fr
 0.0.0.0 www.savaspinscasino.fr
+0.0.0.0 savaspyn.fr
+0.0.0.0 www.savaspyn.fr
 0.0.0.0 savbutorisjugg.ga
 0.0.0.0 www.savbutorisjugg.ga
 0.0.0.0 savchronopost.fr
@@ -606018,6 +606072,8 @@
 0.0.0.0 www.service-particuliers-sg.fr
 0.0.0.0 service-pass-securite-societegenerale.fr
 0.0.0.0 www.service-pass-securite-societegenerale.fr
+0.0.0.0 service-passeport.fr
+0.0.0.0 www.service-passeport.fr
 0.0.0.0 service-patient-ameli.fr
 0.0.0.0 www.service-patient-ameli.fr
 0.0.0.0 service-pay.fr
@@ -613390,6 +613446,8 @@
 0.0.0.0 www.simsterest.xyz
 0.0.0.0 simsusstetovab.ga
 0.0.0.0 www.simsusstetovab.ga
+0.0.0.0 simsyno.fr
+0.0.0.0 www.simsyno.fr
 0.0.0.0 simtairoughpinpe.ga
 0.0.0.0 www.simtairoughpinpe.ga
 0.0.0.0 simtalpbantepor.ga
@@ -625632,6 +625690,8 @@
 0.0.0.0 www.sp1nformula-fra.fr
 0.0.0.0 sp1nformula-plays.fr
 0.0.0.0 www.sp1nformula-plays.fr
+0.0.0.0 sp1nsboss.fr
+0.0.0.0 www.sp1nsboss.fr
 0.0.0.0 sp1nsy-fr.fr
 0.0.0.0 www.sp1nsy-fr.fr
 0.0.0.0 sp1wn1.cyou
@@ -625872,6 +625932,8 @@
 0.0.0.0 www.spajaranneru.tk
 0.0.0.0 spajlahverfjam.ml
 0.0.0.0 www.spajlahverfjam.ml
+0.0.0.0 spakefortuna.fr
+0.0.0.0 www.spakefortuna.fr
 0.0.0.0 spalbadistbe.gq
 0.0.0.0 www.spalbadistbe.gq
 0.0.0.0 spalearaduser.ml
@@ -627918,6 +627980,8 @@
 0.0.0.0 www.spingrannyfr.fr
 0.0.0.0 spingrannyfrance.fr
 0.0.0.0 www.spingrannyfrance.fr
+0.0.0.0 spingrannyy.fr
+0.0.0.0 www.spingrannyy.fr
 0.0.0.0 spingreen.fr
 0.0.0.0 www.spingreen.fr
 0.0.0.0 spinhub-casino.fr
@@ -764060,6 +764124,8 @@
 0.0.0.0 www.xooftoz.bar
 0.0.0.0 xoojdc.rest
 0.0.0.0 www.xoojdc.rest
+0.0.0.0 xoom-service-dossier.fr
+0.0.0.0 www.xoom-service-dossier.fr
 0.0.0.0 xoosei.tokyo
 0.0.0.0 www.xoosei.tokyo
 0.0.0.0 xootymortertpu.tk
