@@ -465246,8 +465246,6 @@
 0.0.0.0 www.neforvieve.ga
 0.0.0.0 nefountu.tk
 0.0.0.0 www.nefountu.tk
-0.0.0.0 nefrevbz.shop
-0.0.0.0 www.nefrevbz.shop
 0.0.0.0 neftiix.fr
 0.0.0.0 www.neftiix.fr
 0.0.0.0 neftiixfrance.fr
