@@ -6526,6 +6526,10 @@
 ||1x-bet.fr^$document
 ||1x-betcasino.fr^$document
 ||1x-casino.fr^$document
+||1x-pari-fr.fr^$document
+||1x-pari-france.fr^$document
+||1x-pari.fr^$document
+||1x-parifr.fr^$document
 ||1x.tech^$document
 ||1x06tn.cyou^$document
 ||1x0fii8.shop^$document
@@ -6592,6 +6596,11 @@
 ||1xnwbn.cyou^$document
 ||1xop2d.tokyo^$document
 ||1xp2ni.cyou^$document
+||1xpari-fr.fr^$document
+||1xpari-france.fr^$document
+||1xpari.fr^$document
+||1xpari1.fr^$document
+||1xparifr.fr^$document
 ||1xqggx8.shop^$document
 ||1xqwbt.cyou^$document
 ||1xqyh28.shop^$document
@@ -33520,6 +33529,7 @@
 ||afovurpor.tk^$document
 ||afowcrunsichbobeg.tk^$document
 ||afp3ay.cyou^$document
+||afpa-france-travail.fr^$document
 ||afpa-nice.fr^$document
 ||afpaa.fr^$document
 ||afpag.fr^$document
@@ -33886,6 +33896,7 @@
 ||agentbnp.fr^$document
 ||agentbroker.marketing^$document
 ||agentops.ai^$document
+||agents-allianz.fr^$document
 ||agents-co.fr^$document
 ||agentspincasino.fr^$document
 ||agentur-hagemeier.de^$document
@@ -84452,6 +84463,7 @@
 ||coinbase-834859.com^$document
 ||coinbase-support.fr^$document
 ||coinbase-supportdesk.fr^$document
+||coinbase.re^$document
 ||coinbasen.vip^$document
 ||coinbasepro.fr^$document
 ||coinbases.org^$document
@@ -115915,6 +115927,8 @@
 ||elitesneakers.store^$document
 ||elitespin-casino.fr^$document
 ||elitespin1.fr^$document
+||elitespin2.fr^$document
+||elitespin3.fr^$document
 ||elitestayzio2u.com^$document
 ||elitevolleyaarhus.dk^$document
 ||elithharedvolk.ga^$document
@@ -150504,6 +150518,7 @@
 ||groupedirectenergie.fr^$document
 ||groupeferroignis.com^$document
 ||groupefree.fr^$document
+||groupeiffage.fr^$document
 ||groupeimpactmedia.fr^$document
 ||groupeldlc.fr^$document
 ||groupeleroymerlin.fr^$document
@@ -218132,6 +218147,7 @@
 ||mesresultatssynlab.fr^$document
 ||mesroebofmusel.tk^$document
 ||message-6yhh0c7caanz7kwfyltywkrhz.xyz^$document
+||message-banque.fr^$document
 ||message-leboncoin.fr^$document
 ||message-prime.fr^$document
 ||message-repondeur.eu^$document
@@ -284754,6 +284770,7 @@
 ||remboursement-antai.fr^$document
 ||remboursement-assurance-maladie.fr^$document
 ||remboursement-banque-france.fr^$document
+||remboursement-bouyguestelecom.fr^$document
 ||remboursement-ca-cf.fr^$document
 ||remboursement-caf.fr^$document
 ||remboursement-carte.fr^$document
@@ -303808,6 +303825,7 @@
 ||sexefelin.fr^$document
 ||sexenbretagne.fr^$document
 ||sexfreenews.agency^$document
+||sexgouv.fr^$document
 ||sexhardcorexxxcams.buzz^$document
 ||sexhubmovs.com^$document
 ||sexhunt.xyz^$document
@@ -357598,6 +357616,7 @@
 ||verticalcity.it^$document
 ||verticale-blog.it^$document
 ||verticalinternational.com^$document
+||vertice-store.fr^$document
 ||vertiopersepar.tk^$document
 ||vertisectoge.tk^$document
 ||vertisobovatact.tk^$document
@@ -372613,6 +372632,10 @@
 ||winbaycasinos.fr^$document
 ||winbeast-casino.fr^$document
 ||winbeast-fr.fr^$document
+||winbeast2.fr^$document
+||winbeast3.fr^$document
+||winbeast4.fr^$document
+||winbeast5.fr^$document
 ||winbeat.fr^$document
 ||winbeatz-casino.fr^$document
 ||winbeatz-casinos.fr^$document

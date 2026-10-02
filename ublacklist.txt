@@ -6527,6 +6527,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1x-bet.fr/*
 *://*.1x-betcasino.fr/*
 *://*.1x-casino.fr/*
+*://*.1x-pari-fr.fr/*
+*://*.1x-pari-france.fr/*
+*://*.1x-pari.fr/*
+*://*.1x-parifr.fr/*
 *://*.1x.tech/*
 *://*.1x06tn.cyou/*
 *://*.1x0fii8.shop/*
@@ -6593,6 +6597,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1xnwbn.cyou/*
 *://*.1xop2d.tokyo/*
 *://*.1xp2ni.cyou/*
+*://*.1xpari-fr.fr/*
+*://*.1xpari-france.fr/*
+*://*.1xpari.fr/*
+*://*.1xpari1.fr/*
+*://*.1xparifr.fr/*
 *://*.1xqggx8.shop/*
 *://*.1xqwbt.cyou/*
 *://*.1xqyh28.shop/*
@@ -33521,6 +33530,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.afovurpor.tk/*
 *://*.afowcrunsichbobeg.tk/*
 *://*.afp3ay.cyou/*
+*://*.afpa-france-travail.fr/*
 *://*.afpa-nice.fr/*
 *://*.afpaa.fr/*
 *://*.afpag.fr/*
@@ -33887,6 +33897,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.agentbnp.fr/*
 *://*.agentbroker.marketing/*
 *://*.agentops.ai/*
+*://*.agents-allianz.fr/*
 *://*.agents-co.fr/*
 *://*.agentspincasino.fr/*
 *://*.agentur-hagemeier.de/*
@@ -84453,6 +84464,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.coinbase-834859.com/*
 *://*.coinbase-support.fr/*
 *://*.coinbase-supportdesk.fr/*
+*://*.coinbase.re/*
 *://*.coinbasen.vip/*
 *://*.coinbasepro.fr/*
 *://*.coinbases.org/*
@@ -115916,6 +115928,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.elitesneakers.store/*
 *://*.elitespin-casino.fr/*
 *://*.elitespin1.fr/*
+*://*.elitespin2.fr/*
+*://*.elitespin3.fr/*
 *://*.elitestayzio2u.com/*
 *://*.elitevolleyaarhus.dk/*
 *://*.elithharedvolk.ga/*
@@ -150505,6 +150519,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.groupedirectenergie.fr/*
 *://*.groupeferroignis.com/*
 *://*.groupefree.fr/*
+*://*.groupeiffage.fr/*
 *://*.groupeimpactmedia.fr/*
 *://*.groupeldlc.fr/*
 *://*.groupeleroymerlin.fr/*
@@ -218133,6 +218148,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mesresultatssynlab.fr/*
 *://*.mesroebofmusel.tk/*
 *://*.message-6yhh0c7caanz7kwfyltywkrhz.xyz/*
+*://*.message-banque.fr/*
 *://*.message-leboncoin.fr/*
 *://*.message-prime.fr/*
 *://*.message-repondeur.eu/*
@@ -284755,6 +284771,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.remboursement-antai.fr/*
 *://*.remboursement-assurance-maladie.fr/*
 *://*.remboursement-banque-france.fr/*
+*://*.remboursement-bouyguestelecom.fr/*
 *://*.remboursement-ca-cf.fr/*
 *://*.remboursement-caf.fr/*
 *://*.remboursement-carte.fr/*
@@ -303809,6 +303826,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sexefelin.fr/*
 *://*.sexenbretagne.fr/*
 *://*.sexfreenews.agency/*
+*://*.sexgouv.fr/*
 *://*.sexhardcorexxxcams.buzz/*
 *://*.sexhubmovs.com/*
 *://*.sexhunt.xyz/*
@@ -357599,6 +357617,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.verticalcity.it/*
 *://*.verticale-blog.it/*
 *://*.verticalinternational.com/*
+*://*.vertice-store.fr/*
 *://*.vertiopersepar.tk/*
 *://*.vertisectoge.tk/*
 *://*.vertisobovatact.tk/*
@@ -372614,6 +372633,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winbaycasinos.fr/*
 *://*.winbeast-casino.fr/*
 *://*.winbeast-fr.fr/*
+*://*.winbeast2.fr/*
+*://*.winbeast3.fr/*
+*://*.winbeast4.fr/*
+*://*.winbeast5.fr/*
 *://*.winbeat.fr/*
 *://*.winbeatz-casino.fr/*
 *://*.winbeatz-casinos.fr/*
