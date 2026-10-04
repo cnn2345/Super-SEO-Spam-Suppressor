@@ -58992,8 +58992,6 @@
 0.0.0.0 www.aaa-nan.info
 0.0.0.0 aaaaua.top
 0.0.0.0 www.aaaaua.top
-0.0.0.0 aaaclothing.ru
-0.0.0.0 www.aaaclothing.ru
 0.0.0.0 aaadddd.com
 0.0.0.0 www.aaadddd.com
 0.0.0.0 aaahrh.net
@@ -74066,6 +74064,8 @@
 0.0.0.0 www.aloyogasale.net
 0.0.0.0 aloyogasdeutschland.com
 0.0.0.0 www.aloyogasdeutschland.com
+0.0.0.0 aloyogasoldes.fr
+0.0.0.0 www.aloyogasoldes.fr
 0.0.0.0 aloyogasuomi.net
 0.0.0.0 www.aloyogasuomi.net
 0.0.0.0 alp-aire.com
@@ -79394,6 +79394,8 @@
 0.0.0.0 www.anabmetturnprowog.cf
 0.0.0.0 anabolic-steroids-online.com
 0.0.0.0 www.anabolic-steroids-online.com
+0.0.0.0 anabolikaonlinebestellen.com
+0.0.0.0 www.anabolikaonlinebestellen.com
 0.0.0.0 anabolikaonlinedeutschland.com
 0.0.0.0 www.anabolikaonlinedeutschland.com
 0.0.0.0 anabpissisin.tk
@@ -83108,6 +83110,8 @@
 0.0.0.0 www.ants-rhonealpes.fr
 0.0.0.0 ants-services.fr
 0.0.0.0 www.ants-services.fr
+0.0.0.0 ants-simplifier.fr
+0.0.0.0 www.ants-simplifier.fr
 0.0.0.0 ants-siv.fr
 0.0.0.0 www.ants-siv.fr
 0.0.0.0 ants.tf
@@ -88382,8 +88386,6 @@
 0.0.0.0 www.arqtzi.tokyo
 0.0.0.0 arquandamas.cf
 0.0.0.0 www.arquandamas.cf
-0.0.0.0 arquetiposhop.com.br
-0.0.0.0 www.arquetiposhop.com.br
 0.0.0.0 arquiconrayryna.gq
 0.0.0.0 www.arquiconrayryna.gq
 0.0.0.0 arquinova.es
@@ -92328,8 +92330,6 @@
 0.0.0.0 www.at-setrafimoney.org
 0.0.0.0 at.alpine-point.com
 0.0.0.0 www.at.alpine-point.com
-0.0.0.0 at.curalise.com
-0.0.0.0 www.at.curalise.com
 0.0.0.0 at.eeelgnte.shop
 0.0.0.0 www.at.eeelgnte.shop
 0.0.0.0 at.esrlive.com
@@ -95564,6 +95564,8 @@
 0.0.0.0 www.autryensolde.fr
 0.0.0.0 autryensoldes.fr
 0.0.0.0 www.autryensoldes.fr
+0.0.0.0 autryfrance.fr
+0.0.0.0 www.autryfrance.fr
 0.0.0.0 autryfrancesoldes.fr
 0.0.0.0 www.autryfrancesoldes.fr
 0.0.0.0 autryjapan.net
@@ -117328,6 +117330,8 @@
 0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 bitcoin-shop.ro
 0.0.0.0 www.bitcoin-shop.ro
+0.0.0.0 bitcoin-up.io
+0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 www.bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
@@ -127032,8 +127036,6 @@
 0.0.0.0 www.brawinpracidburdaa.gq
 0.0.0.0 brawlaykasguayrespe.tk
 0.0.0.0 www.brawlaykasguayrespe.tk
-0.0.0.0 brawlstars.store
-0.0.0.0 www.brawlstars.store
 0.0.0.0 brawrippbaszpamoo.ml
 0.0.0.0 www.brawrippbaszpamoo.ml
 0.0.0.0 brawweiprivazdis.tk
@@ -129146,6 +129148,8 @@
 0.0.0.0 www.brooksfranceshop.fr
 0.0.0.0 brookslaufschuhesale.de
 0.0.0.0 www.brookslaufschuhesale.de
+0.0.0.0 brooksoldes.fr
+0.0.0.0 www.brooksoldes.fr
 0.0.0.0 brooksoutletsale.de
 0.0.0.0 www.brooksoutletsale.de
 0.0.0.0 brooksrunning-france.fr
@@ -139642,8 +139646,6 @@
 0.0.0.0 www.canada2024-lnterac.fr
 0.0.0.0 canadabreakingnews.com
 0.0.0.0 www.canadabreakingnews.com
-0.0.0.0 canadadrugstore.com
-0.0.0.0 www.canadadrugstore.com
 0.0.0.0 canadagooseoutletfrance.fr
 0.0.0.0 www.canadagooseoutletfrance.fr
 0.0.0.0 canadagoosepaschere.fr
@@ -145338,8 +145340,6 @@
 0.0.0.0 www.catagonora.gq
 0.0.0.0 catalanzingbu.tk
 0.0.0.0 www.catalanzingbu.tk
-0.0.0.0 catalia.de
-0.0.0.0 www.catalia.de
 0.0.0.0 catalinares.xyz
 0.0.0.0 www.catalinares.xyz
 0.0.0.0 catalog-sg.it
@@ -146144,8 +146144,6 @@
 0.0.0.0 www.cavekacala.cf
 0.0.0.0 cavelfamantempga.tk
 0.0.0.0 www.cavelfamantempga.tk
-0.0.0.0 cavella.store
-0.0.0.0 www.cavella.store
 0.0.0.0 cavenevid.cf
 0.0.0.0 www.cavenevid.cf
 0.0.0.0 cavenralige.tk
@@ -146946,8 +146944,6 @@
 0.0.0.0 www.cclub-internet.fr
 0.0.0.0 ccm341.tokyo
 0.0.0.0 www.ccm341.tokyo
-0.0.0.0 ccmangebote.com
-0.0.0.0 www.ccmangebote.com
 0.0.0.0 ccmanjk.bar
 0.0.0.0 www.ccmanjk.bar
 0.0.0.0 ccmedia.news
@@ -147410,8 +147406,6 @@
 0.0.0.0 www.cdqingmu.com
 0.0.0.0 cdqykt.com
 0.0.0.0 www.cdqykt.com
-0.0.0.0 cdr-heizoel.de
-0.0.0.0 www.cdr-heizoel.de
 0.0.0.0 cdrbhe.tokyo
 0.0.0.0 www.cdrbhe.tokyo
 0.0.0.0 cdrfht.tokyo
@@ -150312,8 +150306,6 @@
 0.0.0.0 www.cesjugatocha.ml
 0.0.0.0 ceska-lekarna.com
 0.0.0.0 www.ceska-lekarna.com
-0.0.0.0 ceskaonlinelekarna.com
-0.0.0.0 www.ceskaonlinelekarna.com
 0.0.0.0 ceskonitenseou.gq
 0.0.0.0 www.ceskonitenseou.gq
 0.0.0.0 cesl4s.tokyo
@@ -163632,8 +163624,6 @@
 0.0.0.0 www.clapindeadwalt.ga
 0.0.0.0 clapnulvapaws.gq
 0.0.0.0 www.clapnulvapaws.gq
-0.0.0.0 clapopular.com
-0.0.0.0 www.clapopular.com
 0.0.0.0 clapot.xyz
 0.0.0.0 www.clapot.xyz
 0.0.0.0 clappercetifi.gq
@@ -164314,10 +164304,6 @@
 0.0.0.0 www.clearsruleheavy.biz
 0.0.0.0 clearsstatesomeone.biz
 0.0.0.0 www.clearsstatesomeone.biz
-0.0.0.0 clearstream.fashion
-0.0.0.0 www.clearstream.fashion
-0.0.0.0 clearstream.xin
-0.0.0.0 www.clearstream.xin
 0.0.0.0 clearstudyscountry.biz
 0.0.0.0 www.clearstudyscountry.biz
 0.0.0.0 clearualcabeti.gq
@@ -167116,8 +167102,6 @@
 0.0.0.0 www.cncxv.rest
 0.0.0.0 cnd1cl.cyou
 0.0.0.0 www.cnd1cl.cyou
-0.0.0.0 cnderthuk.club
-0.0.0.0 www.cnderthuk.club
 0.0.0.0 cndgn.com
 0.0.0.0 www.cndgn.com
 0.0.0.0 cndgrb.tokyo
@@ -168926,8 +168910,6 @@
 0.0.0.0 www.coinmoh.com
 0.0.0.0 coinmyo.com
 0.0.0.0 www.coinmyo.com
-0.0.0.0 coinnova.eu
-0.0.0.0 www.coinnova.eu
 0.0.0.0 coinobouviddtheb.tk
 0.0.0.0 www.coinobouviddtheb.tk
 0.0.0.0 coinosimptagcons.tk
@@ -170742,8 +170724,6 @@
 0.0.0.0 www.commieparjai.ml
 0.0.0.0 commingtingnithun.ga
 0.0.0.0 www.commingtingnithun.ga
-0.0.0.0 commiodity.com
-0.0.0.0 www.commiodity.com
 0.0.0.0 commiphosanomur.tk
 0.0.0.0 www.commiphosanomur.tk
 0.0.0.0 commiratop.tk
@@ -176916,6 +176896,8 @@
 0.0.0.0 www.coolizi-france.fr
 0.0.0.0 coolizi-officiel.fr
 0.0.0.0 www.coolizi-officiel.fr
+0.0.0.0 coolizi.com
+0.0.0.0 www.coolizi.com
 0.0.0.0 coolizi.com.de
 0.0.0.0 www.coolizi.com.de
 0.0.0.0 coolizicoolzyfrance.fr
@@ -184246,8 +184228,6 @@
 0.0.0.0 www.crypteo.io
 0.0.0.0 cryptex-vip.com
 0.0.0.0 www.cryptex-vip.com
-0.0.0.0 crypto-boerse.com
-0.0.0.0 www.crypto-boerse.com
 0.0.0.0 crypto-bulot.com
 0.0.0.0 www.crypto-bulot.com
 0.0.0.0 crypto-currency-exchanges.trade
@@ -184352,8 +184332,6 @@
 0.0.0.0 www.cryptorinocasino.fr
 0.0.0.0 cryptorushcasino.fr
 0.0.0.0 www.cryptorushcasino.fr
-0.0.0.0 cryptorxindex.info
-0.0.0.0 www.cryptorxindex.info
 0.0.0.0 cryptos.solutions
 0.0.0.0 www.cryptos.solutions
 0.0.0.0 cryptoschutz24.de
@@ -184590,8 +184568,6 @@
 0.0.0.0 www.csdn.net
 0.0.0.0 csdn.net
 0.0.0.0 www.csdn.net
-0.0.0.0 csdoki.shop
-0.0.0.0 www.csdoki.shop
 0.0.0.0 csdzek.shop
 0.0.0.0 www.csdzek.shop
 0.0.0.0 cse-d.eu
@@ -184714,8 +184690,6 @@
 0.0.0.0 www.cslwr7h.cyou
 0.0.0.0 cslxzjsn.xyz
 0.0.0.0 www.cslxzjsn.xyz
-0.0.0.0 csm-maker.com
-0.0.0.0 www.csm-maker.com
 0.0.0.0 csm44.rest
 0.0.0.0 www.csm44.rest
 0.0.0.0 csmded.bar
@@ -187442,8 +187416,6 @@
 0.0.0.0 www.cvlpzu.tokyo
 0.0.0.0 cvm56vi.cyou
 0.0.0.0 www.cvm56vi.cyou
-0.0.0.0 cvmaker.de
-0.0.0.0 www.cvmaker.de
 0.0.0.0 cvmblm.rest
 0.0.0.0 www.cvmblm.rest
 0.0.0.0 cvmdrxl.cyou
@@ -191582,8 +191554,6 @@
 0.0.0.0 www.dahcyporco.tk
 0.0.0.0 daheartcongoa.tk
 0.0.0.0 www.daheartcongoa.tk
-0.0.0.0 daheim-gut.ch
-0.0.0.0 www.daheim-gut.ch
 0.0.0.0 daheimgut.com
 0.0.0.0 www.daheimgut.com
 0.0.0.0 dahfekecola.cf
@@ -191594,8 +191564,6 @@
 0.0.0.0 www.dahfurnmidsfronhel.ga
 0.0.0.0 dahhandwichlent.tk
 0.0.0.0 www.dahhandwichlent.tk
-0.0.0.0 dahingplants.shop
-0.0.0.0 www.dahingplants.shop
 0.0.0.0 dahjgr.bar
 0.0.0.0 www.dahjgr.bar
 0.0.0.0 dahjgr.rest
@@ -195642,8 +195610,6 @@
 0.0.0.0 www.de.baerskinhoodie.com
 0.0.0.0 de.cardionv.com
 0.0.0.0 www.de.cardionv.com
-0.0.0.0 de.curalise.com
-0.0.0.0 www.de.curalise.com
 0.0.0.0 de.emmiol.com
 0.0.0.0 www.de.emmiol.com
 0.0.0.0 de.epicooleronline.store
@@ -259468,6 +259434,8 @@
 0.0.0.0 www.fidelis-immo-lpa.fr
 0.0.0.0 fidelite-mcdo.fr
 0.0.0.0 www.fidelite-mcdo.fr
+0.0.0.0 fidelite-mcdonalds.fr
+0.0.0.0 www.fidelite-mcdonalds.fr
 0.0.0.0 fidelitefree.fr
 0.0.0.0 www.fidelitefree.fr
 0.0.0.0 fidelity-ag.com
@@ -270258,6 +270226,8 @@
 0.0.0.0 www.fr-starburst.fr
 0.0.0.0 fr-startpeople.fr
 0.0.0.0 www.fr-startpeople.fr
+0.0.0.0 fr-staxino.fr
+0.0.0.0 www.fr-staxino.fr
 0.0.0.0 fr-stbmateriaux.fr
 0.0.0.0 www.fr-stbmateriaux.fr
 0.0.0.0 fr-stmicroelectronics.fr
@@ -321374,8 +321344,6 @@
 0.0.0.0 www.hichegeschmocmohol.tk
 0.0.0.0 hichonostvopen.tk
 0.0.0.0 www.hichonostvopen.tk
-0.0.0.0 hicity.de
-0.0.0.0 www.hicity.de
 0.0.0.0 hicknartitexvia.tk
 0.0.0.0 www.hicknartitexvia.tk
 0.0.0.0 hicknorthmolxibonme.cf
@@ -366250,6 +366218,8 @@
 0.0.0.0 www.journal79calculu.download
 0.0.0.0 journaldugeek.com
 0.0.0.0 www.journaldugeek.com
+0.0.0.0 journalist-univ-tours.fr
+0.0.0.0 www.journalist-univ-tours.fr
 0.0.0.0 journalofficiel-etat-org.fr
 0.0.0.0 www.journalofficiel-etat-org.fr
 0.0.0.0 journalrepublicain.fr
@@ -445310,8 +445280,6 @@
 0.0.0.0 www.moebeluber.de
 0.0.0.0 moebelundgarten.com
 0.0.0.0 www.moebelundgarten.com
-0.0.0.0 moebelundzubehoer.com
-0.0.0.0 www.moebelundzubehoer.com
 0.0.0.0 moebelverlosung.de
 0.0.0.0 www.moebelverlosung.de
 0.0.0.0 moebelwunerland.de
@@ -449516,8 +449484,6 @@
 0.0.0.0 www.mooredvazwe.myshopify.com
 0.0.0.0 mooremanor.xyz
 0.0.0.0 www.mooremanor.xyz
-0.0.0.0 mooris.de
-0.0.0.0 www.mooris.de
 0.0.0.0 moornacimostdoho.tk
 0.0.0.0 www.moornacimostdoho.tk
 0.0.0.0 moosastgurdtinave.ml
@@ -543292,6 +543258,12 @@
 0.0.0.0 www.pulllabomoge.cf
 0.0.0.0 pulllocalchallenges.biz
 0.0.0.0 www.pulllocalchallenges.biz
+0.0.0.0 pullman-eiffel-paris.fr
+0.0.0.0 www.pullman-eiffel-paris.fr
+0.0.0.0 pullman-paris-eiffel.fr
+0.0.0.0 www.pullman-paris-eiffel.fr
+0.0.0.0 pullman-paristoureiffel.fr
+0.0.0.0 www.pullman-paristoureiffel.fr
 0.0.0.0 pullmoneydefense.biz
 0.0.0.0 www.pullmoneydefense.biz
 0.0.0.0 pullngullieprodtoppass.cf
@@ -566098,6 +566070,8 @@
 0.0.0.0 www.recruitillustratelead.com
 0.0.0.0 recruitya.de
 0.0.0.0 www.recruitya.de
+0.0.0.0 recrutement-afpa.fr
+0.0.0.0 www.recrutement-afpa.fr
 0.0.0.0 recrutement-france.fr
 0.0.0.0 www.recrutement-france.fr
 0.0.0.0 recrutement-indeed.fr
@@ -569726,8 +569700,6 @@
 0.0.0.0 www.remimitsepiri.tk
 0.0.0.0 remimosaget.ga
 0.0.0.0 www.remimosaget.ga
-0.0.0.0 remington.com.de
-0.0.0.0 www.remington.com.de
 0.0.0.0 remingtons.co.at
 0.0.0.0 www.remingtons.co.at
 0.0.0.0 reminolbutars.cf
@@ -575128,8 +575100,6 @@
 0.0.0.0 www.rhode.co.at
 0.0.0.0 rhodenlukasur.tk
 0.0.0.0 www.rhodenlukasur.tk
-0.0.0.0 rhodeshotel24.com
-0.0.0.0 www.rhodeshotel24.com
 0.0.0.0 rhodicavramrionen.tk
 0.0.0.0 www.rhodicavramrionen.tk
 0.0.0.0 rhodocextoben.tk
@@ -589230,8 +589200,6 @@
 0.0.0.0 www.rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
 0.0.0.0 www.rx-qualityshop.com
-0.0.0.0 rx-true.com
-0.0.0.0 www.rx-true.com
 0.0.0.0 rx186d.cyou
 0.0.0.0 www.rx186d.cyou
 0.0.0.0 rx1eesa.cn
@@ -603212,8 +603180,6 @@
 0.0.0.0 www.self-love-shop.com
 0.0.0.0 self-lyfpay.fr
 0.0.0.0 www.self-lyfpay.fr
-0.0.0.0 self-portrait.com.de
-0.0.0.0 www.self-portrait.com.de
 0.0.0.0 selfab.tokyo
 0.0.0.0 www.selfab.tokyo
 0.0.0.0 selfalacora.ml
@@ -626674,8 +626640,6 @@
 0.0.0.0 www.speedoposhargesch.ml
 0.0.0.0 speedorromfuncma.tk
 0.0.0.0 www.speedorromfuncma.tk
-0.0.0.0 speedos.co.at
-0.0.0.0 www.speedos.co.at
 0.0.0.0 speedotneboxstino.ga
 0.0.0.0 www.speedotneboxstino.ga
 0.0.0.0 speedpeople.de
@@ -677348,8 +677312,6 @@
 0.0.0.0 www.toppgusrere.tk
 0.0.0.0 topphiechesamen.ml
 0.0.0.0 www.topphiechesamen.ml
-0.0.0.0 toppillsstore.com
-0.0.0.0 www.toppillsstore.com
 0.0.0.0 topplistheopabeli.gq
 0.0.0.0 www.topplistheopabeli.gq
 0.0.0.0 topplumbersnearby.club
@@ -684892,6 +684854,8 @@
 0.0.0.0 www.tronforum.xyz
 0.0.0.0 trongecilhada.gq
 0.0.0.0 www.trongecilhada.gq
+0.0.0.0 tronicaltune.net
+0.0.0.0 www.tronicaltune.net
 0.0.0.0 tronicimunca.tk
 0.0.0.0 www.tronicimunca.tk
 0.0.0.0 tronicleakodesko.tk
@@ -712578,6 +712542,8 @@
 0.0.0.0 www.vegasino-app.fr
 0.0.0.0 vegasino-bonus.fr
 0.0.0.0 www.vegasino-bonus.fr
+0.0.0.0 vegasino-casino-fr.fr
+0.0.0.0 www.vegasino-casino-fr.fr
 0.0.0.0 vegasino-en-ligne.fr
 0.0.0.0 www.vegasino-en-ligne.fr
 0.0.0.0 vegasino-enligne.fr
@@ -726408,6 +726374,8 @@
 0.0.0.0 www.vivaia-schuhe.de
 0.0.0.0 vivaiaboutiques.fr
 0.0.0.0 www.vivaiaboutiques.fr
+0.0.0.0 vivaiacollection.com
+0.0.0.0 www.vivaiacollection.com
 0.0.0.0 vivaiaparis.fr
 0.0.0.0 www.vivaiaparis.fr
 0.0.0.0 vivaiaschaussures.fr
@@ -776810,8 +776778,6 @@
 0.0.0.0 www.yoo4c3.cyou
 0.0.0.0 yoocaa.com
 0.0.0.0 www.yoocaa.com
-0.0.0.0 yoohal.com
-0.0.0.0 www.yoohal.com
 0.0.0.0 yoohoo.cards
 0.0.0.0 www.yoohoo.cards
 0.0.0.0 yoohoo.cards
