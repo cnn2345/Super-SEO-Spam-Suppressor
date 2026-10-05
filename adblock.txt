@@ -140216,6 +140216,7 @@
 ||gamesimc.re^$document
 ||gamesinitaly.it^$document
 ||gameslearningsociety.org^$document
+||gameslikefinder.com^$document
 ||gamesloot.fr^$document
 ||gamesloots.fr^$document
 ||gamesmania.shop^$document

@@ -280428,6 +280428,8 @@
 ::1 www.gamesinitaly.it
 ::1 gameslearningsociety.org
 ::1 www.gameslearningsociety.org
+::1 gameslikefinder.com
+::1 www.gameslikefinder.com
 ::1 gamesloot.fr
 ::1 www.gamesloot.fr
 ::1 gamesloots.fr
