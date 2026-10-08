@@ -81434,6 +81434,8 @@
 0.0.0.0 www.annafieldwien.at
 0.0.0.0 annahitajosefin.blogspot.com
 0.0.0.0 www.annahitajosefin.blogspot.com
+0.0.0.0 annaijofficial.shop
+0.0.0.0 www.annaijofficial.shop
 0.0.0.0 annakabsandprof.tk
 0.0.0.0 www.annakabsandprof.tk
 0.0.0.0 annakacishop.com
@@ -87822,8 +87824,6 @@
 0.0.0.0 www.arkiresbergsi.ml
 0.0.0.0 arkivskabet.dk
 0.0.0.0 www.arkivskabet.dk
-0.0.0.0 arkload.com
-0.0.0.0 www.arkload.com
 0.0.0.0 arknowutma.tk
 0.0.0.0 www.arknowutma.tk
 0.0.0.0 arkocigilte.tk
@@ -110102,8 +110102,6 @@
 0.0.0.0 www.besthotitselfsdeads.biz
 0.0.0.0 besthuaxia.com
 0.0.0.0 www.besthuaxia.com
-0.0.0.0 besthunny.com
-0.0.0.0 www.besthunny.com
 0.0.0.0 besthysibucon.tk
 0.0.0.0 www.besthysibucon.tk
 0.0.0.0 bestillandeat.com
@@ -114370,6 +114368,10 @@
 0.0.0.0 www.bigclash-slot.fr
 0.0.0.0 bigclash1.fr
 0.0.0.0 www.bigclash1.fr
+0.0.0.0 bigclash3.fr
+0.0.0.0 www.bigclash3.fr
+0.0.0.0 bigclash4.fr
+0.0.0.0 www.bigclash4.fr
 0.0.0.0 bigclashcasino-france.fr
 0.0.0.0 www.bigclashcasino-france.fr
 0.0.0.0 bigclashcasino1.fr
@@ -114868,6 +114870,8 @@
 0.0.0.0 www.bikegadgetde.com
 0.0.0.0 bikegearsupply.com
 0.0.0.0 www.bikegearsupply.com
+0.0.0.0 bikehelfer.com
+0.0.0.0 www.bikehelfer.com
 0.0.0.0 bikelane.ro
 0.0.0.0 www.bikelane.ro
 0.0.0.0 bikelight.de
@@ -115882,6 +115886,8 @@
 0.0.0.0 www.binungmamiperxu.ml
 0.0.0.0 binvny.bar
 0.0.0.0 www.binvny.bar
+0.0.0.0 bio-apode.com
+0.0.0.0 www.bio-apode.com
 0.0.0.0 bio-brennholz.de
 0.0.0.0 www.bio-brennholz.de
 0.0.0.0 bio-cleaner.fr
@@ -143696,6 +143702,8 @@
 0.0.0.0 www.casino-spinmama.fr
 0.0.0.0 casino-spinsy.fr
 0.0.0.0 www.casino-spinsy.fr
+0.0.0.0 casino-stake1.fr
+0.0.0.0 www.casino-stake1.fr
 0.0.0.0 casino-stars.fr
 0.0.0.0 www.casino-stars.fr
 0.0.0.0 casino-stelario.fr
@@ -144712,6 +144720,8 @@
 0.0.0.0 www.casinosspinbara.fr
 0.0.0.0 casinosspinmama.fr
 0.0.0.0 www.casinosspinmama.fr
+0.0.0.0 casinostake-france.fr
+0.0.0.0 www.casinostake-france.fr
 0.0.0.0 casinostake.fr
 0.0.0.0 www.casinostake.fr
 0.0.0.0 casinostars-en-ligne.fr
@@ -145452,8 +145462,6 @@
 0.0.0.0 www.catalog-sg.it
 0.0.0.0 catalogue-prime.fr
 0.0.0.0 www.catalogue-prime.fr
-0.0.0.0 catalunyafarm.com
-0.0.0.0 www.catalunyafarm.com
 0.0.0.0 catania-sexysexytime.space
 0.0.0.0 www.catania-sexysexytime.space
 0.0.0.0 catantiro.tk
@@ -181688,6 +181696,8 @@
 0.0.0.0 www.credit-agri-cole.fr
 0.0.0.0 credit-agri-pass.fr
 0.0.0.0 www.credit-agri-pass.fr
+0.0.0.0 credit-agri-proxy.fr
+0.0.0.0 www.credit-agri-proxy.fr
 0.0.0.0 credit-agri-secure.fr
 0.0.0.0 www.credit-agri-secure.fr
 0.0.0.0 credit-agri.fr
@@ -226532,8 +226542,6 @@
 0.0.0.0 www.eczyjs.shop
 0.0.0.0 ed-apotheke.de
 0.0.0.0 www.ed-apotheke.de
-0.0.0.0 ed-hrvatski.com
-0.0.0.0 www.ed-hrvatski.com
 0.0.0.0 ed0f6h.cyou
 0.0.0.0 www.ed0f6h.cyou
 0.0.0.0 ed0wv.rest
@@ -228068,6 +228076,8 @@
 0.0.0.0 www.efbicp.rest
 0.0.0.0 efc960g.shop
 0.0.0.0 www.efc960g.shop
+0.0.0.0 efcanews.de
+0.0.0.0 www.efcanews.de
 0.0.0.0 efcar.biz.id
 0.0.0.0 www.efcar.biz.id
 0.0.0.0 efcarac.ga
@@ -231064,6 +231074,8 @@
 0.0.0.0 www.elecatorralis.gq
 0.0.0.0 eleccircs.com
 0.0.0.0 www.eleccircs.com
+0.0.0.0 elecdepot24.fr
+0.0.0.0 www.elecdepot24.fr
 0.0.0.0 elecdestock.fr
 0.0.0.0 www.elecdestock.fr
 0.0.0.0 elecepibewhlet.tk
@@ -245996,8 +246008,6 @@
 0.0.0.0 www.euvbrh.tokyo
 0.0.0.0 euvendorshub.online
 0.0.0.0 www.euvendorshub.online
-0.0.0.0 euvitafarm.com
-0.0.0.0 www.euvitafarm.com
 0.0.0.0 euvpnhjp.web.app
 0.0.0.0 www.euvpnhjp.web.app
 0.0.0.0 euw-snapchat.fr
@@ -254738,8 +254748,6 @@
 0.0.0.0 www.fat-pirate-fr.fr
 0.0.0.0 fat-tits.top
 0.0.0.0 www.fat-tits.top
-0.0.0.0 fat.lwesll.top
-0.0.0.0 www.fat.lwesll.top
 0.0.0.0 fat65e.cyou
 0.0.0.0 www.fat65e.cyou
 0.0.0.0 fatalcaraccidentattorney.buzz
@@ -259660,8 +259668,6 @@
 0.0.0.0 www.fiequepolefi.ml
 0.0.0.0 fierceesports.gg
 0.0.0.0 www.fierceesports.gg
-0.0.0.0 fiercehealthfinance.com
-0.0.0.0 www.fiercehealthfinance.com
 0.0.0.0 fiereacdiratagre.ga
 0.0.0.0 www.fiereacdiratagre.ga
 0.0.0.0 fiesatatichcie.tk
@@ -261116,8 +261122,6 @@
 0.0.0.0 www.finlepaveliher.tk
 0.0.0.0 finlipolan.tk
 0.0.0.0 www.finlipolan.tk
-0.0.0.0 finmaxbo.com
-0.0.0.0 www.finmaxbo.com
 0.0.0.0 finmeamarnapartwa.cf
 0.0.0.0 www.finmeamarnapartwa.cf
 0.0.0.0 finmebocotalk.ml
@@ -294742,6 +294746,8 @@
 0.0.0.0 www.goldenr.fr
 0.0.0.0 goldenretrievervompfarrgarten.de
 0.0.0.0 www.goldenretrievervompfarrgarten.de
+0.0.0.0 goldensgoose.fr
+0.0.0.0 www.goldensgoose.fr
 0.0.0.0 goldenshoes.fr
 0.0.0.0 www.goldenshoes.fr
 0.0.0.0 goldenspanda.fr
@@ -295514,6 +295520,8 @@
 0.0.0.0 www.goodreader.fr
 0.0.0.0 goodrsunglassesfrance.fr
 0.0.0.0 www.goodrsunglassesfrance.fr
+0.0.0.0 goodrumnhits.shop
+0.0.0.0 www.goodrumnhits.shop
 0.0.0.0 goods-shopgreener.com
 0.0.0.0 www.goods-shopgreener.com
 0.0.0.0 goodscompaduftsuc.tk
@@ -298160,6 +298168,8 @@
 0.0.0.0 www.grancorra.ga
 0.0.0.0 grand-cross.jp
 0.0.0.0 www.grand-cross.jp
+0.0.0.0 grand-darty.fr
+0.0.0.0 www.grand-darty.fr
 0.0.0.0 grand-prise-ishere.life
 0.0.0.0 www.grand-prise-ishere.life
 0.0.0.0 grand-prise-ishere1.life
@@ -300754,6 +300764,8 @@
 0.0.0.0 www.group-nestle-waters.fr
 0.0.0.0 group-prime.fr
 0.0.0.0 www.group-prime.fr
+0.0.0.0 group-q-park.fr
+0.0.0.0 www.group-q-park.fr
 0.0.0.0 group-rwe.de
 0.0.0.0 www.group-rwe.de
 0.0.0.0 group-safran.fr
@@ -325290,6 +325302,8 @@
 0.0.0.0 www.holzbau.xyz
 0.0.0.0 holzbaubillig.com
 0.0.0.0 www.holzbaubillig.com
+0.0.0.0 holzbrenn-stoffe.com
+0.0.0.0 www.holzbrenn-stoffe.com
 0.0.0.0 holzbrenn.de
 0.0.0.0 www.holzbrenn.de
 0.0.0.0 holzbriketts-kaufen.com
@@ -332578,8 +332592,6 @@
 0.0.0.0 www.hypermarchesdistribution.fr
 0.0.0.0 hypersound.xyz
 0.0.0.0 www.hypersound.xyz
-0.0.0.0 hyperstech.com
-0.0.0.0 www.hyperstech.com
 0.0.0.0 hyperticherderi.tk
 0.0.0.0 www.hyperticherderi.tk
 0.0.0.0 hyperx-pool.com
@@ -345590,8 +345602,6 @@
 0.0.0.0 www.info-vitale.fr
 0.0.0.0 info-votre-colis.fr
 0.0.0.0 www.info-votre-colis.fr
-0.0.0.0 info.kompressify.com
-0.0.0.0 www.info.kompressify.com
 0.0.0.0 infoactivation.fr
 0.0.0.0 www.infoactivation.fr
 0.0.0.0 infoactivations.fr
@@ -373796,8 +373806,6 @@
 0.0.0.0 www.kastlawntrafsiofo.gq
 0.0.0.0 kastmitalsatt.ga
 0.0.0.0 www.kastmitalsatt.ga
-0.0.0.0 kastneroehlersde.com
-0.0.0.0 www.kastneroehlersde.com
 0.0.0.0 kastpumasxentna.ml
 0.0.0.0 www.kastpumasxentna.ml
 0.0.0.0 kasubcathouningmy.tk
@@ -377242,8 +377250,6 @@
 0.0.0.0 www.kfm1qv.xyz
 0.0.0.0 kfm9lt.cyou
 0.0.0.0 www.kfm9lt.cyou
-0.0.0.0 kfmdso.com
-0.0.0.0 www.kfmdso.com
 0.0.0.0 kfmhnou.tokyo
 0.0.0.0 www.kfmhnou.tokyo
 0.0.0.0 kfmjwf.cyou
@@ -377894,8 +377900,6 @@
 0.0.0.0 www.khjmxzb.bar
 0.0.0.0 khjstyj.com
 0.0.0.0 www.khjstyj.com
-0.0.0.0 khjugyu.shop
-0.0.0.0 www.khjugyu.shop
 0.0.0.0 khk3b6r.cyou
 0.0.0.0 www.khk3b6r.cyou
 0.0.0.0 khklyew.tokyo
@@ -378852,8 +378856,6 @@
 0.0.0.0 www.kindderlomi.tk
 0.0.0.0 kindderstedt.com
 0.0.0.0 www.kindderstedt.com
-0.0.0.0 kindderstidt.com
-0.0.0.0 www.kindderstidt.com
 0.0.0.0 kinddeshoprstadt.com
 0.0.0.0 www.kinddeshoprstadt.com
 0.0.0.0 kinddispdishyri.tk
@@ -383320,8 +383322,6 @@
 0.0.0.0 www.kostpanpoicomchant.cf
 0.0.0.0 kostuemfest.com
 0.0.0.0 www.kostuemfest.com
-0.0.0.0 kostumparty.com
-0.0.0.0 www.kostumparty.com
 0.0.0.0 kostus.tokyo
 0.0.0.0 www.kostus.tokyo
 0.0.0.0 kosuprp.tokyo
@@ -385056,8 +385056,6 @@
 0.0.0.0 www.ksqs5o8.cyou
 0.0.0.0 ksr7je.cyou
 0.0.0.0 www.ksr7je.cyou
-0.0.0.0 ksruidafei.com
-0.0.0.0 www.ksruidafei.com
 0.0.0.0 kss1.xyz
 0.0.0.0 www.kss1.xyz
 0.0.0.0 kss484.tokyo
@@ -389402,8 +389400,6 @@
 0.0.0.0 www.labpobudesor.ga
 0.0.0.0 labporoticu.ml
 0.0.0.0 www.labporoticu.ml
-0.0.0.0 labq22.in
-0.0.0.0 www.labq22.in
 0.0.0.0 labqanquepostale.fr
 0.0.0.0 www.labqanquepostale.fr
 0.0.0.0 labqpostale.fr
@@ -391186,6 +391182,8 @@
 0.0.0.0 www.lamorrogu.tk
 0.0.0.0 lamourshop.fr
 0.0.0.0 www.lamourshop.fr
+0.0.0.0 lamp-laboratory.com
+0.0.0.0 www.lamp-laboratory.com
 0.0.0.0 lamp24.ee
 0.0.0.0 www.lamp24.ee
 0.0.0.0 lampbitabmilearnla.gq
@@ -393514,8 +393512,6 @@
 0.0.0.0 www.latowaspenisi.gq
 0.0.0.0 latpetobarlooti.cf
 0.0.0.0 www.latpetobarlooti.cf
-0.0.0.0 latraininghub.com
-0.0.0.0 www.latraininghub.com
 0.0.0.0 latrarenudbarw.tk
 0.0.0.0 www.latrarenudbarw.tk
 0.0.0.0 latreditisfulfsupp.tk
@@ -393800,8 +393796,6 @@
 0.0.0.0 www.laur-food.ro
 0.0.0.0 lauradiva.de
 0.0.0.0 www.lauradiva.de
-0.0.0.0 lauradiva.shop
-0.0.0.0 www.lauradiva.shop
 0.0.0.0 lauragiammichele.it
 0.0.0.0 www.lauragiammichele.it
 0.0.0.0 laurajungnickel.de
@@ -394174,8 +394168,6 @@
 0.0.0.0 www.laxifoot.fr
 0.0.0.0 laxlez.rest
 0.0.0.0 www.laxlez.rest
-0.0.0.0 laxnds.com
-0.0.0.0 www.laxnds.com
 0.0.0.0 laxuv.tokyo
 0.0.0.0 www.laxuv.tokyo
 0.0.0.0 layarmovies.xyz
@@ -395878,6 +395870,8 @@
 0.0.0.0 www.le8tzge.work
 0.0.0.0 le90k2.tokyo
 0.0.0.0 www.le90k2.tokyo
+0.0.0.0 lea-frankfurt.com
+0.0.0.0 www.lea-frankfurt.com
 0.0.0.0 lea.xyz
 0.0.0.0 www.lea.xyz
 0.0.0.0 lea28k.tokyo
@@ -395992,8 +395986,6 @@
 0.0.0.0 www.leakplepytesir.gq
 0.0.0.0 lealabashighmaze.cf
 0.0.0.0 www.lealabashighmaze.cf
-0.0.0.0 lealbys.com
-0.0.0.0 www.lealbys.com
 0.0.0.0 lealentrivapad.tk
 0.0.0.0 www.lealentrivapad.tk
 0.0.0.0 lealepa.bar
@@ -396090,8 +396082,6 @@
 0.0.0.0 www.learn-codes.net
 0.0.0.0 learn.atdaslelabor.com
 0.0.0.0 www.learn.atdaslelabor.com
-0.0.0.0 learn.kompressify.com
-0.0.0.0 www.learn.kompressify.com
 0.0.0.0 learn.physio
 0.0.0.0 www.learn.physio
 0.0.0.0 learnbatlaykritun.gq
@@ -396376,8 +396366,6 @@
 0.0.0.0 www.lebens-traum.at
 0.0.0.0 lebensfreude-musik.eu
 0.0.0.0 www.lebensfreude-musik.eu
-0.0.0.0 lebenskernde.com
-0.0.0.0 www.lebenskernde.com
 0.0.0.0 lebensmittelgeschaft.com
 0.0.0.0 www.lebensmittelgeschaft.com
 0.0.0.0 lebensmittelgeschafte.com
@@ -398778,8 +398766,6 @@
 0.0.0.0 www.lems-deutschland.de
 0.0.0.0 lems.com.de
 0.0.0.0 www.lems.com.de
-0.0.0.0 lemsdeutschland.com
-0.0.0.0 www.lemsdeutschland.com
 0.0.0.0 lemsdeutschland.top
 0.0.0.0 www.lemsdeutschland.top
 0.0.0.0 lemsschuhedeutschland.de
@@ -398804,8 +398790,6 @@
 0.0.0.0 www.lena-boutique.de
 0.0.0.0 lenadinbeca.tk
 0.0.0.0 www.lenadinbeca.tk
-0.0.0.0 lenahockson.com
-0.0.0.0 www.lenahockson.com
 0.0.0.0 lenahorholi.tk
 0.0.0.0 www.lenahorholi.tk
 0.0.0.0 lenanestchrisacreaf.gq
@@ -405420,10 +405404,6 @@
 0.0.0.0 www.likasvezeppnabs.cf
 0.0.0.0 likdevorstenpogex.ml
 0.0.0.0 www.likdevorstenpogex.ml
-0.0.0.0 likdl.shop
-0.0.0.0 www.likdl.shop
-0.0.0.0 likds.shop
-0.0.0.0 www.likds.shop
 0.0.0.0 like-shop.it
 0.0.0.0 www.like-shop.it
 0.0.0.0 like.chat
@@ -407912,8 +407892,6 @@
 0.0.0.0 www.lisesiditu.gq
 0.0.0.0 lisfaderting.tk
 0.0.0.0 www.lisfaderting.tk
-0.0.0.0 lisft.shop
-0.0.0.0 www.lisft.shop
 0.0.0.0 lisgagestpaprent.tk
 0.0.0.0 www.lisgagestpaprent.tk
 0.0.0.0 lisgomenwola.ml
@@ -409438,8 +409416,6 @@
 0.0.0.0 www.ljekarna-osijek.com
 0.0.0.0 ljekarnacroatia.com
 0.0.0.0 www.ljekarnacroatia.com
-0.0.0.0 ljekarnahrvatska.com
-0.0.0.0 www.ljekarnahrvatska.com
 0.0.0.0 ljewaslimimadis.gq
 0.0.0.0 www.ljewaslimimadis.gq
 0.0.0.0 ljeyvm.bar
@@ -414382,8 +414358,6 @@
 0.0.0.0 www.lotulivil.gq
 0.0.0.0 lotumetingdali.tk
 0.0.0.0 www.lotumetingdali.tk
-0.0.0.0 lotus-handeln.com
-0.0.0.0 www.lotus-handeln.com
 0.0.0.0 lotus-hotel.cn
 0.0.0.0 www.lotus-hotel.cn
 0.0.0.0 lotusenvironmentalblog.it
@@ -414590,8 +414564,6 @@
 0.0.0.0 www.loulowpkitmeve.cf
 0.0.0.0 loulunchcritunes.tk
 0.0.0.0 www.loulunchcritunes.tk
-0.0.0.0 loumani.de
-0.0.0.0 www.loumani.de
 0.0.0.0 loumenipnali.ml
 0.0.0.0 www.loumenipnali.ml
 0.0.0.0 loumo-shop.de
@@ -414702,8 +414674,6 @@
 0.0.0.0 www.love5p.club
 0.0.0.0 lovea.co
 0.0.0.0 www.lovea.co
-0.0.0.0 loveandbumpshop.com
-0.0.0.0 www.loveandbumpshop.com
 0.0.0.0 lovebikestore.com
 0.0.0.0 www.lovebikestore.com
 0.0.0.0 lovecasino3.fr
@@ -418338,8 +418308,6 @@
 0.0.0.0 www.lunochlueporre.tk
 0.0.0.0 lunonradimil.ga
 0.0.0.0 www.lunonradimil.ga
-0.0.0.0 lunoralivingshop.com
-0.0.0.0 www.lunoralivingshop.com
 0.0.0.0 lunotrg.bar
 0.0.0.0 www.lunotrg.bar
 0.0.0.0 lunovo.fr
@@ -418760,6 +418728,8 @@
 0.0.0.0 www.lutvifimireere.cf
 0.0.0.0 lutz-baumgaertel.de
 0.0.0.0 www.lutz-baumgaertel.de
+0.0.0.0 luuckygem.fr
+0.0.0.0 www.luuckygem.fr
 0.0.0.0 luuckylinen.com
 0.0.0.0 www.luuckylinen.com
 0.0.0.0 luultqw.rest
@@ -418830,8 +418800,6 @@
 0.0.0.0 www.luvqx.com
 0.0.0.0 luvr.ai
 0.0.0.0 www.luvr.ai
-0.0.0.0 luvyle.com
-0.0.0.0 www.luvyle.com
 0.0.0.0 luwanacabrera.xyz
 0.0.0.0 www.luwanacabrera.xyz
 0.0.0.0 luwander.shop
@@ -424152,8 +424120,6 @@
 0.0.0.0 www.magellantimes.com
 0.0.0.0 magenta-oat.com
 0.0.0.0 www.magenta-oat.com
-0.0.0.0 magentaappat.top
-0.0.0.0 www.magentaappat.top
 0.0.0.0 magentnecbolonpass.ga
 0.0.0.0 www.magentnecbolonpass.ga
 0.0.0.0 magerdaismoothru.tk
@@ -425252,8 +425218,6 @@
 0.0.0.0 www.mainet.business
 0.0.0.0 mainewssici.gq
 0.0.0.0 www.mainewssici.gq
-0.0.0.0 maingoldfrankfurt.com
-0.0.0.0 www.maingoldfrankfurt.com
 0.0.0.0 mainicodertu.cf
 0.0.0.0 www.mainicodertu.cf
 0.0.0.0 mainingpamuhyd.tk
@@ -428308,8 +428272,6 @@
 0.0.0.0 www.marikoff.ru
 0.0.0.0 marilomen.tk
 0.0.0.0 www.marilomen.tk
-0.0.0.0 marimekko-hots.com
-0.0.0.0 www.marimekko-hots.com
 0.0.0.0 marimekko.xyz
 0.0.0.0 www.marimekko.xyz
 0.0.0.0 marinabalz.de
@@ -428320,8 +428282,6 @@
 0.0.0.0 www.marinalihy.gq
 0.0.0.0 marinaminetpoesie.it
 0.0.0.0 www.marinaminetpoesie.it
-0.0.0.0 marineausstattung.com
-0.0.0.0 www.marineausstattung.com
 0.0.0.0 marineestaucourantdetout.fr
 0.0.0.0 www.marineestaucourantdetout.fr
 0.0.0.0 marinefolien.de
@@ -428520,8 +428480,6 @@
 0.0.0.0 www.marketxarproducts.shop
 0.0.0.0 markevichieperl.tk
 0.0.0.0 www.markevichieperl.tk
-0.0.0.0 markezia.com
-0.0.0.0 www.markezia.com
 0.0.0.0 markfraptijackjacom.tk
 0.0.0.0 www.markfraptijackjacom.tk
 0.0.0.0 markgryoups.gq
@@ -428984,8 +428942,6 @@
 0.0.0.0 www.martincouture.ch
 0.0.0.0 martinmuenchow.de
 0.0.0.0 www.martinmuenchow.de
-0.0.0.0 martinundjulia.com
-0.0.0.0 www.martinundjulia.com
 0.0.0.0 martiotiprosab.ga
 0.0.0.0 www.martiotiprosab.ga
 0.0.0.0 martipomoma.cf
@@ -429162,8 +429118,6 @@
 0.0.0.0 www.maschephotanwhaphe.ml
 0.0.0.0 maschinenbau-marketingtranslations.com
 0.0.0.0 www.maschinenbau-marketingtranslations.com
-0.0.0.0 maschinenbau-stripegmbh.de
-0.0.0.0 www.maschinenbau-stripegmbh.de
 0.0.0.0 maschinenfuergarten.de
 0.0.0.0 www.maschinenfuergarten.de
 0.0.0.0 maschinenpreiswert.com
@@ -429668,8 +429622,6 @@
 0.0.0.0 www.matalpoundnolpa.tk
 0.0.0.0 matannatapurp.ga
 0.0.0.0 www.matannatapurp.ga
-0.0.0.0 mataoriginkids.shop
-0.0.0.0 www.mataoriginkids.shop
 0.0.0.0 mataphatepen.cf
 0.0.0.0 www.mataphatepen.cf
 0.0.0.0 mataporkoz.com
@@ -430508,8 +430460,6 @@
 0.0.0.0 www.mawysboaqucons.tk
 0.0.0.0 max-apteka.pl
 0.0.0.0 www.max-apteka.pl
-0.0.0.0 max-berg.com
-0.0.0.0 www.max-berg.com
 0.0.0.0 max-bet-casino.fr
 0.0.0.0 www.max-bet-casino.fr
 0.0.0.0 max-betcasino.fr
@@ -432590,16 +432540,12 @@
 0.0.0.0 www.mediasuggestsmonths.bar
 0.0.0.0 mediatagtw.com
 0.0.0.0 www.mediatagtw.com
-0.0.0.0 mediatech-shop.com
-0.0.0.0 www.mediatech-shop.com
 0.0.0.0 mediaterre.fr
 0.0.0.0 www.mediaterre.fr
 0.0.0.0 mediationmelbo.xyz
 0.0.0.0 www.mediationmelbo.xyz
 0.0.0.0 mediawiki.feverous.co.uk
 0.0.0.0 www.mediawiki.feverous.co.uk
-0.0.0.0 mediaxim.com
-0.0.0.0 www.mediaxim.com
 0.0.0.0 medica-esthetic.eu
 0.0.0.0 www.medica-esthetic.eu
 0.0.0.0 medica-pharma.fr
@@ -432732,8 +432678,6 @@
 0.0.0.0 www.mediterraneosociale.eu
 0.0.0.0 medivita-de.com
 0.0.0.0 www.medivita-de.com
-0.0.0.0 medizinversand24.com
-0.0.0.0 www.medizinversand24.com
 0.0.0.0 medlabalobuning.tk
 0.0.0.0 www.medlabalobuning.tk
 0.0.0.0 medlabupan.tk
@@ -433018,6 +432962,8 @@
 0.0.0.0 www.mega-dice-casino.fr
 0.0.0.0 mega-dicecasino.fr
 0.0.0.0 www.mega-dicecasino.fr
+0.0.0.0 mega-fish-wins.fr
+0.0.0.0 www.mega-fish-wins.fr
 0.0.0.0 mega-hookups-here.com
 0.0.0.0 www.mega-hookups-here.com
 0.0.0.0 mega-meigaomei-online.com
@@ -433608,8 +433554,6 @@
 0.0.0.0 www.meingartenhimmel.de
 0.0.0.0 meingartenwelt.com
 0.0.0.0 www.meingartenwelt.com
-0.0.0.0 meinhuggies.com
-0.0.0.0 www.meinhuggies.com
 0.0.0.0 meinie.eu
 0.0.0.0 www.meinie.eu
 0.0.0.0 meinirensrag.web.app
@@ -435652,8 +435596,6 @@
 0.0.0.0 www.merosivero.gq
 0.0.0.0 merotriboli.tk
 0.0.0.0 www.merotriboli.tk
-0.0.0.0 merova-shop.com
-0.0.0.0 www.merova-shop.com
 0.0.0.0 merpedanarpo.cf
 0.0.0.0 www.merpedanarpo.cf
 0.0.0.0 merphaemahemagun.tk
@@ -435668,8 +435610,6 @@
 0.0.0.0 www.merrell-deutschland.de
 0.0.0.0 merrell-france.fr
 0.0.0.0 www.merrell-france.fr
-0.0.0.0 merrellbarbati.com
-0.0.0.0 www.merrellbarbati.com
 0.0.0.0 merrellchaussures.fr
 0.0.0.0 www.merrellchaussures.fr
 0.0.0.0 merrelldeutschland.com
@@ -437178,10 +437118,6 @@
 0.0.0.0 www.meztic.fr
 0.0.0.0 mezwharogjucopho.tk
 0.0.0.0 www.mezwharogjucopho.tk
-0.0.0.0 mezzaninfinanz.com
-0.0.0.0 www.mezzaninfinanz.com
-0.0.0.0 mezzaninfintech.com
-0.0.0.0 www.mezzaninfintech.com
 0.0.0.0 mezzojusobizantina.it
 0.0.0.0 www.mezzojusobizantina.it
 0.0.0.0 mf-versandhandel-gmbh.myshopify.com
@@ -448092,6 +448028,8 @@
 0.0.0.0 www.moneydifferents.biz
 0.0.0.0 moneydream-casino.fr
 0.0.0.0 www.moneydream-casino.fr
+0.0.0.0 moneydreamcasino.fr
+0.0.0.0 www.moneydreamcasino.fr
 0.0.0.0 moneyelseavailables.buzz
 0.0.0.0 www.moneyelseavailables.buzz
 0.0.0.0 moneyenergysown.biz
@@ -449732,6 +449670,8 @@
 0.0.0.0 www.morenogase.cf
 0.0.0.0 morenumu.cf
 0.0.0.0 www.morenumu.cf
+0.0.0.0 morenutritionde.store
+0.0.0.0 www.morenutritionde.store
 0.0.0.0 morepushsforgets.biz
 0.0.0.0 www.morepushsforgets.biz
 0.0.0.0 morerachisin.tk
@@ -455196,8 +455136,6 @@
 0.0.0.0 www.muzasoncrec.tk
 0.0.0.0 muzbb8.cyou
 0.0.0.0 www.muzbb8.cyou
-0.0.0.0 muzenaudio.com
-0.0.0.0 www.muzenaudio.com
 0.0.0.0 muzica.fun
 0.0.0.0 www.muzica.fun
 0.0.0.0 muzid9.tokyo
@@ -472618,6 +472556,8 @@
 0.0.0.0 www.niema.dk
 0.0.0.0 niemanbiphi.tk
 0.0.0.0 www.niemanbiphi.tk
+0.0.0.0 niemann-kollegen.com
+0.0.0.0 www.niemann-kollegen.com
 0.0.0.0 niematchgatsdesap.tk
 0.0.0.0 www.niematchgatsdesap.tk
 0.0.0.0 niemeelimirecip.ml
@@ -473886,6 +473826,8 @@
 0.0.0.0 www.nincecasino1.fr
 0.0.0.0 nincitureatombi.cf
 0.0.0.0 www.nincitureatombi.cf
+0.0.0.0 nine--casino.fr
+0.0.0.0 www.nine--casino.fr
 0.0.0.0 nine-ca5ino.fr
 0.0.0.0 www.nine-ca5ino.fr
 0.0.0.0 nine-casino-9.fr
@@ -488938,6 +488880,8 @@
 0.0.0.0 www.offroad.co.jp
 0.0.0.0 offroadzimy.pl
 0.0.0.0 www.offroadzimy.pl
+0.0.0.0 offshorecheapmeds.com
+0.0.0.0 www.offshorecheapmeds.com
 0.0.0.0 offsidegiugliano.shop
 0.0.0.0 www.offsidegiugliano.shop
 0.0.0.0 offsneakz.fr
@@ -500264,6 +500208,8 @@
 0.0.0.0 www.ouil1qv.cyou
 0.0.0.0 ouiljnc.cyou
 0.0.0.0 www.ouiljnc.cyou
+0.0.0.0 ouinex.com
+0.0.0.0 www.ouinex.com
 0.0.0.0 ouitqe.tokyo
 0.0.0.0 www.ouitqe.tokyo
 0.0.0.0 oujcvkz.tokyo
@@ -569624,6 +569570,8 @@
 0.0.0.0 www.remboursement-ameli.fr
 0.0.0.0 remboursement-antai.fr
 0.0.0.0 www.remboursement-antai.fr
+0.0.0.0 remboursement-anticipe-cofidis.fr
+0.0.0.0 www.remboursement-anticipe-cofidis.fr
 0.0.0.0 remboursement-assurance-maladie.fr
 0.0.0.0 www.remboursement-assurance-maladie.fr
 0.0.0.0 remboursement-banque-france.fr
@@ -599020,6 +598968,8 @@
 0.0.0.0 www.schuhehoka.de
 0.0.0.0 schuhejordan.de.com
 0.0.0.0 www.schuhejordan.de.com
+0.0.0.0 schuhelueke.com
+0.0.0.0 www.schuhelueke.com
 0.0.0.0 schuhescarpa.com
 0.0.0.0 www.schuhescarpa.com
 0.0.0.0 schuheverkauf-de.com
@@ -602974,6 +602924,8 @@
 0.0.0.0 www.seikosboutique.fr
 0.0.0.0 seikouhr.de
 0.0.0.0 www.seikouhr.de
+0.0.0.0 seikowatches.fr
+0.0.0.0 www.seikowatches.fr
 0.0.0.0 seilengacapdai.tk
 0.0.0.0 www.seilengacapdai.tk
 0.0.0.0 seiliflepageron.tk
@@ -615522,6 +615474,8 @@
 0.0.0.0 www.siuzaaniting.ga
 0.0.0.0 siv-adergouv.fr
 0.0.0.0 www.siv-adergouv.fr
+0.0.0.0 siv-ants.fr
+0.0.0.0 www.siv-ants.fr
 0.0.0.0 siv-antsgouv.fr
 0.0.0.0 www.siv-antsgouv.fr
 0.0.0.0 siv-gouvants.fr
@@ -622868,8 +622822,6 @@
 0.0.0.0 www.softdosamphilders.ml
 0.0.0.0 softdrivgatasonli.tk
 0.0.0.0 www.softdrivgatasonli.tk
-0.0.0.0 softelektro.com
-0.0.0.0 www.softelektro.com
 0.0.0.0 softfirecsoma.tk
 0.0.0.0 www.softfirecsoma.tk
 0.0.0.0 softforex.pw
@@ -631504,6 +631456,10 @@
 0.0.0.0 www.stake-en-ligne.fr
 0.0.0.0 stake-enligne.fr
 0.0.0.0 www.stake-enligne.fr
+0.0.0.0 stake-jeux.fr
+0.0.0.0 www.stake-jeux.fr
+0.0.0.0 stake-login.fr
+0.0.0.0 www.stake-login.fr
 0.0.0.0 stake-nl.fr
 0.0.0.0 www.stake-nl.fr
 0.0.0.0 stake-officiel.fr
@@ -631534,6 +631490,8 @@
 0.0.0.0 www.stake7online.fr
 0.0.0.0 stakecas1no.fr
 0.0.0.0 www.stakecas1no.fr
+0.0.0.0 stakecasino-app.fr
+0.0.0.0 www.stakecasino-app.fr
 0.0.0.0 stakecasino-fr.fr
 0.0.0.0 www.stakecasino-fr.fr
 0.0.0.0 stakecasino-france.fr
@@ -635898,8 +635856,8 @@
 0.0.0.0 www.store.jorbray.com
 0.0.0.0 store.kestrelby.com
 0.0.0.0 www.store.kestrelby.com
-0.0.0.0 store.kingslora.com
-0.0.0.0 www.store.kingslora.com
+0.0.0.0 store.mavelimira.com
+0.0.0.0 www.store.mavelimira.com
 0.0.0.0 store.promomesh.com
 0.0.0.0 www.store.promomesh.com
 0.0.0.0 store.rensby.com
@@ -644164,6 +644122,8 @@
 0.0.0.0 www.sweetsatikindter.ml
 0.0.0.0 sweetsino-casino.fr
 0.0.0.0 www.sweetsino-casino.fr
+0.0.0.0 sweetsino-fr.fr
+0.0.0.0 www.sweetsino-fr.fr
 0.0.0.0 sweetsinocasino.fr
 0.0.0.0 www.sweetsinocasino.fr
 0.0.0.0 sweetsparadise.xyz
@@ -660094,6 +660054,8 @@
 0.0.0.0 www.teslabatterie.fr
 0.0.0.0 teslacoin.io
 0.0.0.0 www.teslacoin.io
+0.0.0.0 teslacoininc.org
+0.0.0.0 www.teslacoininc.org
 0.0.0.0 tesladigitale.fr
 0.0.0.0 www.tesladigitale.fr
 0.0.0.0 teslafrance.fr
@@ -672742,8 +672704,6 @@
 0.0.0.0 www.tischlereijache-shop.de
 0.0.0.0 tischool.ro
 0.0.0.0 www.tischool.ro
-0.0.0.0 tischprofi.com
-0.0.0.0 www.tischprofi.com
 0.0.0.0 tischtennis-korntal.de
 0.0.0.0 www.tischtennis-korntal.de
 0.0.0.0 tischtennisde.com
@@ -683010,8 +682970,6 @@
 0.0.0.0 www.tremcingocorki.cf
 0.0.0.0 tremcomnesofhemi.gq
 0.0.0.0 www.tremcomnesofhemi.gq
-0.0.0.0 tremel.at
-0.0.0.0 www.tremel.at
 0.0.0.0 tremellineous.best
 0.0.0.0 www.tremellineous.best
 0.0.0.0 trememursurre.ml
@@ -697324,8 +697282,6 @@
 0.0.0.0 www.umqmpw.tokyo
 0.0.0.0 umrckb.rest
 0.0.0.0 www.umrckb.rest
-0.0.0.0 umrechnung.mdhsh.com
-0.0.0.0 www.umrechnung.mdhsh.com
 0.0.0.0 umrhyqo.cn
 0.0.0.0 www.umrhyqo.cn
 0.0.0.0 umrimillugithe.tk
@@ -703294,6 +703250,8 @@
 0.0.0.0 www.ursimagripel.gq
 0.0.0.0 ursimanewpveran.tk
 0.0.0.0 www.ursimanewpveran.tk
+0.0.0.0 ursime.com
+0.0.0.0 www.ursime.com
 0.0.0.0 ursiwolibmafo.gq
 0.0.0.0 www.ursiwolibmafo.gq
 0.0.0.0 urskipiremamag.tk
@@ -726670,6 +726628,8 @@
 0.0.0.0 www.vivefulmesiwho.ga
 0.0.0.0 vivemon-casino.fr
 0.0.0.0 www.vivemon-casino.fr
+0.0.0.0 vivendi-universal-interactive.fr
+0.0.0.0 www.vivendi-universal-interactive.fr
 0.0.0.0 vivendiuniversal.fr
 0.0.0.0 www.vivendiuniversal.fr
 0.0.0.0 vivenso.ee
@@ -728968,6 +728928,8 @@
 0.0.0.0 www.vonauto.de
 0.0.0.0 voncappelen.dk
 0.0.0.0 www.voncappelen.dk
+0.0.0.0 voncleir.com
+0.0.0.0 www.voncleir.com
 0.0.0.0 vondacoco.com
 0.0.0.0 www.vondacoco.com
 0.0.0.0 vondaro.de
@@ -735904,6 +735866,8 @@
 0.0.0.0 www.wasserlehrpfad-pegnitz.de
 0.0.0.0 wasserpflegede.com
 0.0.0.0 www.wasserpflegede.com
+0.0.0.0 wasserruderangebote.com
+0.0.0.0 www.wasserruderangebote.com
 0.0.0.0 wasserspender-deutschland.de
 0.0.0.0 www.wasserspender-deutschland.de
 0.0.0.0 wassersportwert.com
@@ -740998,6 +740962,8 @@
 0.0.0.0 www.werkgeist.com
 0.0.0.0 werkora-industrial.com
 0.0.0.0 www.werkora-industrial.com
+0.0.0.0 werkstatt-teile.com
+0.0.0.0 www.werkstatt-teile.com
 0.0.0.0 werkstattgerateprofi.com
 0.0.0.0 www.werkstattgerateprofi.com
 0.0.0.0 werkstattgitter.com
@@ -743754,6 +743720,10 @@
 0.0.0.0 www.wiinamax.fr
 0.0.0.0 wiinbeastt.fr
 0.0.0.0 www.wiinbeastt.fr
+0.0.0.0 wiinbeatz.fr
+0.0.0.0 www.wiinbeatz.fr
+0.0.0.0 wiinhero.fr
+0.0.0.0 www.wiinhero.fr
 0.0.0.0 wiinspin.fr
 0.0.0.0 www.wiinspin.fr
 0.0.0.0 wiipczf.bar
@@ -746346,6 +746316,8 @@
 0.0.0.0 www.winorama-official.fr
 0.0.0.0 winoramacasino1.fr
 0.0.0.0 www.winoramacasino1.fr
+0.0.0.0 winoramafr.fr
+0.0.0.0 www.winoramafr.fr
 0.0.0.0 winoramaonline.fr
 0.0.0.0 www.winoramaonline.fr
 0.0.0.0 winoramas.fr
@@ -746406,6 +746378,8 @@
 0.0.0.0 www.winouicasinofr.fr
 0.0.0.0 winouicasinofrance.fr
 0.0.0.0 www.winouicasinofrance.fr
+0.0.0.0 winouiconnexion.fr
+0.0.0.0 www.winouiconnexion.fr
 0.0.0.0 winouifr.fr
 0.0.0.0 www.winouifr.fr
 0.0.0.0 winouionline.fr
@@ -746690,6 +746664,8 @@
 0.0.0.0 www.winuniquecasino-fr.fr
 0.0.0.0 winuniquecasinos.fr
 0.0.0.0 www.winuniquecasinos.fr
+0.0.0.0 winuniqueconnexion.fr
+0.0.0.0 www.winuniqueconnexion.fr
 0.0.0.0 winuniquefr.fr
 0.0.0.0 www.winuniquefr.fr
 0.0.0.0 winuniqueofficial.fr
@@ -763368,6 +763344,8 @@
 0.0.0.0 www.xn--tmu-bma.fr
 0.0.0.0 xn--tp-isant-i1a.fr
 0.0.0.0 www.xn--tp-isant-i1a.fr
+0.0.0.0 xn--transitionnergtiquegouv-kcce.fr
+0.0.0.0 www.xn--transitionnergtiquegouv-kcce.fr
 0.0.0.0 xn--tribunal-de-premire-instance-de-paris-oid.fr
 0.0.0.0 www.xn--tribunal-de-premire-instance-de-paris-oid.fr
 0.0.0.0 xn--u-pariscit-k7a.fr
@@ -792308,6 +792286,8 @@
 0.0.0.0 www.zoofortmicisuc.tk
 0.0.0.0 zoogeritidi.ml
 0.0.0.0 www.zoogeritidi.ml
+0.0.0.0 zoogwshu.shop
+0.0.0.0 www.zoogwshu.shop
 0.0.0.0 zoohaus-langenhorst.de
 0.0.0.0 www.zoohaus-langenhorst.de
 0.0.0.0 zoohcpj.cn
