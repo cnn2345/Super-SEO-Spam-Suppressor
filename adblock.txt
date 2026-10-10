@@ -49849,6 +49849,7 @@
 ||bacbaismidpenfo.cf^$document
 ||baccacontheama.tk^$document
 ||baccarat-france.fr^$document
+||baccaratcasino.fr^$document
 ||baccaratfr.fr^$document
 ||baccentballluaderfai.tk^$document
 ||baccerebaciccia.it^$document
@@ -51276,6 +51277,7 @@
 ||banquefrancedsp2.fr^$document
 ||banqueinvest.com^$document
 ||banquelaposte.fr^$document
+||banquemarze.fr^$document
 ||banqueoption.com^$document
 ||banqueopulaire.fr^$document
 ||banquepolulaire.fr^$document
@@ -53360,6 +53362,7 @@
 ||beeswinged.best^$document
 ||beetblast-fr.fr^$document
 ||beetinworkbibosly.gq^$document
+||beetsio.fr^$document
 ||beetty.xyz^$document
 ||beetzino-play.fr^$document
 ||beevitofisumple.tk^$document
@@ -55683,6 +55686,7 @@
 ||betify-casino1.fr^$document
 ||betify-casino2.fr^$document
 ||betify-casinofr.fr^$document
+||betify-casinofrance.fr^$document
 ||betify-casinologin.fr^$document
 ||betify-casinos.fr^$document
 ||betify-casinos1.fr^$document
@@ -75054,6 +75058,7 @@
 ||certclearing.com^$document
 ||certcugukensbruc.tk^$document
 ||certdevretekaser.ml^$document
+||certeurop.fr^$document
 ||certfspasl.fr^$document
 ||certfyplsp.fr^$document
 ||certhuthemissme.ml^$document
@@ -135256,6 +135261,7 @@
 ||fr9jkt.tokyo^$document
 ||fr9r7.tokyo^$document
 ||fra-amunra.fr^$document
+||fra-betzino.fr^$document
 ||fra-microsoft.fr^$document
 ||fra-prime.fr^$document
 ||fra-snapchat.fr^$document
@@ -147278,11 +147284,16 @@
 ||golden-outlet.de^$document
 ||golden-outlet.fr^$document
 ||golden-palace.fr^$document
+||golden-panda-app.fr^$document
+||golden-panda-bonus.fr^$document
 ||golden-panda-casinos.fr^$document
 ||golden-panda-fr.fr^$document
 ||golden-panda-fra.fr^$document
 ||golden-panda-france.fr^$document
+||golden-panda-game.fr^$document
+||golden-panda-jeux.fr^$document
 ||golden-panda-login.fr^$document
+||golden-panda-mobile.fr^$document
 ||golden-panda-online.fr^$document
 ||golden-panda1.fr^$document
 ||golden-panda8.fr^$document
@@ -150233,6 +150244,7 @@
 ||grmp6j.shop^$document
 ||grmqm3.cyou^$document
 ||grnai47.tokyo^$document
+||grnail.fr^$document
 ||grnenyd.bar^$document
 ||grnixz.tokyo^$document
 ||grnoku.tokyo^$document
@@ -151339,6 +151351,7 @@
 ||gucanpobata.gq^$document
 ||gucapahol.gq^$document
 ||gucavolte.web.app^$document
+||gucci-france.fr^$document
 ||guccifrance.fr^$document
 ||guccimoinscher.fr^$document
 ||gucciparis.fr^$document
@@ -204244,6 +204257,7 @@
 ||litigalturepor.tk^$document
 ||litige-colis.fr^$document
 ||litigecontentieux.fr^$document
+||litiges-amazon.fr^$document
 ||litigeshop-ppl.fr^$document
 ||litigestationnement.fr^$document
 ||litigoslo.ml^$document
@@ -205629,6 +205643,7 @@
 ||loakaylongribo.tk^$document
 ||loakcominadofslim.tk^$document
 ||loakechaussure.fr^$document
+||loakechaussures.fr^$document
 ||loakedeutschland.de^$document
 ||loakesfrance.fr^$document
 ||loakranraycardtral.ga^$document
@@ -261065,6 +261080,7 @@
 ||pipedesignco.com.br^$document
 ||pipelineroster.com^$document
 ||pipenungbadc.cf^$document
+||piper-spin.fr^$document
 ||piper-spincasino.fr^$document
 ||piperaresidence.ro^$document
 ||piperazzi.net^$document
@@ -270282,6 +270298,7 @@
 ||protectioncivile49.fr^$document
 ||protectionofpersonal.biz^$document
 ||protectourfacts.bar^$document
+||protectsmineursgov.fr^$document
 ||protectthingarms.buzz^$document
 ||protectus.es^$document
 ||proteinreviews.org^$document
@@ -279986,6 +280003,7 @@
 ||rainbet-france.fr^$document
 ||rainbetcasino.fr^$document
 ||rainbetcasinoonline.fr^$document
+||rainbetfr.fr^$document
 ||rainbowfalls.xyz^$document
 ||rainbowretailsales.biz^$document
 ||rainbowsluts.buzz^$document
@@ -378549,8 +378567,12 @@
 ||x794j2.cyou^$document
 ||x7ajuht.tokyo^$document
 ||x7bghoh.cyou^$document
+||x7casino-app.fr^$document
 ||x7casino-en-ligne.fr^$document
 ||x7casino-enligne.fr^$document
+||x7casino-game.fr^$document
+||x7casino-jeux.fr^$document
+||x7casino-online.fr^$document
 ||x7casino1.fr^$document
 ||x7casinofr.fr^$document
 ||x7casinofrance.fr^$document
