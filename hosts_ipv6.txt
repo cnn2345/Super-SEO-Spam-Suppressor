@@ -651972,8 +651972,6 @@
 ::1 www.taostaninfragmi.tk
 ::1 taotao988.com
 ::1 www.taotao988.com
-::1 taotdzhi.shop
-::1 www.taotdzhi.shop
 ::1 taotie645.com
 ::1 www.taotie645.com
 ::1 taotycoodena.cf
@@ -655810,8 +655808,6 @@
 ::1 www.teich-gartenbau-zickert.de
 ::1 teichert-kuentzler.de
 ::1 www.teichert-kuentzler.de
-::1 teichfilterelektro.com
-::1 www.teichfilterelektro.com
 ::1 teichwunder.com
 ::1 www.teichwunder.com
 ::1 teicompcrusabencon.tk
@@ -657316,8 +657312,6 @@
 ::1 www.teniringro.tk
 ::1 tenisas.eu
 ::1 www.tenisas.eu
-::1 teniskyunderarmour.sk
-::1 www.teniskyunderarmour.sk
 ::1 tenisopevilfilt.gq
 ::1 www.tenisopevilfilt.gq
 ::1 tenispro.fr
@@ -660498,8 +660492,6 @@
 ::1 www.teutacargephe.tk
 ::1 teutimresegite.gq
 ::1 www.teutimresegite.gq
-::1 teutonicspirits.com
-::1 www.teutonicspirits.com
 ::1 teutracafar.tk
 ::1 www.teutracafar.tk
 ::1 teutradbereni.ga
@@ -663056,8 +663048,6 @@
 ::1 www.thegorillavapes.co.uk
 ::1 thegraduateexchange.com
 ::1 www.thegraduateexchange.com
-::1 thegrand-outlet.com
-::1 www.thegrand-outlet.com
 ::1 thegriforrapa.ml
 ::1 www.thegriforrapa.ml
 ::1 thegrimembgireffei.cf
@@ -663958,8 +663948,6 @@
 ::1 www.thermomix-france.fr
 ::1 thermomix-offre.fr
 ::1 www.thermomix-offre.fr
-::1 thermomix-restposten.de
-::1 www.thermomix-restposten.de
 ::1 thermomix-tm6.fr
 ::1 www.thermomix-tm6.fr
 ::1 thermomix-vorwerk-tm7.de
@@ -665290,8 +665278,6 @@
 ::1 www.tholsuneelandda.tk
 ::1 thomania-pics.de
 ::1 www.thomania-pics.de
-::1 thomannofficiall.com
-::1 www.thomannofficiall.com
 ::1 thomargesadubu.tk
 ::1 www.thomargesadubu.tk
 ::1 thomasbhill2010.com
@@ -665312,8 +665298,6 @@
 ::1 www.thompson-sydney.com
 ::1 thoneelsgantio.tk
 ::1 www.thoneelsgantio.tk
-::1 thongish.store
-::1 www.thongish.store
 ::1 thongmorrasa.gq
 ::1 www.thongmorrasa.gq
 ::1 thongsacapehyrd.tk
@@ -666582,8 +666566,6 @@
 ::1 www.tiaglicnoutorfai.gq
 ::1 tiagocardoso.eu
 ::1 www.tiagocardoso.eu
-::1 tiagocarlosdultrary.shop
-::1 www.tiagocarlosdultrary.shop
 ::1 tiagufl.bar
 ::1 www.tiagufl.bar
 ::1 tiagulthecalamb.gq
