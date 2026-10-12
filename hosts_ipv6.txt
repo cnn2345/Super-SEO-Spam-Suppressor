@@ -136704,6 +136704,8 @@
 ::1 www.ca-cerntreloire.fr
 ::1 ca-coatesdarmor.fr
 ::1 www.ca-coatesdarmor.fr
+::1 ca-coeurdelille.fr
+::1 www.ca-coeurdelille.fr
 ::1 ca-connexion-clients.fr
 ::1 www.ca-connexion-clients.fr
 ::1 ca-cybertek.fr
@@ -271190,6 +271192,8 @@
 ::1 www.francetelee.fr
 ::1 francetelevisons.fr
 ::1 www.francetelevisons.fr
+::1 francetinfo.fr
+::1 www.francetinfo.fr
 ::1 francetitres-ants.fr
 ::1 www.francetitres-ants.fr
 ::1 francetonet.fr
@@ -621020,6 +621024,8 @@
 ::1 www.sneakrworld.fr
 ::1 sneakrz.fr
 ::1 www.sneakrz.fr
+::1 sneakstore.fr
+::1 www.sneakstore.fr
 ::1 sneakuclaslareadders.ml
 ::1 www.sneakuclaslareadders.ml
 ::1 sneakwelt.com

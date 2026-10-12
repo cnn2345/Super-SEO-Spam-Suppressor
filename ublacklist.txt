@@ -68355,6 +68355,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ca-centtreloire.fr/*
 *://*.ca-cerntreloire.fr/*
 *://*.ca-coatesdarmor.fr/*
+*://*.ca-coeurdelille.fr/*
 *://*.ca-connexion-clients.fr/*
 *://*.ca-cybertek.fr/*
 *://*.ca-czntrefrance.fr/*
@@ -135598,6 +135599,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.francetelecomcable.fr/*
 *://*.francetelee.fr/*
 *://*.francetelevisons.fr/*
+*://*.francetinfo.fr/*
 *://*.francetitres-ants.fr/*
 *://*.francetonet.fr/*
 *://*.francetonner.fr/*
@@ -310513,6 +310515,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sneakr.fr/*
 *://*.sneakrworld.fr/*
 *://*.sneakrz.fr/*
+*://*.sneakstore.fr/*
 *://*.sneakuclaslareadders.ml/*
 *://*.sneakwelt.com/*
 *://*.sneakymz.web.app/*
