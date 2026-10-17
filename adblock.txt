@@ -32593,6 +32593,7 @@
 ||adl.raodd.shop^$document
 ||adl.rqgbos.shop^$document
 ||adl.tlhqca.shop^$document
+||adl.uhsdj.shop^$document
 ||adl.ukdil.shop^$document
 ||adl.uoyps.shop^$document
 ||adl.wiksh.shop^$document
@@ -36657,6 +36658,7 @@
 ||allesfuerdengarten.com^$document
 ||allesfurzuhause.de^$document
 ||allesheizung.de^$document
+||allesklars.de^$document
 ||allesoutdoor.de^$document
 ||allespipegate.ga^$document
 ||allesschneider.shop^$document
@@ -39598,6 +39600,7 @@
 ||amundib.shop^$document
 ||amundic.sbs^$document
 ||amundispartvi.ga^$document
+||amundsenwear.com^$document
 ||amunimer.tk^$document
 ||amunimun.ml^$document
 ||amunincerbaro.tk^$document
@@ -46220,6 +46223,7 @@
 ||at.irgedvei.shop^$document
 ||at.ketonaktiv.com^$document
 ||at.nneelkwerf.net^$document
+||at.otemtau.shop^$document
 ||at.pkajwb.shop^$document
 ||at.qfmiceden.shop^$document
 ||at.rattaay.com^$document
@@ -52158,6 +52162,7 @@
 ||bauchzwergs-onlineshop.de^$document
 ||baudhnf.tokyo^$document
 ||baudotynerect.ml^$document
+||bauelektroshop.com^$document
 ||bauelemente-mann.de^$document
 ||bauen-shop-de.com^$document
 ||bauer-brennstoffe.com^$document
@@ -57724,6 +57729,7 @@
 ||billigerstore.de^$document
 ||billigesanitaerwerkzeuge.com^$document
 ||billigesfahrrad.com^$document
+||billigeuhren.com^$document
 ||billigevent.dk^$document
 ||billigfahrrad.com^$document
 ||billigfahrradteile.com^$document
@@ -59708,6 +59714,7 @@
 ||blank-sunglasses.com^$document
 ||blank-teacher-learn.org.ru^$document
 ||blankenz.xyz^$document
+||blankertragschaft.net^$document
 ||blankilsdedowndulna.ml^$document
 ||blankonline.fr^$document
 ||blankontjinrapart.gq^$document
@@ -71786,6 +71793,7 @@
 ||casino-allyspin.fr^$document
 ||casino-amon.fr^$document
 ||casino-amonbet.fr^$document
+||casino-amunbet.fr^$document
 ||casino-amunra.fr^$document
 ||casino-aquawin.fr^$document
 ||casino-argent-reel.fr^$document
@@ -72057,6 +72065,7 @@
 ||casinoalexanderfr.fr^$document
 ||casinoallwins.fr^$document
 ||casinoallyspin.fr^$document
+||casinoamunbet.fr^$document
 ||casinoamunra.fr^$document
 ||casinoandfriends.fr^$document
 ||casinoantibes.fr^$document
@@ -77565,6 +77574,7 @@
 ||cheesisonales.ga^$document
 ||cheesonuno.ml^$document
 ||cheetahirnitea.in.net^$document
+||chef-et-food.com^$document
 ||chefatochif.ml^$document
 ||chefclearance.com^$document
 ||chefhaus.de^$document
@@ -81386,6 +81396,7 @@
 ||cityofphoenix.xyz^$document
 ||cityofrefugeorphanage.com^$document
 ||citypark.xyz^$document
+||citypetexpress.com^$document
 ||citypoint.pw^$document
 ||citytalent-voting.de^$document
 ||citytattsdining.xyz^$document
@@ -83961,6 +83972,7 @@
 ||coachoutletfrance.fr^$document
 ||coachsacssoldes.fr^$document
 ||coachsiteofficiel.fr^$document
+||coachtaschen.co.at^$document
 ||coachubookstore.buzz^$document
 ||coachworkmediaword.biz^$document
 ||coacomarsober.gq^$document
@@ -85540,6 +85552,7 @@
 ||commandes-fnac.fr^$document
 ||commandes-prime.fr^$document
 ||commandes-suivi-prime.fr^$document
+||commandesdirect.fr^$document
 ||commandments.xyz^$document
 ||commando-art.dk^$document
 ||commatowkuppbever.tk^$document
@@ -88701,6 +88714,9 @@
 ||coolwaychaussures.fr^$document
 ||coolwayfrance.fr^$document
 ||coolz1no-fra.fr^$document
+||coolz1no-france.fr^$document
+||coolz1no-french.fr^$document
+||coolz1no-play.fr^$document
 ||coolz1no.fr^$document
 ||coolzi.fr^$document
 ||coolzino-1.fr^$document
@@ -89516,6 +89532,7 @@
 ||cotolutomut.ga^$document
 ||cotopaxifrance.fr^$document
 ||cotopaxisoldes.fr^$document
+||cotosen.com^$document
 ||cototholige.tk^$document
 ||cotovaforra.tk^$document
 ||cotovip.com^$document
@@ -91120,6 +91137,7 @@
 ||creditmut-capital.fr^$document
 ||creditmuteuel.fr^$document
 ||creditmutual.fr^$document
+||creditmutuals.fr^$document
 ||creditmutuel-authentification.fr^$document
 ||creditmutuel-ccm.fr^$document
 ||creditmutuel-connect.fr^$document
@@ -98061,6 +98079,7 @@
 ||de.osmo-official.com^$document
 ||de.plantiter.shop^$document
 ||de.puppylove.com^$document
+||de.soera-store.com^$document
 ||de.soolinen.com^$document
 ||de.try-lumive.com^$document
 ||de.ultimate-gainz.com^$document
@@ -126582,6 +126601,7 @@
 ||fahrzeugbau-miro.de^$document
 ||fahrzeugcamp.com^$document
 ||fahrzeugkomfort.de^$document
+||fahrzeugpflegeshop.com^$document
 ||fahrzeugpflegetreskow.de^$document
 ||fahrzeugscanner24.de^$document
 ||fahrzeugteile-shop.com^$document
@@ -130381,6 +130401,7 @@
 ||filmepornoonline.eu^$document
 ||filmfilmsweekrights.buzz^$document
 ||filmindbankfelrea.ga^$document
+||filmkorn.shop^$document
 ||filmlicerempnutpho.tk^$document
 ||filmlucknerlikingwi.tk^$document
 ||filmmanmoracump.tk^$document
@@ -140340,7 +140361,6 @@
 ||galidix.com^$document
 ||galidswordtingka.gq^$document
 ||galihorlipee.tk^$document
-||galileofx.com^$document
 ||galileuconcursos.com.br^$document
 ||galimustiendolria.gq^$document
 ||galisum.xyz^$document
@@ -142347,6 +142367,7 @@
 ||geldehoochersi.tk^$document
 ||geldermans.com^$document
 ||geldertchartiri.ga^$document
+||geldfex.com^$document
 ||geldgapodinat.cf^$document
 ||geldpro.ai^$document
 ||geldrimistlatropu.cf^$document
@@ -147262,11 +147283,19 @@
 ||godz-casiino.fr^$document
 ||godz-casino-fr.fr^$document
 ||godz-cassino.fr^$document
+||godz-fra.fr^$document
+||godz-french.fr^$document
+||godz-officiel.fr^$document
 ||godzcasino-fr.fr^$document
 ||godzcasino1.fr^$document
 ||godzcasinooo.fr^$document
+||godzenligne.fr^$document
+||godzjeux.fr^$document
+||godzofficiel.fr^$document
+||godzplays.fr^$document
 ||godzs.fr^$document
 ||godzscasino.fr^$document
+||godzwin.fr^$document
 ||goebewphati.ml^$document
 ||goecagohacen.cf^$document
 ||goecontsenchaekey.ga^$document
@@ -147496,6 +147525,7 @@
 ||golddetsortbomsimp.tk^$document
 ||golddinar.fr^$document
 ||golddocammuns.ga^$document
+||golden--play.fr^$document
 ||golden-bank.com^$document
 ||golden-bet-casino.fr^$document
 ||golden-bet.fr^$document
@@ -162997,6 +163027,7 @@
 ||holzmoebelkaufen.de^$document
 ||holznotenpulte.de^$document
 ||holzpelletshop.com^$document
+||holzpuzzlez.com^$document
 ||holzqualitat.de^$document
 ||holzregional.de^$document
 ||holzscheitenatur.com^$document
@@ -166023,6 +166054,7 @@
 ||hwbrpx.tokyo^$document
 ||hwbs7w.cyou^$document
 ||hwcbywp.bar^$document
+||hwcdkmzh.shop^$document
 ||hwciqx.tokyo^$document
 ||hwclfx.shop^$document
 ||hwclikbrary.gq^$document
@@ -174743,6 +174775,7 @@
 ||insmoneyrightmother.bar^$document
 ||insnaklimul.web.app^$document
 ||insnowhexarce.ml^$document
+||inso-gmbh.com^$document
 ||inso8t.xyz^$document
 ||insogoperpeamo.tk^$document
 ||insokcamppitchkin.tk^$document
@@ -174865,6 +174898,7 @@
 ||instant-france-casino.fr^$document
 ||instant-mobile.fr^$document
 ||instant-official.fr^$document
+||instant-online-login.fr^$document
 ||instant-play.fr^$document
 ||instant2.fr^$document
 ||instantactus.fr^$document
@@ -204974,6 +205008,7 @@
 ||livres-hebdo.eu^$document
 ||livrescolair.fr^$document
 ||livresscolaire.fr^$document
+||livret-defense.fr^$document
 ||livret-ftneo.fr^$document
 ||livretdefense.fr^$document
 ||livretdepargne.fr^$document
@@ -208893,6 +208928,7 @@
 ||luckterreracsi.ml^$document
 ||luckvp.cn^$document
 ||luckwimbwifumangra.tk^$document
+||lucky--crew.fr^$document
 ||lucky-31-france.fr^$document
 ||lucky-31casinos.fr^$document
 ||lucky-7.fr^$document
@@ -215281,6 +215317,7 @@
 ||matdekapilgdotfest.ga^$document
 ||matdersstatfela.tk^$document
 ||matdirarechan.ml^$document
+||mateenenterprise.com^$document
 ||mateicristian.xyz^$document
 ||matejadereani.si^$document
 ||matelab.cc^$document
@@ -237367,9 +237404,14 @@
 ||nine-casinos-fr.fr^$document
 ||nine-casinos.fr^$document
 ||nine-casinosfr.fr^$document
+||nine-enligne.fr^$document
+||nine-jeux.fr^$document
+||nine-officiel.fr^$document
 ||nine-win.fr^$document
 ||nine1nine.fr^$document
 ||nine9casino.fr^$document
+||nine9jouez.fr^$document
+||nine9officiel.fr^$document
 ||nineca5ino.fr^$document
 ||ninecas-ino.fr^$document
 ||ninecas1no-play.fr^$document
@@ -250760,6 +250802,7 @@
 ||outdoorspetzl.com^$document
 ||outdoorsportsequip.com^$document
 ||outdoorsretail.com^$document
+||outdoorssportswear.com^$document
 ||outdoorventureson.com^$document
 ||outdoorzelte.com^$document
 ||outdreammaterials.biz^$document
@@ -260128,6 +260171,7 @@
 ||phillxiwebsvigaff.ga^$document
 ||philneomendobi.tk^$document
 ||philonist.space^$document
+||philoro-de.to^$document
 ||philoro.online^$document
 ||philosophyk.com^$document
 ||philotecnique.fr^$document
@@ -281536,6 +281580,7 @@
 ||rasenmaschinen.com^$document
 ||rasenmotor.com^$document
 ||rasenpro.com^$document
+||rasenritzel.com^$document
 ||rasenrobo.com^$document
 ||rasenshop24.com^$document
 ||rasenstolz.com^$document
@@ -281823,6 +281868,7 @@
 ||raulowfanswritraca.tk^$document
 ||raulsierra.co^$document
 ||raum-lust.de^$document
+||raumbauteile.com^$document
 ||raumduftpflegebedarf.com^$document
 ||raumgartenwerk.de^$document
 ||raumnote.de^$document
@@ -286220,6 +286266,7 @@
 ||replicawatchtr.com^$document
 ||replifamolab.gq^$document
 ||replika-uhr.to^$document
+||replikuhrenshop.de^$document
 ||repliqueburberry.fr^$document
 ||repliquecartier.fr^$document
 ||repliquedior.fr^$document
@@ -292125,6 +292172,9 @@
 ||rolletto-casino.fr^$document
 ||rolletto-casinos.fr^$document
 ||rolletto-fr.fr^$document
+||rolletto-fra.fr^$document
+||rolletto-france.fr^$document
+||rolletto-french.fr^$document
 ||rolletto.fr^$document
 ||rolletto777.fr^$document
 ||rollettocasino-fr.fr^$document
@@ -296995,6 +297045,7 @@
 ||sahrvkw.cyou^$document
 ||sahydfirsrentlec.cf^$document
 ||sahyhanburn.tk^$document
+||saia-maschinen.com^$document
 ||saibalcerptasklesssunb.cf^$document
 ||saiberlectcenmimi.cf^$document
 ||saibetdeika.tk^$document
@@ -297328,6 +297379,7 @@
 ||salomonfroutlet.fr^$document
 ||salomonmarseille.fr^$document
 ||salomonosterreich.at^$document
+||salomonoutlet.fr^$document
 ||salomonoutletgermany.de^$document
 ||salomonoutletireland.com^$document
 ||salomonoutletstoresusa.com^$document
@@ -314183,8 +314235,10 @@
 ||spin-millions.fr^$document
 ||spin-panda-casino.fr^$document
 ||spin-pandacasino.fr^$document
+||spin-polo.fr^$document
 ||spin-rollz-casino.fr^$document
 ||spin-rollzcasino.fr^$document
+||spin-shark.fr^$document
 ||spin-spirit-casino.fr^$document
 ||spin-star.fr^$document
 ||spin-stella.fr^$document
@@ -316197,6 +316251,7 @@
 ||stake-casino.paris^$document
 ||stake-casino1.fr^$document
 ||stake-casino2.fr^$document
+||stake-casinofrance.fr^$document
 ||stake-casinos.fr^$document
 ||stake-en-ligne.fr^$document
 ||stake-enligne.fr^$document
@@ -339220,7 +339275,6 @@
 ||toppdf.co^$document
 ||toppgusrere.tk^$document
 ||topphiechesamen.ml^$document
-||toppillsstore.com^$document
 ||topplistheopabeli.gq^$document
 ||topplumbersnearby.club^$document
 ||topproducer.xyz^$document
@@ -349008,6 +349062,7 @@
 ||umbhzx.tokyo^$document
 ||umbises.xyz^$document
 ||umboacy.xyz^$document
+||umbrafrance.fr^$document
 ||umbrellacorp.fr^$document
 ||umbrellavi.web.app^$document
 ||umbriaescursioni.it^$document
@@ -363788,7 +363843,6 @@
 ||vivaharmoni.com^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
-||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
@@ -369150,7 +369204,6 @@
 ||waypresbuiglutso.ml^$document
 ||waypumulmostmingde.tk^$document
 ||wayractantferjustlumb.tk^$document
-||wayrates.com^$document
 ||wayrekrinapuwhist.ml^$document
 ||wayreuneyfuncnanthke.gq^$document
 ||wayrichstudentnumbers.biz^$document
@@ -370992,6 +371045,7 @@
 ||werkzeug-salesshop.com^$document
 ||werkzeug-und-maschinen.com^$document
 ||werkzeug-und-maschinen.de^$document
+||werkzeugarena.com^$document
 ||werkzeugboxe.com^$document
 ||werkzeugdeutsch.com^$document
 ||werkzeugdiscount.com^$document
@@ -374125,6 +374179,7 @@
 ||wittenwald.de^$document
 ||wittering.website^$document
 ||wittgecolensmare.tk^$document
+||wittmode.com^$document
 ||wittpercompnacagin.cf^$document
 ||witttibhobbterstiptio.cf^$document
 ||witttlinnarfacare.tk^$document
