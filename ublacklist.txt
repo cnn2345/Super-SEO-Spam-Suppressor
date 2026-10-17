@@ -36644,6 +36644,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.allerabla.ml/*
 *://*.alleresedsa.cf/*
 *://*.allergiker-urlaub.buzz/*
+*://*.allergocover.care/*
 *://*.allergy-relief-guide.info/*
 *://*.allerhand-md.de/*
 *://*.allerleitrendshop.de/*
@@ -37941,6 +37942,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ambia-beleuchtung.de/*
 *://*.ambicoserver2.co.uk/*
 *://*.ambitbio.com/*
+*://*.ambitspot.de/*
 *://*.ambjl01.com/*
 *://*.ambjl02.com/*
 *://*.ambjl03.com/*
@@ -63980,6 +63982,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.brennholzwidmann.de/*
 *://*.brennkiste.de/*
 *://*.brennstoffemokstat.shop/*
+*://*.brennstoffhandel-behnke.de/*
 *://*.brenntag.ee/*
 *://*.brennuischif.ml/*
 *://*.brenomimflexazun.ga/*
@@ -65481,6 +65484,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bucher.xyz/*
 *://*.buchhaltungbayern.de/*
 *://*.buchiptidepsi.gq/*
+*://*.buchlaterne.de/*
 *://*.buchluzip.ga/*
 *://*.buchmessles.ga/*
 *://*.buchnergmbh.com/*
@@ -291426,6 +291430,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.roborockshop.de.com/*
 *://*.robosparkinvestor.de/*
 *://*.robosriegreenan.tk/*
+*://*.robot-tonde-aspir.com/*
 *://*.robotcdewdpocre.cf/*
 *://*.roboter-freunde.de/*
 *://*.robotikstore.com/*
@@ -327423,6 +327428,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tbzzlk.bar/*
 *://*.tbzzsn.tokyo/*
 *://*.tc-bnk.xyz/*
+*://*.tc-germany.com/*
 *://*.tc-schottwien.at/*
 *://*.tc-westeresch.de/*
 *://*.tc07qz.shop/*

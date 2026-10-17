@@ -36643,6 +36643,7 @@
 ||allerabla.ml^$document
 ||alleresedsa.cf^$document
 ||allergiker-urlaub.buzz^$document
+||allergocover.care^$document
 ||allergy-relief-guide.info^$document
 ||allerhand-md.de^$document
 ||allerleitrendshop.de^$document
@@ -37940,6 +37941,7 @@
 ||ambia-beleuchtung.de^$document
 ||ambicoserver2.co.uk^$document
 ||ambitbio.com^$document
+||ambitspot.de^$document
 ||ambjl01.com^$document
 ||ambjl02.com^$document
 ||ambjl03.com^$document
@@ -63979,6 +63981,7 @@
 ||brennholzwidmann.de^$document
 ||brennkiste.de^$document
 ||brennstoffemokstat.shop^$document
+||brennstoffhandel-behnke.de^$document
 ||brenntag.ee^$document
 ||brennuischif.ml^$document
 ||brenomimflexazun.ga^$document
@@ -65480,6 +65483,7 @@
 ||bucher.xyz^$document
 ||buchhaltungbayern.de^$document
 ||buchiptidepsi.gq^$document
+||buchlaterne.de^$document
 ||buchluzip.ga^$document
 ||buchmessles.ga^$document
 ||buchnergmbh.com^$document
@@ -291425,6 +291429,7 @@
 ||roborockshop.de.com^$document
 ||robosparkinvestor.de^$document
 ||robosriegreenan.tk^$document
+||robot-tonde-aspir.com^$document
 ||robotcdewdpocre.cf^$document
 ||roboter-freunde.de^$document
 ||robotikstore.com^$document
@@ -327422,6 +327427,7 @@
 ||tbzzlk.bar^$document
 ||tbzzsn.tokyo^$document
 ||tc-bnk.xyz^$document
+||tc-germany.com^$document
 ||tc-schottwien.at^$document
 ||tc-westeresch.de^$document
 ||tc07qz.shop^$document
