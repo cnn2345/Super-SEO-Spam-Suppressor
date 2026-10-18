@@ -42450,6 +42450,7 @@
 ||app-ecompte.fr^$document
 ||app-espace.fr^$document
 ||app-good.com^$document
+||app-livraison.fr^$document
 ||app-localiser.fr^$document
 ||app-logistics.com^$document
 ||app-millenium.fr^$document
@@ -92712,6 +92713,7 @@
 ||ctay1lg.tokyo^$document
 ||ctb8ny.cyou^$document
 ||ctbia.tokyo^$document
+||ctbike.pl^$document
 ||ctc-recouvrement.fr^$document
 ||ctcg3o.xyz^$document
 ||ctchoops.buzz^$document
@@ -102679,6 +102681,8 @@
 ||dicdigendcesighpis.gq^$document
 ||dicdisftinghut.tk^$document
 ||dicdufurficockprof.gq^$document
+||dicepalace-fr.fr^$document
+||dicepalace8.fr^$document
 ||dicerfer.es^$document
 ||dicexin.com^$document
 ||dicfaphalicepdeo.gq^$document
@@ -219186,7 +219190,6 @@
 ||mg6eqap.cyou^$document
 ||mg7lzf.tokyo^$document
 ||mg7ofa.tokyo^$document
-||mgaffaires.com^$document
 ||mgaibt.cyou^$document
 ||mgaj0fy.tokyo^$document
 ||mgajfk.tokyo^$document
@@ -220413,6 +220416,7 @@
 ||millioner-online.fr^$document
 ||millioner-play.fr^$document
 ||millioner1-casino.fr^$document
+||millioner9.fr^$document
 ||millionerbonus.fr^$document
 ||millionercasino-bonus.fr^$document
 ||millionercasino-fr.fr^$document
@@ -220420,6 +220424,7 @@
 ||millionercasinoenligne.fr^$document
 ||millionercasinos.fr^$document
 ||millionerfr.fr^$document
+||millionerplay.fr^$document
 ||millionerr.fr^$document
 ||millioners-casino.fr^$document
 ||millioners-casinos.fr^$document
@@ -255643,6 +255648,8 @@
 ||partysnumberroom.buzz^$document
 ||partyspins.fr^$document
 ||partyspinz-casino.fr^$document
+||partyspinz.fr^$document
+||partyspinz6.fr^$document
 ||partyspinzcasino.fr^$document
 ||paruphamildi.tk^$document
 ||parupsi.my.id^$document
@@ -288056,7 +288063,6 @@
 ||rhodalatdfathryu.ml^$document
 ||rhode.co.at^$document
 ||rhodenlukasur.tk^$document
-||rhodeshotel24.com^$document
 ||rhodicavramrionen.tk^$document
 ||rhodocextoben.tk^$document
 ||rhodolmarno.tk^$document
@@ -292110,6 +292116,7 @@
 ||rolesroomstraditionals.bar^$document
 ||rolesthingbusinesss.biz^$document
 ||rolex-replica.to^$document
+||rolexwanduhr.de^$document
 ||rolexyeals.com^$document
 ||rolezamtibo.ga^$document
 ||rolf24.ee^$document
@@ -317314,6 +317321,7 @@
 ||steelmeslightedcornful.tk^$document
 ||steelmoebel.de^$document
 ||steelonineciv.tk^$document
+||steelseries-fr.fr^$document
 ||steelseries.com.de^$document
 ||steelstud.org^$document
 ||steelwebsdicomware.tk^$document
@@ -363846,6 +363854,7 @@
 ||vivaharmoni.com^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
+||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
@@ -372643,10 +372652,12 @@
 ||wildsino-kasino.fr^$document
 ||wildsino-official.fr^$document
 ||wildsino-officiel.fr^$document
+||wildsino6.fr^$document
 ||wildsinocasino1.fr^$document
 ||wildsinofr.fr^$document
 ||wildsinojouer.fr^$document
 ||wildsinoo.fr^$document
+||wildsinoplay.fr^$document
 ||wildsinos.fr^$document
 ||wildsnipleofreelnyo.tk^$document
 ||wildspiccallouta.tk^$document
@@ -389078,6 +389089,8 @@
 ||yonibet-official.fr^$document
 ||yonibet-officiel.fr^$document
 ||yonibet3.fr^$document
+||yonibetapp.fr^$document
+||yonibetbet.fr^$document
 ||yonibetcasino.fr^$document
 ||yonibetcasinos.fr^$document
 ||yonibetofficiel.fr^$document
