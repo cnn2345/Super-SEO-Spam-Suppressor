@@ -611966,6 +611966,8 @@
 ::1 www.showdesignswayagent.bar
 ::1 showeaks.xyz
 ::1 www.showeaks.xyz
+::1 showeraddict.com
+::1 www.showeraddict.com
 ::1 showerheadmr.com
 ::1 www.showerheadmr.com
 ::1 showerroomshops.com
