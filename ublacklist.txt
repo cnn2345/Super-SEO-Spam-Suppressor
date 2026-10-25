@@ -57647,6 +57647,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.biljxu.bar/*
 *://*.bilkaphowo.tk/*
 *://*.billa.prizmar.at/*
+*://*.billabong-soldes.fr/*
 *://*.billabong.com.de/*
 *://*.billabongfr.fr/*
 *://*.billabongfrance.fr/*
@@ -108495,6 +108496,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dreamchedichaljawd.tk/*
 *://*.dreamcigarettes.com/*
 *://*.dreamconsidersjob.bar/*
+*://*.dreame-outlet.fr/*
 *://*.dreameaginprispertsleb.ml/*
 *://*.dreamecugaclugold.tk/*
 *://*.dreamelegants.com/*
@@ -130659,6 +130661,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.finances-verbalisations.fr/*
 *://*.financesgouv.fr/*
 *://*.financesky.cn/*
+*://*.financespublique.fr/*
 *://*.financetime.xyz/*
 *://*.financial-broker.com/*
 *://*.financial-exchange.com/*
@@ -181975,6 +181978,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.jimdetolabre.ga/*
 *://*.jimev1softwares.buzz/*
 *://*.jimgreen.fr/*
+*://*.jimmychoo-france.fr/*
 *://*.jimtapotsheart.tk/*
 *://*.jimvpy.rest/*
 *://*.jin766.com/*
@@ -188592,6 +188596,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kenvolodebthempdu.tk/*
 *://*.kenzbaldsunbarcma.cf/*
 *://*.kenzdysrosame.tk/*
+*://*.kenzo-soldes.fr/*
 *://*.kenzofrance.fr/*
 *://*.kenzosoldes.fr/*
 *://*.kenzoworld.fr/*
@@ -199870,6 +199875,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lemamingbreadcopis.tk/*
 *://*.lemandwerssandceco.tk/*
 *://*.lemanifestedes15.fr/*
+*://*.lemans-fc.fr/*
 *://*.lemanwatches.fr/*
 *://*.lemapubsiofin.tk/*
 *://*.lemarathondesmots.be/*
@@ -207476,6 +207482,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lormiredtodehy.gq/*
 *://*.lornajane-france.fr/*
 *://*.lornajanedeutschland.de/*
+*://*.lornajanefr.fr/*
 *://*.lornajaneparis.fr/*
 *://*.loro-pianas.de/*
 *://*.lorobattiwoo.tk/*
@@ -251155,6 +251162,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.outletmiumiu.fr/*
 *://*.outletnewin.com/*
 *://*.outletnike.fr/*
+*://*.outletpace.fr/*
 *://*.outletparis.fr/*
 *://*.outletpc.de/*
 *://*.outletpickleball.com/*
@@ -297837,6 +297845,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.samsdinkenarego.tk/*
 *://*.samsic-interim.fr/*
 *://*.samsmupefibid.ml/*
+*://*.samsonite-france.fr/*
 *://*.samsonite-paris.fr/*
 *://*.samsonite-suomi.com/*
 *://*.samsonite.com.de/*
@@ -299571,6 +299580,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.scapamarbusle.tk/*
 *://*.scapbattlingtetab.tk/*
 *://*.scapelevir.gq/*
+*://*.scapest-leclerc.fr/*
 *://*.scapfimiciti.tk/*
 *://*.scapiaa.xyz/*
 *://*.scapigproggoodduvi.tk/*
@@ -322746,6 +322756,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.swatchoutlet.fr/*
 *://*.swatchparis.fr/*
 *://*.swatchshopping.com/*
+*://*.swatchsoldes.fr/*
 *://*.swatdictheymethlu.ga/*
 *://*.swatdillosove.ml/*
 *://*.swatenalus.ga/*
@@ -363297,6 +363308,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vinlightoconru.tk/*
 *://*.vinmagasinet.dk/*
 *://*.vinmarcwalanbi.cf/*
+*://*.vinmec.com/*
 *://*.vinmekka.dk/*
 *://*.vinmonclettbunkigou.tk/*
 *://*.vinnci.fr/*
