@@ -13807,7 +13807,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.4bhhk.tokyo/*
 *://*.4bhq2j.shop/*
 *://*.4bigye.cyou/*
-*://*.4bike.net/*
 *://*.4bio.pt/*
 *://*.4bisblw.cn/*
 *://*.4bj5s9.cyou/*
@@ -47537,6 +47536,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.auth-service-chorus.fr/*
 *://*.auth-serviceabo7501.fr/*
 *://*.auth-services.fr/*
+*://*.auth-sg.fr/*
 *://*.auth-signin.fr/*
 *://*.auth-societegenerale.fr/*
 *://*.auth-somfy.fr/*
@@ -55044,7 +55044,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestcentnideftio.ml/*
 *://*.bestcentralesupelec.fr/*
 *://*.bestcentterreda.gq/*
-*://*.bestchoicepills.com/*
 *://*.bestchopshardcubi.gq/*
 *://*.bestcleaningcenter.ro/*
 *://*.bestclixtickurzmet.ml/*
@@ -91150,6 +91149,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.credikosirfawmi.gq/*
 *://*.credilkurbirth.gq/*
 *://*.credilmutuel.fr/*
+*://*.credilynx-finance.fr/*
 *://*.credimatfourbi.tk/*
 *://*.credimteropa.tk/*
 *://*.credinatov.tk/*
@@ -104508,7 +104508,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.discount-audio-equipment.com/*
 *://*.discount-autosport.fr/*
 *://*.discount-baustoff.de/*
-*://*.discount-cigarettes-store.net/*
 *://*.discount-distributors.buzz/*
 *://*.discount-kobalt.com/*
 *://*.discount-lightingshop.com/*
@@ -125636,7 +125635,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ezzzrr.tokyo/*
 *://*.f-franprix.fr/*
 *://*.f-voyance.fr/*
-*://*.f.075756.net/*
 *://*.f005m8.shop/*
 *://*.f00gtm.cyou/*
 *://*.f00hmkj.cyou/*
@@ -130784,7 +130782,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.finanz.on-aktualisierung.cc/*
 *://*.finanzasforex.com/*
 *://*.finanzberater-schaaf.de/*
-*://*.finanzen.075756.net/*
 *://*.finanzenexpress.com/*
 *://*.finanziata.buzz/*
 *://*.finanzonline-gvbmfgv.info/*
@@ -141277,7 +141274,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gartenfuhrer.de/*
 *://*.gartenfurdu.de/*
 *://*.gartengenussde.com/*
-*://*.gartengeraete-shop.de/*
 *://*.gartengluecklich.de/*
 *://*.gartengreifer.de/*
 *://*.gartenguenter.de/*
@@ -148884,6 +148880,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gouv-cybersecurite.fr/*
 *://*.gouv-decloyer.fr/*
 *://*.gouv-dgfip.fr/*
+*://*.gouv-diplomat.fr/*
 *://*.gouv-diplomatie-europe.fr/*
 *://*.gouv-dossierantai.fr/*
 *://*.gouv-dossiers.fr/*
@@ -163055,6 +163052,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hokaat.co.at/*
 *://*.hokachaussurefrance.fr/*
 *://*.hokachaussureparis.fr/*
+*://*.hokachaussures.fr/*
 *://*.hokadeutschland.de/*
 *://*.hokae.bar/*
 *://*.hokaensoldes.fr/*
@@ -163072,6 +163070,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hokaoneonesolde.fr/*
 *://*.hokaonesolde.fr/*
 *://*.hokaonesoldes.fr/*
+*://*.hokaoutlet.fr/*
 *://*.hokaoutletfr.fr/*
 *://*.hokaoutletfrance.fr/*
 *://*.hokaoutletparis.fr/*
@@ -164212,7 +164211,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotelsclick.fr/*
 *://*.hotelsilvanasanmarino.it/*
 *://*.hotelsinperm.ru/*
-*://*.hotelsinvienna.org/*
 *://*.hotelsofmenorca.com/*
 *://*.hotelspydns.com/*
 *://*.hotelstravelandmore.com/*
@@ -218606,6 +218604,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.merrellchaussures.fr/*
 *://*.merrelldeutschland.com/*
 *://*.merrellenpromos.fr/*
+*://*.merrellfrance-fr.fr/*
 *://*.merrellfrance.fr/*
 *://*.merrelloutletonline.de/*
 *://*.merrellparissale.fr/*
@@ -254080,6 +254079,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.padekernalip.cf/*
 *://*.padel001.jp/*
 *://*.padelindooralbalat.es/*
+*://*.padeloutlet.fr/*
 *://*.padelpop.es/*
 *://*.padelschlag.com/*
 *://*.paderpmanwatch.tk/*
@@ -261635,7 +261635,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pills-au.com/*
 *://*.pills-store-online24.com/*
 *://*.pillsshop.live/*
-*://*.pillstock.net/*
 *://*.pilltdotelterec.gq/*
 *://*.pillz888.org/*
 *://*.pilmesalfialetip.ml/*
@@ -263016,7 +263015,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.platicjeesulcoa.tk/*
 *://*.platigaqolac.gq/*
 *://*.platimotedvema.cf/*
-*://*.platincoin.com/*
 *://*.platinebable.gq/*
 *://*.platiniridium.best/*
 *://*.platinisingizvfa.buzz/*
@@ -264731,6 +264729,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.polaroid.com.de/*
 *://*.polaroidfrance.fr/*
 *://*.polaroids.at/*
+*://*.polaroidsfrance.fr/*
 *://*.polarsupply.de/*
 *://*.polasrithimelk.tk/*
 *://*.polastripavimentilegno.it/*
@@ -268418,6 +268417,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.primatinwe.tk/*
 *://*.primatop.de/*
 *://*.primavaraxr400.site/*
+*://*.primavo24.de/*
 *://*.primazgranolper.cf/*
 *://*.primcalbosi.web.app/*
 *://*.primchouetosenge.ga/*
@@ -315668,6 +315668,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sprawkas.gq/*
 *://*.sprayfoam.ee/*
 *://*.sprayground-france.fr/*
+*://*.spraygroundfr.fr/*
 *://*.spraygroundfrance.fr/*
 *://*.spraygrounds.de/*
 *://*.sprayitonyou.com/*
