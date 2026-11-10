@@ -92856,6 +92856,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.crystalbet.fr/*
 *://*.crystaldiskinfo.fr/*
 *://*.crystaldiskmark.fr/*
+*://*.crystalli.de/*
 *://*.crysterolong.cf/*
 *://*.crystesovimimi.tk/*
 *://*.crysto.fun/*
@@ -104809,6 +104810,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.discount-audio-equipment.com/*
 *://*.discount-autosport.fr/*
 *://*.discount-baustoff.de/*
+*://*.discount-cigarettes-store.net/*
 *://*.discount-distributors.buzz/*
 *://*.discount-kobalt.com/*
 *://*.discount-lightingshop.com/*
@@ -123813,6 +123815,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.euzpded.tokyo/*
 *://*.euzrxx.shop/*
 *://*.euzxlk4.cyou/*
+*://*.ev-farm.com/*
 *://*.ev0frdz.tokyo/*
 *://*.ev26dm-societegenerale.fr/*
 *://*.ev2to4n.work/*
@@ -141708,7 +141711,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gartenfuhrer.de/*
 *://*.gartenfurdu.de/*
 *://*.gartengenussde.com/*
-*://*.gartengeraete-shop.de/*
 *://*.gartengluecklich.de/*
 *://*.gartenguenter.de/*
 *://*.gartenhandel-poltermann.de/*
@@ -160076,6 +160078,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.heidelbergfrancesas.fr/*
 *://*.heidertivites.tk/*
 *://*.heidetirimalcei.tk/*
+*://*.heidi-mode.de/*
 *://*.heididur.tk/*
 *://*.heidingskinelecog.ml/*
 *://*.heidrogincoti.tk/*
@@ -222871,6 +222874,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mivossgvps.xyz/*
 *://*.mivoxa.de/*
 *://*.mivoyvl.tokyo/*
+*://*.mivoza.de/*
 *://*.mivrex.com/*
 *://*.mivtgy.cyou/*
 *://*.mivutuqejese.tk/*
@@ -224065,6 +224069,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.modeboutiqueweber.de/*
 *://*.modedeu.com/*
 *://*.modedisne.de/*
+*://*.modefest.de/*
 *://*.modegocifa.ga/*
 *://*.modegonessrcaf.ga/*
 *://*.modehaus-dresden.com/*
@@ -283922,6 +283927,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rdnffh.cyou/*
 *://*.rdnkvqp.tokyo/*
 *://*.rdoctolib.fr/*
+*://*.rdoering.de/*
 *://*.rdolqm.tokyo/*
 *://*.rdpas38.tokyo/*
 *://*.rdpc4u3.tokyo/*
@@ -295736,7 +295742,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ruchilnimattgun.tk/*
 *://*.rucipinagi.tk/*
 *://*.rucircbeencdeaddown.tk/*
-*://*.ruckgabe.heidi-mode.de/*
 *://*.ruckgadoukohor.tk/*
 *://*.rucklighgeforsemb.gq/*
 *://*.rucknithelirocro.tk/*
@@ -391038,6 +391043,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yonzdy.rest/*
 *://*.yoo4c3.cyou/*
 *://*.yoocaa.com/*
+*://*.yoohal.com/*
 *://*.yoohoo.cards/*
 *://*.yoohoo.cards/*
 *://*.yoolle.com/*
@@ -395979,6 +395985,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zauxisesourli.tk/*
 *://*.zavabgutina.ga/*
 *://*.zavadewabloby.tk/*
+*://*.zavando.de/*
 *://*.zavant.ai/*
 *://*.zavant.ai/*
 *://*.zaveae.tokyo/*
