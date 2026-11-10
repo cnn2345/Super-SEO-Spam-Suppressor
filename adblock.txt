@@ -31274,6 +31274,7 @@
 ||acheref.fr^$document
 ||achergasbipuzzra.ml^$document
 ||achete-followers.fr^$document
+||acheter-compte-fb.fr^$document
 ||acheter-compte-snap.fr^$document
 ||acheter-esim.fr^$document
 ||acheter-lasix.fr^$document
@@ -36421,6 +36422,7 @@
 ||aliaryan.com^$document
 ||alias-investissement-ehpad.fr^$document
 ||aliatokazii.ro^$document
+||alibaba24.fr^$document
 ||alibabacloud.fr^$document
 ||alibabafrance.fr^$document
 ||alibabashop.fr^$document
@@ -38387,6 +38389,7 @@
 ||ameli-moncompte-info.fr^$document
 ||ameli-moncompte.fr^$document
 ||ameli-mondossier.fr^$document
+||ameli-monespace.fr^$document
 ||ameli-monespacecartevitale.fr^$document
 ||ameli-monespaceclient.fr^$document
 ||ameli-monespacepersonnel.fr^$document
@@ -40396,6 +40399,7 @@
 ||angepocoto.gq^$document
 ||angermaierwiesn.de^$document
 ||angers-radioloagie.fr^$document
+||angershockey.fr^$document
 ||angersmetropole.fr^$document
 ||angielski-w-it.pl^$document
 ||angielskipopolsku.pl^$document
@@ -66664,6 +66668,7 @@
 ||burtnalindu.tk^$document
 ||burtocantalawn.ml^$document
 ||burton-fr.fr^$document
+||burton-france.fr^$document
 ||burton-soldes.fr^$document
 ||burton.co.at^$document
 ||burtonde.de^$document
@@ -72089,6 +72094,7 @@
 ||casino-betify-avis.fr^$document
 ||casino-betify.fr^$document
 ||casino-betifyfr.fr^$document
+||casino-betnjet.fr^$document
 ||casino-betonred.fr^$document
 ||casino-betriot.fr^$document
 ||casino-betriviera.fr^$document
@@ -85143,6 +85149,7 @@
 ||colanapededesc.tk^$document
 ||colas-digital-solutions.fr^$document
 ||colas-france-construction.fr^$document
+||colas-france-constrution.fr^$document
 ||colas-france-construtions.fr^$document
 ||colas-group.fr^$document
 ||colasgroup.fr^$document
@@ -129488,6 +129495,7 @@
 ||fenmordmimire.ml^$document
 ||fenmotesun.gq^$document
 ||fenna-muller.de^$document
+||fennecshop.fr^$document
 ||fennesepegolf.tk^$document
 ||fennilixil.cf^$document
 ||fennumptemutting.tk^$document
@@ -154981,6 +154989,7 @@
 ||hah8.cn^$document
 ||hah8.life^$document
 ||hah9.life^$document
+||haha-spin.fr^$document
 ||hahahahahahahaha-mo.re^$document
 ||hahaiamandy.com^$document
 ||hahakonakaki.tk^$document
@@ -159910,6 +159919,7 @@
 ||heavfer.my.id^$document
 ||heavmis.asia^$document
 ||heavout.my.id^$document
+||heavy-bet.fr^$document
 ||heavybetcasino.fr^$document
 ||heavyfullsheplace.rest^$document
 ||heavymanwordfinally.biz^$document
@@ -161144,6 +161154,7 @@
 ||heuklebliviwil.tk^$document
 ||heulabnibecore.gq^$document
 ||heuletisenla.cf^$document
+||heuliez.fr^$document
 ||heumaniqus.ml^$document
 ||heunarawohlver.tk^$document
 ||heunecomlou.tk^$document
@@ -238177,6 +238188,7 @@
 ||nighskimolexafti.cf^$document
 ||nighsolilickser.ga^$document
 ||nighsorpblazerskuzom.tk^$document
+||night-luck.fr^$document
 ||nightaddresssmonth.de^$document
 ||nightaholdderswea.gq^$document
 ||nightbilldrawpoint.biz^$document
@@ -311221,6 +311233,7 @@
 ||slotscity.fr^$document
 ||slotsdjj.fr^$document
 ||slotseatercasino.fr^$document
+||slotsfr.fr^$document
 ||slotsgarden-casino.fr^$document
 ||slotsgemcasino.fr^$document
 ||slotshark.fr^$document

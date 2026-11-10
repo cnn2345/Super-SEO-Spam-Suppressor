@@ -31275,6 +31275,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.acheref.fr/*
 *://*.achergasbipuzzra.ml/*
 *://*.achete-followers.fr/*
+*://*.acheter-compte-fb.fr/*
 *://*.acheter-compte-snap.fr/*
 *://*.acheter-esim.fr/*
 *://*.acheter-lasix.fr/*
@@ -36422,6 +36423,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.aliaryan.com/*
 *://*.alias-investissement-ehpad.fr/*
 *://*.aliatokazii.ro/*
+*://*.alibaba24.fr/*
 *://*.alibabacloud.fr/*
 *://*.alibabafrance.fr/*
 *://*.alibabashop.fr/*
@@ -38388,6 +38390,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ameli-moncompte-info.fr/*
 *://*.ameli-moncompte.fr/*
 *://*.ameli-mondossier.fr/*
+*://*.ameli-monespace.fr/*
 *://*.ameli-monespacecartevitale.fr/*
 *://*.ameli-monespaceclient.fr/*
 *://*.ameli-monespacepersonnel.fr/*
@@ -40397,6 +40400,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.angepocoto.gq/*
 *://*.angermaierwiesn.de/*
 *://*.angers-radioloagie.fr/*
+*://*.angershockey.fr/*
 *://*.angersmetropole.fr/*
 *://*.angielski-w-it.pl/*
 *://*.angielskipopolsku.pl/*
@@ -66665,6 +66669,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.burtnalindu.tk/*
 *://*.burtocantalawn.ml/*
 *://*.burton-fr.fr/*
+*://*.burton-france.fr/*
 *://*.burton-soldes.fr/*
 *://*.burton.co.at/*
 *://*.burtonde.de/*
@@ -72090,6 +72095,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-betify-avis.fr/*
 *://*.casino-betify.fr/*
 *://*.casino-betifyfr.fr/*
+*://*.casino-betnjet.fr/*
 *://*.casino-betonred.fr/*
 *://*.casino-betriot.fr/*
 *://*.casino-betriviera.fr/*
@@ -85144,6 +85150,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.colanapededesc.tk/*
 *://*.colas-digital-solutions.fr/*
 *://*.colas-france-construction.fr/*
+*://*.colas-france-constrution.fr/*
 *://*.colas-france-construtions.fr/*
 *://*.colas-group.fr/*
 *://*.colasgroup.fr/*
@@ -129489,6 +129496,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fenmordmimire.ml/*
 *://*.fenmotesun.gq/*
 *://*.fenna-muller.de/*
+*://*.fennecshop.fr/*
 *://*.fennesepegolf.tk/*
 *://*.fennilixil.cf/*
 *://*.fennumptemutting.tk/*
@@ -154982,6 +154990,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hah8.cn/*
 *://*.hah8.life/*
 *://*.hah9.life/*
+*://*.haha-spin.fr/*
 *://*.hahahahahahahaha-mo.re/*
 *://*.hahaiamandy.com/*
 *://*.hahakonakaki.tk/*
@@ -159911,6 +159920,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.heavfer.my.id/*
 *://*.heavmis.asia/*
 *://*.heavout.my.id/*
+*://*.heavy-bet.fr/*
 *://*.heavybetcasino.fr/*
 *://*.heavyfullsheplace.rest/*
 *://*.heavymanwordfinally.biz/*
@@ -161145,6 +161155,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.heuklebliviwil.tk/*
 *://*.heulabnibecore.gq/*
 *://*.heuletisenla.cf/*
+*://*.heuliez.fr/*
 *://*.heumaniqus.ml/*
 *://*.heunarawohlver.tk/*
 *://*.heunecomlou.tk/*
@@ -238178,6 +238189,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.nighskimolexafti.cf/*
 *://*.nighsolilickser.ga/*
 *://*.nighsorpblazerskuzom.tk/*
+*://*.night-luck.fr/*
 *://*.nightaddresssmonth.de/*
 *://*.nightaholdderswea.gq/*
 *://*.nightbilldrawpoint.biz/*
@@ -311222,6 +311234,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slotscity.fr/*
 *://*.slotsdjj.fr/*
 *://*.slotseatercasino.fr/*
+*://*.slotsfr.fr/*
 *://*.slotsgarden-casino.fr/*
 *://*.slotsgemcasino.fr/*
 *://*.slotshark.fr/*
