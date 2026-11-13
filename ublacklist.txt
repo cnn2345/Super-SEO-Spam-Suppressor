@@ -133269,7 +133269,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.flowekteder.tk/*
 *://*.flowenlayspeakturnnes.tk/*
 *://*.floweqtruscongky.gq/*
-*://*.floweraup.com/*
 *://*.flowercomedy.com/*
 *://*.flowerdesign.xyz/*
 *://*.flowerish.xyz/*
@@ -144065,6 +144064,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gestion-colis-notification.fr/*
 *://*.gestion-colis.fr/*
 *://*.gestion-de-patrimoine-asnieres.fr/*
+*://*.gestion-deblock.com/*
 *://*.gestion-dgfip.fr/*
 *://*.gestion-dossier-regule.fr/*
 *://*.gestion-espace-sante.fr/*
@@ -144084,6 +144084,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gestion-vitale-sante.fr/*
 *://*.gestion-vitale.fr/*
 *://*.gestion-vitals-gov.fr/*
+*://*.gestion.finance/*
 *://*.gestionadhesion.fr/*
 *://*.gestionantai.fr/*
 *://*.gestionassurancemaladie.fr/*
@@ -172310,6 +172311,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.improvement.my.id/*
 *://*.improvesimprove.eu/*
 *://*.improveyv.web.app/*
+*://*.impruneta.de/*
 *://*.impuden11deaths.xyz/*
 *://*.impulsa.shop/*
 *://*.impulse99.xyz/*
@@ -210448,6 +210450,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lukzio.tokyo/*
 *://*.lulabcase.tk/*
 *://*.luladiffusion.com/*
+*://*.luladress.com/*
 *://*.lulakichbie.tk/*
 *://*.lulamdalidibedt.cf/*
 *://*.lulaslena.web.app/*
@@ -294546,6 +294549,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rougbaycore.cf/*
 *://*.rougecasino.fr/*
 *://*.rougegorge-paris.fr/*
+*://*.rougeriefinance.com/*
 *://*.roughbestnliminan.tk/*
 *://*.roughconhullhyd.tk/*
 *://*.roughfagawnumilni.tk/*
@@ -342193,6 +342197,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tqz6zw.cyou/*
 *://*.tqzcb2.rest/*
 *://*.tqzvxl.tokyo/*
+*://*.tr-brokers.com/*
 *://*.tr-handschuho.shop/*
 *://*.tr000i.cyou/*
 *://*.tr06qo.cyou/*

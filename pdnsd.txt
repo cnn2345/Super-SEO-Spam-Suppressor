@@ -132990,7 +132990,6 @@ neg {name=flowefcumulremou.tk; types=domain;}
 neg {name=flowekteder.tk; types=domain;}
 neg {name=flowenlayspeakturnnes.tk; types=domain;}
 neg {name=floweqtruscongky.gq; types=domain;}
-neg {name=floweraup.com; types=domain;}
 neg {name=flowercomedy.com; types=domain;}
 neg {name=flowerdesign.xyz; types=domain;}
 neg {name=flowerish.xyz; types=domain;}
@@ -143765,6 +143764,7 @@ neg {name=gestion-client-bnpparibas.fr; types=domain;}
 neg {name=gestion-colis-notification.fr; types=domain;}
 neg {name=gestion-colis.fr; types=domain;}
 neg {name=gestion-de-patrimoine-asnieres.fr; types=domain;}
+neg {name=gestion-deblock.com; types=domain;}
 neg {name=gestion-dgfip.fr; types=domain;}
 neg {name=gestion-dossier-regule.fr; types=domain;}
 neg {name=gestion-espace-sante.fr; types=domain;}
@@ -143784,6 +143784,7 @@ neg {name=gestion-vitale-actualiser.fr; types=domain;}
 neg {name=gestion-vitale-sante.fr; types=domain;}
 neg {name=gestion-vitale.fr; types=domain;}
 neg {name=gestion-vitals-gov.fr; types=domain;}
+neg {name=gestion.finance; types=domain;}
 neg {name=gestionadhesion.fr; types=domain;}
 neg {name=gestionantai.fr; types=domain;}
 neg {name=gestionassurancemaladie.fr; types=domain;}
@@ -171960,6 +171961,7 @@ neg {name=improvecourtlife.biz; types=domain;}
 neg {name=improvement.my.id; types=domain;}
 neg {name=improvesimprove.eu; types=domain;}
 neg {name=improveyv.web.app; types=domain;}
+neg {name=impruneta.de; types=domain;}
 neg {name=impuden11deaths.xyz; types=domain;}
 neg {name=impulsa.shop; types=domain;}
 neg {name=impulse99.xyz; types=domain;}
@@ -210042,6 +210044,7 @@ neg {name=lukybx.rest; types=domain;}
 neg {name=lukzio.tokyo; types=domain;}
 neg {name=lulabcase.tk; types=domain;}
 neg {name=luladiffusion.com; types=domain;}
+neg {name=luladress.com; types=domain;}
 neg {name=lulakichbie.tk; types=domain;}
 neg {name=lulamdalidibedt.cf; types=domain;}
 neg {name=lulaslena.web.app; types=domain;}
@@ -293949,6 +293952,7 @@ neg {name=roufenliagecahigh.gq; types=domain;}
 neg {name=rougbaycore.cf; types=domain;}
 neg {name=rougecasino.fr; types=domain;}
 neg {name=rougegorge-paris.fr; types=domain;}
+neg {name=rougeriefinance.com; types=domain;}
 neg {name=roughbestnliminan.tk; types=domain;}
 neg {name=roughconhullhyd.tk; types=domain;}
 neg {name=roughfagawnumilni.tk; types=domain;}
@@ -341499,6 +341503,7 @@ neg {name=tqyayr.tokyo; types=domain;}
 neg {name=tqz6zw.cyou; types=domain;}
 neg {name=tqzcb2.rest; types=domain;}
 neg {name=tqzvxl.tokyo; types=domain;}
+neg {name=tr-brokers.com; types=domain;}
 neg {name=tr-handschuho.shop; types=domain;}
 neg {name=tr000i.cyou; types=domain;}
 neg {name=tr06qo.cyou; types=domain;}
