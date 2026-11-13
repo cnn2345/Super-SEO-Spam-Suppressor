@@ -30984,6 +30984,7 @@
 ||accountupdate.fr^$document
 ||accountvalidations.fr^$document
 ||accountverify.fr^$document
+||accountviva.fr^$document
 ||accreditedonlinecolleges.buzz^$document
 ||accreditedonlinecollegesearlychildhoodeducation.buzz^$document
 ||accreditedonlineuniversities.buzz^$document
@@ -39629,6 +39630,8 @@
 ||amunbet-france.fr^$document
 ||amunbetcasino.fr^$document
 ||amunbetfrance.fr^$document
+||amunbetonline.fr^$document
+||amunbetplay.fr^$document
 ||amunbomtio.cf^$document
 ||amuncenerefthorn.gq^$document
 ||amundi-france.com^$document
@@ -42251,9 +42254,12 @@
 ||aphosragilro.cf^$document
 ||aphprp.fr^$document
 ||aphpzp.tokyo^$document
+||aphrodite-casino24.fr^$document
 ||aphrodite-casinos.fr^$document
 ||aphroditecards.com^$document
+||aphroditecasino24.fr^$document
 ||aphroditecasinoo.fr^$document
+||aphroditecasinos.fr^$document
 ||aphrodites.xyz^$document
 ||aphroditescasino.fr^$document
 ||aphypsichevi.tk^$document
@@ -48075,6 +48081,8 @@
 ||aveioa.rest^$document
 ||avekdodenet.ml^$document
 ||aveleriltio.ga^$document
+||avelia-paris.fr^$document
+||aveliaparis.fr^$document
 ||avelu.de^$document
 ||avemarbounehaz.ga^$document
 ||avembifestcompgwid.tk^$document
@@ -48177,6 +48185,7 @@
 ||avis-antai-amende.fr^$document
 ||avis-bourso-app.fr^$document
 ||avis-contravention.fr^$document
+||avis-pagejaune.fr^$document
 ||avis-penal.fr^$document
 ||avis-penalite.fr^$document
 ||avis-penalites.fr^$document
@@ -50944,6 +50953,7 @@
 ||balriforlipe.ga^$document
 ||balrimulsivintang.tk^$document
 ||balrotibmumidisf.cf^$document
+||balsamhill-fr.fr^$document
 ||balsamick.fr^$document
 ||balschicrapi.tk^$document
 ||balservital.de^$document
@@ -55651,6 +55661,7 @@
 ||bet365casino.fr^$document
 ||bet3if.cyou^$document
 ||bet45.fr^$document
+||bet4fun.fr^$document
 ||bet4star.fr^$document
 ||bet4win.fr^$document
 ||bet4wu.site^$document
@@ -56190,6 +56201,7 @@
 ||betsat.fr^$document
 ||betsbelorgangbi.ga^$document
 ||betsbunny.fr^$document
+||betscarabcasino.fr^$document
 ||betsclic.fr^$document
 ||betscore-fr.fr^$document
 ||betscorecasino.fr^$document
@@ -72404,6 +72416,7 @@
 ||casinobrutal.fr^$document
 ||casinobuck.fr^$document
 ||casinoburan.fr^$document
+||casinobyzance.fr^$document
 ||casinocandyspinz.fr^$document
 ||casinocannes.fr^$document
 ||casinocardgame.xyz^$document
@@ -72496,6 +72509,7 @@
 ||casinofortuna1.fr^$document
 ||casinofrance55.fr^$document
 ||casinofrancebest.fr^$document
+||casinofranceenligne.fr^$document
 ||casinofreshbet.fr^$document
 ||casinofrumzi.fr^$document
 ||casinofunbet.fr^$document
@@ -88257,6 +88271,7 @@
 ||constreasinelun.ga^$document
 ||constrolnagecepo.gq^$document
 ||constru34kaitlyn.pro^$document
+||constructionelec-group.fr^$document
 ||constructiontimber.buzz^$document
 ||construtecmx.xyz^$document
 ||constucciopilli.cf^$document
@@ -133244,6 +133259,7 @@
 ||floutehedpifi.ga^$document
 ||floutfimifivost.tk^$document
 ||flouxsarl.fr^$document
+||flouz-casino.fr^$document
 ||flouz-fr.fr^$document
 ||flouz-online.fr^$document
 ||floveme.com^$document
@@ -206121,6 +206137,7 @@
 ||lizardpoit.com^$document
 ||lizaro-casino-fr.fr^$document
 ||lizaro-casino-online.fr^$document
+||lizaro-casino24.fr^$document
 ||lizaro-casinos.fr^$document
 ||lizaro-french.fr^$document
 ||lizaro-offical.fr^$document
@@ -207033,6 +207050,8 @@
 ||load8x3470.space^$document
 ||loadancatuagetpe.cf^$document
 ||loadbike.com^$document
+||loaded-casino.fr^$document
+||loadedcasino.fr^$document
 ||loadergaforsi.gq^$document
 ||loading-chronopostlivraison.fr^$document
 ||loading-leboncoin.fr^$document
@@ -208532,6 +208551,7 @@
 ||lotenringbirdtexre.cf^$document
 ||lotercatifo.cf^$document
 ||loteriasokoliki.pl^$document
+||loterie-nationale.fr^$document
 ||loterlapoku.tk^$document
 ||loterpeamenasimp.tk^$document
 ||lotesylgawildli.ml^$document
@@ -213375,6 +213395,7 @@
 ||mafia-casino-france.fr^$document
 ||mafia-casino-online.fr^$document
 ||mafia-casino1.fr^$document
+||mafia-casino24.fr^$document
 ||mafia-casinoofficiel.fr^$document
 ||mafia-casinos.fr^$document
 ||mafia-en-ligne.fr^$document
@@ -213392,6 +213413,7 @@
 ||mafia2-online.fr^$document
 ||mafiacasino-fr.fr^$document
 ||mafiacasino-france.fr^$document
+||mafiacasino-online.fr^$document
 ||mafiacasino.fr^$document
 ||mafiacasinoapp.fr^$document
 ||mafiacasinoavis.fr^$document
@@ -213401,6 +213423,7 @@
 ||mafiacasinofr1.fr^$document
 ||mafiacasinologin777.fr^$document
 ||mafiacasinoo.fr^$document
+||mafiacasinos-fr.fr^$document
 ||mafiaenligne.fr^$document
 ||mafias-play.fr^$document
 ||mafiatekno.com^$document
@@ -213996,6 +214019,7 @@
 ||mailiwhomimi.tk^$document
 ||mailiwynequa.ml^$document
 ||mailiznavsreven.ga^$document
+||mailjet-e-mail.fr^$document
 ||mailjet-update.fr^$document
 ||maillauto-industrie.com^$document
 ||maillevfatituana.cf^$document
@@ -238721,6 +238745,7 @@
 ||ninecasino-online.fr^$document
 ||ninecasino0.fr^$document
 ||ninecasino2.fr^$document
+||ninecasino24.fr^$document
 ||ninecasino4.fr^$document
 ||ninecasino7.fr^$document
 ||ninecasino9.fr^$document
@@ -252270,6 +252295,7 @@
 ||outlet-kway.fr^$document
 ||outlet-lacoste.fr^$document
 ||outlet-luxe.fr^$document
+||outlet-luxury.fr^$document
 ||outlet-mixed.news^$document
 ||outlet-moncler.fr^$document
 ||outlet-nb.fr^$document
@@ -252289,6 +252315,7 @@
 ||outlet-star.fr^$document
 ||outlet-stock.fr^$document
 ||outlet-stoneisland.fr^$document
+||outlet-store.fr^$document
 ||outlet-ugg.fr^$document
 ||outlet-uggs.fr^$document
 ||outlet-uggstore.fr^$document
@@ -261022,6 +261049,7 @@
 ||pgzkyc.bar^$document
 ||pgzmcp.tokyo^$document
 ||pgztqy.tokyo^$document
+||ph-ants.fr^$document
 ||ph-gartenmaschinen.de^$document
 ||ph-herning.dk^$document
 ||ph-microscope.com^$document
@@ -294393,6 +294421,7 @@
 ||rossly.pl^$document
 ||rossmann.tf^$document
 ||rossnd.tokyo^$document
+||rossowincasino.fr^$document
 ||rossstocalolores.gq^$document
 ||rosstoduteszepea.tk^$document
 ||rosstraregwhonu.tk^$document
@@ -311730,6 +311759,7 @@
 ||smart-mobil.eu^$document
 ||smart-research.net^$document
 ||smart-sexologist.cloud^$document
+||smart-ticket.fr^$document
 ||smart-tools.ai^$document
 ||smart-tools.ai^$document
 ||smart0trade.com^$document
@@ -315875,6 +315905,7 @@
 ||spin-festcasino.fr^$document
 ||spin-fever.fr^$document
 ||spin-fin-casino.fr^$document
+||spin-formula.fr^$document
 ||spin-hub.fr^$document
 ||spin-hubcasino.fr^$document
 ||spin-madness.fr^$document
@@ -316081,6 +316112,7 @@
 ||spinello.fr^$document
 ||spinemcopondstuc.tk^$document
 ||spinenevarnor.ga^$document
+||spinergy.fr^$document
 ||spinerino.fr^$document
 ||spinerparubrighgo.gq^$document
 ||spinerterroenetwachs.tk^$document
@@ -316384,6 +316416,7 @@
 ||spinwin-casino.fr^$document
 ||spinwincasino.fr^$document
 ||spinwinera-fr.fr^$document
+||spinwintercasino.fr^$document
 ||spinxtremecasino.fr^$document
 ||spinybet.fr^$document
 ||spinysratheapy.tk^$document
@@ -318464,6 +318497,7 @@
 ||starlicarcons.gq^$document
 ||starlighteventi.it^$document
 ||starlikarveval.cf^$document
+||starlink-abonnement.fr^$document
 ||starlink-fr.fr^$document
 ||starlink-france.fr^$document
 ||starlitcasino.fr^$document
@@ -340487,6 +340521,7 @@
 ||tombbarjasetfast.cf^$document
 ||tombcheapvadeathria.ga^$document
 ||tomblockroundtata.tk^$document
+||tombluckcasino.fr^$document
 ||tombperjakun.cf^$document
 ||tombreaxiscita.tk^$document
 ||tombrefecrenel.tk^$document
