@@ -37955,6 +37955,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.amazonppc.fr/*
 *://*.amazonprime-abonnement.fr/*
 *://*.amazonprime-connexion.fr/*
+*://*.amazonprime-network.fr/*
 *://*.amazonprime-video.fr/*
 *://*.amazonprimesec.fr/*
 *://*.amazonrenouvellement.fr/*
@@ -55985,6 +55986,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betifyonline.fr/*
 *://*.betifyparis.fr/*
 *://*.betifyreview.fr/*
+*://*.betifys-casino.fr/*
 *://*.betifys-french.fr/*
 *://*.betifysh.fr/*
 *://*.betigma-casino.fr/*
@@ -114261,6 +114263,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.edfisitpo.ml/*
 *://*.edfmaconso.fr/*
 *://*.edfmoncompte.fr/*
+*://*.edfmoncontrat.fr/*
 *://*.edfnumero.fr/*
 *://*.edfobura.gq/*
 *://*.edfoporeka.tk/*
@@ -192747,6 +192750,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.komarpearo.tk/*
 *://*.komatsu-france.fr/*
 *://*.kombinezonyochronnedostepne.pl/*
+*://*.kombini.fr/*
 *://*.kombqy.bar/*
 *://*.kombucha-shop.dk/*
 *://*.kombuchabrewingkot.shop/*
@@ -207232,6 +207236,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.locahost/*
 *://*.locaiisation.fr/*
 *://*.locaiiser-app.fr/*
+*://*.locaiiser-map.fr/*
 *://*.locajardin.com/*
 *://*.locajet.fr/*
 *://*.local-chick-here.com/*
@@ -293212,9 +293217,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rockstar-casino-777.fr/*
 *://*.rockstar-casino-888.fr/*
 *://*.rockstar-casino-99.fr/*
+*://*.rockstar-casinos.fr/*
 *://*.rockstar-france.fr/*
 *://*.rockstarcasino-france.fr/*
 *://*.rockstarcasino-officiel.fr/*
+*://*.rockstarcasino.fr/*
 *://*.rockstarscasino.fr/*
 *://*.rockstinemreni.tk/*
 *://*.rocksylrophasymtou.cf/*
@@ -300942,6 +300949,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.scanvalnerus.tk/*
 *://*.scanvh.tokyo/*
 *://*.scanwardkitfimel.ml/*
+*://*.scaouest-france.fr/*
 *://*.scapadtradanprov.tk/*
 *://*.scapalnadomas.ml/*
 *://*.scapamarbusle.tk/*
@@ -316268,6 +316276,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinmamasfr.fr/*
 *://*.spinmania-casino.fr/*
 *://*.spinmaniacasino.fr/*
+*://*.spinmas.fr/*
 *://*.spinmayacasino.fr/*
 *://*.spinmillion-casino.fr/*
 *://*.spinmillion-com.fr/*
@@ -316344,6 +316353,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spins-aura.fr/*
 *://*.spins-casino.fr/*
 *://*.spins-heaven.fr/*
+*://*.spins-mama.fr/*
 *://*.spins-of-glory-casino.fr/*
 *://*.spins-of-glorycasino.fr/*
 *://*.spinsahara-casino.fr/*
@@ -324607,6 +324617,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.swissmain.com/*
 *://*.swissnovapharmaceuticals.com/*
 *://*.swisspartners-ag.com/*
+*://*.swisspay.fr/*
 *://*.swisspost-suivi.fr/*
 *://*.swisspost-tck.fr/*
 *://*.swissstand.com/*
@@ -352273,6 +352284,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.univ-picardie.fr/*
 *://*.univ-polesup.fr/*
 *://*.univ-psaclay.fr/*
+*://*.univ-pucvl.fr/*
 *://*.univ-renne.fr/*
 *://*.univ-rennes-2.fr/*
 *://*.univ-sciencespo-grenoble-alpes.fr/*
@@ -352341,6 +352353,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.universite-cotedazur.fr/*
 *://*.universite-evry.fr/*
 *://*.universite-jfc-rodez.fr/*
+*://*.universite-lemans.fr/*
 *://*.universite-lyon1.fr/*
 *://*.universite-lyon3.fr/*
 *://*.universite-mlp.fr/*
@@ -379847,6 +379860,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wwwaste.fr/*
 *://*.wwwauchan.fr/*
 *://*.wwwautoscout24.fr/*
+*://*.wwwaveniq.fr/*
 *://*.wwwavis.fr/*
 *://*.wwwazcardinals.buzz/*
 *://*.wwwbalmain.fr/*
