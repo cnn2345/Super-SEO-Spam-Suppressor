@@ -12722,7 +12722,6 @@
 ||3zyu57.cyou^$document
 ||3zzpe2.cyou^$document
 ||4-designs.buzz^$document
-||4-pfoten-freizeit.de^$document
 ||4000148590.com^$document
 ||4000149668.com^$document
 ||4000202123.com^$document
@@ -47480,6 +47479,7 @@
 ||aurorastore.pro^$document
 ||aurtuit.xyz^$document
 ||aurudium.com^$document
+||aurum.foundation^$document
 ||aurumrock.ru^$document
 ||aurvlerpie.pw^$document
 ||aus-gelassen.de^$document
@@ -49939,6 +49939,7 @@
 ||babyeyeavoidlot.biz^$document
 ||babyfuntoys.com^$document
 ||babygea.com^$document
+||babyglueck.shop^$document
 ||babyglueckshop.com^$document
 ||babyhappy.su^$document
 ||babyjane.xyz^$document
@@ -56150,6 +56151,7 @@
 ||betprimeirocasino.fr^$document
 ||betptosdefandade.ml^$document
 ||betpuan.fr^$document
+||betrailo.com^$document
 ||betrasesane.ml^$document
 ||betrbeagle.xyz^$document
 ||betrebels-casino.fr^$document
@@ -58709,7 +58711,6 @@
 ||birahsuarnrantpac.ml^$document
 ||birakepufbo.cf^$document
 ||biraledwithskerz.tk^$document
-||biranco.com^$document
 ||biraposinthe.ml^$document
 ||biratipimi.ml^$document
 ||birattodega.tk^$document
@@ -64672,7 +64673,6 @@
 ||britife.xyz^$document
 ||britinenre.cf^$document
 ||britinoutadevpi.gq^$document
-||british-columbia-hotels.com^$document
 ||britishcentre.ch^$document
 ||britishessentiils.com^$document
 ||britishnewstoday.com^$document
@@ -90390,6 +90390,7 @@
 ||covumish.my.id^$document
 ||cowardice-dock.online^$document
 ||cowarrenms.org^$document
+||cowboy-brothers.de^$document
 ||cowboy-spins.fr^$document
 ||cowboybootsnew.com^$document
 ||cowboyspin-casino.fr^$document
@@ -123414,6 +123415,7 @@
 ||etvda.yt^$document
 ||etvext.tokyo^$document
 ||etvgf.yt^$document
+||etvgozkl.shop^$document
 ||etviccawell.tk^$document
 ||etwadagode.ml^$document
 ||etwalinklilah.ml^$document
@@ -123444,7 +123446,6 @@
 ||eu-franprix.fr^$document
 ||eu-impots.fr^$document
 ||eu-meds.net^$document
-||eu-meds.online^$document
 ||eu-meta.fr^$document
 ||eu-new-media.eu^$document
 ||eu-pharmacy-online.com^$document
@@ -133271,7 +133272,6 @@
 ||flowekteder.tk^$document
 ||flowenlayspeakturnnes.tk^$document
 ||floweqtruscongky.gq^$document
-||floweraup.com^$document
 ||flowercomedy.com^$document
 ||flowerdesign.xyz^$document
 ||flowerish.xyz^$document
@@ -144141,6 +144141,7 @@
 ||gesudpr.tokyo^$document
 ||gesuender-im-leben.com^$document
 ||gesunbextcythin.ga^$document
+||gesund-kaufen.com^$document
 ||gesunderrasen.com^$document
 ||gesundeswelpenhaus.de^$document
 ||gesundheits-apo.com^$document
@@ -190976,7 +190977,6 @@
 ||kingwindsalrairectio.cf^$document
 ||kingwinlituhorzo.tk^$document
 ||kingwoolsihykes.ml^$document
-||kingwwy.com^$document
 ||kingxysubtena.gq^$document
 ||kingzakhbagssoundwet.tk^$document
 ||kinhosumawowmi.gq^$document
@@ -218847,7 +218847,6 @@
 ||menido.de^$document
 ||meniliwesli.tk^$document
 ||menily.com^$document
-||menilyshop.com^$document
 ||menimorchase.tk^$document
 ||meninnerara.ml^$document
 ||meniraphyty.ga^$document
@@ -224286,6 +224285,7 @@
 ||moehr.dk^$document
 ||moelisubanvi.tk^$document
 ||moeller-immobilien.net^$document
+||moellerbrennholz.de^$document
 ||moellergang.com^$document
 ||moemasidiste.cf^$document
 ||moemate.io^$document
@@ -261404,6 +261404,7 @@
 ||pharmacy-europe.com^$document
 ||pharmacy-true.com^$document
 ||pharmacy-xl.org^$document
+||pharmacyeurope24.com^$document
 ||pharmacyinventory.org^$document
 ||pharmacymarketonline.com^$document
 ||pharmacyonline24.com^$document
@@ -286173,6 +286174,7 @@
 ||reifenritter.com^$document
 ||reifenservice-frankreich.fr^$document
 ||reifensverkauf.com^$document
+||reifenvaro.com^$document
 ||reifibgoodsdito.gq^$document
 ||reifiltrahyd.gq^$document
 ||reifirmpercontfighleb.tk^$document
@@ -305952,7 +305954,6 @@
 ||sexhardcorexxxcams.buzz^$document
 ||sexhubmovs.com^$document
 ||sexhunt.xyz^$document
-||sexicats.com^$document
 ||sexigo.eu^$document
 ||sexinthekitchen.eu^$document
 ||sexirenpato.tk^$document
@@ -317045,7 +317046,6 @@
 ||spydersale.de^$document
 ||spyderwrisemel.tk^$document
 ||spydintravornemenradingnofurtangde.xyz^$document
-||spydiscount24.com^$document
 ||spygok.rest^$document
 ||spyi5p.cyou^$document
 ||spymdefdirofacot.ga^$document
@@ -319423,6 +319423,7 @@
 ||stetnotubupeka.tk^$document
 ||stetsalfobedting.ga^$document
 ||stetson.xyz^$document
+||steuben-gmbh.de^$document
 ||steuerberatung-hoerster.de^$document
 ||stevacdiberge.ml^$document
 ||steve-madden.fr^$document
