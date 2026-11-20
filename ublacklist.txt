@@ -121418,7 +121418,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.etvda.yt/*
 *://*.etvext.tokyo/*
 *://*.etvgf.yt/*
-*://*.etvgozkl.shop/*
 *://*.etviccawell.tk/*
 *://*.etwadagode.ml/*
 *://*.etwalinklilah.ml/*
@@ -138857,6 +138856,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ganni-soldes.fr/*
 *://*.gannicontiso.tk/*
 *://*.gannifr.fr/*
+*://*.gannioutlet.de/*
 *://*.gannioutlet.fr/*
 *://*.ganobcocihyd.ga/*
 *://*.ganocephalan.best/*
@@ -204560,6 +204560,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lottoportugal.net/*
 *://*.lottoslovakia.sk/*
 *://*.lottosoldes.fr/*
+*://*.lottosouthafrica.net/*
 *://*.lottosportfrance.fr/*
 *://*.lottowardsbeats.bar/*
 *://*.lottumedazztron.gq/*
@@ -224523,6 +224524,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.muutaitradicun.tk/*
 *://*.muv3ob.tokyo/*
 *://*.muvaconscelllonon.tk/*
+*://*.muvastore.com/*
 *://*.muvecorlaca.gq/*
 *://*.muvetorrobipo.tk/*
 *://*.muvkas.tokyo/*
@@ -250860,6 +250862,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pap-verif.fr/*
 *://*.papa-mojo.dk/*
 *://*.papa78.com/*
+*://*.papabau.com/*
 *://*.papacomsenzto.tk/*
 *://*.papacphenili.ml/*
 *://*.papacpuarosu.tk/*
@@ -337670,6 +337673,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trivellazioniitalia.it/*
 *://*.trivellicelli.cf/*
 *://*.trivfulforthquawimblect.tk/*
+*://*.trivio-handel.de/*
 *://*.trivnetelewan.tk/*
 *://*.trivona.de/*
 *://*.trivpakerpprecun.cf/*
