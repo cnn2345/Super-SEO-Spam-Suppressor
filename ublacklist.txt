@@ -50843,6 +50843,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.banpleculop.cf/*
 *://*.banpodan.ml/*
 *://*.banptihiribrusp.cf/*
+*://*.banq2france.fr/*
 *://*.banqepopulaire.fr/*
 *://*.banqne-france.fr/*
 *://*.banquan3.com/*
@@ -52953,6 +52954,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.beescoresmarew.gq/*
 *://*.beeswinged.best/*
 *://*.beetblast-fr.fr/*
+*://*.beetify.fr/*
 *://*.beetinworkbibosly.gq/*
 *://*.beetospin-fr.fr/*
 *://*.beetospin.fr/*
@@ -72874,6 +72876,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cbzni.tokyo/*
 *://*.cbzzdi.tokyo/*
 *://*.cc-alberes-cote-vermeille.fr/*
+*://*.cc-montauban-de-bretagne.fr/*
+*://*.cc-paysbilurien.fr/*
 *://*.cc1jn29.cyou/*
 *://*.cc2ag.rest/*
 *://*.cc2z78c.cyou/*
@@ -86853,6 +86857,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.consnorthtoodroaphy.gq/*
 *://*.consodipsemb.cf/*
 *://*.consoglobe.com/*
+*://*.consogouv.fr/*
 *://*.consoipailobsmanti.ml/*
 *://*.consolab.fr/*
 *://*.consolador.eu/*
@@ -88157,6 +88162,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.corisbourses.fr/*
 *://*.coristeles.it/*
 *://*.coritesmarepcie.gq/*
+*://*.corivitus-fr.fr/*
 *://*.corjimoopaperc.tk/*
 *://*.corjoa.tokyo/*
 *://*.corjumpfike.ml/*
@@ -133437,6 +133443,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fr-cora.fr/*
 *://*.fr-corafrance.fr/*
 *://*.fr-corgibet.fr/*
+*://*.fr-corivitus.fr/*
 *://*.fr-crcindustriesfrancesas.fr/*
 *://*.fr-credindust.fr/*
 *://*.fr-cresus.fr/*
@@ -149272,6 +149279,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gta4.it/*
 *://*.gta5recovery.xyz/*
 *://*.gta6-officiel.fr/*
+*://*.gta6-shop.fr/*
 *://*.gtafb.rest/*
 *://*.gtah.fr/*
 *://*.gtamoding.fr/*
@@ -208578,6 +208586,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.maafinsurance.fr/*
 *://*.maafsante.fr/*
 *://*.maagiakv.ee/*
+*://*.maagicalspin.fr/*
 *://*.maaguetulifi.tk/*
 *://*.maahharinclarad.ga/*
 *://*.maakescandcheckle.gq/*
@@ -220267,6 +220276,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mon-espace-client-prime.fr/*
 *://*.mon-espace-client-sfr.fr/*
 *://*.mon-espace-client-sofinco.fr/*
+*://*.mon-espace-clients.fr/*
 *://*.mon-espace-colis.fr/*
 *://*.mon-espace-colissimo.fr/*
 *://*.mon-espace-commercial.fr/*
@@ -299057,6 +299067,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.servicechronopost2024.fr/*
 *://*.servicechronoposte.fr/*
 *://*.serviceclient-amazonfrance.fr/*
+*://*.serviceclient-assurance-retraite.fr/*
 *://*.serviceclient-auth.fr/*
 *://*.serviceclient-banquedefrance.fr/*
 *://*.serviceclient-bitpanda.fr/*
@@ -299604,6 +299615,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sevenloveresponses.buzz/*
 *://*.sevenmoto.ca/*
 *://*.sevennet-blog.tumblr.com/*
+*://*.sevenplay-fr.fr/*
+*://*.sevenplay1.fr/*
 *://*.sevensistersescorts4u.eu/*
 *://*.seventymillimeter.com/*
 *://*.severalsquestion.biz/*
@@ -309496,6 +309509,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spin-polo.fr/*
 *://*.spin-rollz-casino.fr/*
 *://*.spin-rollzcasino.fr/*
+*://*.spin-shake.fr/*
 *://*.spin-shark.fr/*
 *://*.spin-spirit-casino.fr/*
 *://*.spin-star.fr/*
@@ -309896,6 +309910,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinscasinos.fr/*
 *://*.spinsdeluxe-casino.fr/*
 *://*.spinshadowpro.fr/*
+*://*.spinshake6.fr/*
 *://*.spinshark.fr/*
 *://*.spinshousecasino.fr/*
 *://*.spinsingtokilu.cf/*
@@ -309968,6 +309983,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spintowin.fr/*
 *://*.spintrainer.fr/*
 *://*.spintroll.fr/*
+*://*.spintropolis-fr.fr/*
+*://*.spintropolis8.fr/*
 *://*.spintropolisonline.fr/*
 *://*.spintunonsthomte.tk/*
 *://*.spinuninsoche.ml/*
@@ -329238,6 +329255,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ticketsjul.fr/*
 *://*.ticketslive.fr/*
 *://*.ticketslouvre.fr/*
+*://*.ticketsmaster-fr.fr/*
 *://*.ticketsmaster-jul.fr/*
 *://*.ticketsmaster.fr/*
 *://*.ticketsmasters.fr/*
@@ -336190,6 +336208,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.transactions-prime.fr/*
 *://*.transactionsleboncoin.fr/*
 *://*.transactionsleboncoins.fr/*
+*://*.transaviasupport.fr/*
 *://*.transcach.fr/*
 *://*.transcash-activation.fr/*
 *://*.transcash-monespacepersonnel.fr/*
@@ -342737,6 +342756,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.uggs.co.at/*
 *://*.uggsfrance.fr/*
 *://*.uggshoes.fr/*
+*://*.uggshop.fr/*
 *://*.uggsoldes.fr/*
 *://*.uggsparis.fr/*
 *://*.uggsshop.fr/*
