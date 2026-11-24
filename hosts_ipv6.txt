@@ -70870,6 +70870,8 @@
 ::1 www.akku-laden.at
 ::1 akku-staubsauger.eu
 ::1 www.akku-staubsauger.eu
+::1 akkusmir.de
+::1 www.akkusmir.de
 ::1 akkusnotebook.at
 ::1 www.akkusnotebook.at
 ::1 akkuwerk.shop
@@ -107558,8 +107560,6 @@
 ::1 www.bergdensaboti.tk
 ::1 bergemusoc.cf
 ::1 www.bergemusoc.cf
-::1 berger-brennstoffe.com
-::1 www.berger-brennstoffe.com
 ::1 berger-seidle-shop.de
 ::1 www.berger-seidle-shop.de
 ::1 bergeresdefrance.fr
@@ -121378,8 +121378,6 @@
 ::1 www.boasleepolhabweni.ml
 ::1 boaspireris.tk
 ::1 www.boaspireris.tk
-::1 boastore.de
-::1 www.boastore.de
 ::1 boatekabookna.tk
 ::1 www.boatekabookna.tk
 ::1 boaterrereter.ga
@@ -126562,8 +126560,6 @@
 ::1 www.brennholzkraft.com
 ::1 brennholzmeister.de
 ::1 www.brennholzmeister.de
-::1 brennholzmichalhoff.com
-::1 www.brennholzmichalhoff.com
 ::1 brennholzmuscheid.com
 ::1 www.brennholzmuscheid.com
 ::1 brennholzs.com
@@ -136702,6 +136698,8 @@
 ::1 www.caissedesdepots-mcf.fr
 ::1 caissedesdepots-recouvrement.fr
 ::1 www.caissedesdepots-recouvrement.fr
+::1 caissedesdepots.paris
+::1 www.caissedesdepots.paris
 ::1 caissedesdepotsgard.fr
 ::1 www.caissedesdepotsgard.fr
 ::1 caissedesdpots.fr
@@ -144656,6 +144654,8 @@
 ::1 www.catw.info
 ::1 catwacuretlygun.cf
 ::1 www.catwacuretlygun.cf
+::1 catwebshop.com
+::1 www.catwebshop.com
 ::1 catwolf.org
 ::1 www.catwolf.org
 ::1 catysofremar.tk
@@ -164664,6 +164664,8 @@
 ::1 www.cloudsplatter0h2xofvq.biz
 ::1 cloudsplatteroooe2m4z.biz
 ::1 www.cloudsplatteroooe2m4z.biz
+::1 cloudsubscption.fr
+::1 www.cloudsubscption.fr
 ::1 cloudtexpla.xyz
 ::1 www.cloudtexpla.xyz
 ::1 cloudunenpusizzjor.ga
@@ -174056,6 +174058,8 @@
 ::1 www.contact-paris2024.fr
 ::1 contact-paypal.fr
 ::1 www.contact-paypal.fr
+::1 contact-police-national.fr
+::1 www.contact-police-national.fr
 ::1 contact-prime.fr
 ::1 www.contact-prime.fr
 ::1 contact-protect.de
@@ -190202,8 +190206,6 @@
 ::1 www.dailygame.fr
 ::1 dailygaming.xyz
 ::1 www.dailygaming.xyz
-::1 dailygermanshop.com
-::1 www.dailygermanshop.com
 ::1 dailyheadliner.com
 ::1 www.dailyheadliner.com
 ::1 dailyheraldnewstoday.com
@@ -191600,8 +191602,6 @@
 ::1 www.das-isental-spielt.de
 ::1 das-landhaus28.de
 ::1 www.das-landhaus28.de
-::1 das-montessori-spielzeug.de
-::1 www.das-montessori-spielzeug.de
 ::1 das8qn.xyz
 ::1 www.das8qn.xyz
 ::1 dasabotice.ga
@@ -200094,8 +200094,6 @@
 ::1 www.dexisa.rest
 ::1 dexmelaclustle.tk
 ::1 www.dexmelaclustle.tk
-::1 dexoraoutlet.com
-::1 www.dexoraoutlet.com
 ::1 dexpcangsibromam.cf
 ::1 www.dexpcangsibromam.cf
 ::1 dexpcomprano.cf
@@ -230320,8 +230318,6 @@
 ::1 www.elysscenhitma.ml
 ::1 elyt74.cyou
 ::1 www.elyt74.cyou
-::1 elyvanedepot.com
-::1 www.elyvanedepot.com
 ::1 elyy5i.cyou
 ::1 www.elyy5i.cyou
 ::1 elyzusruthizko.tk
@@ -238474,6 +238470,8 @@
 ::1 www.erswangeiscan.tk
 ::1 ersweetaritdrigir.gq
 ::1 www.ersweetaritdrigir.gq
+::1 erswf.buzz
+::1 www.erswf.buzz
 ::1 ersyngace.tk
 ::1 www.ersyngace.tk
 ::1 ertaaworlmulbife.tk
@@ -242086,6 +242084,8 @@
 ::1 www.etherasocialpharma.com
 ::1 etherobsabtira.ml
 ::1 www.etherobsabtira.ml
+::1 etherpay.fr
+::1 www.etherpay.fr
 ::1 etheryl-casino.fr
 ::1 www.etheryl-casino.fr
 ::1 etherylcasino.fr
@@ -247486,8 +247486,6 @@
 ::1 www.ezidp.com.au
 ::1 ezigarettehub.com
 ::1 www.ezigarettehub.com
-::1 ezigarettestore.com
-::1 www.ezigarettestore.com
 ::1 ezihgl.bar
 ::1 www.ezihgl.bar
 ::1 ezimrefdingditi.ml
@@ -257696,8 +257694,6 @@
 ::1 www.finaqimumevi.cf
 ::1 finaretermuder.ga
 ::1 www.finaretermuder.ga
-::1 finarionaxi.fr
-::1 www.finarionaxi.fr
 ::1 finarte.es
 ::1 www.finarte.es
 ::1 finasport.de
@@ -264678,6 +264674,8 @@
 ::1 www.formulaire-espaceclient.fr
 ::1 formulaire-espacesante.fr
 ::1 www.formulaire-espacesante.fr
+::1 formulaire-esta-gratuit.fr
+::1 www.formulaire-esta-gratuit.fr
 ::1 formulaire-impots.fr
 ::1 www.formulaire-impots.fr
 ::1 formulaire-inform.fr
@@ -305468,8 +305466,6 @@
 ::1 www.handwerker-wachstum.de
 ::1 handwerkertoolsbase.com
 ::1 www.handwerkertoolsbase.com
-::1 handwerkstatt-der-holzgestaltung.de
-::1 www.handwerkstatt-der-holzgestaltung.de
 ::1 handwerkzeugshop.com
 ::1 www.handwerkzeugshop.com
 ::1 handwhethersstory.biz
@@ -368108,8 +368104,6 @@
 ::1 www.kaminholzbeumer.de
 ::1 kaminholzkonig.de
 ::1 www.kaminholzkonig.de
-::1 kaminholzmoppel-de.com
-::1 www.kaminholzmoppel-de.com
 ::1 kaminkehrer-dachau.com
 ::1 www.kaminkehrer-dachau.com
 ::1 kaminofenhandel.com
@@ -378942,8 +378936,6 @@
 ::1 www.krafmisapanwillpant.tk
 ::1 krafocefis.web.app
 ::1 www.krafocefis.web.app
-::1 kraftdesweins.com
-::1 www.kraftdesweins.com
 ::1 kraftfahrrad.de
 ::1 www.kraftfahrrad.de
 ::1 kraftindustrie-shop.de
@@ -384148,8 +384140,6 @@
 ::1 www.labtoyou.ru
 ::1 labubu-boutique.fr
 ::1 www.labubu-boutique.fr
-::1 labubu-box.com
-::1 www.labubu-box.com
 ::1 labubu-lounge.de
 ::1 www.labubu-lounge.de
 ::1 labubu-pop.fr
@@ -388832,8 +388822,6 @@
 ::1 www.laycludconcpi.cf
 ::1 laycycsexpper.tk
 ::1 www.laycycsexpper.tk
-::1 layda-handel.de
-::1 www.layda-handel.de
 ::1 laydelireadlei.gq
 ::1 www.laydelireadlei.gq
 ::1 laydesre.ml
@@ -419842,8 +419830,6 @@
 ::1 www.majllw.tokyo
 ::1 majmaj.fr
 ::1 www.majmaj.fr
-::1 major-agentur.de
-::1 www.major-agentur.de
 ::1 major-systems.com
 ::1 www.major-systems.com
 ::1 majoration-amende.fr
@@ -481340,10 +481326,6 @@
 ::1 www.oelvia.de
 ::1 oelwert.de
 ::1 www.oelwert.de
-::1 oelza.de
-::1 www.oelza.de
-::1 oelzy.de
-::1 www.oelzy.de
 ::1 oembh.cyou
 ::1 www.oembh.cyou
 ::1 oemsn96.shop
@@ -484536,6 +484518,8 @@
 ::1 www.oliverselzer.de
 ::1 olivespielzeug.com
 ::1 www.olivespielzeug.com
+::1 olivettifrance.fr
+::1 www.olivettifrance.fr
 ::1 olivia.tokyo
 ::1 www.olivia.tokyo
 ::1 oliviacharms.xyz
@@ -511738,8 +511722,6 @@
 ::1 www.pherimosvibacto.tk
 ::1 pheripodungna.tk
 ::1 www.pheripodungna.tk
-::1 pheronaemporium.com
-::1 www.pheronaemporium.com
 ::1 phesec.xyz
 ::1 www.phesec.xyz
 ::1 phesumanonifi.ml
@@ -585646,8 +585628,6 @@
 ::1 www.samkowalsky.xyz
 ::1 sammer.gq
 ::1 www.sammer.gq
-::1 sammlerliebe.com
-::1 www.sammlerliebe.com
 ::1 sammlerloft.shop
 ::1 www.sammlerloft.shop
 ::1 samneisamoc.tk
@@ -611104,8 +611084,6 @@
 ::1 www.smokeffrasinstel.tk
 ::1 smokefree.xyz
 ::1 www.smokefree.xyz
-::1 smokelabin.com
-::1 www.smokelabin.com
 ::1 smokerceldieapa.tk
 ::1 www.smokerceldieapa.tk
 ::1 smokerland.net
@@ -618472,6 +618450,8 @@
 ::1 www.spinanga-vip.fr
 ::1 spinanga1.fr
 ::1 www.spinanga1.fr
+::1 spinanga7.fr
+::1 www.spinanga7.fr
 ::1 spinangacasinoapp.fr
 ::1 www.spinangacasinoapp.fr
 ::1 spinangacasinoavis.fr
@@ -618766,6 +618746,8 @@
 ::1 www.spinfest-fr.fr
 ::1 spinfest1.fr
 ::1 www.spinfest1.fr
+::1 spinfest7.fr
+::1 www.spinfest7.fr
 ::1 spinfests.fr
 ::1 www.spinfests.fr
 ::1 spinfevercasino.fr
@@ -631408,8 +631390,6 @@
 ::1 www.sund-hund.dk
 ::1 sundaceplamiwor.ml
 ::1 www.sundaceplamiwor.ml
-::1 sundanceliving-us.com
-::1 www.sundanceliving-us.com
 ::1 sundayismondayhome.pl
 ::1 www.sundayismondayhome.pl
 ::1 sundaynaturalshop.de
@@ -632796,6 +632776,8 @@
 ::1 www.supportbd.fr
 ::1 supportbinance.fr
 ::1 www.supportbinance.fr
+::1 supportblockchain.fr
+::1 www.supportblockchain.fr
 ::1 supportbooking.fr
 ::1 www.supportbooking.fr
 ::1 supportboursoramamisejour.fr
@@ -645740,6 +645722,8 @@
 ::1 www.technolynx.com
 ::1 technolynx.com
 ::1 www.technolynx.com
+::1 technopers.com
+::1 www.technopers.com
 ::1 technosol.xyz
 ::1 www.technosol.xyz
 ::1 technoteshelp.com
@@ -652950,8 +652934,6 @@
 ::1 www.the-northface-outlet.fr
 ::1 the-northface.com.co
 ::1 www.the-northface.com.co
-::1 the-northface.de
-::1 www.the-northface.de
 ::1 the-northface.fr
 ::1 www.the-northface.fr
 ::1 the-northfaceoutlet.fr
@@ -674894,6 +674876,8 @@
 ::1 www.trockenes-brennholz.com
 ::1 trockenesholz.de
 ::1 www.trockenesholz.de
+::1 trockenholz.com
+::1 www.trockenholz.com
 ::1 trocmossbancfnot.cf
 ::1 www.trocmossbancfnot.cf
 ::1 trocmusumatu.ga
@@ -692730,6 +692714,8 @@
 ::1 www.urbalmititfidi.cf
 ::1 urban-casino.fr
 ::1 www.urban-casino.fr
+::1 urban-outlet.fr
+::1 www.urban-outlet.fr
 ::1 urban-rituals.shop
 ::1 www.urban-rituals.shop
 ::1 urban-shaman.dk
@@ -698098,8 +698084,6 @@
 ::1 www.valn422.shop
 ::1 valnetinc.com
 ::1 www.valnetinc.com
-::1 valnixcorner.com
-::1 www.valnixcorner.com
 ::1 valnowarmmel.tk
 ::1 www.valnowarmmel.tk
 ::1 valodagest.tk
@@ -698494,8 +698478,6 @@
 ::1 www.vansphurenisqui.tk
 ::1 vanspot.fr
 ::1 www.vanspot.fr
-::1 vanss.de
-::1 www.vanss.de
 ::1 vanss.fr
 ::1 www.vanss.fr
 ::1 vanssfrance.fr
@@ -698614,8 +698596,6 @@
 ::1 www.vapopito.tk
 ::1 vapor-france.fr
 ::1 www.vapor-france.fr
-::1 vaporcurrent.com
-::1 www.vaporcurrent.com
 ::1 vapormaxflyknit.fr
 ::1 www.vapormaxflyknit.fr
 ::1 vapsucj.tokyo
@@ -702674,6 +702654,8 @@
 ::1 www.vegaspluscasinofr.fr
 ::1 vegaspluscasinoo.fr
 ::1 www.vegaspluscasinoo.fr
+::1 vegaspluscasinos.fr
+::1 www.vegaspluscasinos.fr
 ::1 vegasplusfr.fr
 ::1 www.vegasplusfr.fr
 ::1 vegasrush.fr
@@ -728428,8 +728410,6 @@
 ::1 www.webhostdesignpage.com
 ::1 webhostingdeal.xyz
 ::1 www.webhostingdeal.xyz
-::1 webhubtest.net
-::1 www.webhubtest.net
 ::1 webik.ee
 ::1 www.webik.ee
 ::1 webinog.tokyo
