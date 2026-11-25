@@ -31674,6 +31674,7 @@
 ||actibuli.tk^$document
 ||actiebeurkens.nl^$document
 ||actif-prime.fr^$document
+||actifwise.fr^$document
 ||actihistrireac.cf^$document
 ||actiladabe.ml^$document
 ||actiligeda.ga^$document
@@ -31702,6 +31703,7 @@
 ||actionsolde.fr^$document
 ||actionsoldes.fr^$document
 ||actionsourcedeaths.buzz^$document
+||actionwise.fr^$document
 ||activ-lyfreception.fr^$document
 ||activate-cvitale.fr^$document
 ||activate-prime.fr^$document
@@ -36233,6 +36235,7 @@
 ||algorhythmrecords.com^$document
 ||algorithe.fr^$document
 ||algorithmsport.site^$document
+||algosone.ai^$document
 ||algpay.fr^$document
 ||algradivplicoudrof.ga^$document
 ||algranuplaibeckper.cf^$document
@@ -58212,6 +58215,7 @@
 ||bitcoin-xact.fr^$document
 ||bitcoinblackfriday.com^$document
 ||bitcoineer.ai^$document
+||bitcoinera.app^$document
 ||bitcoinera.com^$document
 ||bitcoinge.pw^$document
 ||bitcoinhalving.com^$document
@@ -63253,6 +63257,7 @@
 ||brennholz-forstservice-gilbert.de^$document
 ||brennholz-friedrich.com^$document
 ||brennholz-hans.de^$document
+||brennholz-haus.com^$document
 ||brennholz-hofmann.de^$document
 ||brennholz-konig.de^$document
 ||brennholz-land.com^$document
@@ -86987,6 +86992,7 @@
 ||contact-amazon.fr^$document
 ||contact-ameli.fr^$document
 ||contact-amendes.fr^$document
+||contact-amf.fr^$document
 ||contact-amzn.fr^$document
 ||contact-amzon.fr^$document
 ||contact-anj.fr^$document
@@ -122269,7 +122275,6 @@
 ||ewi3llf.tokyo^$document
 ||ewige-stadt-rom.info^$document
 ||ewigerbund.org^$document
-||ewigesleder.com^$document
 ||ewihfuu.cn^$document
 ||ewihymytyb.ml^$document
 ||ewimalpopti.cf^$document
@@ -125522,6 +125527,7 @@
 ||fano-betcasino.fr^$document
 ||fano-vinduer.dk^$document
 ||fanobet-fr.fr^$document
+||fanobet.fr^$document
 ||fanobet1.fr^$document
 ||fanonlysdi.de^$document
 ||fanonlyskowa.de^$document
@@ -145229,6 +145235,7 @@
 ||gohycb.cyou^$document
 ||gohycomhilijour.gq^$document
 ||gohyhenaki.tk^$document
+||goia-direkt.de^$document
 ||goiblinhydmeca.cf^$document
 ||goibolovihy.cf^$document
 ||goiconbisynnoret.tk^$document
@@ -146716,6 +146723,7 @@
 ||gpkmdl.tokyo^$document
 ||gpkxdy.tokyo^$document
 ||gpl-bucuresti.ro^$document
+||gplate.de^$document
 ||gplk7ov.cyou^$document
 ||gplwdn.shop^$document
 ||gplzpl.tokyo^$document
@@ -147892,6 +147900,7 @@
 ||greendancessso.cf^$document
 ||greendata-dns2cepqbar.biz^$document
 ||greendata-dns4wb5p2f2.biz^$document
+||greendax.com^$document
 ||greendenbripetba.tk^$document
 ||greendisloconsvaca.gq^$document
 ||greendoorfbavermalug.tk^$document
@@ -154673,7 +154682,6 @@
 ||haushaltland.de^$document
 ||haushaltmarkt.de^$document
 ||haushaltofficial.com^$document
-||haushalts.store^$document
 ||haushaltsgeraete-profis.de^$document
 ||haushaltsgeratemarkt.com^$document
 ||haushaltsheld.com^$document
@@ -172234,6 +172242,7 @@
 ||instantcasinoo1.fr^$document
 ||instantcasinoonline.fr^$document
 ||instantcasinos-com.fr^$document
+||instantcasinos.fr^$document
 ||instantcasinos1.fr^$document
 ||instantcassino.fr^$document
 ||instantcredit.xyz^$document
@@ -185133,7 +185142,6 @@
 ||kedecity.com^$document
 ||kedecmisupi.tk^$document
 ||kedefrumar.ml^$document
-||kedejo.com^$document
 ||kedelowussbigs.tk^$document
 ||kedemulperfsimp.tk^$document
 ||kedershibalec.ml^$document
@@ -225370,6 +225378,7 @@
 ||myipyu.bar^$document
 ||myitmv.tokyo^$document
 ||myizirnlassra.gq^$document
+||myjacketstore.fr^$document
 ||myjackpot-casino.fr^$document
 ||myjackpot-com.fr^$document
 ||myjackpotcasino.fr^$document
@@ -251832,6 +251841,7 @@
 ||patientareamoney.biz^$document
 ||patientez-prime.fr^$document
 ||patientezprime.fr^$document
+||patientmsante.fr^$document
 ||patientsante-ameli.fr^$document
 ||patientseemlikelys.biz^$document
 ||patientsmoneyweek.biz^$document
@@ -298744,6 +298754,7 @@
 ||serviceclient-prime.fr^$document
 ||serviceclient-sfr.fr^$document
 ||serviceclient-younited-credit.fr^$document
+||serviceclient-younitedcredit.fr^$document
 ||serviceclientaf.fr^$document
 ||serviceclientameli.fr^$document
 ||serviceclientassistance.fr^$document
@@ -298816,6 +298827,7 @@
 ||servicepaiement.fr^$document
 ||servicepaiementleboncoin.fr^$document
 ||servicepaiements-frais.fr^$document
+||serviceparistransports.fr^$document
 ||servicepatient-ameli.fr^$document
 ||servicepay.fr^$document
 ||servicepayes.fr^$document
@@ -304619,6 +304631,7 @@
 ||slotrizecasino.fr^$document
 ||slotrush-casino.fr^$document
 ||slotrush-casinos.fr^$document
+||slotrush-france.fr^$document
 ||slotrush1.fr^$document
 ||slotrushcasino.fr^$document
 ||slots-magic.fr^$document
@@ -309286,6 +309299,8 @@
 ||spinbara-online.de^$document
 ||spinbara-online.fr^$document
 ||spinbara-onlline.fr^$document
+||spinbara2.fr^$document
+||spinbara3.fr^$document
 ||spinbara777.fr^$document
 ||spinbaracasino-fr.fr^$document
 ||spinbaracasino1.fr^$document
@@ -309365,6 +309380,7 @@
 ||spinfin2.fr^$document
 ||spinfin24.fr^$document
 ||spinfin3.fr^$document
+||spinfin4.fr^$document
 ||spinfinenligne.fr^$document
 ||spinfinfrance.fr^$document
 ||spinfinity.fr^$document
@@ -309420,6 +309436,7 @@
 ||spinline-casino-online.de^$document
 ||spinlogic.fr^$document
 ||spinlycasino.fr^$document
+||spinlynx-fr.fr^$document
 ||spinlynx1.fr^$document
 ||spinlynxcasino-fr.fr^$document
 ||spinmacho-fr.fr^$document
@@ -309652,6 +309669,7 @@
 ||spinvisynreleser.tk^$document
 ||spinvoyagecasino.fr^$document
 ||spinw.xyz^$document
+||spinwave.fr^$document
 ||spinwin-casino.fr^$document
 ||spinwincasino.fr^$document
 ||spinwinera-fr.fr^$document
@@ -316146,6 +316164,7 @@
 ||support-amende.fr^$document
 ||support-amendes-antai.fr^$document
 ||support-amendes.fr^$document
+||support-amf.fr^$document
 ||support-amzn.fr^$document
 ||support-amzon.fr^$document
 ||support-ankama.fr^$document
@@ -316344,6 +316363,7 @@
 ||support-vital.fr^$document
 ||support-vitale.fr^$document
 ||support-vitaleameli.fr^$document
+||support-wise.fr^$document
 ||support1289.fr^$document
 ||support139.fr^$document
 ||support2023.fr^$document
@@ -326411,6 +326431,7 @@
 ||the-bitcoin-bank.com^$document
 ||the-car-glass.fr^$document
 ||the-cuties.com^$document
+||the-ethereumcode-pro.com^$document
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^$document
 ||the-graceland.nl^$document
 ||the-graphic-crafts.my.id^$document
@@ -337356,6 +337377,8 @@
 ||trixino-officiel.fr^$document
 ||trixino-play.fr^$document
 ||trixino.fr^$document
+||trixino2.fr^$document
+||trixino3.fr^$document
 ||trixino7.fr^$document
 ||trixinocasino.fr^$document
 ||trixinoo.fr^$document
@@ -346518,6 +346541,7 @@
 ||uronabenesab.gq^$document
 ||uronowrmekom.tk^$document
 ||urontz.com^$document
+||uropacasino.fr^$document
 ||urorinmogcanin.gq^$document
 ||urorocneabo.ga^$document
 ||urosresinglip.tk^$document
@@ -354111,7 +354135,6 @@
 ||vignettecritairfrancegouv.fr^$document
 ||vignettecritairgouv.fr^$document
 ||vignettegouv.fr^$document
-||vignetten.gettookun.com^$document
 ||vignettesairgouv.fr^$document
 ||vignobles-terroirs.com^$document
 ||vigo.cl^$document
@@ -366456,7 +366479,9 @@
 ||wiinbeastt.fr^$document
 ||wiinbeatz.fr^$document
 ||wiinhero.fr^$document
+||wiinmachance.fr^$document
 ||wiinspin.fr^$document
+||wiinstler.fr^$document
 ||wiipczf.bar^$document
 ||wiiralt.ee^$document
 ||wiiselfdiscla.ga^$document
@@ -366664,6 +366689,8 @@
 ||wildsino-official.fr^$document
 ||wildsino-officiel.fr^$document
 ||wildsino-onlline.fr^$document
+||wildsino2.fr^$document
+||wildsino3.fr^$document
 ||wildsino6.fr^$document
 ||wildsinocasino1.fr^$document
 ||wildsinofr.fr^$document
