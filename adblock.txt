@@ -49440,7 +49440,6 @@
 ||babylissprofr.fr^$document
 ||babylonia.es^$document
 ||babymamashowerscenev4u.web.app^$document
-||babymodepur.com^$document
 ||babynippon.com^$document
 ||babynose.xyz^$document
 ||babyphysicalscoach.biz^$document
@@ -61149,6 +61148,7 @@
 ||bomesmatosnyto.tk^$document
 ||bomfynk.bar^$document
 ||bomgawankind.tk^$document
+||bomiafx.com^$document
 ||bomiljeogrillendchan.tk^$document
 ||bomjjx.tokyo^$document
 ||bomlakebalje.cf^$document
@@ -211319,6 +211319,7 @@
 ||markswoman.best^$document
 ||markt-apo-uelsen.de^$document
 ||markt-shop.com^$document
+||markt.agency^$document
 ||markt.life^$document
 ||markt010.nl^$document
 ||marktederterggrim.ml^$document
@@ -232364,6 +232365,7 @@
 ||nhcj3d.cn^$document
 ||nhclxt.tokyo^$document
 ||nhcngq.shop^$document
+||nhcol.com^$document
 ||nhcondorental.buzz^$document
 ||nhcow2g.cyou^$document
 ||nhcqnp.tokyo^$document
