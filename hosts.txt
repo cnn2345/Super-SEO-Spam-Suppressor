@@ -73874,8 +73874,6 @@
 0.0.0.0 www.alpauhiggting.tk
 0.0.0.0 alpaysiometfia.ml
 0.0.0.0 www.alpaysiometfia.ml
-0.0.0.0 alpbeat.com
-0.0.0.0 www.alpbeat.com
 0.0.0.0 alpebitwara.cf
 0.0.0.0 www.alpebitwara.cf
 0.0.0.0 alpecfedisvu.cf
@@ -120890,6 +120888,8 @@
 0.0.0.0 www.bnp-acces.fr
 0.0.0.0 bnp-cle-digitale.fr
 0.0.0.0 www.bnp-cle-digitale.fr
+0.0.0.0 bnp-coin.com
+0.0.0.0 www.bnp-coin.com
 0.0.0.0 bnp-espace-particuliers.fr
 0.0.0.0 www.bnp-espace-particuliers.fr
 0.0.0.0 bnp-group.fr
@@ -120898,6 +120898,8 @@
 0.0.0.0 www.bnp-immobilier.fr
 0.0.0.0 bnp-otc.com
 0.0.0.0 www.bnp-otc.com
+0.0.0.0 bnp-otccoin.com
+0.0.0.0 www.bnp-otccoin.com
 0.0.0.0 bnp-paiement-annulation.fr
 0.0.0.0 www.bnp-paiement-annulation.fr
 0.0.0.0 bnp-paribas-banque.fr
@@ -126546,6 +126548,8 @@
 0.0.0.0 www.brendens.website
 0.0.0.0 brenderoci.ga
 0.0.0.0 www.brenderoci.ga
+0.0.0.0 brenholz-karl.de
+0.0.0.0 www.brenholz-karl.de
 0.0.0.0 brenhorcochosy.gq
 0.0.0.0 www.brenhorcochosy.gq
 0.0.0.0 breninapliapec.tk
@@ -149858,6 +149862,8 @@
 0.0.0.0 www.cfco2013.fr
 0.0.0.0 cfd.diamond-tradeltd.com
 0.0.0.0 www.cfd.diamond-tradeltd.com
+0.0.0.0 cfd.eliteai-t.com
+0.0.0.0 www.cfd.eliteai-t.com
 0.0.0.0 cfdbrokernsz.web.app
 0.0.0.0 www.cfdbrokernsz.web.app
 0.0.0.0 cfddbyf.bar
@@ -229084,8 +229090,6 @@
 0.0.0.0 www.elektro-evolution.de
 0.0.0.0 elektro-friedrich.com
 0.0.0.0 www.elektro-friedrich.com
-0.0.0.0 elektro-hettich.de
-0.0.0.0 www.elektro-hettich.de
 0.0.0.0 elektro-meisner.com
 0.0.0.0 www.elektro-meisner.com
 0.0.0.0 elektro-outlet24.myshopify.com
@@ -229564,6 +229568,8 @@
 0.0.0.0 www.elitamuramen.gq
 0.0.0.0 elite-idraet-aarhus.dk
 0.0.0.0 www.elite-idraet-aarhus.dk
+0.0.0.0 elite-patrimoine.com
+0.0.0.0 www.elite-patrimoine.com
 0.0.0.0 eliteautosalesia.com
 0.0.0.0 www.eliteautosalesia.com
 0.0.0.0 elitebet.fr
@@ -258206,6 +258212,8 @@
 0.0.0.0 www.finestwood.ee
 0.0.0.0 finetechnology.xyz
 0.0.0.0 www.finetechnology.xyz
+0.0.0.0 finetero.com
+0.0.0.0 www.finetero.com
 0.0.0.0 finetguytadel.tk
 0.0.0.0 www.finetguytadel.tk
 0.0.0.0 fineweine.com
@@ -295550,6 +295558,8 @@
 0.0.0.0 www.graviti.com
 0.0.0.0 graviti.com
 0.0.0.0 www.graviti.com
+0.0.0.0 gravity-market.com
+0.0.0.0 www.gravity-market.com
 0.0.0.0 gravity38.ru
 0.0.0.0 www.gravity38.ru
 0.0.0.0 gravjoiwallterri.ga
@@ -321278,8 +321288,6 @@
 0.0.0.0 www.holz-brennholzhandel.de
 0.0.0.0 holz-deal24.de
 0.0.0.0 www.holz-deal24.de
-0.0.0.0 holz-market.com
-0.0.0.0 www.holz-market.com
 0.0.0.0 holz-pellet-bestequalitat.de
 0.0.0.0 www.holz-pellet-bestequalitat.de
 0.0.0.0 holz-pellets24.com
@@ -334268,6 +334276,8 @@
 0.0.0.0 www.igmetall-meinung.de
 0.0.0.0 igmfyr.rest
 0.0.0.0 www.igmfyr.rest
+0.0.0.0 igmholdings.com
+0.0.0.0 www.igmholdings.com
 0.0.0.0 igmiletag.tk
 0.0.0.0 www.igmiletag.tk
 0.0.0.0 igmveo.tokyo
@@ -336520,8 +336530,6 @@
 0.0.0.0 www.ilulkifgoci.ml
 0.0.0.0 ilumanic.tk
 0.0.0.0 www.ilumanic.tk
-0.0.0.0 ilumina.center
-0.0.0.0 www.ilumina.center
 0.0.0.0 ilunenkleson.gq
 0.0.0.0 www.ilunenkleson.gq
 0.0.0.0 ilupinnancess.tk
@@ -348190,6 +348198,8 @@
 0.0.0.0 www.isalinmucasi.ga
 0.0.0.0 isalnieprotab.cf
 0.0.0.0 www.isalnieprotab.cf
+0.0.0.0 isaloge-investissement.com
+0.0.0.0 www.isaloge-investissement.com
 0.0.0.0 isalpurrithe.tk
 0.0.0.0 www.isalpurrithe.tk
 0.0.0.0 isalrelvoicompdoct.cf
@@ -368780,8 +368790,6 @@
 0.0.0.0 www.kapironacom.ga
 0.0.0.0 kapitaalkern.com
 0.0.0.0 www.kapitaalkern.com
-0.0.0.0 kapital-direkt.de
-0.0.0.0 www.kapital-direkt.de
 0.0.0.0 kapitalcheck.de
 0.0.0.0 www.kapitalcheck.de
 0.0.0.0 kapitalizm.xyz
@@ -415166,6 +415174,10 @@
 0.0.0.0 www.lyxnyfsm.cyou
 0.0.0.0 lyxopw.bar
 0.0.0.0 www.lyxopw.bar
+0.0.0.0 lyxorassetmanagement.com
+0.0.0.0 www.lyxorassetmanagement.com
+0.0.0.0 lyxorpro.com
+0.0.0.0 www.lyxorpro.com
 0.0.0.0 lyxvyk.tokyo
 0.0.0.0 www.lyxvyk.tokyo
 0.0.0.0 lyxxyb168.com
@@ -463918,8 +463930,6 @@
 0.0.0.0 www.nextbinary.com
 0.0.0.0 nextcar.xyz
 0.0.0.0 www.nextcar.xyz
-0.0.0.0 nextchain.at
-0.0.0.0 www.nextchain.at
 0.0.0.0 nextcosculomasa.gq
 0.0.0.0 www.nextcosculomasa.gq
 0.0.0.0 nextdetictasu.cf
@@ -481708,6 +481718,8 @@
 0.0.0.0 www.oeknzp.tokyo
 0.0.0.0 oekonomaforeningen.dk
 0.0.0.0 www.oekonomaforeningen.dk
+0.0.0.0 oekoranch.de
+0.0.0.0 www.oekoranch.de
 0.0.0.0 oektkt.cyou
 0.0.0.0 www.oektkt.cyou
 0.0.0.0 oekvhh.bar
@@ -487384,8 +487396,6 @@
 0.0.0.0 www.onlinespiderweb.dk
 0.0.0.0 onlinesupport24.top
 0.0.0.0 www.onlinesupport24.top
-0.0.0.0 onlineteddy.com
-0.0.0.0 www.onlineteddy.com
 0.0.0.0 onlinetestovani.biz
 0.0.0.0 www.onlinetestovani.biz
 0.0.0.0 onlineticket.fr
@@ -555646,6 +555656,8 @@
 0.0.0.0 www.raysurpbreaktecma.ga
 0.0.0.0 raytech.xyz
 0.0.0.0 www.raytech.xyz
+0.0.0.0 raytomore.com
+0.0.0.0 www.raytomore.com
 0.0.0.0 raytranitefdisa.cf
 0.0.0.0 www.raytranitefdisa.cf
 0.0.0.0 raytrenucunther.cf
@@ -596118,6 +596130,8 @@
 0.0.0.0 www.sensahome.fr
 0.0.0.0 sensdizlik.ga
 0.0.0.0 www.sensdizlik.ga
+0.0.0.0 sensecap.io
+0.0.0.0 www.sensecap.io
 0.0.0.0 sensecountrypart.biz
 0.0.0.0 www.sensecountrypart.biz
 0.0.0.0 sensegraphics.se
@@ -635736,6 +635750,8 @@
 0.0.0.0 www.swisse-pro.fr
 0.0.0.0 swissedgponbipyt.gq
 0.0.0.0 www.swissedgponbipyt.gq
+0.0.0.0 swissepargne.com
+0.0.0.0 www.swissepargne.com
 0.0.0.0 swisslide.fr
 0.0.0.0 www.swisslide.fr
 0.0.0.0 swisslif.fr
@@ -638566,6 +638582,8 @@
 0.0.0.0 www.t4sfac.tokyo
 0.0.0.0 t4szis.cyou
 0.0.0.0 www.t4szis.cyou
+0.0.0.0 t4trade.com
+0.0.0.0 www.t4trade.com
 0.0.0.0 t4ul10.shop
 0.0.0.0 www.t4ul10.shop
 0.0.0.0 t4xocmc.shop
@@ -644554,8 +644572,8 @@
 0.0.0.0 www.tavxuj.tokyo
 0.0.0.0 tawacrolecint.tk
 0.0.0.0 www.tawacrolecint.tk
-0.0.0.0 tawagold.com
-0.0.0.0 www.tawagold.com
+0.0.0.0 tawagold.store
+0.0.0.0 www.tawagold.store
 0.0.0.0 tawarticage.cf
 0.0.0.0 www.tawarticage.cf
 0.0.0.0 tawatisibesrent.tk
@@ -670820,6 +670838,8 @@
 0.0.0.0 www.trachpielanveha.ml
 0.0.0.0 trachtafactkit.tk
 0.0.0.0 www.trachtafactkit.tk
+0.0.0.0 trachtenhemdvibe.com
+0.0.0.0 www.trachtenhemdvibe.com
 0.0.0.0 tracicexenmaigros.tk
 0.0.0.0 www.tracicexenmaigros.tk
 0.0.0.0 tracilbemezme.tk
@@ -678424,6 +678444,8 @@
 0.0.0.0 www.tueperdisapomo.gq
 0.0.0.0 tueretangcanrile.gq
 0.0.0.0 www.tueretangcanrile.gq
+0.0.0.0 tuerschlossratgeber.com
+0.0.0.0 www.tuerschlossratgeber.com
 0.0.0.0 tuesakaziwert.tk
 0.0.0.0 www.tuesakaziwert.tk
 0.0.0.0 tuespeslanpocalsing.gq
@@ -689936,6 +689958,8 @@
 0.0.0.0 www.unipeg.xyz
 0.0.0.0 unipfesrelide.tk
 0.0.0.0 www.unipfesrelide.tk
+0.0.0.0 uniqa-alternatives.com
+0.0.0.0 www.uniqa-alternatives.com
 0.0.0.0 uniqleo.fr
 0.0.0.0 www.uniqleo.fr
 0.0.0.0 uniqlo-fr.fr
@@ -690358,6 +690382,8 @@
 0.0.0.0 www.universalprotection.de
 0.0.0.0 universalstudioshollywood.fr
 0.0.0.0 www.universalstudioshollywood.fr
+0.0.0.0 universaltrade.io
+0.0.0.0 www.universaltrade.io
 0.0.0.0 universdesjouetsfr.fr
 0.0.0.0 www.universdesjouetsfr.fr
 0.0.0.0 universdumaillot.fr
@@ -730960,6 +730986,8 @@
 0.0.0.0 www.werkbank-klappbar.de
 0.0.0.0 werkbankli.tk
 0.0.0.0 www.werkbankli.tk
+0.0.0.0 werkbau24.com
+0.0.0.0 www.werkbau24.com
 0.0.0.0 werkcakejuncma.ga
 0.0.0.0 www.werkcakejuncma.ga
 0.0.0.0 werke-anhangers.com
@@ -731010,6 +731038,8 @@
 0.0.0.0 www.werkzeugerasenmaher.de
 0.0.0.0 werkzeugheld24.de
 0.0.0.0 www.werkzeugheld24.de
+0.0.0.0 werkzeugkammer.com
+0.0.0.0 www.werkzeugkammer.com
 0.0.0.0 werkzeugland.com
 0.0.0.0 www.werkzeugland.com
 0.0.0.0 werkzeugmarkt.ch
@@ -731174,6 +731204,8 @@
 0.0.0.0 www.weserstore.de
 0.0.0.0 wesgagadubzo.tk
 0.0.0.0 www.wesgagadubzo.tk
+0.0.0.0 weshowtech.de
+0.0.0.0 www.weshowtech.de
 0.0.0.0 wesmantcomnaporn.ga
 0.0.0.0 www.wesmantcomnaporn.ga
 0.0.0.0 wesmaywomanwoman.biz
@@ -733530,6 +733562,8 @@
 0.0.0.0 www.wiesmann-mode.de
 0.0.0.0 wiesmokcelmune.tk
 0.0.0.0 www.wiesmokcelmune.tk
+0.0.0.0 wiesndress.com
+0.0.0.0 www.wiesndress.com
 0.0.0.0 wiesnkinder.de
 0.0.0.0 www.wiesnkinder.de
 0.0.0.0 wiessman.fr
@@ -738772,8 +738806,6 @@
 0.0.0.0 www.wohndekode.com
 0.0.0.0 wohnelektro.com
 0.0.0.0 www.wohnelektro.com
-0.0.0.0 wohnen-diy.com
-0.0.0.0 www.wohnen-diy.com
 0.0.0.0 wohngartenshop.de
 0.0.0.0 www.wohngartenshop.de
 0.0.0.0 wohnish.de
@@ -785326,8 +785358,6 @@
 0.0.0.0 www.zyp6wk.cyou
 0.0.0.0 zyphorbit-at.com
 0.0.0.0 www.zyphorbit-at.com
-0.0.0.0 zyphorbit.at
-0.0.0.0 www.zyphorbit.at
 0.0.0.0 zypkpg.shop
 0.0.0.0 www.zypkpg.shop
 0.0.0.0 zypnereaccoces.ml
